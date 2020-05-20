@@ -58,6 +58,7 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
+<div>
 <p>
 kāvyamālā|
 </p>
@@ -71,6 +72,7 @@ haravijayam|
 rājānakaśrīmadalakakṛtena viṣamapadodyotābhidhena ṭippaṇena
 sametam|
 </p>
+</div>
 <div n="1" type="chapter">
 <p>
 prathamaḥ sargaḥ|
