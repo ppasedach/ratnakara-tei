@@ -17,7 +17,7 @@
             <collection></collection>
             <idno></idno>
             <idno type="NCC"></idno>
-            <idno type="siglum">A</idno>
+            <idno type="siglum">K</idno>
           </msIdentifier>
           <msContents>
             <summary>[description of manuscript]</summary>
@@ -73,7 +73,7 @@ rājānakaśrīmadalakakṛtena viṣamapadodyotābhidhena ṭippaṇena
 sametam|
 </p>
 </div>
-<div n="1" type="chapter">
+<div n="01" type="chapter">
 <p>
 prathamaḥ sargaḥ|
 </p>
@@ -478,7 +478,7 @@ ratnāṅke haravijaye mahākāvye purāripurīvarṇano nāma prathamaḥ
 sargaḥ|
 </p>
 </div>
-<div n="2" type="chapter">
+<div n="02" type="chapter">
 <p>
 dvitīyaḥ sargaḥ|
 </p>
@@ -885,7 +885,7 @@ ratnāṅke haravijaye mahākāvye tāṇḍavavarṇano nāma dvitīyaḥ
 sargaḥ|
 </p>
 </div>
-<div n="3" type="chapter">
+<div n="03" type="chapter">
 <p>
 tṛtīyaḥ sargaḥ|
 </p>
@@ -1299,7 +1299,7 @@ ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma
 tṛtīyaḥ sargaḥ|
 </p>
 </div>
-<div n="4" type="chapter">
+<div n="04" type="chapter">
 <p>
 caturthaḥ sargaḥ|
 </p>
@@ -1560,7 +1560,7 @@ ratnāṅke haravijaye mahākāvye mandaravarṇano nāma caturthaḥ
 sargaḥ|
 </p>
 </div>
-<div n="5" type="chapter">
+<div n="05" type="chapter">
 <p>
 pañcamaḥ sargaḥ|
 </p>
@@ -2336,7 +2336,7 @@ ratnāṅke haravijaye mahākāvye parvatartuvarṇano nāma pañcamaḥ
 sargaḥ|
 </p>
 </div>
-<div n="6" type="chapter">
+<div n="06" type="chapter">
 <p>
 ṣaṣṭhaḥ sargaḥ|
 </p>
@@ -3418,7 +3418,7 @@ ratnāṅke haravijaye mahākāvye bhagavatstutivarṇano nāma ṣaṣṭhaḥ
 sargaḥ|
 </p>
 </div>
-<div n="7" type="chapter">
+<div n="07" type="chapter">
 <pb n="107" />
 <p>
 saptamaḥ sargaḥ|
@@ -3822,7 +3822,7 @@ ratnāṅke haravijaye mahākāvye sabhākṣobhavarṇano nāma saptamaḥ
 sargaḥ|
 </p>
 </div>
-<div n="8" type="chapter">
+<div n="08" type="chapter">
 <p>
 aṣṭamaḥ sargaḥ|
 </p>
@@ -4144,7 +4144,7 @@ ratnāṅke haravijaye mahākāvye kālamusaladaṇḍavyāhṛtivarṇano
 nāmāṣṭamaḥ sargaḥ|
 </p>
 </div>
-<div n="9" type="chapter">
+<div n="09" type="chapter">
 <p>
 navamaḥ sargaḥ|
 </p>
