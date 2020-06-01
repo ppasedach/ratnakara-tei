@@ -58,53 +58,49 @@
   <text xml:lang="sa-Latn">
     <body>
 <div n="prasasti" type="chapter">
-<p>(ranthakartuḥ praśastiḥ|)</p>
+<p>(granthakartuḥ praśastiḥ|)</p>
 <lg type="verse" xml:id="HV_P_1">
-<l>śrīdurgadattanijavaṃśahimādrisanu-</l>
+<l>śrīdurgadattanijavaṃśahimādrisānu-</l>
 <l>gaṅgāhradāśrayasutāmṛtabhānusūnuḥ|</l>
-<l>ratnākaro lalitabandhamidaṃ vyadhatta</l>
+<l>ratnākaro lalitabandham idaṃ vyadhatta</l>
 <l>candrārdhacūlacaritāśrayacāru kāvyam||1||</l>
 </lg>
+<p>sa kila kavirevamuktavān-</p>
 <lg type="verse" xml:id="HV_P_2">
-<l>sa kila kavirevamuktavān-</l>
 <l>lalitamadhurāḥ sālaṃkārāḥ prasādamanoramā</l>
 <l>vikaṭayamakaśleṣoddhāraprabandhanirargalāḥ|</l>
-<l>asadṛśagatīścitre mārge mamodgirato giro</l>
-<l>na khalu nṛpate ceto vācaspaterapi śaṅkate||2||</l>
+<l>asadṛśagatīś citre mārge mamodgirato giro</l>
+<l>na khalu nṛpate ceto vācaspater api śaṅkate||2||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_3">
 <l>sāndrānandāmṛtarasaparispandaniḥsyandinīnā-</l>
-<l>masmadvācāmatiśayajuṣāṃ vastutattvābhidhāne|</l>
-<l>pruḍhajyotsnādhavalavikasaddigvadhūkarṇapūra-</l>
+<l>m asmadvācām atiśayajuṣāṃ vastutattvābhidhāne|</l>
+<l>prauḍhajyotsnādhavalavikasaddigvadhūkarṇapūra-</l>
 <l>brahmastambhastabakayaśasāṃ ko 'pi ṭāṅkāraṭaṅkaḥ||3||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_4">
 <l>dhārākāvyaprabandhapraṇihitaparamaḥ śrotrapeyā kavīnāṃ</l>
-<l>bhāṣāṣaṭke 'pi yasya kvacidapi na gatā bhāratī bhāravattvam|</l>
+<l>bhāṣāṣaṭke 'pi yasya kvacid api na gatā bhāratī bhāravattvam|</l>
 <pb n="706"/>
 <l>prāptajñeyāvasānasphuradamalataraprāptibhajñānasaṃpa-</l>
-<l>tso 'haṃ ratnākaraste sadasi kṛtapadaḥ kṣmāpa</l>
-<l>vāgīśvarāṅkaḥ||4||</l>
+<l>t so 'haṃ ratnākaras te sadasi kṛtapadaḥ kṣmāpa vāgīśvarāṅkaḥ||4||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_5">
 <l>yasyodaye 'ndhatamasaṃ dadhato (dahato) viśuddhi-</l>
-<l>rāvirbhavatyaniśameva jalāśayānām|</l>
-<l>tadgrastavāṅmayasamudramavehi rāja-</l>
-<l>nratnākaraṃ ravimathainamagastyamaurvam||5||</l>
+<l>r āvirbhavaty aniśam eva jalāśayānām|</l>
+<l>tadgrastavāṅmayasamudram avehi rāja-</l>
+<l>n ratnākaraṃ ravim athainam agastyam aurvam||5||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_6">
-<l>dṛbdhaṃ satprajñakairyanna jagati kavibhirvastu tannāsti kiṃci-</l>
-<l>tkṣuṇṇe kṣuṇṇatvacintā gahanaviṣayatā tasya dūrāstu tāvat|</l>
-<l>tanmandābhipragalbhaprasaragurugirāmagraṇīrbāṇa eko</l>
-<l>rājanratnākaraśca jvalanavadavanau jājvalīti dvitīyaḥ||6||</l>
+<l>dṛbdhaṃ satprajñakair yan na jagati kavibhir vastu tan nāsti kiṃci-</l>
+<l>t kṣuṇṇe kṣuṇṇatvacintā gahanaviṣayatā tasya dūrāstu tāvat|</l>
+<l>tanmandābhipragalbhaprasaragurugirām agraṇīr bāṇa eko</l>
+<l>rājan ratnākaraś ca jvalanavadavanau jājvalīti dvitīyaḥ||6||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_7">
 <l>haravijayamahākaveḥ pratijñāṃ śṛṇuta kṛtapraṇayo mama prabandhe|</l>
-<l>api śiśurakaviḥ kaviḥ prabhāvādbhavati kaviśca mahākaviḥ</l>
-<l>krameṇa||7||</l>
+<l>api śiśur akaviḥ kaviḥ prabhāvād bhavati kaviś ca mahākaviḥ krameṇa||7||</l>
 </lg>
-<l>.....śrī 6 gururāja..............</l>
-<l>???</l>
 </div>
     </body>
   </text>
