@@ -19940,7 +19940,7 @@ pañcāśaḥ sargaḥ|
 </p>
 <p>samāpto' yaṃ granthaḥ|</p>
 </div>
-<div n="P" type="chapter">
+<div n="prasasti" type="chapter">
 <p>(ranthakartuḥ praśastiḥ|)</p>
 <lg type="verse" xml:id="HV_P_1">
 <l>śrīdurgadattanijavaṃśahimādrisanu-</l>
