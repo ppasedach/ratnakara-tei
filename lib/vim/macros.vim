@@ -10,3 +10,6 @@ let @g='`>a        </lg>`<i<lg type="verse" xml:id="ŚS_v1_004">        ?_\
 let @p='`>a</p>`<i<p>'
 
 
+let @l='`>a</supplied>`<i<supplied>'
+
+`>a}`<i\textsanskrit{%

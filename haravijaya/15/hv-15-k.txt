@@ -303,10 +303,15 @@ pañcadaśaḥ sargaḥ
 <l>avadhīritaghoravajravahnernamucerniṣṭhurakaṇṭhapīṭhamūlam|</l>
 <l>gamitaṃ sapadi cchidāṃ mayeti svarucetīva jahāsa yasya phenaḥ||54||</l>
 </lg>
-<lg type="verse" xml:id="HV_15_56">
+<lg type="verse" xml:id="HV_15_55">
 <l>punarapyaravindanālasūtrasthitimāsādya sa dānavendrabhīteḥ|</l>
 <l>kraśimātiśayena śokadīnaḥ sa vikāsaspadatāṃ puraiti</l>
-<l>śakraḥ||55|| (cakkalakam)</l>
+<l>śakraḥ||55|| </l>
+</lg>
+<p>
+(cakkalakam)
+</p>
+<lg type="verse" xml:id="HV_15_56">
 <l>śikhini pralayaṃ krameṇa nīte dviṣatāyodhanamūrdhni tadvadhūnām|</l>
 <l>sa bhaviṣyati dāhasatkriyāyai sphuṭamevānyamayo viyogavahniḥ||56||</l>
 </lg>
