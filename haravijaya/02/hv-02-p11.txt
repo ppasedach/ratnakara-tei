@@ -1,0 +1,1200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Pasedach 2011</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="siglum">P11</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Provisional Edition of the Haravijaya.XXX FIX HEADER XXX</summary>
+            <msItem n="1" defective="true">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Ratnākara</author>
+              <title xml:lang="sa">Haravijaya</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <textLang mainLang="sa-Latn">Sanskrit in Latin script.</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="digital">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="digital">
+              <extent>
+              <measure quantity="something" unit="we need here" />
+              </extent>
+</supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="CE" when="2011">2011</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">Hamburg</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2020-07-04">
+        <persName>Peter Pasedach</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+
+
+
+<div xmlns="http://www.tei-c.org/ns/1.0" n="02" type="chapter">
+<p>
+Sarga 2: Tāṇḍāvavarṇanaḥ
+</p>
+
+<lg type="verse" xml:id="HV_02_1">
+<l>krīḍārasena sa kadācid athādhisānu</l>
+<l>līlāvalambitahimādrisutākarāgraḥ |</l>
+<l>pratyagrakāñcanalatāñcitasaṃniveśam</l>
+<l>ākrīḍamaṇḍapam amaṇḍayad aśmadhāmnaḥ || 01 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04r, l.21] oṃ namo vighnahantre ||
+krīḍā | aśmadhāmno 'dreḥ prakaraṇāc ca mandarasyaiva sānuni udyānamaṇḍapaṃ bhagavān alaṃcakāra || 1 || [fol.04r, l.22]
+-->
+
+<lg type="verse" xml:id="HV_02_2">
+<l>tasmin kṛtāsanaparigraham adrirāja-</l>
+<l>kanyānukūlarasadigdhakathāvidagdham |</l>
+<l>anyonyaghaṭṭanavicūrṇitaratnabandha-</l>
+<l>hemāṅgadās tam amarādhibhuvo 'dhijagmuḥ || 02 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04r, l.22] tasmi | rasadigdhāḥ śṛṅgārācitāḥ hemamayāny aṅgadāni
+keyūrāṇi amarādhibhuvo deveśās tam abhiyayuḥ || 2 || [fol.04r, l.24]
+-->
+
+<lg type="verse" xml:id="HV_02_3">
+<l>vellajjaṭāpaṭalaśevalavallarīkāṃ</l>
+<l>cūḍendukhaṇḍakuṭilorumṛṇāladaṇḍām |</l>
+<l>ākāśasindhum avataṃsakapālahaṃsa- </l>
+<l>hāsām amī dadhatam aikṣiṣatainam ārāt || 03 ||</l>
+</lg>
+
+<!--
+Utpala:
+[fol.04r, l.24] vella | calajjaṭāvalayam eva śevālalatā yatra
+cūḍeṇḍukhaṇḍa eva bisadaṇḍo yasyāḥ tathāvidhāṃ gaṅgāṃ bibhrāṇam enaṃ
+haraṃ deveśā aikṣiṣanta | adrākṣur iti | dantaprabhetyādiślokaṃ [fol.04v, l.1]
+Utpala 1.2 krīḍā | aśmadhāmno ] conj. (Added the pratīka) ; aśmadhāmno CU
+2c
+ratnabandha ] ΣE ŚA ; ratnabaddha ERAB ; ŚC is unclear, could be both.
+3b cūḍendu ] Σ;
+cūrṇendu ŚB
+Utpala 3.2 tathāvidhāṃ ] em.; tathāvidho CU
+Utpala 3.2 enaṃ ] CU pc ;
+evaṃ CU ac
+Utpala 3.3 aikṣiṣanta | ] [Punctuation removed.]; aikṣiṣanta | CU
+Utpala
+3.3 dantaprabhetyādiślokaṃ ] em.; dante prabhetvādiślokaṃ CU
+-->
+
+<pb n="56"/>
+
+<!--
+yāvat kriyā || 3 ||
+-->
+
+<lg type="verse" xml:id="HV_02_4">
+<l>karṇāvataṃsaghaṭitotphaṇadandaśūka-</l>
+<l>phūtkāramārutaparāhatalocanotthaiḥ |</l>
+<l>riktīkṛtāṃ śikhikaṇaprakaraiḥ satoṣa-</l>
+<l>gaurīkṣitāṃ suranadīm śirasā vahantam || 04 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.1] karṇā | dandaśūka uragaḥ | agnikaṇair alpīkṛtatvāt
+satoṣayā gauryā īkṣitāṃ sapatnībhūtatvāt || 4 || [fol.04v, l.2]
+-->
+
+<lg type="verse" xml:id="HV_02_5">
+<l>cūḍāgatena jaḍadīdhitinā tanutvam</l>
+<l>āseduṣā sarabhasaṃ pravivikṣuṇārāt |</l>
+<l>bhāsvallalāṭataṭanākatalārkabimbam</l>
+<l>adhyāsyamānam iva bibhratam ūrdhvacakṣuḥ || 05 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.2] cūḍā | lalāṭam eva vyoma tatrārkabimbam iva ūrdhvacakṣur dadhatam | jaḍadīdhitinā candreṇa tanutvam prāptena satā tatraiva
+praveṣṭukāmenaivādhyāsyamānam | śaśī hi kṣīṇaḥ san vṛddhaye sūryamaṇḍalaṃ
+viśati || 5 || [fol.04v, l.5]
+5
+-->
+
+<lg type="verse" xml:id="HV_02_6">
+<l>śailātmajāvadanacandramasaḥ kathaṃ nu</l>
+<l>lekhāpi me na sadṛśī śaśinā saśokam |</l>
+<l>ūrdhvekṣaṇotthaśikhinīva nipitsunettham</l>
+<l>adhyāsitonnatalalāṭataṭopakaṇṭham || 06 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.5] śailā | saśokaṃ kṛtvā lalāṭanetrāgnau patitukāmeneva ||
+6 || [fol.04v, l.6]
+Utpala 3.4 yāvat kriyā ] CU pc ; yāvan kriyā CU ac 4c satoṣa ] ΣE ŚB ; saroṣa ŚC ERAB ; sakopa
+ERC
+Utpala 4.1 uragaḥ | ] [Punctuation added.] 5d adhyāsyamānam ] Σ; adhyāmayānam ERac Utpala 5.1 cūḍā ] em.; cūḍa CU Utpala 5.2 jaḍa ] CU pc ; jala CU ac Utpala
+5.3 kṣīṇaḥ ] em.; kṣī CU 6b saśokam ] Σ; sakośam ŚC Utpala 6.1 patitukāmeneva ] em.;
+patitakāmeneva CU
+-->
+
+<pb n="57"/>
+
+<lg type="verse" xml:id="HV_02_7">
+<l>stamberamājinagalatkṣatajāvaseka-</l>
+<l>saṃpāditāruṇarucā kvacid uttamāṅge |</l>
+<l>tāmbūlarāgaparipāṭalayeva danta-</l>
+<l>paṅktyā virājitakirīṭakapālakhaṇḍam || 07 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.6] stambhe | stambheramājinaṃ
+rudhiraṃ || 7 || [fol.04v, l.6]
+
+gajacarma kṣatajaṃ
+-->
+
+<lg type="verse" xml:id="HV_02_8">
+<l>jyotsnārucāmbaram alaṃ vimalaṃ diśantam</l>
+<l>induṃ nidhāya mukuṭe dayitāyamānam |</l>
+<l>tallāñchanacchavim ivātanukālakūṭa-</l>
+<l>cchāyāchalena dadhataṃ pṛthukaṇṭhalagnām || 08 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.6] jyotsnā | ambaram atiśayena vimalaṃ diśantaṃ
+candraṃ maulau nidhāya tatraivalāñchanacchāyām iva dadhatam | anyo 'pi
+durlabhaparivāraṃ kaṇṭhalagnaṃ bibharti || 8 || [fol.04v, l.8]
+-->
+
+<lg type="verse" xml:id="HV_02_9">
+<l>saṃhārakālakavalīkṛtasaptalokām</l>
+<l>ambhodhibhārabharamantharameghanīlām |</l>
+<l>kaṇṭhāntarālaparivartinipītadhūma-</l>
+<l>vartitviṣaṃ viṣamayīṃ dadhataṃ ca lekhām || 09 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.8] saṃhā | lokagrāsānantaraṃ | pītāyāḥ kaṇṭhāntarvartinyā
+dhūpavarter iva tviḍ yasyāḥ || 9 || [fol.04v, l.9]
+-->
+
+<lg type="verse" xml:id="HV_02_10">
+<l>preṅkhatkarālamaṇiśaṅkhasahasraśāra-</l>
+<l>hāroragendraphaṇabhaṅguravīcicakram</l>
+<!--
+7a stambera ] ΣE ; stambhera ΣŚ
+7a kṣatajāvaseka ] ΣE ; kṣatajānuseka ΣŚ ERA
+7d
+khaṇḍam ] Σ; ṣaṇḍam ŚC
+Utpala 7.1 stambhe | ] em.; [Pratīka missing.] CU
+Utpala
+7.1 stambheramājinaṃ ] [Punctuation removed.]; stambheramājinaṃ | CU 8d chalena ] ED ;
+cchalena ER ΣŚ Utpala 8.2 tatraiva ] em.; tambaiva CU Utpala 8.2 lāñchanacchāyām ]
+CU pc ; lāñchanacchāyāyām CU ac 9b ambhodhi ] ΣE ; ambhoti ŚB ; amboti ŚC 9b meghanīlām ]
+ΣE ; meghalīlām ΣŚ 9c dhūma ] ŚB ; dhūpa ΣE ŚC
+-->
+<pb n="58"/>
+<l>kaṇṭhasthitotkaṭaviśaṅkaṭakālakūṭa-</l>
+<l>kūṭaprabhāprakarakūrmagṛhaṃ vahantam || 10 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.9] preṅkha | sphuranto maṇaya eva śaṅkhās tacchavalasya
+hārāheḥ phaṇā iva vīcijālaṃ yatrotkaṭo bhīṣaṇo viṣaṅkaṭaś chavis tīrṇo yaḥ
+kālakūṭarāśis tasya prabhā prakaraḥ samūhaḥ kūrmagṛhaṃ samudraḥ || 10 ||
+[fol.04v, l.12]
+5
+-->
+
+<lg type="verse" xml:id="HV_02_11">
+<l>bhasmāṅgarāgadhavalaṃ parapuṣṭapiccha-</l>
+<l>cchāyāṅgadoragaphaṇākulitāṃsakūṭam |</l>
+<l>aurvāgnidhūmamalinīkṛtavīcibhaṅga-</l>
+<l>dugdhormimālisadṛśīṃ śriyam āśrayantam || 11 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.12] bhasma | parapuṣṭāḥ kokilāḥ | dugdhormimālī kṣīrābdhiḥ || 11 || [fol.04v, l.13]
+-->
+
+<lg type="verse" xml:id="HV_02_12">
+<l>keyūrapannagaviniḥśvasitāhatāṃsa-</l>
+<l>kūṭotthitena navadhūlanabhasmanoccaiḥ</l>
+<l>sāvartacakram upari bhramatendubimba-</l>
+<l>saṃvāditām upagatena virājamānam || 12 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.13] keyū | aṅgadārthaṃ pannaga uragaḥ sāvartacakraṃ
+kṛtvopari bhramatāta evendubimbasāmyam gatena || 12 || [fol.04v, l.14]
+-->
+
+<lg type="verse" xml:id="HV_02_13">
+<l>gambhīrakaṇṭhakuharāspadakālakūṭa-</l>
+<l>niryatprabhādhikamalīmasabhogihāram |</l>
+<l>vakṣaḥsthalaṃ tuhinaśailaśilāviśālam</l>
+<l>ālambinīlanalinasrag ivodvahantam || 13 ||</l>
+</lg>
+
+<!--
+Utpala 10.2 yatrotkaṭo ] em.; yatrotkakṣo CU
+Utpala 10.3 prakaraḥ samūhaḥ ] em.;
+prakarasamūhaḥ CU 11a piccha ] ΣE ; piñcha ŚC Utpala 11.1 kokilāḥ | ] [Punctuation
+added.] Utpala 12.1 uragaḥ ] CU pc ; ugagaḥCU ac 13c vakṣaḥsthalaṃ ] ΣE ; vakṣasthalaṃ
+ŚB , vakṣassthalaṃ ŚC
+-->
+
+<pb n="59"/>
+
+<!--
+Utpala: [fol.04v, l.14] gambhīra | nīlanalinasrak kuvalayadāma || 13 || [fol.04v,
+l.15]
+-->
+
+<lg type="verse" xml:id="HV_02_14">
+<l>aṅkāśrayāṃ rucirakāñcanabhaṅgapiṅga-</l>
+<l>cchāyābhirāmavapuṣaṃ himaśailakanyām |</l>
+<l>kurvantam añjanamalīmasakālakūṭa-</l>
+<l>kaṇṭhaprabhābhir abhitaḥ punar eva kālīm || 14 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.15] aṅkā | kanakabhaṅgavat piṅgā gaurī chāyā kāntiḥ
+punaḥ kālīṃ kurvantaṃ yato devyāḥ kālīty aparaṃ nāma || 14 || [fol.04v, l.16]
+-->
+
+<lg type="verse" xml:id="HV_02_15">
+<l>saṃvījyamānam asakṛt kakudopadhāna-</l>
+<l>baddhāspadaṃ dviguṇitonnatabāhudaṇḍam |</l>
+<l>lāṅgūlacāmarakarālaśikhāmarudbhir</l>
+<l>udbhinnabhaktimanaseva kakudmatārāt || 15 ||</l>
+</lg>
+
+<!--
+Utpala: saṃvī | [missing] || 15 ||
+-->
+
+<lg type="verse" xml:id="HV_02_16">
+<l>sevāgatāmaragaṇādhipapārijāta-</l>
+<l>karṇāvataṃsasurabhīkṛtam aṅghriyugmam |</l>
+<l>gandhānubandhimadhupapratibimbalakṣma-</l>
+<l>śārodarair nakhaśaśiprakarair dadhānam || 16 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.16] sevā pārijātākhyaṃ devapuṣpaṃ nakhā eva śaśiprakarās
+tair upalakṣitam || 16 || [fol.04v, l.17]
+
+14a aṅkāśrayāṃ ] Σ; aṅgāśrayāṃ footnote of ER : ”A reads aṅkāśrayāṃ for aṅgāśrayāṃ and it is
+adopted.” Utpala 14.2 aparaṃ nāma ] conj.; a ⊔ nāma 15b baddhāspadaṃ ] Σ; baddhāspada
+ŚB 15d kakudmatārāt ] Σ; kakudmatoccaiḥ ŚB Utpala 15.1 saṃvī | ] [Punctuation added.
+Commentary to this verse missing, and pratīka to the next verse missing, too, both verses
+beginning with akṣaras whose consonants are sa and va.] Utpala 16.1 sevā ] conj.; pratīka
+missing, see previous verse.
+-->
+
+<pb n="60"/>
+
+<lg type="verse" xml:id="HV_02_17">
+<l>dantaprabhādalitakaṇṭhaviṣāndhakāra-</l>
+<l>cchāyasya saṃnidhijuṣaḥ karivaktramūrteḥ |</l>
+<l>ūrdhvekṣaṇānalaruco ghanacīnapiṣṭa-</l>
+<l>dhūlicchaṭā iva mukhe viniveśayantam || 17 || </l>
+</lg>
+
+<p>
+kulakam
+</p>
+
+<!--
+Utpala: [fol.04v, l.17] danta | sannidhijuṣo nikaṭavartino vināyakasya mukhe
+ūrdhvekṣaṇāgnirucas sindhuracchaṭā iva haṭhād viniveśayantam || 17 || [fol.04v,
+l.19]
+-->
+
+<lg type="verse" xml:id="HV_02_18">
+<l>tasmai praṇamya maṇimauliviṭaṅkakoṭi-</l>
+<l>ṭaṅkāhatikvaṇitakāñcanapādapīṭham |</l>
+<l>śailādinā nataśiraḥsu nivediteṣu</l>
+<l>teṣūcitāsanaparigrahanirvṛteṣu || 18 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.04v, l.19] [See 2.19.]
+-->
+
+<lg type="verse" xml:id="HV_02_19">
+<l>ājaghnire svaraviśeṣakṛtāsthamārga-</l>
+<l>citrapracārayatipāṇilayābhirāmāḥ |</l>
+<l>vispaṣṭavādyavidhayaḥ karaṇānubandha-</l>
+<l>bhājaḥ krameṇa murajāḥ sphuṭamārjanāṅkāḥ || 19 ||</l>
+</lg>
+
+<p>
+yugalakam atra pāṭhāntaram
+</p>
+
+<!--
+Utpala: [fol.04v, l.19] tasmai | teṣu deveṣu śailādinā śilādāpatyena nandinā nivediteṣu | yathocitāsanaparigrahaś ca nirākuleṣu satsu murajā ājaghnire
+Utpala 17.2 sindhuracchaṭā ] em.; sindhūracchaṭā CU Utpala 17.2 haṭhād ] conj.; hakṣād
+CU 19a ājaghnire ] Σ; ājajñire ŚB ac , same correction probably in the variant of the verse.
+19d murajāḥ ] murajaḥ ŚB 19 variant atra pāṭhāntaram ] ājaghnire 'tha murajāḥ pravibhaktamārga - citrapracārayatipāṇilayaprapañcāḥ | saṃmārjanākaraṇayogavibhaktamārga cetoharābhimatavādyavidhivyavasthāḥ || (ED mentions the variant in the mūla, ŚB has both
+readings, the second reading being introduced by atra pāṭhāntaram also here, but then reads
+...cetoharābhinava... here, then numbers this alternate version of the verse as 20, and continues
+to count, so that verse numbers starting from here are one higher in respect to the editions. ŚC
+also counts this variant as 20, agreeing textually with ED . It then omits the next verse nandīsa...
+. ER mentions this variant in a footnote only as reading of ERA ., probably with a typo ajaghnire
+'ya murajāḥ)
+-->
+
+<pb n="61"/>
+
+
+<!--
+āhatā iti dvābhyāṃ kriyā | maṇimayeṣu mauliṣu ye viṭaṅkā unnatā bhāgās
+tatprāntā eva ṭaṅkāḥ śastrakāṇi tadāhatyā raṇitapādapīṭhaṃ kṛtvā praṇamya
+svaraviśeṣeṣu ṣaḍjādiṣu kṛtasthitayo ye mārgā āliptān tritagomukhavitastākhyāḥ
+cittrā nānāvidhāḥ pracārāḥ samapracārā viṣamapracārās samaviṣamapracārāś
+ceti yatayas samās srotogatā gopucchāś ceti pāṇayaḥ samapāṇir avapā[-] [fol.05r,
+l.1] ṇir uparipāṇiś ceti layā drutamadhyavilambitākhyāḥ etair abhirāmā vādyavidhayas tattvāghānugatākhyāḥ karaṇāni rūpaṃ kṛtapratikṛtaṃ pratibhedo rūpaśeṣa
+oghaḥ pariśuṣkā ceti mārjanāḥ māyūrī avamāyūrī karmāravī ceti | ślokasyāsya
+paro 'prāktano bhedaḥ kevalaṃ tatra vacaḥ kaṭabhāvaḥ pañcamaśūnyāmarahalāś
+ca | etacchlokārtha evoddeśaprasaṅganamunināpy artho yathā ṣoḍaśākṣarasampannaṃ caturmārgaṃ tathaiva ca dvivālaṃ ṣaṭkaraṇakaṃ triyati trilayaṃ tathā
+trigataṃ tripracāraṃ ca trisaṃyogaṃ tripāṇikam | †daśāvapāṇiprahabhaṃ†
+tripracāṛaṃ trimārjanam | viṃśatyalaṅkārayutaṃ tathāṣṭādaśajātikam | ebhiḥ
+prakāraiḥ sampannaṃ vādyaṃ puṣkarajaṃ bhaved iti | atra sarvatra lakṣaṇaṃ
+granthagauravabhayān nālekhi || 19 || [fol.05r, l.10]
+-->
+
+<lg type="verse" xml:id="HV_02_20">
+<l>nandīśanirdayakarāhatapuṣkareṣu</l>
+<l>mandraṃ dhvanatsu murajeṣu vibhajya taṇḍuḥ |</l>
+<l>āsāriteṣu parikalpitasaptabheda-</l>
+<l>paryāptaśobham atha tāṇḍavam abhyagāyat || 20 ||</l>
+</lg>
+
+
+<!--
+Utpala: [fol.05r, l.10] nandī | nandirudreṇāhatāni puṣkarāṇi mukhāni yeṣām |
+ata eva mandram aparuṣaṃ raṇatsu murajeṣu | tāṇḍur nāma tāṇḍavaṃ tena proktaṃ gītakaviśeṣaṃ vibhajyā 'vāpādinā vibhāgīkṛtya jagau | kecit tu tāṇḍavasya
+sukumārāviddhabhedena dvaividhyād devīstave sukumāraṃ bhagavatsutau
+cāviddham iti vibhāgārtham āhuḥ | āsāriteṣu jyeṣṭhamadhyakaniṣṭhapūrveṣu
+Utpala 19.6 pracārāś ] CU pc ; pracārāśaś CU ac Utpala 19.7 ava ] em.; aba CU Utpala
+19.10 avamāyūrī ] em.; abamāyūrī CU Utpala 19.11 'prāktano ] conj.; prāktano CU Utpala
+19.12 etacchlokārtha ] conj.; etaślokārtha CU pc ; etaślokākṛ CU ac 20 ] ER reports the missing
+of this verse in ERA , also in ŚC it is missing. Most likely the scribes did the mistake of counting the
+alternative reading of 19 as verse twenty and then overlooked the real verse 20, continuing with
+verse 21. 20a nirdaya ] Σ; nirmala ŚB 20c saptabheda ] Σ; satribheda CA (v.l.) Utpala
+20.1 yeṣām | ] [Punctuation added.]; yeṣām CU Utpala 20.2 murajeṣu ] em.; murujeṣu CU
+Utpala 20.4 dvaividhyād ] em.; ddhaividhyād CU Utpala 20.5 āhuḥ | ] [Punctuation added.];
+āhuḥ CU
+
+-->
+<pb n="62"/>
+
+<!--
+parikalpitā saptabhir bhedair āvāpaniṣkrāmavikṣepapraveśasya tālasannipātakhyair bahulā sobhā yatra || 20 || [fol.05r, l.16]
+-->
+
+<lg type="verse" xml:id="HV_02_21">
+<l>kroḍīkṛtādritanayāḥ śaśikhaṇḍamauli-</l>
+<l>maulāpadānaracitastuti mātaras tat |</l>
+<l>līlālalāmalalitābhinayaprapañca-</l>
+<l>saṃcāracāru rasabhāvadṛśo 'bhininyuḥ || 21 ||</l>
+</lg>
+
+
+<!--
+Utpala: [fol.05r, l.16] kroḍī | maulam ādyam | apadānaṃ śubhaṃ karma
+| garbhībhūtā tadviṣayā stutir yatra tan mātaro devatā abhininyuḥ līlayeṣṭajanānukāre utkṛṣṭo lalitāś cābhinayasyāṅgikavācikā hāryasāttvikabhedāt prapañcas tadvaśāt saṃcāriṇyaś śūnyādibhedenāta eva | cārvo rasadṛṣṭayaḥ kāntādyā
+bhāvadṛṣṭayaś ca snigdhādyā yāsām || 21 || [fol.05r, l.21]
+-->
+
+<lg type="verse" xml:id="HV_02_22">
+<l>āpītapāṭalasitetarakundagaura-</l>
+<l>dehatviṣo lalitanartanavibhramasthāḥ |</l>
+<l>bhremur gaṇādhipatayo 'bhinayakriyāsu</l>
+<l>mūrtā rasā iva pariṣkṛtaraṅgapīṭhāḥ || 22 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05r, l.21] āpī | āpītādidehakāntaya āhāryābhinayavaśāt gaṇādhipāś cārīprayogavaśād bhremuḥ | pariṣkṛtam alaṅkṛtam aṅgapīṭhaṃ yair mūrtāḥ
+śarīriṇo rasā iva te 'pi nānāvarṇāḥ | yad uktaṃ śyāmo bhavati śṛṅgāras sito
+hāsyaḥ prakīrtita ityādi || 22 || [fol.05r, l.24]
+-->
+
+<!--
+21b maulāpadānaracitastuti ] ΣE ; maulāpadānaviṣayastuti ŚB , cf. CA tadviṣayā stutir; mālāpadānuracitastuti ŚC 21b tat ] Σ; tam ŚB 21c lalitābhinaya ] Σ; lulitābhinaya ŚB Utpala
+21.1 kroḍī ] em.; krīḍī CU
+Utpala 21.1 ādyam | ] [Punctuation added.]; ādyam CU Utpala 21.1 karma | ] [Punctuation added.]; karma CU Utpala 21.4 śūnyādibhedenāta ] CU pc ;
+śūnyādinayavaśātabhedenāta CU ac 22a kunda ] Σ; rakta ŚB 22d pīṭhāḥ ] Σ; śīrśāḥ, ŚB ,
+cf. CA (v.l.) Utpala 22.2 vaśād ] CU pc ; vaśāt CU ac Utpala 22.2 bhremuḥ | ] [Punctuation
+added.]; bhremuḥ CU Utpala 22.3 'pi ] [Avagraha added]; pi CU Utpala 22.3 varṇāḥ ]
+CU pc ; vajñāḥ CU ac
+Utpala 22.3 śyāmo bhavati śṛṅgāras sito hāsyaḥ prakīrtita ] NS 6.3.42
+-->
+
+<pb n="63"/>
+
+<lg type="verse" xml:id="HV_02_23">
+<l>teṣāṃ puraḥ puraripau viṣamaprayoga-</l>
+<l>nṛttopadeśarabhasāt svayam ujjihāne |</l>
+<l>pātālarandhram abhavan natabhūmipīṭha-</l>
+<l>niṣpiṣṭaśeṣaphaṇaratnakaṇāvakīrṇam || 23 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05r, l.21] teṣāṃ | purārau svayam ujjhihāne uttiṣṭhati sati || 23
+|| [fol.05r, l.22]
+-->
+
+<lg type="verse" xml:id="HV_02_24">
+<l>so 'bhyutthito bhuvanam ākulayāṃcakāra</l>
+<l>vispaṣṭadṛṣṭatimiravyapalīnahaṃsam |</l>
+<l>līlāvarāha iva dhūmajaṭāsaṭāgra-</l>
+<l>viṣpandisindhujalaśīkaradurdinārdram || 24 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05r, l.22] so 'bhyu | spaṣṭadṛṣṭatimiratvena vyapalīno haṃsaḥ
+sūryo haṃsaś ca śuklacchadā pattriṇo yatra | kecitu dṛṣṭas [fol.05v, l.1] timir
+matsyaprādurbhāvo yasyeti līlāvarāhaviśeṣaṇaṃ pṛthag āhuḥ | jaṭā eva saṭās
+tadagrāviṣyandinī sindhur gaṅgā | aparatra samudraḥ || 24 || [fol.05v, l.2]
+-->
+
+<lg type="verse" xml:id="HV_02_25">
+<l>bhasmāṅgarāgadhavaleṣu bhujeṣu tasya</l>
+<l>kalmāṣayatsu gaganaṃ karavartanābhiḥ |</l>
+<l>śubhrābhrarājicakitāḥ paripuñjyamāna-</l>
+<l>picchāvacūlavapuṣaḥ śikhino vidadruḥ || 25 ||</l>
+</lg>
+
+<!--
+Utpala:
+[fol.05r,
+l.2]
+bhasmā
+|
+karavartanā
+udveṣṭitāpaveṣṭitavyāvṛttaparivartitākhyāḥ kamalavartanādyā vā śubhramegharājitaḥ
+śaratkālabhrāntyā bhramāś śikhino mayūrāḥ vidrūtāḥ || 25 || [fol.05v, l.5]
+-->
+
+<!--
+23a puraḥ ] ΣE ŚB ; purā ŚC ERA 23d kaṇāvakīrṇam ] Σ; karāvakīrṇam ŚC 24c dhūma ] Σ;
+dhūta ŚB 24d viṣpandi ] Σ; viṣyandi ŚC 24d śīkara ] ΣŚ ; sīkara ΣE Utpala 24.2 yatra
+| ] [Punctuation added.]; yatra CU Utpala 24.2 kecitu ] em.; keci tu CU 25c cakitāḥ ] Σ;
+cakitaḥ ŚC Utpala 25.1 udveṣṭitāpaveṣṭita ] CU pc ; udveṣṭibhatāpaveṣṭita CU ac
+-->
+
+<pb n="64"/>
+
+<lg type="verse" xml:id="HV_02_26">
+<l>gāḍhāṅgadoragaphaṇāmaṇiraśmirāga-</l>
+<l>rugṇāndhakāranikarāparapārśvabhūmeḥ |</l>
+<l>śailasya bhāskararucām avadhes tadīya-</l>
+<l>bāhudrumaiḥ sapadi cukṣudire 'śmakūṭāḥ || 26 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.5] gāḍhā | bhāskararucām avadheś śailasya lokālokasya
+śṛṅgāṇi cukṣudire cūrṇīkṛtāni || 26 || [fol.05v, l.6]
+-->
+
+<lg type="verse" xml:id="HV_02_27">
+<l>vikṣiptabāhunivahasya vihasya dikṣu</l>
+<l>tasyāṅgahārakaraṇakramakampimūrdhnaḥ |</l>
+<l>agrātipātisalilā surasindhur āpac</l>
+<l>cīnāṃśukojjvalatiraskaraṇīvilāsam || 27 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.6] vikṣi | aṅgahāraḥ karaṇāni anyās sthirahastādayaḥ
+teṣāṃ karaṇaṃ prayuktiḥ | yad vā karaṇāni yuddhāny eva talapuṭādyāni gaṅgaiva paṭṭāṃsukanibhā śobhā prāpat || 27 || [fol.05v, l.8]
+-->
+
+<lg type="verse" xml:id="HV_02_28">
+<l>agre ninartiṣata eva vilocanāgnir</l>
+<l>asyāśu piñjaritadiṅmukhacakrabālaiḥ |</l>
+<l>tigmāṃśubimbakaṭakapratibaddhavṛttir</l>
+<l>arcirbhir ātapatiraskariṇīṃ nirāsthat || 28 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.8] agre nartitum icchata ivāsyāgre sūryabimbam eva
+kaṭakaṃ tadbaddham | ātapam eva tiraskariṇīṃ netrāgnir arcirbhir nirāsthat |
+raṅgapīṭhāvatīrṇasya hi naṭasyāgrāj javanikā apasāryate || 28 || [fol.05v, l.11]
+-->
+
+<!--
+26a maṇi ] ΣŚ ERAD ; phaṇi E !!!!check!!!
+26b nikarā ] Σ; nikarāḥ ŚC 26b parapārśva ]
+ΣE ; paripārśva ΣŚ
+26d cukṣudire ] ΣE ; cukṣubhire ŚB ac (marginal correction illegible on
+ﬁle)ŚC ERAC
+27d cīnā ] Σ; cola CA (v.l.) 27d tiraskaraṇī ] ΣE ; tiraskariṇī ΣŚ 28b
+cakrabālaiḥ ] ΣE ; cakravālaiḥ ΣŚ ;cakravākaiḥ ERAC 28c bimba ] Σ; bhimba ŚB 28c vṛttir ]
+Σ; vṛttim ŚB pc 28d nirāsthat ] Σ; nirāsthāt ŚB Utpala 28.1 agre ] em.; agne CU Utpala
+28.2 ātapam ] CU pc ; ātam CU ac Utpala 28.2 nirāsthat | ] [Punctuation added.]; nirāsthat
+CU
+-->
+
+<pb n="65"/>
+
+<lg type="verse" xml:id="HV_02_29">
+<l>ākṣipyamāṇavividhābhinayaprabandha-</l>
+<l>saṃdarśanārtham iva sarvadiśāṃ purastāt |</l>
+<l>vispaṣṭarecakarayākulabāhudaṇḍa-</l>
+<l>piṣṭādrikūṭanikarān akarot sa mārgān || 29 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.11] ākṣi | vividhāś catvāro 'bhinayā āṅgikādyāḥ | recako
+viśiṣṭaṃ bhramaṇaṃ | grīvā bāhvādīnāṃ diśāṃ nāyakatvam atra || 29 || [fol.05v,
+l.12]
+-->
+
+<lg type="verse" xml:id="HV_02_30">
+<l>tasyāṅgahāravalitātanunṛttahasta-</l>
+<l>bhasmāṅgarāgadhavalonnatapīnabāhoḥ |</l>
+<l>sāvartacakravikaṭormighaṭāsahasra-</l>
+<l>saṃkīrṇadugdhajaladhipratirūpatāsīt || 30 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.12] tasyā | aṅgahārārthaṃ valitā bāhavo nṛttahastāś
+caturaśrādayaḥ | | tadvalanāt tulyam āvartacakraṃ pratirūpatā sāmyam || 30 ||
+[fol.05v, l.14]
+-->
+
+<lg type="verse" xml:id="HV_02_31">
+<l>vistāraśālikanakācalabījakoṣa-</l>
+<l>cakrasya nṛttavalanāsu sahasrasaṃkhyaiḥ |</l>
+<l>phullajjapāruṇatalair bhuvanāravinda-</l>
+<l>koṣasya pattrapaṭalāyitam asya hastaiḥ || 31 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.14] vistā | kanakācalo merur eva karṇikā yatra vikasajjapākhyapuṣpavad aruṇair hastaiḥ pattrapaṭalatvam ācaritam || 31 || [fol.05v, l.15]
+-->
+
+<!--
+Utpala 29.1 'bhinayā ] [Avagraha added.]; bhinayā CU Utpala 29.1 āṅgikādyāḥ | ] [Punctuation added, Sandhi dissolved.]; āṅgikādyā CU
+30a nṛtta ] Σ; vṛtta ŚC 30b bāhoḥ ]
+ER ŚB ; bāhvoḥ ŚC ED Utpala 30.1 bāhavo ] [Punctuation removed.]; bāhavo | CU
+Utpala 30.2 caturaśrādayaḥ | ] CU pc ; caturaśr[illegible character cancelled.]ādayaḥ CU ac Utpala
+30.2 sāmyam ] em.; sāmyaṃ CU 31a vistāra ] Σ; vistāri ŚB 31a koṣa ] Σ; kośa ŚB 31c
+bhuvanāravinda ] ΣE ; bhuvanārabinda ΣŚ 31d koṣasya ] ΣE ; kośasya ΣŚ 31d pattra ] Σ;
+patra ŚC
+-->
+
+<pb n="66"/>
+
+<lg type="verse" xml:id="HV_02_32">
+<l>pīnāṃsakūṭaghaṭitaṃ galakālakūṭa-</l>
+<l>cchāyāniśānusaraṇārtham ivābhyupetam |</l>
+<l>tenottamāṅgavidhutiślathamaulibandha-</l>
+<l>visrastam induśakalaṃ bibharāṃbabhūve || 32 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.15] pīnā | kālakūṭacchāyaiva rātriḥ || 32 || [fol.05v, l.16]
+-->
+
+<lg type="verse" xml:id="HV_02_33">
+<l>tasyordhvalocanamarīcimato viśīrṇa-</l>
+<l>piṅgatviṣaś ciram abhāvitarāṃ purastāt |</l>
+<l>ābaddhavartanatayā vikasatkarāla-</l>
+<l>raktāṅgulīdalakulaiḥ karapadmakhaṇḍaiḥ || 33 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.16] tasyo | ūrdhvalocanam eva marīcimān sūryaḥ tadagre
+karair eva padmair vikasadaṅgulīdalenaiva bhāvikūtam || 33 || [fol.05v, l.17]
+-->
+
+<lg type="verse" xml:id="HV_02_34">
+<l>saṃdehitādhavalabhāsmanadhūlidigdha-</l>
+<l>taddordrumānilarayoddhatavīcibhaṅgāḥ |</l>
+<l>dugdhodadher nabhasi paprathire muhūrtam</l>
+<l>āliṅgitātanutarotkalikābhragaṅgāḥ || 34 ||</l>
+</lg>
+
+
+<!--
+Utpala: [fol.05v, l.17] sande | dhavalayā bhāsmanadhūlyāliptānāṃ tasya bhagavato bāhudrumāṇām anilavegenoddhatā vīcibaṅgā dugdhābdeḥ sambandhino
+vyomni prathitāḥ ata eva sandehitāḥ kiṃ bhasmācitā bhagavadbhujā utataraṇgāḥ
+iti athaś ca āsandehitāśca ā samantād bhasmadigdhair bhujair anilarayoddhatāś
+ca tā iti yojyam | kecit tu sandehitāḥ dhavalabhāsmanabhaktidigdhā iti pṛthak
+paṭhanti utkalikā laharyo gaṅgāyāś ca samāsoktyā nāyakatvād †draruhikā† api ||
+-->
+<!--
+32d
+babhūve ] Σ;
+bhabhūve ŚB
+Utpala
+32.1 kālakūṭa ] CU pc ;
+kālakūja
+CU ac
+33c
+vartanatayā ] Σ; nartanatayā ŚB
+33d
+khaṇḍaiḥ ] ΣE ; ṣaṇḍaiḥ
+ΣŚ
+Utpala 33.2 vikasadaṅgulīdalenaiva ] CU pc ;
+vikasaddalenaiva CU ac
+34a
+saṃdehitādhavalabhāsmanadhūlidigdha - ] Σ; sandehitāḥ dhavalabhāsmanabhaktidigdhā CU
+(mentioned as alternative reading) 34b drumānila ] Σ; kramānila ŚC 34c paprathire ]
+Alaka mentions a reading pupuṣire. Utpala 34.2 vīcibaṅgā ] em.; vīcibandhā CU Utpala
+34.3 uta ] CU pc ; utata CU ac Utpala 34.4 athaś ] em.; ayaś CU Utpala 34.5 iti ] em.;
+ihi CU
+Utpala 34.5 yojyam | ] CU pc , [Punctuation added[; ihi yohitāḥ CU ac
+Utpala
+34.6 laharyo ] [Punctuation removed.]; laharyo | CU
+-->
+
+<pb n="67"/>
+
+<!--
+34 || [fol.05v, l.23]
+-->
+
+<lg type="verse" xml:id="HV_02_35">
+<l>pātālaveśmagatabandhudidṛkṣayeva</l>
+<l>vikṣipyamāṇamaṇibandhanabaddhasaṃsthāḥ |</l>
+<l>tasya vyadhuḥ phaṇabhṛtaḥ phaṇacakramukta-</l>
+<l>phūtkāramārutaviśīrṇajalān payodhīn ||35 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.24] pātā | maṇibandhanaṃ bāhuvalayasthānam | vyadhuḥ
+cakruḥ || 35 ||
+-->
+
+<lg type="verse" xml:id="HV_02_36">
+<l>vyaktāṅgahārakaraṇakramakīryamāṇa-</l>
+<l>dordaṇḍamaṇḍalatayā bibharāṃcakāra |</l>
+<l>saṃhāramārutavikampitakalpavṛkṣa-</l>
+<l>kailāsaśailasadṛśīṃ śriyam indumauliḥ || 36 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.25] vyakta | kalpavṛkṣatulyā bāhavaḥ || 36 ||
+-->
+
+<lg type="verse" xml:id="HV_02_37">
+<l>tena vyadhīyatatarām iva vellitāgra-</l>
+<l>dordaṇḍabhasmakaṇarājibhir ujjvalābhiḥ |</l>
+<l>nirmitsyamānanijanṛttabharābhiyoga-</l>
+<l>yogyāntarālabhuvanāntarasūtrapātaḥ || 37 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.05v, l.25] tena | nirmartum iṣṭasya nijanṛttābhiyoge yogyāntarālasya [fol.06r, l.1] paratrabhāgasya sūtrapāta iva bhagavatā sthapatineva
+kṛtaḥ || 37 ||
+-->
+
+<lg type="verse" xml:id="HV_02_38">
+<l>ārabdhanartanakarāṅgulikoṭibhāga-</l>
+<l>niṣṭhyūtadīdhitiśikhālikhitācchalekham |</l>
+<!--
+35a didṛkṣayeva ] Σ; didṛkṣayaiva ŚC
+Utpala 35.1 bāhuvalayasthānam | ] [Punctuation
+added, sandhi dissolved.]; bāhuvalayasthānaṃ CU
+Utpala 37.1 nijanṛttābhiyoge ] em.; nijavṛttābhiyoge CU Utpala 37.1 yogyāntarālasya ] em.; yogyāntarālasyā CU 38a ārabdha ]
+Σ; ābaddha ŚB
+-->
+<pb n="68"/>
+<l>tasyābhavat sphuradanekasahasrasaṃkhya-</l>
+<l>jihmāmṛtāṃśukalikāṅkam ivāntarikṣam || 38 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.1] āra | nakhāgranirgatadīdhitilekhitalekhatvād anekakuṭilacandrakalāṅkitam iva vyomābhūt || 38 || [fol.06r, l.3]
+-->
+
+<lg type="verse" xml:id="HV_02_39">
+<l>uddāmarecakarayabhramaṇānubandha-</l>
+<l>saṃbaddhabudbudakaṇākulasiddhasindhuḥ |</l>
+<l>lakṣmīm anujjhitakirātadaśāvanaddha-</l>
+<l>nāgendrakañcuka ivāsya babhāra jūṭaḥ || 39 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.3] uddā | recako grīvāyā evātra | anubandhaḥ paunaḥpunyam | nāgendrasya vāsukeḥ | kañcuko nirmokaḥ || 39 || [fol.06r, l.4]
+-->
+
+<lg type="verse" xml:id="HV_02_40">
+<l>tadbāhughūrṇanavalanmṛgarājakṛtti-</l>
+<l>vajrāśriśātanakhakoṭinipātabhītaiḥ |</l>
+<l>digdantibhis tvaritakuñcitajānuparva-</l>
+<l>kharvībhavadvikaṭakumbhataṭair viṣede || 40 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.4] tadbā | tasya | mṛgarājakṛttis siṃhacarma | tatra
+vajrakoṭivat śātās tīkṣṇā ye nakhās tatpātabhītair diggajair niṣaṇṇam || 40 ||
+[fol.06r, l.5]
+-->
+
+<lg type="verse" xml:id="HV_02_41">
+<l>tasyāṅgahārakaraṇākulabāhudaṇḍa-</l>
+<l>khaṇḍāspadā sapadi kesarirājakṛttiḥ |</l>
+<!--
+Utpala 38.1 nakhāgranirgatadīdhitilekhitalekhatvād ] CU pc ;
+nakhāgranirgatadīdhitilekhitalekhatvādad CU ac 39a uddāma ] Σ; uddhāma ŚB 39b saṃbaddha ] Σ; sambandha ŚB
+39b siddhasindhuḥ ] Σ; sindhasindhuḥ ŚC Utpala 39.1 paunaḥpunyam | ] em., [Punctuation
+added.]; paunaḥpuṇyam CU Utpala 39.2 vāsukeḥ | ] [Punctuation added.]; vāsukeḥ CU 40d
+viṣede ] Σ; viṣedhe ŚC Utpala 40.1 tadbā | tasya | ] [Pratīka added. Next verse begins with
+tasyā.] Utpala 40.1 mṛgarājakṛttis ] em.; mṛgarājakṛtis CU Utpala 40.1 siṃhacarma | ]
+[Punctuation added.]; siṃhacarma CU
+Utpala 40.2 vajrakoṭivat ] [Punctuation removed.];
+vajrakoṭivat | CU
+Utpala 40.2 tatpātabhītair ] em.; taryātabhītair CU 41a daṇḍa ] Σ;
+ṣaṇḍa ŚC 41b khaṇḍāspadā ] Σ; daṇḍāspada ŚC
+-->
+<pb n="69"/>
+<l>tārāś cakarṣa karajaiś caṭulīkaḍāra-</l>
+<l>cūḍājuṣaḥ priyam ivoḍupateś cikīrṣuḥ || 41 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.6] tasyā | caṭulī ulkā tadvat kapilā yā cūḍā tatsevinaś
+candrasya kāntāprāpaṇāt priyam iva kartum icchus siṃhakṛttis tārā ācakarṣa ||
+41 || [fol.06r, l.7]
+-->
+
+<lg type="verse" xml:id="HV_02_42">
+<l>dordaṇḍamārutavighaṭṭitaśailakūṭa-</l>
+<l>dhūlicchaṭāpaṭaladhūsaram uṣṇadhāmnaḥ |</l>
+<l>uddhūlanonmṛditabhasmarajobhir aicchad</l>
+<l>īśaḥ pramārṣṭum iva bimbatalātmadarśam || 42 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.8] dordaṇḍa | īśo bhagavān bhasmarajobhir uṣṇadhāmno
+raver bimbam evādarśaṃ pramārṣṭum ivābhilalāṣa || 42 || [fol.06r, l.9]
+-->
+
+<lg type="verse" xml:id="HV_02_43">
+<l>lakṣmīpater iva nirargaladaṇḍapāda-</l>
+<l>śākhāgrakoṭighaṭitaḥ kṣaṇam uṣṇaraśmiḥ |</l>
+<l>tasyābabhāv adhinabho 'rghajalāvasakta-</l>
+<l>padmāsanānamitaratnakamaṇḍaluśrīḥ || 43 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.9] lakṣmī | nirargalo niṣpratibandhaḥ śākhā aṅgulyaḥ
+adhinabho vyomni viṣṇor arghajalārtham iva sakto lagno brahmaṇānamito
+ratnamayo yaḥ kamaṇḍalus tattulyaśobhaḥ | hareḥ kila trailokyam ākramato
+brahmaṇā pādaḥ kṣālitaḥ || 43 || [fol.06r, l.12]
+-->
+
+<lg type="verse" xml:id="HV_02_44">
+<l>tasyāstarīṣata navābhinayakriyāsu</l>
+<l>dikcakravālam abhitaḥ sthagitāntarikṣāḥ |</l>
+<!--
+Utpala 41.1 caṭulī ] em.; also possible caḍulī, c.f. [Schmidt(1915), p.280].; cuḍulī CU
+Utpala 41.1 tadvat ] CU pc ; tadvayat CU ac
+43b śākhāgra ] ΣE Ś ; pādāgra ERAB
+Utpala
+43.2 adhinabho ] CU pc ; a adhinabho CU pc Utpala 43.2 arghajalārtham ] em.; arkajalārtham
+CU
+-->
+<pb n="70"/>
+<l>ambhodhimārgagamanābhimukhāḥ śirastha-</l>
+<l>sindhupravāhanivahā iva bāhudaṇḍāḥ || 44 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.12] tasyā | āstarīṣata ācchādayāmāsuḥ || 44 ||
+-->
+
+<lg type="verse" xml:id="HV_02_45">
+<l>tena vyalokyata valadbhujadaṇḍakhaṇḍa-</l>
+<l>caṇḍānilāhativighaṭṭanaviprakīrṇam |</l>
+<l>prabhraṣṭam ambaratalād vidhutottamāṅga-</l>
+<l>visrastaśekharakapāladhiyendubimbam || 45 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.12] tena | śekharakapālabhrāntibuddhyā indubimbaṃ
+dṛṣṭaṃ || 45 || [fol.06r, l.13]
+-->
+
+<lg type="verse" xml:id="HV_02_46">
+<l>brahmāsanāmburuham āhitasarvaloka-</l>
+<l>kampe vibhoḥ śiśirakāla ivānukāre |</l>
+<l>paryastabāhuvanadhūlanabhasmadhūli-</l>
+<l>nīhārapātadalitacchadaśobham āsīt || 46 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.13] brahmā | bhayaśītakṛto vepatuḥ | anukāre nṛtte
+bhasmadhūlir eva himam || 46 || [fol.06r, l.14]
+-->
+
+<lg type="verse" xml:id="HV_02_47">
+<l>graiveyakoragaphaṇāmaṇicakravāla-</l>
+<l>saṃdhyāruṇoḍuśabalaṃ sthagayāṃcakāra |</l>
+<l>diṅmaṇḍalaṃ pralayakālaniśeva tasya</l>
+<l>kaṇṭhaprabhā timiranīlaruciḥ sphurantī || 47 ||</l>
+</lg>
+
+<!--
+44c śirastha ] Σ; śirasstha ŚC 44d nivahā ] Σ; vivahā ŚB 45a khaṇḍa ] ΣE ; ṣaṇḍa ΣŚ
+45d śekhara ] Σ; śīkara ŚC ERA Utpala 45.1 tena | ] [Punctuation added.] 46c paryasta ]
+ŚB ; paryanta ŚC ΣE Utpala 46.1 brahmā ] em.; kampo CU [This is the beginning of the
+second pada of the verse.] Utpala 46.1 bhayaśītakṛto ] CU pc ; bhayaśetakṛto CU ac
+Utpala 46.1 vepatuḥ | ] [Punctuation added.]; vepatuḥ CU Utpala 46.2 himam ] em.; homam
+CU
+47a graiveyakoraga ] Σ; graivīyakoraga ŚB 47b saṃdhyāruṇoḍuśabalaṃ ] ΣE ; sandhyāruṇoḍuśavalā ŚB , sandhyāruṇoḍuśavalaṃ ŚC
+-->
+
+<pb n="71"/>
+
+<!--
+Utpala: [fol.06r, l.14] graive | grīvālaṅkārasyoragasya phaṇamaṇirāga eva
+sandhyālohitā uḍavas tārāḥ | uragaphaṇeṣūdgatarāgāṇi ratnāny eva † sandhyāruṇā tarava † iti tu pāṭhaḥ śreyān | timiravat nīlā rucir yasyāḥ kalpāntarātriś
+ca raktanakṣattraśavalā sāndhakārā ca || 47 || [fol.06r, l.17]
+-->
+
+<lg type="verse" xml:id="HV_02_48">
+<l>cūḍājaḍāṃśur api jūṭajaṭānikuñja-</l>
+<l>baddhāspadaḥ pratidiśaṃ sucirād avāpa |</l>
+<l>ārabdhanartanakarānilaghaṭyamāna-</l>
+<l>tārāpuraṃdhriparirambhasukhāni śaṃbhoḥ || 48 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.17] cūḍā | jaḍāṃśuś candro 'tha ca jalaprakṛtir api
+†bhagavat kā† vartanāniloddhūyamānās tārā eva puranddhrayas tadālinganasukhāni prāpa | jaṭā eva nikuñjam | śṛṅgārī hi nāyikayā saha nikuñjabhāge
+āste || 48 || [fol.06r, l.20]
+-->
+
+<lg type="verse" xml:id="HV_02_49">
+<l>līlāvadhūtaśiraso 'sya valajjaṭāgra-</l>
+<l>viṣyandisāndrasalilokṣitakoṭibhāgāt |</l>
+<l>uccaṇḍatāṇḍavarasasya vinirjagāma</l>
+<l>mandākinī madhuripor iva daṇḍapādāt || 49 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.20] līlā | asya śambhor līlāvadhūtāc chiraso viṣṇupadād iva
+gaṅgā niryayau || 49 || [fol.06r, l.21]
+-->
+
+<lg type="verse" xml:id="HV_02_50">
+<l>tasyāśu śoṇitam ivojjagarur gariṣṭha-</l>
+<l>dordaṇḍaghātavidhurā girayas tadānīm |</l>
+<!--
+Utpala 47.1 grīvālaṅkārasyoragasya ] CU pc ; grīvālaṅkārasyorasagasya CU ac 48a cūḍā ] Σ;
+cūḍhā ŚB 48c ghaṭyamāna ] ΣE ; ghaṭṭamāna ΣŚ ERA Utpala 48.1 candro ] CU pc ; caṇḍo
+CU ac Utpala 48.1 'tha ] [Avagraha added.]; tha CU
+Utpala 48.2 bhagavat ] CU pc ; bhaac
+pc
+gavatva CU
+Utpala 48.2 tadālingana ] CU ; tadidālingana CU ac Utpala 48.3 prāpa
+| ] [Punctuation added.]; prāpa CU
+Utpala 48.3 saha ] CU pc ; sahanti CU ac
+Utpala
+48.3 nikuñja ] CU pc ; ntinikuñja CU ac 49b viṣyandi ] ŚB ; niṣpandi EDac R , niṣyandi EDpc ,
+niṣṣyandi ŚC
+-->
+<pb n="72"/>
+<l>udvartanānilarayotthitadhātavīya-</l>
+<l>dhūlicchaṭāruṇitanirjharavīcibhaṅgāḥ || 50 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.21] tasyā | ujjagaruḥ †udavasann† iva | gariṣṭhā gurutarāḥ
+| dhātavīyā gairikādisambandhinī || 50 || [fol.06r, l.22]
+-->
+
+<lg type="verse" xml:id="HV_02_51">
+<l>tena vyadhāyiṣata bāhuvanaprakoṣṭha-</l>
+<l>baddhāsitoragaphaṇāmaṇirāgapiṅgāḥ |</l>
+<l>saṃhārakālarabhasotthitadhūmadaṇḍa-</l>
+<l>kalmāṣitānalaśikhā iva digvibhāgāḥ || 51 ||</l>
+</lg>
+
+<!--
+Utpala:
+tena | vyadhāyiṣata kṛtāḥ | prakoṣṭham antaraṃ vidyād
+āratnimaṇibandhayoḥ | asitāḥ kṛṣṇāḥ || 51 || [fol.06r, l.24]
+-->
+
+<lg type="verse" xml:id="HV_02_52">
+<l>tasyādhinṛttam analolbaṇadṛṣṭipāta-</l>
+<l>lakṣyīkṛteṣu phaṇino maṇibandhaneṣu |</l>
+<l>tattāpakhedaparivartanalakṣyamāṇa-</l>
+<l>pītodarāḥ kanakakambuvilāsam āpuḥ || 52 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.24] tasyā | nṛttakāle maṇibandhanasthā phaṇino netrāgnilakṣīkṛtatvena aruṇodarāḥ kanakavalayaśobhāṃ prāpuḥ | kambuśabda upacārād
+valayamātravācī || 52 || [fol.06r, l.26]
+-->
+
+<lg type="verse" xml:id="HV_02_53">
+<l>sānandanandikaratāḍitapuṣkarāgra-</l>
+<l>cetoharāṅkikapayodharanādahṛṣṭaḥ |</l>
+<!--
+50c dhātavīya ] Σ; dhātaveya ŚC Utpala 50.1 iva | ] [Punctuation added.]; iva CU Utpala
+51.1 tena ] em.; tenā CU Utpala 51.2 āratni ] em.; atni CU Utpala 51.2 maṇibandhayoḥ
+| ] [Punctuation added.]; maṇibandhayoḥ CU 52a analolbaṇa ] ΣE ; analojjvala ΣŚ Utpala
+52.1 phaṇino ] em.; pheṇino CU Utpala 52.1 netrāgnilakṣīkṛtatvena ] em.; netrāgnilakṣmīkṛtatvena CU
+Utpala 51.1 prakoṣṭham antaraṃ vidyād āratnimaṇibandhayoḥ | ] cf. Vallabhadeva's commentary of Kālidāsa's Kumārasambhava, 3.41. [Murti(1980), p.79].
+-->
+<pb n="73"/>
+<l>ārabdharecakalayaḥ kalayāṃcakāra</l>
+<l>līlāṃ sa mecakagalaḥ sphuṭacandrakaśrīḥ || 53 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06r, l.26] sāna | nandī nāma gaṇas tatkarābhyāṃ tāḍitaṃ
+mukhaṃ yasya so 'ṅkikākhyo muraja eva meghaḥ | ārabdho grīvarecakasya
+layaś śleṣo drutādilayena sa mecakagalaḥ śarvo līlām iṣṭhajanānukāram kalayāṃ
+cakāra [fol.06v, l.1] prārebhe | alpaś candraś candrakaḥ | mecakagalo 'pi mayūro
+meghanādahṛṣṭas saṃlayaṃ kṛtvā †līlāyāṃś† candrakaśobhī ca bhavati || 53 ||
+[fol.06v, l.2]
+-->
+
+<lg type="verse" xml:id="HV_02_54">
+<l>sāvartanābhir abhito lalitāṅgahāra-</l>
+<l>śobhā manoramaparikramatāṃ vahantī |</l>
+<l>ceto jahāra dayitā rasabhāvahṛdya-</l>
+<l>rūpā kriyā puraripoḥ śubhahastadṛṣṭiḥ || 54 ||</l>
+</lg>
+
+<!--
+Utpala:
+[fol.06 v, l.2] sāva | sā śambhor līlārūpā kriyā vartanābhir udveṣṭitādikarakriyābhiś cetaḥ ahṛta | aṅgahārāḥ sthirahastādayaḥ |
+parikramo vṛttibhedena gativiśeṣaḥ | dayitā ramyā | rasāḥ śṛṅgārādayaḥ |
+bhāvā ratyādayaḥ | sthāyivyabhicāryanubhāvarūpāḥ | hastāḥ patākādayaḥ
+| saṃyutāsaṃyutanṛttahastabhedabhinnāḥ | dṛṣṭayaḥ kāntādyā rasabhāvasaṃcārabhedinyaḥ | ataś ca dayitā kānteva | tasyās sāvartanābhiḥ aṅgahāro
+muktādāma paritaḥ kramaṇaṃ parikramaḥ rasaḥ kāntānurāgaḥ | tasya bhāvas
+sattā | śubhau hastau dṛṣṭiś ca || 54 || [fol.06v, l.9]
+53c ārabdha ] ΣE ; vispaṣṭa ΣŚ 53c layaḥ ] ΣE ; rayaḥ ΣŚ Utpala 53.1 nandī nāma
+-->
+<!--
+gaṇas ] em.; also possible em.: nandir nāma gaṇas; nandinā | mārgaṇas CU
+Utpala
+53.1 tatkarābhyāṃ ] em. taskarābhyāṃ Utpala 53.2 muraja ] em.; muruja CU Utpala
+53.3 drutādilayena ] em.; drutādivāyena CU Utpala 53.4 prārebhe ] em.; prarebhe CU Utpala 53.4 candrakaḥ | ] [Punctuation added, Sandhi dissolved.]; candrako CU
+Utpala
+53.4 'pi ] [Avagraha added.]; pi CU
+Utpala 53.5 saṃlayaṃ ] conj.; sa layaṃ CU
+Utpala 53.5 †līlāyāṃś† ] [There are two dots for Anusvāra here, one of them possibly cancelled.
+Both līlāyāṃ or līlāyāś would be possible.] Utpala 54.1 sāva ] em.; sāvā CU
+Utpala
+54.2 karakriyābhiś ] em.; nakarakriyābhiś CU
+Utpala 54.2 sthirahastādayaḥ | ] [Punctuation added.]; sthirahastādayaḥ CU
+Utpala 54.3 ramyā | ] [Punctuation added.]; ramyā
+CU
+Utpala 54.3 śṛṅgārādayaḥ | ] [Punctuation added.]; śṛṅgārādayaḥ CU
+Utpala
+54.4 ratyādayaḥ | ] [Punctuation added.]; ratyādayaḥ CU
+Utpala 54.5 saṃyutāsaṃyuta ]
+em.; saṃyatāsaṃyuta CU Utpala 54.5 bhinnāḥ
+|
+]
+[Punctuation
+added.]; bhinnāḥ CU
+-->
+<pb n="74"/>
+
+<lg type="verse" xml:id="HV_02_55">
+<l>dordaṇḍakhaṇḍavalanāny atisaṃkaṭatvam</l>
+<l>utprekṣya no vidadhire kakubhāṃ purastāt |</l>
+<l>vinyastamandacaraṇaṃ paricakrame ca</l>
+<l>bhūmaṇḍalaṃ vidalatīti dayānubandhāt || 55 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.9] dorda | itthaṃ śaśiśekharasya nṛttam ādhārasya bhuvo
+daurbalyāt savistaraṃ nābhūd iti dvābhyāṃ kriyā | kakubhāṃ saṅkaṭatvam
+āśaṅkya bāhuvalanāni na kṛtāni | paricakrame parikrāntam || 55 || [fol.06v, l.11]
+-->
+
+<lg type="verse" xml:id="HV_02_56">
+<l>brahmāṇḍakarparaparisphuṭanābhisaṃdher</l>
+<l>ūrdhvaṃ vyaracyata tathā na ca daṇḍapādaḥ |</l>
+<l>itthaṃ na śītakiraṇābharaṇasya nṛttam</l>
+<l>ādhāradurbalatayā savilāsam āsīt || 56 || </l>
+</lg>
+
+<p>
+yugalakam
+</p>
+
+<!--
+Utpala: [fol.06v, l.11] brahmā | abhisandhir ākalanaṃ || 56 ||
+-->
+
+<lg type="verse" xml:id="HV_02_57">
+<l>kukṣipraviṣṭasuranirjhariṇītaraṅga-</l>
+<l>jhāṃkāratāraninadair nṛkapālapaṅktiḥ |</l>
+<l>nṛttakriyāsu vidadhāv iva sādhuvādaṃ</l>
+<l>yasyottamāṅgabhuvi sātiśayāsv amandam || 57 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.07v, l.12] kukṣi | atiśayaḥ kauśalam ata eva tatra sādhuvādaḥ ||
+57 ||
+-->
+
+<lg type="verse" xml:id="HV_02_58">
+<l>ālokitas tuhinaśailabhuvā sahāsam</l>
+<l>ākṛṣya śekharaśaśāṅkakalāṃ smarāreḥ |</l>
+<!--
+55a khaṇḍa ] ΣE ; ṣaṇḍa ΣŚ 56b ūrdhvaṃ ] Σ; ūrdhve ŚB 56b vyaracyata ] ŚB ; viracyata
+ŚC ΣE 56d yugalakam ] taraṅgayugalakam ŚC , (taraṅga)yugalakam KM . Cf. 2.57a. Utpala
+56.1 brahmā | ] conj.; [Pratīka missing.] CU 57d yasyottamāṅga ] All editions and MSS read
+this, but it is unclear where to connect the relative pronoun to. asya or tasya would be better.
+Utpala 57.1 sādhuvādaḥ ] CU pc ; sādhuvādam CU ac
+-->
+<pb n="75"/>
+<l>nṛtyan vidūṣakabhuvaṃ bhujagāriketur</l>
+<l>agre cakāra kuṭilonnatadaṇḍakāṣṭham || 58 ||</l>
+</lg>
+<!--
+Utpala: [fol.06v, l.12] ālo | bhujagārir mayūraḥ ketau yasya sa kumāraḥ
+śarvasyāgre vidūṣakabhūmikāṃ nṛtyan candrakalām eva kuṭilaṃ daṇḍakāṣṭham
+akarot | vidūṣako hi sahāsam ālokyate || 58 || [fol.06v, l.15]
+-->
+
+<lg type="verse" xml:id="HV_02_59">
+<l>etāni tāni talapuṣpapuṭādikāni</l>
+<l>cetoharāṇi karaṇāni gaṇādhināthāḥ |</l>
+<l>ity aṅgahāravidhayaḥ sphuṭatatprapañca-</l>
+<l>yogāñcitasthitibhṛtaḥ sthirahastamukhyāḥ || 59 ||</l>
+</lg>
+
+<!--
+Utpala: [See 2.60.]
+-->
+
+<lg type="verse" xml:id="HV_02_60">
+<l>itthaṃ tridhātmakaraṇaṃ gaṇamaṇḍalīṣu</l>
+<l>saṃkrāntim asya nayato rabhaseṇa saṃyak |</l>
+<l>paryāptadarśanasukhaṃ vinimeṣapakṣma</l>
+<l>cakṣuḥsahasram abhavat spṛhaṇīyam aindryāḥ || 60 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.15] etā | asya bhagavato gaṇeṣu karaṇādisaṅkrāntiṃ
+nayata upadiśatas sataḥ aindryā devatāyāṃ nayanasahasram niścalapakṣmatvāt
+paryāptadarśanasukham ata eva spṛhaṇīyam abhūd iti | dvābhyāṃ kriyā |
+teṣāṃ karaṇānāṃ prapañcayogenāñcitā pūjitā sthitiḥ | karaṇasampādyatvād
+aṅgahārāṇāṃ karaṇam | tridhātma tribhiḥ prakāraiḥ pādābhyāṃ kramaṇam
+yat tu karaṇaṃ nāma tad ity ekam | tathā talapuṣpapuṭādikam vyāvṛttādi
+58c nṛtyan ] Σ; nindad ŚC Utpala 58.1 sa ] em.; su CU
+-->
+<!--
+59a talapuṣpapuṭādikāni ] Σ;
+talapuṣpapuṭāni kāni ŚC 60a maṇḍalīṣu ] Σ; nāyakeṣu ŚC 60b nayato rabhaseṇa saṃyak ]
+ŚB ; nayato sadasi sthitāsu [Wrong sandhi.] Σ 60c pakṣma ] ΣŚ ; pakṣma - ΣE 60d aindryāḥ ]
+Σ; endryaḥ ŚB 60d ] ŚB yugmam, not sure how to understand the connection between the
+two verses, maybe by taking ittham as having the force of a direct-speech-marking iti, as the
+last verse with the voc. gaṇādhināthāḥ looks like direct speech. But who then is the speaker?
+Skanda, Aindrīdiś or Śiva himself? Utpala 60.2 aindryā ] em.; aindryā || CU [This double
+daṇḍa after aindryā, probably marks the beginning of the commentary on verse 60, but then
+there should have been no sandhi.] Utpala 60.2 nayanasahasram ] CU pc ; nayanasasahahasram
+CU ac
+-->
+<pb n="76"/>
+<!--
+ceti | †bhaumam ākāśo kam† ubhayātmakaṃ ceti kecit | yadvā karaṇaśabdasya
+nṛttavācitvāl lāsyatāṇḍavamiśrabhedāt traividhyam || 60 || [fol.06v, l.22]
+-->
+
+<lg type="verse" xml:id="HV_02_61">
+<l>āviṣkṛtānukṛtivibhramanāgavaktra-</l>
+<l>līlābhyudastakarakoṭivipāṭyamānāḥ |</l>
+<l>ambhobhṛtaḥ śiśiraśīkarabinduvṛnda-</l>
+<l>viṣyandino 'bhinayajaṃ klamam asya jahruḥ || 61 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.22] āvi | prakaṭitā anukṛtivibhramā nṛttaceṣṭāviśeṣā yena
+tathāvidho nāgavaktro vināyakas tena līlayābhyudastaḥ kṣiptaḥ || 61 || [fol.06v,
+l.24]
+-->
+
+<lg type="verse" xml:id="HV_02_62">
+<l>itthaṃ salīlam abhineyavijṛmbhamāṇa-</l>
+<l>vispaṣṭabhāvarasavṛtti niṣevya nṛttam |</l>
+<l>sārdhaṃ nyavartata gaṇair vibhur uttamāṅga-</l>
+<l>gaṅgātaraṅgakaṇasaṃbhṛtibhinnakhedaḥ || 62 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.24] itthaṃ | vispaṣṭā bhāvā rasāś ca vṛtayo bhāratīsātvatīkaiśikyārabhaṭyo yatra nṛttaṃ niṣevya vyaraṃsīt || 62 || [fol.06v, l.25]
+-->
+
+<lg type="verse" xml:id="HV_02_63">
+<l>śailātmajāvijitatadgaṇakṛṣyamāṇa-</l>
+<l>vṛddhokṣaniṣṭhurakhurāhatamandarādriḥ |</l>
+<l>tasya glahīkṛtavimugdhakirīṭacandra-</l>
+<l>khaṇḍaḥ kadācana durodaravibhramo 'bhūt || 63 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.25] śaila | glahīkṛtaḥ pāṇisthāpitaḥ | vimugdho ramyaḥ |
+kitavaiś ca mugdho mandamatir muṣyate | durodaravibhramo dyūtakrīḍā || 63 ||
+[fol.06v, l.27]
+-->
+<!--
+61c śīkara ] Σ; sīkara ED 61d viṣyandino ] Σ; niṣyandino ŚB 62c sārdhaṃ ] Σ; sārthaṃ
+ER Utpala 62.1 rasāś ] em.; sarāś CU Utpala 63.1 pāṇisthāpitaḥ | ] [Punctuation added.];
+pāṇisthāpitaḥ CU
+Utpala 63.1 ramyaḥ | ] [Punctuation added.]; ramyaḥ CU
+Utpala
+63.2 muṣyate | ] [Punctuation added.]; muṣyate CU
+-->
+
+<pb n="77"/>
+
+<lg type="verse" xml:id="HV_02_64">
+<l>iti samayam anaiṣīt tatra tās tāḥ sa ceṣṭā</l>
+<l>vidadhad acalakanyāviprayogānabhijñaḥ |</l>
+<l>surapatibhir abhīkṣṇaṃ ratnapaṭṭāṅghripīṭhī-</l>
+<l>luṭhitamaṇikirīṭāṣṭāpadaiḥ sevyamānaḥ || 64 ||</l>
+</lg>
+
+<!--
+Utpala: [fol.06v, l.27] iti | bhagavatpādapīṭhe praṇāmavaśāl luṭhitāni [fol.7r,
+l.1] maṇimayakirīṭāṇy evāṣṭāpadāni caturaṅgaphalakāni kirīṭeṣu vāṣṭāpadaṃ suvarṇaṃ yeṣām || 64 || [fol.07r, l.2]
+utpalakṛte haravijayasāravivaraṇe dvitīyaḥ sargaḥ ||
+-->
+
+<!--
+64c pīṭhī ] Σ; pīṭhe ŚB
+
+Utpala 64.2 caturaṅgaphalakāni ] em.; caturaṅgaphalahakāni CU
+-->
+
+<pb n="78"/>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -57,7 +57,7 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-<div n="02" type="chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" n="02" type="chapter">
 <p>
 dvitīyaḥ sargaḥ|
 </p>
@@ -160,27 +160,45 @@ dvitīyaḥ sargaḥ|
 <l>gandhānubandhimadhupapratibimbalakṣma-</l>
 <l>śārodarairnakhaśaśiprakarairdadhānam||16||</l>
 </lg>
-<lg type="verse" xml:id="HV_02_18">
+<lg type="verse" xml:id="HV_02_17">
 <l>dantaprabhādalitakaṇṭhaviṣāndhakāra-</l>
 <l>cchāyasya saṃnidhijuṣaḥ karivaktramūrteḥ|</l>
 <l>ūrdhvekṣaṇānalaruco ghanacīnapiṣṭa-</l>
-<l>dhūlicchaṭā iva mukhe viniveśayantam||17||(kulakam)</l>
+<l>dhūlicchaṭā iva mukhe viniveśayantam||17||</l>
+</lg>
+<p>
+(kulakam)
+</p>
 <pb n="20"/>
+<lg type="verse" xml:id="HV_02_18">
 <l>tasmai praṇamya maṇimauliviṭaṅkakoṭi-</l>
 <l>ṭaṅkāhatikvaṇitakāñcanapādapīṭham|</l>
 <l>śailādinā nataśiraḥsu nivediteṣu</l>
 <l>teṣūcitāsanaparigrahanirvṛteṣu||18||</l>
 </lg>
-<lg type="verse" xml:id="HV_02_20">
+<lg type="verse" xml:id="HV_02_19">
 <l>ājaghnire svaraviśeṣakṛtāsthamārga-</l>
 <l>citrapracārayatipāṇilayābhirāmāḥ|</l>
 <l>vispaṣṭyavādyavidhayaḥ karaṇānubandha-</l>
-<l>bhājaḥ krameṇa murajāḥ sphuṭamārjanāṅkāḥ||19||(yugalakam)</l>
-<l>atra pāṭhāntaram|</l>
-<l>ājaghnire 'tha murajāḥ</l>
-<l>pravibhaktamārgacitrapracārayatipāṇilayaprapañcāḥ|</l>
-<l>saṃmārjanākaraṇayogavibhaktamārgacetoharābhimatavādyavidhivyavasthāḥ||</l>
+<l>bhājaḥ krameṇa murajāḥ sphuṭamārjanāṅkāḥ||19||</l>
+</lg>
+<p>
+(yugalakam)
+</p>
+<p>
+atra pāṭhāntaram|
+</p>
+
+<lg type="verse" xml:id="HV_02_19p">
+<l>ājaghnire 'tha murajāḥ pravibhaktamārga-</l>
+<l>citrapracārayatipāṇilayaprapañcāḥ|</l>
+<l>saṃmārjanākaraṇayogavibhaktamārga-</l>
+<l>cetoharābhimatavādyavidhivyavasthāḥ||</l>
+</lg>
+
 <pb n="21"/>
+
+<lg type="verse" xml:id="HV_02_20">
 <l>nandīśanirdayakarāhatapuṣkareṣu</l>
 <l>mandraṃ dhvanatsu mujareṣu vibhajya taṇḍuḥ|</l>
 <l>āsāriteṣu parikalpitasaptabheda-</l>
@@ -403,15 +421,20 @@ dvitīyaḥ sargaḥ|
 <l>vinyastamandacaraṇaṃ paricakrame ca</l>
 <l>bhūmaṇḍalaṃ vidalatīti dayānubandhāt||55||</l>
 </lg>
-<lg type="verse" xml:id="HV_02_57">
+<lg type="verse" xml:id="HV_02_56">
 <l>brahmāṇḍakarparaparisphuṭanābhisaṃdhe-</l>
 <l>rūrdhvaṃ viracyata tathā na ca daṇḍapādaḥ|</l>
-<l>itthaṃ na śītakiraṇābharaṇasya nṛttamādhāradurbalatayā</l>
-<l>savilāsamāsit||56|| (taraṅga)yugalakam</l>
+<l>itthaṃ na śītakiraṇābharaṇasya nṛtta</l>
+<l>mādhāradurbalatayā savilāsamāsit||56||</l>
+</lg>
+<p>
+ (taraṅga)yugalakam
+</p>
+<lg type="verse" xml:id="HV_02_57">
 <l>kukṣipraviṣṭasuranirjhariṇītaraṅga-</l>
 <l>jhāṃkāratāraninadairnṛkapālapaṅktiḥ|</l>
-<l>nṛttakriyāsu vidadhāviva sādhuvādaṃ yasyottamāṅgabhuvi</l>
-<l>sātiśayāsvamandam||57||</l>
+<l>nṛttakriyāsu vidadhāviva sādhuvādaṃ </l>
+<l>yasyottamāṅgabhuvi sātiśayāsvamandam||57||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_58">
 <l>ālokitastuhinaśailabhuvā sahāsa-</l>

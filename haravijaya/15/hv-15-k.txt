@@ -57,7 +57,7 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-<div n="15" type="chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" n="15" type="chapter">
 <pb n="198"/>
 <p>
 pañcadaśaḥ sargaḥ

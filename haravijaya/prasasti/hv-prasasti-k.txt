@@ -57,7 +57,7 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-<div n="prasasti" type="chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" n="prasasti" type="chapter">
 <p>(granthakartuḥ praśastiḥ|)</p>
 <lg type="verse" xml:id="HV_P_1">
 <l>śrīdurgadattanijavaṃśahimādrisānu-</l>
@@ -65,7 +65,7 @@
 <l>ratnākaro lalitabandham idaṃ vyadhatta</l>
 <l>candrārdhacūlacaritāśrayacāru kāvyam||1||</l>
 </lg>
-<p xml:id="HV_P_1a">sa kila kavirevamuktavān-</p>
+<p>sa kila kavirevamuktavān-</p>
 <lg type="verse" xml:id="HV_P_2">
 <l>lalitamadhurāḥ sālaṃkārāḥ prasādamanoramā</l>
 <l>vikaṭayamakaśleṣoddhāraprabandhanirargalāḥ|</l>

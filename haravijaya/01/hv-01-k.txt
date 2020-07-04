@@ -57,7 +57,7 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-<div n="01" type="chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" n="01" type="chapter">
 <p>
 prathamaḥ sargaḥ|
 </p>
@@ -261,11 +261,16 @@ prathamaḥ sargaḥ|
 <l>nakṣatrarāśiśabalā iva yatra rathyāḥ||32||</l>
 </lg>
 <pb n="10"/>
-<lg type="verse" xml:id="HV_01_34">
+<lg type="verse" xml:id="HV_01_33">
 <l>āliṅganādaracitasthitirābabhau yā</l>
 <l>patyurvikāsiparikhāvalinīvibandham|</l>
 <l>vistārisālajaghanaṃ parivartamāna-</l>
-<l>nakṣatraratnaraśanāguṇamudvahantī||33|| (iti purīvarṇanam)</l>
+<l>nakṣatraratnaraśanāguṇamudvahantī||33||</l>
+</lg>
+<p>
+(iti purīvarṇanam)
+</p>
+<lg type="verse" xml:id="HV_01_34">
 <l>tāmadhyuvāsa bhuvanānujighṛkṣayātta-</l>
 <l>nirmāṇadehaghaṭanaḥ kṣapitāricakraḥ|</l>
 <l>cakrīva saudhadhavalāṃ bhujagādhirāja-</l>
@@ -420,11 +425,13 @@ prathamaḥ sargaḥ|
 <l>svedodabindunikaraścakare kareṇa</l>
 <l>nirmṛjya sīkarakarālitadiglalāṭāt||58||</l>
 </lg>
-<lg type="verse" xml:id="HV_01_60">
+<lg type="verse" xml:id="HV_01_59">
 <l>līlānatānanatayā pratibimbavarti-</l>
 <l>cūḍāśaśāṅkaśakalaṃ kucamardhabhāge|</l>
 <l>yaḥ paśyati sma dadhataṃ dhutadugdhasindhu-</l>
 <l>kallolalaṅghitasudhākalaśasya līlām||59||]</l>
+</lg>
+<lg type="verse" xml:id="HV_01_60">
 <l>yenādrirājatanayākucamaṇḍalāgra-</l>
 <l>vinyastahastakamalaṃ bibharāṃbabhūve|</l>
 <l>vakṣo himācalaśilāvikaṭaṃ satumba-</l>
