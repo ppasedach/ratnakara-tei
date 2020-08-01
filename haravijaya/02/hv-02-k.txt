@@ -326,7 +326,7 @@ atra pāṭhāntaram|
 <l>tadbāhughūrṇanavalanmṛgarājakṛtti-</l>
 <l>vajrāśriśātanakhakoṭinipātabhītaiḥ|</l>
 <l>digdantibhis tvaritakuñcitajānuparva-</l>
-<l>kharvībhavad vikaṭakumbhataṭair viṣede||40||</l>
+<l>kharvībhavadvikaṭakumbhataṭair viṣede||40||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_41">
 <l>tasyāṅgahārakaraṇākulabāhudaṇḍa-</l>

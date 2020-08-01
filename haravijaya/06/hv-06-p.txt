@@ -689,7 +689,7 @@ tilakam
 
 <lg type="verse" xml:id="HV_06_88">
 <l>pralaye 'pi sarvajagatām avipluta-</l>
-<l>sphuṭasamvidarcir aviluptavaibhavaḥ |</l>
+<l>sphuṭasaṃvidarcir aviluptavaibhavaḥ |</l>
 <l>sphuṭam ūrṇanābha iva raśmisaṃhater</l>
 <l>aṇusampadas tvam asi nātha kāraṇaṃ || 88 ||</l>
 </lg>
