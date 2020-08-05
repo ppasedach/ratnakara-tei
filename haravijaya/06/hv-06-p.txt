@@ -1000,7 +1000,7 @@ yugmam
 </lg>
 
 <lg type="verse" xml:id="HV_06_132">
-<l>sukhavedanāṃrtataraṅgiṇījalair</l>
+<l>sukhavedanāmṛtataraṅgiṇījalair</l>
 <l>abhiṣicyamānavapuṣas tavecchayā |</l>
 <l>vinivṛttim aśnuvata eva sarvato</l>
 <l>bhava cetanatvasamavāyino malāḥ || 132 ||</l>
