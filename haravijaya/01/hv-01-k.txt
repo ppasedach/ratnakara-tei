@@ -71,8 +71,8 @@ prathamaḥ sargaḥ|
 <l>jṛmbhāvikāsitamukhaṃ nakhadarpaṇānta-</l>
 <l>rāviṣkṛtapratimukhaṃ gururoṣagarbham|</l>
 <pb n="3"/>
-<l>rūpaṃ punātu janitāricamūvimarśa-</l>
-<l>m udvṛttadaityavadhanirvahaṇaṃ harer vaḥ||2||</l>
+<l>rūpaṃ punātu janitāricamūvimarśam</l>
+<l>udvṛttadaityavadhanirvahaṇaṃ harer vaḥ||2||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_3">
 <l>paryantavartiparipāṇḍurapattrapaṅkti-</l>
@@ -94,8 +94,8 @@ prathamaḥ sargaḥ|
 </lg>
 <pb n="4"/>
 <lg type="verse" xml:id="HV_01_6">
-<l>jyotīraśāśmabhavanājiradugdhasindhu-</l>
-<l>r atyunmiṣatpracuratuṅgamarīcivīciḥ|</l>
+<l>jyotīrasāśmabhavanājiradugdhasindhur</l>
+<l>atyunmiṣatpracuratuṅgamarīcivīciḥ|</l>
 <l>vātāyanasthitavadhūvadanendubimba-</l>
 <l>saṃdarśanād aniśam ullasatīva yasyām||6||</l>
 </lg>

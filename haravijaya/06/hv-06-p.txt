@@ -1284,7 +1284,7 @@ pañcabhiḥ kulakam
 <l>vivṛtaṃ jagatkavalanaikatṛṣṇayā</l>
 <l>tava tāmratālu mukhamaṇḍalaṃ kṣaye |</l>
 <l>śriyam eti lagnaśatapattrapāṭalaṃ</l>
-<l>sphurad arkabimbam iva dakṣināspadam || 171 ||</l>
+<l>sphurad arkabimbam iva dakṣiṇāspadam || 171 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_06_172">
@@ -1373,7 +1373,7 @@ pañcabhiḥ kulakam
 
 <lg type="verse" xml:id="HV_06_184">
 <l>kṣititoyamārutakṛśānubhānumad-</l>
-<l>gaganāmṛtāṃsuyajamānamūrtaye |</l>
+<l>gaganāmṛtāṃśuyajamānamūrtaye |</l>
 <l>bhavate matidhvanivikalpagocara-</l>
 <l>vyativṛttarūpaparamātmane namaḥ || 184 ||</l>
 </lg>
@@ -1469,7 +1469,7 @@ yugmam
 <lg type="verse" xml:id="HV_06_197">
 <l>iti vacanam udīryāvāṅmukhe tatra tūṣṇīṃ</l>
 <l>sthitavati kṛtapūrvābhyāgamānāṃ tadānīm |</l>
-<l>sapadi gaṇapatīṇāṃ krodhalīlāpravṛttiḥ</l>
+<l>sapadi gaṇapatīnāṃ krodhalīlāpravṛttiḥ</l>
 <l>karatalamalanena kṣuṇṇaratnormikāsīt || 197 ||</l>
 </lg>
 

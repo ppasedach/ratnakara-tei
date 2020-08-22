@@ -247,7 +247,7 @@
 </lg>
 <pb n="88"/>
 <lg type="verse" xml:id="HV_06_29">
-<l>tapanādike vividhalakṣmyamaṇḍale</l>
+<l>tapanādike vividhalakṣyamaṇḍale</l>
 <l>kṛtasaṃyamās tridaśanātha yoginaḥ|</l>
 <l>bhuvanādidhāmasu bhavanty avipluta-</l>
 <l>pratibhātacitrabhavadātmasaṃvidaḥ||29||</l>
@@ -267,7 +267,7 @@
 <lg type="verse" xml:id="HV_06_32">
 <l>kaladhautalakṣaṇa iti pratītimān</l>
 <l>puruṣas tvam ā nakhaśikhaṃ suvarṇakaḥ|</l>
-<l>kathitaḥ kilaupanipadaiś ca pañcadhā</l>
+<l>kathitaḥ kilaupaniṣadaiś ca pañcadhā</l>
 <l>sukhavedanādimayatām upeyitaḥ||32||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_33">
@@ -879,7 +879,7 @@
 <l>tava nātha śaktikalayā niyojitaḥ||130||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_131">
-<l>vivṛṇoty aṣoḍhaparamārthasatsthitiṃ</l>
+<l>vivṛṇoty apoḍhaparamārthasatsthitiṃ</l>
 <l>sthagayaty api sphuritarūpam eva yā|</l>
 <l>na sa māyayā tava tayā viḍambyate</l>
 <l>tvayi yasya bhāvavinibandhanaṃ manaḥ||131||</l>
@@ -918,8 +918,8 @@
 <lg type="verse" xml:id="HV_06_137">
 <l>parimṛṣṭakālikam avāpya hematāṃ</l>
 <l>na yathaiti tāmram iha tāmratāṃ punaḥ|</l>
-<l>vimalīkṛtaṃ sadaṇutattvam icchayā</l>
-<l>tava nātha na rcchati tatha svavāsanām||137||</l>
+<l>vimalīkṛtaṃ sad aṇutattvam icchayā</l>
+<l>tava nātha na rcchati tathā svavāsanām||137||</l>
 </lg>
 <pb n="98"/>
 <lg type="verse" xml:id="HV_06_138">
@@ -957,7 +957,7 @@
 <l>amanaskayogagatisaṃśitavratair</l>
 <l>yad avāpyate kila nirañjanaṃ padam|</l>
 <l>nirupaplavāṃ ca dadhad ātmani sthitiṃ</l>
-<l>hava nāntarīyakam anugrahasya tat||143||</l>
+<l>bhava nāntarīyakam anugrahasya tat||143||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_144">
 <l>sphuṭayogadharmajanitād anugrahāt</l>
@@ -968,8 +968,8 @@
 <lg type="verse" xml:id="HV_06_145">
 <l>abhimānakāryam iti yan na kathyate</l>
 <l>na bibhartti śabdaguṇatāṃ yad avyayam|</l>
-<l>na ca yatra visphurati tārakagaṇo</l>
-<l>gatir asti yatra na navasvataḥ kvacit||145||</l>
+<l>na ca yatra visphurati tārakāgaṇo</l>
+<l>gatir asti yatra na nabhasvataḥ kvacit||145||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_146">
 <l>yad anāvṛtatridaśakārmukāṅkitaṃ</l>
@@ -1002,7 +1002,7 @@
 <lg type="verse" xml:id="HV_06_150">
 <l>avibheda eva kila dharmadharmiṇoḥ</l>
 <l>pṛthag asti vṛttir iha nāpi vṛttimān|</l>
-<l>tadabhāvam eva bhava cetaso 'pare</l>
+<l>tad abhāvam eva bhava cetaso 'pare</l>
 <l>kathayanti yogam aviruddhavartinaḥ||150||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_151">
@@ -1107,14 +1107,14 @@
 <lg type="verse" xml:id="HV_06_167">
 <l>sakalaṃ kalāvirahitaṃ plavojjhitaṃ</l>
 <l>nirupaplavaṃ bahirupaplavasthitim|</l>
-<l>sthitam adhvanaḥ ṣaḍavadher uparyato</l>
+<l>sthitam adhvanaḥ ṣaḍavadher upary ato</l>
 <l>vyativṛttaśāntam anaghaṃ śivaṃ param||167||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_168">
 <l>pratibhādvayātigam ameyatādika-</l>
 <l>sphuṭadharmayogam anupākhyatāṃ gatam|</l>
 <l>aṇum ādidevam anaṇuṃ ca sarvato-</l>
-<l>mukhamūrdhapāṇicaraṇakṣaṇaṃ vibhum||168||</l>
+<l>mukhamūrdhapāṇicaraṇekṣaṇaṃ vibhum||168||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_169">
 <l>nirupaplavasthitinijāṅgadīpita-</l>
@@ -1138,7 +1138,7 @@
 <l>sphurad arkabimbam iva dakṣiṇāspadam||171||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_172">
-<l>pṛthujūṭabandhabhujagadhipasphurat-</l>
+<l>pṛthujūṭabandhabhujagādhipasphurat-</l>
 <l>phaṇacakravālamaṇiraśmirañjitaḥ|</l>
 <l>śirasi sthitaḥ śriyam asau tanoti te</l>
 <l>dhṛtasāṃdhyarāga iva bālacandramāḥ||172||</l>
@@ -1209,7 +1209,7 @@
 <l>sasurāsurasya jagataḥ śaraṇyatāṃ</l>
 <l>bhavato gatasya caraṇāmbujadvayam|</l>
 <l>janatā namaty avanatāpi kutracid</l>
-<l>dhruvam āśuśukṣaṇiśikhena naity adhaḥ||183||</l>
+<l>dhruvam āśuśukṣaṇiśikheva naity adhaḥ||183||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_184">
 <l>kṣititoyamārutakṛśānubhānumad-</l>
@@ -1220,13 +1220,13 @@
 <lg type="verse" xml:id="HV_06_185">
 <l>sudhiyo 'pi nātha matiśabdagocarās</l>
 <l>tvayi na sthitiṃ vidadhatīha kalpanāḥ|</l>
-<l>uṇaleśasūktiṣu yataḥ stuto mayā</l>
+<l>guṇaleśasūktiṣu yataḥ stuto mayā</l>
 <l>satṛṣāpi tadvyavasitād viramyate||185||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_186">
 <l>atidūravṛttir api yena dṛśyase</l>
 <l>nahi rūpyase 'ntikagato 'pi yena vā|</l>
-<l>pratijṛmbhate suraguroranugrahaḥ</l>
+<l>pratijṛmbhate suraguror anugrahaḥ</l>
 <l>sa viparyayaś ca tava kena hetunā||186||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_187">
@@ -1243,7 +1243,7 @@
 </lg>
 <lg type="verse" xml:id="HV_06_189">
 <l>sahasā vilocanavinākṛtaṃ purā</l>
-<l>puruṣaṃ purāṇapuruṣāt tvadutthitam|</l>
+<l>puruṣaṃ purāṇapuruṣāt tvad utthitam|</l>
 <l>kṣayakālakālarajanīmukhocchvasat-</l>
 <l>timiraughabījam iva nātha śuśruma||189|| </l>
 </lg>
@@ -1288,14 +1288,14 @@
 <l>nityānubandhayugapatsthitibandhahetoḥ||195||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_196">
-<l>tatprāptakālamiha yat kuru tat tvam anva-</l>
-<l>gāyāta eva harir eṣa salokapālaḥ|</l>
+<l>tat prāptakālam iha yat kuru tat tvam anvag</l>
+<l>āyāta eva harir eṣa salokapālaḥ|</l>
 <l>saṃsārasāgaram api sphuṭam uttitīrṣor</l>
 <l>ekaḥ plavas tvam anaghaḥ kim utārtiduḥkham||196||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_197">
-<l>iti vacanam udīryāvāṅmukhe tatra tuṣṇīṃ</l>
-<l>sthitavati kṛtapūrvābhyagamānāṃ tadānīm|</l>
+<l>iti vacanam udīryāvāṅmukhe tatra tūṣṇīṃ</l>
+<l>sthitavati kṛtapūrvābhyāgamānāṃ tadānīm|</l>
 <l>sapadi gaṇapatīnāṃ krodhalīlāpravṛttiḥ</l>
 <l>karatalamalanena kṣuṇṇaratnormikāsīt||197||</l>
 </lg>
