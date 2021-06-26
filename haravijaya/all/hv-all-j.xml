@@ -1243,7 +1243,7 @@ tṛtīyaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_03_79">
 <l>srutamado girikānanavartmani pratikarīti karīrakulākule|</l>
-<l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l> 
+<l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l>
 </lg>
 <p>[iti śarat]</p>
 <lg type="verse" xml:id="HV_03_80">
@@ -3344,7 +3344,7 @@ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_06_157">
 <l>paripūritākhilaparāparātmaka-</l>
-<l>pratibandhaśūnyaphalasaṃvido 'vyayāḥ|</l> 
+<l>pratibandhaśūnyaphalasaṃvido 'vyayāḥ|</l>
 <l>anivāritāmṛtapayaścyuto vibhos</l>
 <l>tava śaktayo bhuvanakāmadhenavaḥ||157||</l>
 </lg>
@@ -18492,35 +18492,32 @@ ratnāṅke haravijaye mahākāvye icaṇḍikāsamarākṣepo nāma
 <lg type="verse" xml:id="HV_47_1">
 <l>saṃgrāmamūrttidalitāsuracakravālām</l>
 <l>ālokya tatra vikasatpulakaprabandhāḥ |</l>
-<l>ābuddhigo<space type="binding-hole"/>carapariḥkṛtavākprapañcāṃ</l>
+<l>ābuddhigo<space type="binding-hole"/>carapariḥkṛtavākprapaṃcāṃ</l>
 <l>saṃtuṣṭavur bhagavatīm iti siddhasādhyāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_2">
-<l>kiṃ citramatra dalitaṃ ripucakravāla-</l>
-<l><pb n="94b">metatvayā janani yatprasabhaṃ raṇāgre |</l>
+<l>kiṃ citramatra dalitaṃ ripucakravāla꣹-</l>
+<l><pb n="94b" />m etat tvayā janani yatprasabhaṃ raṇāgre |</l>
 <l>nirbhiṃdatī bhuvanavarttiniśāṃdhakāram</l>
 <l>āścaryadhāma nahi dīpaśikhā kadācit||</l>
 </lg>
-<!-- 94bl1 -->
 <lg type="verse" xml:id="HV_47_3">
 <l>dorddaṃḍadṛptamanasaḥ subhaṭān nipakṣam</l>
-<l>anye pi yad raṇamukheṣu parāja-@yaṃte |</l>
+<l>anye pi yadd raṇamukheṣu parāja<space type="binding hole"/>yaṃte |</l>
 <l>tac chaktirūpam anaghasthitisaṃśritāyā</l>
-<l>leṣāṃśabhāgaparamāṇuvijṛmbhitaṃ te || 3 ||</l>
+<l>leśāṃśabhāgaparamāṇuvijṛmbhitaṃ te || 3 ||</l>
 </lg>
-
 <lg type="verse" xml:id="HV_47_4">
 <l>daityaiḥ purā suracamūṣu vinirjjitāsu</l>
 <l>tadguptikāraṇavaśād aśamāptaśaktiḥ |</l>
-<l>dhyātvā @ sanātanapadaṃ kila śaṃkareṇa</l>
+<l>dhyātvā<space type="binding hole"/>sanātanapadaṃ kila śaṃkareṇa</l>
 <l>sṛṣṭāsi tatpatitajīvanavaddhavṛttiḥ || 4 ||</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_47_5">
-<l>nistriṃśamudvahasi saṃprati nīlakaṇṭha-</l>
-<l>kaṇṭhaprahbāsadṛśa ityanurāgahetoḥ|</l>
+<l>nistriṃśam udvahasi saṃprati nīlakaṃṭha-</l>
+<l>kaṇṭhaprabhāsadṛśa ity anurāgahetoḥ|</l>
 <l>huṃkārasaṃbhramacalatsakalātatāyi-</l>
-<l>cakrā na jātu raṇalālasayā punastvam||5||</l>
+<l>cakrā na jātu raṇalālasayā punas tvam||5||</l>
 </lg>
 94bl2
 -->
