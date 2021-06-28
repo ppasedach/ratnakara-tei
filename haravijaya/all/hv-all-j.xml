@@ -2357,31 +2357,32 @@ ratnāṅke haravijaye mahākāvye parvatartuvarṇano nāma pañcamaḥ
 sargaḥ|
 </p>
 </div>
+-->
 <div n="06" type="chapter">
+<!-- 11A l1 left -->
 <p>
-ṣaṣṭhaḥ sargaḥ|
+[floral] || cha ||
+<!-- ḷaṃ ळं ? -->
 </p>
 <lg type="verse" xml:id="HV_06_1">
 <l>tam athāndhakāsuranikāraviplutāḥ</l>
-<l>kṛtapūrvasevam abhirāddhamānasam|</l>
+<l>kṛtapūrva<space type="binding-hole"/>sevam abhirāddhamānasam|</l>
 <l>ṛtavo 'bhilakṣyanijalakṣmavigrahāḥ</l>
 <l>śaraṇaṃ yayuḥ śatamakhena coditāḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_2">
-<l>ghanasaurabhānugatabhṛṅgasaṃhatīr</l>
+<l>ghanasaurabhānugatabhṛṅgasaṃhatīr<space type="binding-hole"/></l>
 <l>upadīkṛtā vividhapuṣpamañjarīḥ|</l>
-<l>dadhataḥ karaiḥ kṣitiniviṣṭajānavo</l>
+<l>dadhataḥ kare kṣitiniviṣṭajānavo</l>
 <l>viniveditāḥ savinayena nandinā||2|| </l>
 </lg>
-<p>
- (yugmam)
-</p>
 <lg type="verse" xml:id="HV_06_3">
-<l>praṇipatya cainam atha kāñcanāvani-</l>
+<l>praṇipatya cainam adhikāñcanāvani-</l>
 <l>skhalitotpatanmadhupamuktaśekharāḥ|</l>
 <l>avidūradeśanihitāni bhejire</l>
 <l>tadanujñayā maṇiśilāsanāni te||3||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_06_4">
 <l>atha tān uvāca daśanāṃśunirjhara-</l>
 <l>snapitoṣṭhapallavam idaṃ jagatpatiḥ|</l>
@@ -3605,7 +3606,9 @@ vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye bhagavatstutivarṇano nāma ṣaṣṭhaḥ
 sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="07" type="chapter">
 <pb n="107" />
 <p>
@@ -18505,7 +18508,7 @@ ratnāṅke haravijaye mahākāvye icaṇḍikāsamarākṣepo nāma
 <l>dorddaṃḍadṛptamanasaḥ subhaṭān nipakṣam</l>
 <l>anye pi yadd raṇamukheṣu parāja<space type="binding hole"/>yaṃte |</l>
 <l>tac chaktirūpam anaghasthitisaṃśritāyā</l>
-<l>leśāṃśabhāgaparamāṇuvijṛṃbhitaṃ te || 3 ||</l>
+<l>leṣāṃśabhāgaparamāṇuvijṛmbhitaṃ te || 3 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_4">
 <l>daityaiḥ purā suracamūṣu vinirjjitāsu</l>
