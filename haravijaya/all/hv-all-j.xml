@@ -2365,23 +2365,24 @@ sargaḥ|
 <!-- ḷaṃ ळं ? -->
 </p>
 <lg type="verse" xml:id="HV_06_1">
-<l>tam athāndhakāsuranikāraviplutāḥ</l>
-<l>kṛtapūrva<space type="binding-hole"/>sevam abhirāddhamānasam|</l>
+<l>tam athāṃdhakāsuranikāraviplutāḥ</l>
+<l>kṛtapūrvva<space type="binding-hole"/>sevam abhirāddhamānasam|</l>
 <l>ṛtavo 'bhilakṣyanijalakṣmavigrahāḥ</l>
-<l>śaraṇaṃ yayuḥ śatamakhena coditāḥ||1||</l>
+<l>śaraṇaṃ yayuḥ śatamakhena coditāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_2">
-<l>ghanasaurabhānugatabhṛṅgasaṃhatīr<space type="binding-hole"/></l>
-<l>upadīkṛtā vividhapuṣpamañjarīḥ|</l>
+<l>ghanasaurabhānugatabhṛṃgasaṃhatīr</l>
+<l>upadīkṛtā vividhapuṣpamaṃjarīḥ<space type="binding-hole"/>|</l>
 <l>dadhataḥ kare kṣitiniviṣṭajānavo</l>
-<l>viniveditāḥ savinayena nandinā||2|| </l>
+<l>viniveditāḥ savinayena naṃdinā|</l>
 </lg>
 <lg type="verse" xml:id="HV_06_3">
-<l>praṇipatya cainam adhikāñcanāvani-</l>
+<l>praṇipatya cainam adhikāṃcanāvani-</l>
 <l>skhalitotpatanmadhupamuktaśekharāḥ|</l>
-<l>avidūradeśanihitāni bhejire</l>
-<l>tadanujñayā maṇiśilāsanāni te||3||</l>
+<l>adhidūradeśanihitāni bhejire</l>
+<l>tadanu[hyphen |-]<lb/>jñayā maṇiśilāsanāni te||</l>
 </lg>
+<!-- 11A l2 left -->
 <!--
 <lg type="verse" xml:id="HV_06_4">
 <l>atha tān uvāca daśanāṃśunirjhara-</l>
