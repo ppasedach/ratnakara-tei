@@ -62,50 +62,45 @@
 tṛtīyaḥ sargaḥ|
 </p>
 <lg type="verse" xml:id="HV_03_1">
-<l>atha sa manthagirau saklakartubhirnijaprasavojjvalayā śriyā|</l>
-<l>samamasevi kadācidupāśrito girijayārijayānaghadordrumaḥ||1||</l>
+<l>atha sa manthagirau sakalakartubhir nijanijaprasavojjvalayā śriyā|</l>
+<l>samam asevi kadācid upāśrito girijayārijayānaghadordrumaḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
-<l>madhuparājiparājitamāninījanamanaḥsumanaḥsurabhiśriyam|</l>
+<l>madhuparājiparājitamāninījanamanaḥsumanaḥ surabhiśriyam|</l>
 <l>ābhṛta vāritavarijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat||2||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">
-<l>drutamapāsya yamena niṣevitāmabhinavotkatayeva divākaraḥ|</l>
-<l>diśamaśiśriyadaiḍaviḍāśrayāmasumatāṃ sumatāṃ</l>
-<l>vidadhatsthitim||3||</l>
+<l>drutam apāsya yamena niṣevitām abhinavotkatayeva divākaraḥ|</l>
+<l>diśam aśiśriyad aiḍaviḍāśrayām asumatāṃ sumatāṃ vidadhat sthitim||3||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_4">
-<l>sthitimadhurmadhurāmavalambitastabakadarpaṇapallavapāṇayaḥ|</l>
-<l>satilakojjvalapattralatā gireravanayo vanayogakṛtaśriyaḥ||4||</l>
+<l>sthitim adhur madhurām avalambitastabakadarpaṇapallavapāṇayaḥ|</l>
+<l>satilakojjvalapattralatā girer avanayo vanayogakṛtaśriyaḥ||4||</l>
 </lg>
 <pb n="31"/>
 <lg type="verse" xml:id="HV_03_5">
-<l>kṛtakuśeśayinīrucayo madhuvyatikarādabhimantharagāminaḥ|</l>
-<l>madhuliho divasāśca vadhūrvyadhuḥ</l>
-<l>paravatīravatīrṇamanobhavāḥ||5||</l>
+<l>kṛtakuśeśayinīrucayo madhuvyatikarād abhimantharagāminaḥ|</l>
+<l>madhuliho divasāś ca vadhūr vyadhuḥ paravatīr avatīrṇamanobhavāḥ||5||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_6">
-<l>dhruvamanekarasābhyavahārataḥ kṛtarasāyanasaṃgrahasusthitā|</l>
-<l>madhulihāmasukhāyata saṃatirvṛtimatītimatītya kṛtasthitiḥ||6||</l>
+<l>dhruvam anekarasābhyavahārataḥ kṛtarasāyanasaṃgrahasusthitā|</l>
+<l>madhulihām asukhāyata saṃhatir vṛtimatītim atītya kṛtasthitiḥ||6||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_7">
 <l>madhurayā parapuṣṭagirā śanaiḥ savayaseva sametya madhuśriyā|</l>
-<l>mṛgadṛśo ghaṭitāḥ saha</l>
-<l>vallabhairmudamadhurdamadhuryamanohṛtaḥ||7||</l>
+<l>mṛgadṛśo ghaṭitāḥ saha vallabhair mudam adhur damadhuryamanohṛtaḥ||7||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_8">
 <l>surabhitāṃ dadhati pramadānvito navamadhūpahitatviṣi campake|</l>
-<l>surataharmya ivāracitasthitirnavaratāmbaratāṃ madhupo 'nvabhūt||8||</l>
+<l>surataharmya ivāracitasthitir navaratām baratāṃ madhupo 'nvabhūt||8||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_9">
-<l>kusumitā girikānanabhūmayaḥ kisaslayādharakhaṇḍanalālasaiḥ|</l>
-<l>parabhṛtaiḥ śradadhāyiṣata priyāḥ sumadanā</l>
-<l>madanāditaṣaṭpadāḥ||9||</l>
+<l>kusumitā girikānanabhūmayaḥ kisalayādharakhaṇḍanalālasaiḥ|</l>
+<l>parabhṛtaiḥ śradadhāyiṣata priyāḥ sumadanā madanāditaṣaṭpadāḥ||9||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_10">
 <l>madhurajṛmbhaṇavibhramamādhavīmadhurasāsavapānamadotkaṭāḥ|</l>
-<l>madhuliho vyathayantu malīmasāḥ smarasāhā rasahāsavātīḥ</l>
-<l>striyaḥ||10||</l>
+<l>madhuliho vyathayantu malīmasāḥ smarasahā rasahāsavātīḥ striyaḥ||10||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_11">
 <l>dadhadudañcitapakṣmakarālatāṃ kurabakastabako madhubodhitaḥ|</l>
