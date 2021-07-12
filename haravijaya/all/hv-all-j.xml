@@ -2771,7 +2771,7 @@ sargaḥ|
 <lg type="verse" xml:id="HV_06_66">
 <l>hṛda¦<space type="binding-hole"/>yāraviṃdadalakoṭarodara-</l>
 <l>sphuṭajṛṃbhamāṇaparivarttavibhramaḥ|</l>
-<l>jagato gataḥ prataramaṃtarātmatāṃ</l>
+<l>jagato gataḥ prataram aṃtarātmatāṃ</l>
 <l>kuruṣe gatīs tvam ayanadvayāśrayāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_67">
@@ -2784,7 +2784,7 @@ sargaḥ|
 <l>sphuṭam eka eva vahudhākhyatāṃ gato</l>
 <l>harimūrttināśritapṛthagvi<lb/>꣹dhakriyaḥ|</l>
 <l>jagatī dinartvayanahāyanādikaṃ</l>
-<l>vidadhatvam eva vitapasy abhīsumān|two strokes above and below daṇḍa</l>
+<l>vidadhatvam eva vitapasy abhīsumān|</l>
 <!-- single daṇḍa after pada d; two strokes above and below daṇḍa -->
 </lg>
 <lg type="verse" xml:id="HV_06_69">
@@ -2799,189 +2799,199 @@ sargaḥ|
 <l>dhiṣaṇādayaḥ kila manaḥ purāvidāṃ</l>
 <l>bhavadātmikā viviśur īsa devatāḥ||</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_06_71">
-<l>praviveśa yā kṣapitamohaviplavā</l>
+<l>praviveśa yā kṣapitamohaviplavāḥ</l>
 <l>viviśuś ca yāṃ sakalavedyavedikāḥ|</l>
-<l>apavargamārganibiḍārgalacchidā</l>
-<l>tava vidyayaiti śivatām aṇus tayā||71||</l>
+<l>apavargamārgani<space type="binding-hole"/>viḍārgaḍacchidā</l>
+<l>tava vidyayaiti śivatām aṇus tayā||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_72">
 <l>jagatām anādinidhanasya tasthuṣo</l>
-<l>janakatva eva jananojjhitasthiteḥ|</l>
+<l>janakatvam eva jananojjhitasthiteḥ|</l>
 <l>tava nātha saty api guṇādisaṃbhave</l>
-<l>nahi saṃbhavaty abhijanāśrayā stutiḥ||72||</l>
+<l>na<space type="binding-hole"/>hi saṃbhavaty abhijanāśrayā stutiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_73">
-<l>janatendriyātigaviśuddhagocara-</l>
-<l>dvyaṇukādibandhagatakāryadarśanāt|</l>
-<l>ghaṭakumbhakāravad akārakātmanas</l>
-<l>tava kāraṇatvam anumīyate budhaiḥ||73||</l>
+<l>janateṃdriyātigaviśuddhagocara-</l>
+<l>dvyaṇukādivaṃdhagatakāryadarśanāt|</l>
+<l>ghaṭakuṃbhakāravad akārakātmanas</l>
+<l>tava kāraṇatvam anumīyate budhaiḥ||<!--[bow with stroke]--></l>
 </lg>
 <lg type="verse" xml:id="HV_06_74">
-<l>nijayaiva niṣpratigharūpayecchayā</l>
-<l>vyavahāriṇo 'tiniravagrahātmanaḥ|</l>
+<l><lb/>jayaiva na pratigharūpayecchayā</l>
+<l>vyavahāriṇe 'tiniravagrahātmanaḥ|</l>
 <l>kṛtinaḥ prayojakavinākṛtāṃ vibhos</l>
-<l>tava kartṛtāṃ samagiranta sūrayaḥ||74||</l>
+<l>tatra kartṛtāṃ samagiranta sūrayaḥ||</l>
+<!-- pada a one syllable missing -->
 </lg>
 <lg type="verse" xml:id="HV_06_75">
-<l>dadhato 'dhikāvikalaśaktimaṇḍala-</l>
-<l>sthitirūpatāṃ prathitabhāvavikriyam|</l>
-<l>tava śaktileśa idam uccakair jagat</l>
-<l>kṣubhite guṇatrayamayaṃ kilodabhūt||75||</l>
+<l>didhiṣo 'dhikāvikalaśaktimaṃḍala-</l>
+<l>sthi<space type="binding-hole"/>tirūpatāṃ prathitabhāvavikriyaṃ|</l>
+<l>tava śaktileśa idam uccakair jjagat</l>
+<l>kṣubhite guṇatrayamayaṃ kilodabhūt||</l>
+<!-- i added after sth in sthiti in pada b -->
 </lg>
 <lg type="verse" xml:id="HV_06_76">
-<l>anaghasvaśaktivibhavavyavasthiteḥ</l>
-<l>paśupāśamaṇḍalavilakṣaṇātmanaḥ|</l>
-<l>bhuvanādhinātha bhavataḥ pravartate</l>
-<l>cidacitsvabhāvam iha bhāvamaṇḍalam||76||</l>
+<l>anaghaś ca śaktivibhavavyavasthiteḥ</l>
+<l>paśupāśamaṃḍala<subst><del rend="small cancellation stroke at the left of the anusvāra">ṃ</del></subst>viva¦<space type="binding-hole"/>kṣaṇātmanaḥ|</l>
+<l>bhuvanādhinātha bhavataḥ pravarttate</l>
+<l>cidacitsvabhāvam iha bhāvamaṃḍalaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_77">
-<l>avarugṇagāḍhatimirān marīcibhir</l>
+<l>avaruglagāḍhatimirān marīcibhir</l>
 <l>yugapad vicetanacitaḥ pṛthagvidhāḥ|</l>
-<l>jvalataḥ kaṇā iva vibho vibhāvasor</l>
-<l>bhavataḥ padārthanivahā viniryayuḥ||77||</l>
+<l>jvalataḥ kaṇā iva vibhor vvi¦<lb/>bhāvasor</l>
+<l>bhavataḥ padārthanicayā nidhiniryayuḥ||</l>
+<!-- pada d one syllable too much -->
 </lg>
-<pb n="92" />
 <lg type="verse" xml:id="HV_06_78">
 <l>tava sādbhutātiśayavaibhavasthiter</l>
 <l>api nātha śāśvatikatām upeyuṣaḥ|</l>
 <l>kramayaugapadyaghaṭanāvirodhitāṃ</l>
-<l>sakalārthasaṃpadi na bibhrati kriyāḥ||78||</l>
+<l>sakalārthasaṃpadi na vibhra<!--[bow]--><space type="binding-hole"/>ti kriyāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_79">
-<l>tvam adhiṣṭhitāvikalaśaktimaṇḍalaḥ</l>
+<l>sam adhiṣṭhatāvikalaśaktimaṃḍalaḥ</l>
 <l>sakalaṃ jagat sṛjasi pāsi haṃsi ca|</l>
-<l>sthirapañcamantramayavigrahasthitir</l>
-<l>jananadvayena bhagavan vinākṛtaḥ||79||</l>
+<l>sthirapaṃcamaṃtramayavigrahasthitir</l>
+<l>jananadvayena bhagavan vinākṛtaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_80">
-<l>kṣubhite bhavaty avanitāṃ guhāgatā</l>
-<l>prakṛtiś ca balvajavad utthitā tataḥ|</l>
+<l>kṣubhite¦<space type="binding-hole"/> bhavaty avanitāṃ guhāgatā</l>
+<l>prakṛtiś ca valvajavad utthitā tataḥ</l>
 <l>jagadudbhavārtham itaretarāśraya-</l>
-<l>stimitāś ca rajjuguṇavad guṇāḥ sthitāḥ||80||</l>
+<l>stimitāś ca rajjuguṇavad guṇāḥ sthitāḥ||</l>
+<!-- daṇḍa missing after pada b -->
 </lg>
 <lg type="verse" xml:id="HV_06_81">
 <l>dvyaṇukādiyuktimad aśeṣagocaraṃ</l>
-<l>kṛtavān vicitram iha kāryamaṇḍalam|</l>
-<l>atisūkṣmadṛktvasakalārthaveditā</l>
-<l>vibhutānvitas tvam anumīyase budhaiḥ||81||</l>
+<l>kṛtavān vi<!--[bow]--><lb/>citram iha kāryamaṃḍalaṃ|</l>
+<l>atha sūkṣmadṛktvasakalārthaveditā</l>
+<l>vibhutānvitas tvam anumīyate budhaiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_82">
-<l>vibhurūpayā vikalavastusaṃnidhiḥ</l>
+<l>vibhurūpayā sakalavastusaṃnidheḥ</l>
 <l>prabhurūpayā ca sakalārthakārakaḥ|</l>
-<l>tvam adhīśa śaktikalayā dvidhātmatāṃ</l>
-<l>gatayā vibhāvitacarācarasthitiḥ||82||</l>
+<l>tvam adhī<!--[bow]--><space type="binding-hole"/>śa śaktikalayā dvidhātmatāṃ</l>
+<l>gatayeti bhāvitacarācarasthitiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_83">
-<l>avipannaśaktiguṇagumphitasphurat-</l>
-<l>sphuṭavigrahākṣabhuvanaprasūnayā|</l>
-<l>na kadācana kvacid avāpyata prabho</l>
-<l>prasaropaghātaghaṭanā tavecchayā||83||</l>
+<l>avipannaśaktiguṇaguṃphitasphura-</l>
+<l>sphuṭavigrahākṣabhuvanaprasūtayā|</l>
+<l>na kādācana kvacid avā¦<space type="binding-hole"/>pyata prabhoḥ</l>
+<l>prasaropaghātaghaṭanā tavecchayā||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_84">
 <l>madhukoṣasaṃpuṭavad āhitasthitir</l>
 <l>gahanā guhā guhapitas tvayā kṛtā|</l>
 <l>sthitibhedam eti na kadācid uccakaiḥ</l>
-<l>sakalāmalāṇugaṇabandhamandirā||84||</l>
+<l>samalāmalāṇugaṇavaṃdha¦<lb/>maṃdirā||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_85">
-<l>vasudhā vibhāvayati bījam uccakair</l>
-<l>anaghaṃ yathāvibhavam aṅkurātmanā|</l>
-<l>sakalasvabhāvakaraṇaṃ tathehitaṃ</l>
-<l>tava nātha sarvam iha bhāvamaṇḍalam||85||</l>
+<l>vasudhādi bhāvayati vījam uccakair</l>
+<l>anaghaṃ yathāvidhvatam aṃkurātmanā|</l>
+<l>sakalasvabhāvakaraṇe tathehitaṃ</l>
+<l>tava nātha sarvvam iha bhāvamaṇḍalam||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_86">
-<l>apare punaḥ prathitaśaktisaṃgraha-</l>
-<l>grathitātmanaḥ prakṛtitattvato 'vyayāt|</l>
-<l>dhiṣaṇādikāryapaṭalaṃ pravartate</l>
-<l>tadabhinnarūpam iti saṃpracakṣate||86||</l>
+<l>apare punaḥ sakalaśaktisaṃgra<space type="binding-hole"/>ha-</l>
+<l>grathitātmanaḥ| prakṛtitattvato 'vyayāt|</l>
+<l>dhiṣaṇādikāryapaṭalaṃ pravarttate</l>
+<l>tadabhinnarūpa iti saṃpracakṣate||</l>
+<!-- two single daṇḍas in pada b -->
 </lg>
 <lg type="verse" xml:id="HV_06_87">
 <l>nijakāryacakraghaṭane hy acetanaṃ</l>
-<l>pratipadyate kim iva vastu kartṛtām|</l>
-<l>kathayanty ataḥ prabhavahetum īśvaraṃ</l>
-<l>bhavināṃ bhavantam iha citkriyātmakam||87||</l>
+<l>pratipadyate<!--[bow]-->¦<space type="binding-hole"/> kim iva vastu kartṛtāṃ||</l>
+<l>kathayaṃty ataḥ prabhavahetum īśvaraṃ</l>
+<l>bhavināṃ bhavaṃtam iha citkriyātmakam|</l>
+<!-- double daṇḍa after pada b; single daṇḍa after pada d -->
 </lg>
 <lg type="verse" xml:id="HV_06_88">
-<l>pralaye 'pi sarvajagatām avipluta-</l>
+<l>pralaye 'pi sarvvajagatām avipluta-</l>
 <l>sphuṭasaṃvidarcir aviluptavaibhavaḥ|</l>
-<l>sphuṭam ūrṇanābha iva raśmisaṃhater</l>
-<l>aṇusaṃpadas tvam asi nātha kāraṇam||88||</l>
+<l>sphuṭam ūrṇṇanābha iva ra<lb/>smisaṃhater</l>
+<l>aṇusaṃpadas tvam asi nātha kāraṇaṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_89">
 <l>jagadekakāraṇam akāraṇātmakaṃ</l>
-<l>vibhum avyayaṃ guṇadaśāvinākṛtam|</l>
-<l>kathayanti nātha puruṣaṃ sadharmatāṃ</l>
-<l>gatam īśvarasya bhavataḥ kilāpare||89||</l>
+<l>vibhum avyayaṃ guṇadaśāvinākṛtaṃ|</l>
+<l>kathayaṃti nātha puruṣaṃ sadharmmatāṃ</l>
+<l>gatam īśvarasya bhavataḥ kilāpa<space type="binding-hole"/>re||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_90">
 <l>prakṛtīśvarobhayacidādiceṣṭita-</l>
-<l>prathitaprapañcarahitānupādhikam|</l>
+<l>prathitaprapaṃcarahitānupāvikam|</l>
 <l>apare pramādvitayaniścitaṃ punas</l>
-<l>tritayātmakaṃ samudayaṃ pracakṣate||90||</l>
+<l>tritayātmakaṃ<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> samudayaṃ pracakṣate||</l>
 </lg>
-<pb n="93" />
 <lg type="verse" xml:id="HV_06_91">
-<l>anapekṣitāvikalakāraṇāntaraṃ</l>
-<l>bhavinām uśanti bhava janma kevalam|</l>
-<l>apare 'pavargada nisargavādinaḥ</l>
-<l>śikhipicchasaṃsthitivad āttaviplavāḥ||91||</l>
+<l>anapekṣitāvi<space type="binding-hole"/>kalakāraṇāṃtaraṃ</l>
+<l>bhavinām uśaṃti bhava janma kevalaṃ|</l>
+<l>apare 'pavarggada nisargavādinaḥ</l>
+<l>śikhipicchasaṃsthita<subst><del rend="cancellation stroke through and at the bottom of the visarga">ḥ</del></subst>vad āṃtaviplavāḥ||</l>
+<!-- i added after kh in śikhipiccha° in pada d -->
 </lg>
 <lg type="verse" xml:id="HV_06_92">
-<l>pralayodayavyatikarānupaplutaṃ</l>
-<l>śuciśabdatattvam apare punar viduḥ|</l>
-<l>pariṇāmarūpam iha yasya dṛśyate</l>
-<l>bhava bhāvamaṇḍalam idaṃ carācaram||92||</l>
+<l>praṇayodayavyatikarām upaplutī</l>
+<l>śuciśavdatatvam apare pu¦<lb/>꣹nar vviduḥ||</l>
+<l>pari<space type="binding-hole"/>ṇāmarūpam iha yasya dṛśyate</l>
+<l>bhava bhāvamaṃḍalam idaṃ carācaraṃ|</l>
+<!-- double daṇḍa after pada b; single daṇḍa after pada d -->
 </lg>
 <lg type="verse" xml:id="HV_06_93">
-<l>samayāntare 'py aghaṭamānakalpanā-</l>
-<l>trayabāhyavastuviṣayāvamardinaḥ|</l>
-<l>apare viśāradadhiyo jagatsthitiṃ</l>
-<l>suranātha saṃvidam uśanti kevalam||93||</l>
+<l>samayāṃtare 'py aghaṭamānakalpanāṃ|</l>
+<l>trayavāhyavastuviṣayāvamardinaḥ|</l>
+<l>apare visāradadhiyo jagat<space type="binding-hole"/>sthitiḥ</l>
+<l>suranātha saṃvidam usaṃti kevalaṃ||</l>
+<!-- single daṇḍa after pada a -->
 </lg>
 <lg type="verse" xml:id="HV_06_94">
 <l>ubhayātmakagrahaviviktacetaso</l>
-<l>vyavalambya mādhyamikadarśanasthitim|</l>
-<l>sthiratattvaniścayadhiyo 'bhimanvate</l>
-<l>kṛtakṛtyatāṃ tava guṇena rañjitāḥ||94||</l>
+<l>vyavalaṃvya mādhyamikadarśanasthitiṃ|</l>
+<l>sthiratatvaniścaladhiyo꣹ <pb n="13a" />'bhimanvate</l>
+<l>kṛtakṛtyatāṃ tava guṇena raṃjitāḥ|</l>
+<!-- single daṇḍa after pada d -->
 </lg>
 <lg type="verse" xml:id="HV_06_95">
-<l>aṇum āhur aindriyakam eva kecana</l>
+<l>anum āhur aiṃdriyakam eva kecada</l>
 <l>tvadanugrahonmiṣitasaṃvidarciṣaḥ|</l>
-<l>apare tv anaindriyakam eva viplavād</l>
-<l>abhimānam īśvara tadātmakaṃ viduḥ||95||</l>
+<l>apare tv anaiṃdriyakam eva viplavād</l>
+<l>atimānam īśvara tadātmakaṃ va<space type="binding-hole"/>puḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_96">
-<l>na bahiḥ śarīraparimāṇato 'ṇv api</l>
-<l>kvacanāpi cittvam iha jātu lakṣyate|</l>
-<l>iti niścitāḥ kṛtadhiyaḥ pare vyadhus</l>
-<l>tava śāśvatatvavibhūtāviparyayam||96||</l>
+<l>na vahiḥ śarīraparimāṇato 'gvāpi</l>
+<l>kvanāpi citvam iha jānu lakṣyate||</l>
+<l>iti niścayāḥ kṛtadhiyo 'pare bhyavus</l>
+<l>tava śāccatatvavibhutāviparyayaṃ||</l>
+<!-- double daṇḍa after pada b -->
 </lg>
 <lg type="verse" xml:id="HV_06_97">
-<l>vyavaluptamohagahanās tvadicchayā</l>
-<l>bhagavan bhavantam avadātadarśanāḥ|</l>
-<l>bahudhātmatattvam apare pracakṣate</l>
-<l>kaṇabhakṣajaiminidigambarādayaḥ||97||</l>
+<l>vyavaluptamohagaha¦<space type="binding-hole"/>nās tvadicchayā|</l>
+<l>bhagavan bhavaṃtam avadātadarśanāḥ|</l>
+<l>vahudhātmatatvapare pracakṣate</l>
+<l>kaṇabhakṣajaiminidigaṃvarādayaḥ||</l>
+<!-- single daṇḍa after pada a; syllable missing in pada c -->
 </lg>
 <lg type="verse" xml:id="HV_06_98">
 <l>apare salakṣaṇavilakṣaṇātmatā-</l>
-<l>grathitānavasthamanujohavṛttayaḥ||</l>
-<l>bhavato 'stitām anudayādihetubhir</l>
-<l>bhagavann apāhnuvata nāstikāśayāḥ||98||</l>
+<l>grathitānavasthamanujohavṛttayaḥ|</l>
+<l>bha<lb/>vato 'stitām anudayādihetubhir</l>
+<l>bhagavann upāhnuvata nāstikāśayāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_99">
 <l>pratipannabhinnaparikalpakāraṇa-</l>
-<l>pratibhājavañjavavirāmabhāvanāḥ|</l>
-<l>śivamārgam adhyavasasur na kecana</l>
-<l>plutacetaso bhavadanugrahojjhitāḥ||99||</l>
+<l>pratibhājavaṃjavavirāmabhāvanāḥ|</l>
+<l>śivamārgamadhyam aviśan na kecana</l>
+<l>pluta¦<space type="binding-hole"/>cetaso bhavadanugrahojjhitāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_100">
 <l>bhagavaty anugrahaparāṅmukhe sati</l>
-<l>pratipadya mārgam api taṃ durāsadam|</l>
-<l>adhigacchati kvacid aṇur na kiṃcana</l>
-<l>sthirapañcaparvaṇi viparyaye sthitaḥ||100||</l>
+<l>pratipadya mārgam api taṃ durāsadaṃ|</l>
+<l>adhigacchati kvacid adaṃ na kiṃcana</l>
+<l>sthitapaṃcaparvvaṇi viparyaye¦<space type="binding-hole"/> sthitaḥ||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_06_101">
 <l>api yatnato 'dhigatatattvamaṇḍala-</l>
 <l>prakṛtipratānagahanādiko nṛṇām|</l>
