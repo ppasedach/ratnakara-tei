@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>[Jaisalmer]</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="siglum">J</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Jaisalmer 408. XXX FIX HEADER XXX</summary>
+            <msItem n="1" defective="true">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Ratnākara</author>
+              <title xml:lang="sa">Haravijaya</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī script.</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="pothi">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="digital">
+              <extent>
+              <measure quantity="something" unit="we need here" />
+              </extent>
+</supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1228">1228</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">Patan</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2021-06-17">
+        <persName>Peter Pasedach</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
