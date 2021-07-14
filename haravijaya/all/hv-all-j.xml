@@ -67,7 +67,7 @@ sametam|
 <div n="01" type="chapter">
 <p>
 <pb n="1b" />||oṃ namaḥ sarvvajñāya||
-<p/>
+</p>
 <lg type="verse" xml:id="HV_01_1">
 <l>kaṃṭhaśriyaṃ kuvalayastavakābhirāma-</l>
 <l>dāmānukārivikaṭacchavikālakūṭaṃ|</l>
@@ -471,7 +471,9 @@ vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye purāripurīvarṇano nāma prathamaḥ
 sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="02" type="chapter">
 <p>
 dvitīyaḥ sargaḥ|
