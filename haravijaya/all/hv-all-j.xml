@@ -3004,7 +3004,7 @@ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_06_103">
 <l>prakṛtin na cetayata evaṃ kiṃcana</l>
-<l>tridaśādhinātha puruṣo 'py adāsitā|</l>
+<l>tridaśādhinātha puruṣo 'py adāsit<subst><del>a</del><add rend="wavy hook above t">ā</add></subst></l>
 <l>tad anugrahe prathitacetanaḥ kriyāḥ</l>
 <l>kuruṣe tvam eva kila bhuktimuktidaḥ||</l>
 </lg>
@@ -3132,7 +3132,7 @@ sargaḥ|
 <lg type="verse" xml:id="HV_06_123">
 <l>karaṇātmatām upagatena sarvvataḥ</l>
 <l>śrutivartmanāgrata iha nātha sādhyate|</l>
-<l>sahasiddham eva tam uśaṃti sūraya<subst><del rend="cancelled with strokes">ḥ</del><add place="right-margin">s</add></subst></l>
+<l>sahasiddham eva tam uśaṃti sūraya<subst><del rend="cancelled with strokes">ḥ</del><add>s</add></subst></l>
 <l>tava dharmmam īśa nirupaplutasthitiṃ<space type="binding-hole"/>||</l>
 <!-- pada b one syllable too much -->
 </lg>
@@ -3179,26 +3179,25 @@ sargaḥ|
 <l>parato na bhoktum alam ātmagocarāt</l>
 <l>tava nātha śaktikalayā niyojitaḥ||</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_06_131">
-<l>vivṛṇoty apoḍhaparamārthasatsthitiṃ</l>
+<l>vivṛṇoty apoḍhaparamārthasatsthi<space type="binding-hole"/>tiḥ</l>
 <l>sthagayaty api sphuritarūpam eva yā|</l>
-<l>na sa māyayā tava tayā viḍambyate</l>
-<l>tvayi yasya bhāvavinibandhanaṃ manaḥ||131||</l>
+<l>na sa māyayā vita tayā꣹ <lb/>viḍaṃvyate</l>
+<l>tvayi yasya bhāvavinivaṃdhanaṃ manaḥ||</l>
 </lg>
-<pb n="97" />
 <lg type="verse" xml:id="HV_06_132">
-<l>sukhavedanāmṛtataraṅgiṇījalair</l>
+<l>sukhavedanāmṛtataraṅg<!-- looks like dg in MS -->iṇījalair</l>
 <l>abhiṣicyamānavapuṣas tavecchayā|</l>
-<l>vinivṛttim aśnuvata eva sarvato</l>
-<l>bhava cetanatvasamavāyino malāḥ||132||</l>
+<l>vinivṛttim aśnuvata eva sarvvato</l>
+<l>bhava cetanatvasamavāyino malā<space type="binding-hole"/>ḥ||132||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_133">
 <l>pratipannaśāktavibhavāḥ prasādinā</l>
 <l>bhavatā cirād anugṛhītaciddṛśaḥ|</l>
 <l>upapattidhāmasu na teṣu teṣv amī</l>
-<l>bhagavan bhavanti phalabhogino 'ṇavaḥ||133||</l>
+<l>bhagavan bhavaṃti phalabhāgino꣹ <lb/>'ṇavaḥ||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_06_134">
 <l>tvayi nātha dharmajaladatvam īyuṣi</l>
 <l>sravati prakāmam amṛtaṃ guhāśaye|</l>
