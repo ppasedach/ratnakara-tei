@@ -1337,15 +1337,19 @@ tṛtīyaḥ sargaḥ|
 <l>āsīcakāra suradaityahaṭhāpahāra-¦</l>
 <l><lb/>bhītyeva ratnapaṭalāni guhāgṛheṣu||10</l>
 </lg>
-<lg type="verse" xml:id="HV_04_13">
+<lg type="verse" xml:id="HV_04_11">
 <l>rolaṃvasaṃkulakarāladalāraviṃda-</l>
 <l>saṃvaddhahaṃsavalayāmalasiṃdhutoyaṃ|</l>
 <l>siddhāvaruddhamaṇikaṃdaragāḍharāsa-</l>
 <l>saṃraṃbhaghorahariṇārigaṇābhirā¦<space type="binding-hole"/>maṃ||</l>
+</lg>
+<lg type="verse" xml:id="HV_04_12">
 <l>kallolabhaṃgaghaṭitaprativiṃvacakram</l>
 <l>aikṣiṣṭa yaṃ pṛthuni kūrmmakapāṭapṛṣṭhe<subst><add rend="small stroke above ṣṭhe">|</add></subst></l>
 <l>tuṃgaṃ vibhajya vahudheva vapurbhramaṃta-</l>
 <l>māloḍanāya jaladheḥ suradaityalokaḥ||</l>
+</lg>
+<lg type="verse" xml:id="HV_04_13">
 <l>yasminbhra¦<space type="binding-hole"/>matyanuvivarttanaviplavārtta-</l>
 <l>kūrmmādhirājakarajodhṛtaratnaṣaṃḍaiḥ|</l>
 <l>vicchāyatā bhujagarājaphaṇairarugṇa-</l>
@@ -1431,28 +1435,27 @@ tṛtīyaḥ sargaḥ|
 <l>vaddhāṃdhakāra¦<lb/>gahanātanusānukuṃjaṃ||25</l>
 <!-- V25 acc. to the scribe but actually V26 -->
 </lg>
-<lg type="verse" xml:id="HV_04_28">
 <p>
 piśācabhāṣāsamāveśaḥ||
 </p>
+<lg type="verse" xml:id="HV_04_27">
 <l>āvaddhavāsukiphaṇāgaṇaphūtkṛtāgni-</l>
 <l>tāpasphuṭadvikaṭakoṭiśikhāśmakūṭaṃ|</l>
 <l>kodaṃḍam iṃdumukuṭaḥ svabharakṣamaṃ ya<space type="binding-hole"/>m</l>
 <l>ādhāya dānavapurīḥ kila nirvvibheda||</l>
+</lg>
 <p>
 yugmaṃ||
 </p>
+<lg type="verse" xml:id="HV_04_28">
 <l>bhettuṃ purāsurapurīḥ parameśvareṇa</l>
 <l>vāṇāśanīkṛtatanuḥ pratanotyabhikṣām|</l>
 <l>yo 'dyāpyamuktabhujagādhipadīrghabhoga-<space type="binding-hole"/></l>
 <l>jyāvaṃdhavaṃdhura iva śrutanirjjharāmbhāḥ||</l>
 </lg>
-<lg type="verse" xml:id="HV_04_28b">
-<!-- xml:id? -->
+<lg type="verse" xml:id="HV_04_29">
 <l>cāpātmanaḥ śaśikalābharaṇārdhabhāga-</l>
 <l>lagnādrijākarasarojaniviṣṭam uṣṭaiḥ|</l>
-</lg>
-<lg type="verse" xml:id="HV_04_29">
 <!-- <l>cāpatmanaḥ śaśikalābharaṇārdhabhaga-</l>
 <l>lagnādrijākarasarojaniviṣṭamuṣṭeḥ|</l> -->
 <l>yasyoragādhipaguṇena ghanābhyaghāni</l>
