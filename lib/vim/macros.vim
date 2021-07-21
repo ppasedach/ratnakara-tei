@@ -13,3 +13,11 @@ let @p='`>a</p>`<i<p>'
 let @l='`>a</supplied>`<i<supplied>'
 
 `>a}`<i\textsanskrit{%
+
+"Join two lines of <l>
+let @j='0JF<vf>;c €' 
+
+"Wrap a clear line with <l> </l>
+let @l='V`>a</l>`<i<l>j'
+
+?xmlvt>y;a pip
