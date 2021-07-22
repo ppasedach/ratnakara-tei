@@ -92,8 +92,7 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_8">
 <l>yenābhayaṃ nirjayanamramūrtervidveṣiṇaḥ saṃyugamūrdhni dattvā|</l>
-<l>harāṭṭahāsacchavi dikpuraṃdhrīpaṭṭāṃśukaṃa cāru yaśo</l>
-<l>gṛhītam||8||</l>
+<l>harāṭṭahāsacchavi dikpuraṃdhrīpaṭṭāṃśukaṃa cāru yaśo gṛhītam||8||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_9">
 <l>ākarṇakṛṣṭātanucāpamuktā nipetivāṃso yudhi yasya bāṇāḥ|</l>
@@ -103,23 +102,30 @@ navamaḥ sargaḥ|
 <l>prakāśitāśeṣadiśekṣaṇeṣu kālāñjanaṃ matsarikāminīnām|</l>
 <l>ciraṃ yaśaścandrikayāndhakāramāropya roṣādiva yasya bhagnam||10||</l>
 </lg>
-<lg type="verse" xml:id="HV_09_12">
+<lg type="verse" xml:id="HV_09_11">
 <l>ābhāṣamāṇasya gabhīraghoṣaṃ dantaprabhā tasya mukhaṃ tadānīm|</l>
-<l>vibhūṣayāmāsa viniṣpatantī jyotsneva bimbaṃ</l>
-<l>paripūrṇamindoḥ||11|| (daśabhiḥ kulakam)</l>
-<l>%p.alaṃ tavābhyunnatadhariyavṛtteḥ saṃrambhitāmetya kṛśe 'pi</l>
-<l>kārye|</l>
+<l>vibhūṣayāmāsa viniṣpatantī jyotsneva bimbaṃ paripūrṇamindoḥ||11|| </l>
+</lg>
+<p xml:id="HV_09_11p">
+(daśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_09_12">
+<pb n="130"/>
+<l>alaṃ tavābhyunnatadhariyavṛtteḥ saṃrambhitāmetya kṛśe 'pi kārye|</l>
 <l>saṃbhāvyate kiṃ kalaviṅkapakṣaravābhighātena kulādrikampaḥ||12||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_13">
 <l>jyākṛṣṭicakrīkṛtakārmukasya samādhibhaṅge madanasya dīptā|</l>
-<l>tāreva saṃrambhavatastṛtīyā vipatkarī yasya babhūva</l>
-<l>dṛṣṭiḥ||13||</l>
+<l>tāreva saṃrambhavatastṛtīyā vipatkarī yasya babhūva dṛṣṭiḥ||13||</l>
 </lg>
-<lg type="verse" xml:id="HV_09_15">
+<lg type="verse" xml:id="HV_09_14">
 <l>bibharti gurvīṃ jagato dhuraṃ yaḥ sargasthitipratyavahārakārye|</l>
-<l>asmiñśaraṇye 'pi surāsurāṇāṃ sthite 'tra vo brūta</l>
-<l>kimākulatvam||14|| (yugmam)</l>
+<l>asmiñśaraṇye 'pi surāsurāṇāṃ sthite 'tra vo brūta kimākulatvam||14|| </l>
+</lg>
+<p xml:id="HV_09_14p">
+(yugmam)
+</p>
+<lg type="verse" xml:id="HV_09_15">
 <l>manye nimīlannayanāravindametadvibhoḥ pañcamamasya vaktram|</l>
 <l>jagaddhitādeva na kiṃcidanyaddhyeyātmanaścintayatīndumauleḥ||15||</l>
 </lg>
@@ -137,16 +143,54 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_19">
 <l>ambhodharaśyāmalamardhabhāganiṣaṇṇanārāyaṇavaktrabimbam|</l>
-<l>lalāṭavedīśikhisāndradhūmacchāyāparāmṛṣṭa ivaiti</l>
-<l>lakṣmīm||19||</l>
+<l>lalāṭavedīśikhisāndradhūmacchāyāparāmṛṣṭa ivaiti lakṣmīm||19||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_20">
 <l>sāndrībhavatyutkaṭakālakūṭacchāyānuviddhāñjanamecakaśrīḥ|</l>
-<l>avyañjitānulbaṇabhāgasaṃdhiḥ kaṇṭhāntarasya</l>
-<l>cchavirullasantī||20||</l>
+<l>avyañjitānulbaṇabhāgasaṃdhiḥ kaṇṭhāntarasya cchavirullasantī||20||</l>
 </lg>
-<pb n="132"/>
+<pb n="131"/>
+<lg type="verse" xml:id="HV_09_21">
+<l>śiraḥsthalabhraṃśisurasravantīniṣevanābhyāgatahaṃsalīlām|</l>
+<l>śarīrabhāgāntarapāṇipadmabaddhapratiṣṭho 'ñcati pāñcajanyaḥ || 21 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_22">
+<l>sthitiṃ vidhatte sabhayā kathāṃcidvakṣasthalārdhe vinimīlitākṣī|</l>
+<l>vilambihāroragaphūtkṛtā|gnijvālātaḍidvisphuraṇeṣu lakṣmī || 22 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_23">
+<l>saṃpreritārdhasya ca vakṣaso 'ntaḥ śarīrabhāgeṇa jagatsaśampam |</l>
+<l>sampādayaddīdhiticakravālaṃ tucchatvam āgacchati kaustubhasya || 23 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_24">
+<l>ṭaṅkāhatoṣṇadyutimaṇḍalotthasphuliṅgasantāna ivābhiramaḥ |</l>
+<l>hāroragāṇāṃ phanaratnakhaṇḍas tasyaiva dhatte parivāralīlām || 24 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_25">
+<l>prakṣālyate 'ntarviniguḍhanābhihradapratiṣṭhāmbujabījakoṣaḥ |</l>
+<l>pīṭhaḥ sasatkāram ivābjayoneḥ kukṣipraviṣṭodadhivīcibhaṅgaiḥ || 25 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_26">
+<l>trayo 'pi lokāḥ pratipattum aikyam arhanti mūrtyor anayor itīva |</l>
+<l>vivakṣayodeti nigūḍhasaṃdhibhāgā valīnāṃ tritayasya lakṣmīḥ || 26 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_27">
+<l>ity eṣa miśrīkṛtakaiṭabhāriśarīrabhāgo vibhutāviśeṣam |</l>
+<l>vyanakti lokatritaye 'py aśeṣam ananyasādhāraṇatām upetam || 27 ||</l>
+</lg>
+<p xml:id="HV_09_27p">
+(daśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_09_28">
+<l>grāsīkṛtānantaphaṇāprakāṇḍair jvālākalāpaiḥ sphuritaṃ kṛśānoḥ |</l>
+<l>visrabdham ārabdhasitāravindasahasrahomair iva vāḍavasya || 28 ||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_29">
+<l>jvālāvalībhiḥ kaladhautaśailaśilonnatābhiḥ kṛtatāpayoccaiḥ |</l>
+<l>gabhīrarandhrodarasaṃpraviṣṭakulādrikūṭaṃ sphuṭitaṃ dharitryā || 29 ||</l>
+</lg>
 <lg type="verse" xml:id="HV_09_30">
+<pb n="132"/>
 <l>vilīyamānāsu himasthalīṣu tuṣāraśailasya vanāni dagdhum|</l>
 <l>ṭāṃkāratārāravaraudrahetirbhavatyavāptaprasaraḥ kathaṃcit||30||</l>
 </lg>
@@ -160,8 +204,7 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_33">
 <l>śaśāṅkabimbaṃ prathamāvalagnadhumacchaṭāvibhramalakṣmalekham|</l>
-<l>viṣyandisāndrāmṛtabaddhadugdhadhārāhutiḥ pluṣyati</l>
-<l>viplutārciḥ||33||</l>
+<l>viṣyandisāndrāmṛtabaddhadugdhadhārāhutiḥ pluṣyati viplutārciḥ||33||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_34">
 <l>tārākulaṃ sāndraśikhāsahastratāmrātapāpāditapiṅgimārāt|</l>
@@ -169,32 +212,27 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_35">
 <l>māñjiṣṭharāgāruṇacāmaraughaviḍambibhirbhītamarudvidhūtaiḥ|</l>
-<l>śikhāśataistatkṣaṇapārśvalagnairdahatyamandaprasaraḥ</l>
-<l>surendram||35||</l>
+<l>śikhāśataistatkṣaṇapārśvalagnairdahatyamandaprasaraḥ surendram||35||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_36">
 <l>caturmukhasyātanukarṇikāgrakarālaparyantavidhūrṇitārciḥ|</l>
-<l>bhasmīkaroti kṣaṇadīprarūpapakṣmacchdaṃ</l>
-<l>viṣṭarapuṇḍarīkam||36||</l>
+<l>bhasmīkaroti kṣaṇadīprarūpapakṣmacchdaṃ viṣṭarapuṇḍarīkam||36||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_37">
 <l>iti kramadbhasmamayaṃstrilokīmanekaśo 'muṃ pralayāgameṣu|</l>
 <l>uddhūlanāvibhramabhūticarcāsaṃpādanenopacacāra vahniḥ||37||</l>
 </lg>
+<p xml:id="HV_09_37p">(daśabhiḥ kulakam)</p>
 <lg type="verse" xml:id="HV_09_38">
-<l>(daśabhiḥ kulakam)</l>
-<l>rasātale gāḍhaniveśitāṅghriḥ</l>
-<l>kiṃciddha???rābandhurakaṃdharāgraḥ|</l>
-<l>sasauṣṭhavaṃ pṛṣṭhapuṭaṃ bibharti kūrmaḥ</l>
-<l>samāropitamandarādriḥ||38||</l>
+<l>rasātale gāḍhaniveśitāṅghriḥ kiṃcidbharābandhurakaṃdharāgraḥ|</l>
+<l>sasauṣṭhavaṃ pṛṣṭhapuṭaṃ bibharti kūrmaḥ samāropitamandarādriḥ||38||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_39">
 <l>anyonyaviddhāṅgulicakravāladordaṇḍamadhye bhramato murāreḥ|</l>
-<l>śailasya tatpārśvavighaṭṭanena</l>
-<l>prakoṣṭharatnābharaṇairviśīrṇam||39||</l>
+<l>śailasya tatpārśvavighaṭṭanena prakoṣṭharatnābharaṇairviśīrṇam||39||</l>
 </lg>
-<pb n="133"/>
 <lg type="verse" xml:id="HV_09_40">
+<pb n="133"/>
 <l>vibhānti saṃdānitadandaśūkavikṛṣyamāṇasya gireḥ sudhārdrāḥ|</l>
 <l>vighūrṇamānapratimāchalena taraṅgabhaṅgā iva mathyamānāḥ||40||</l>
 </lg>
@@ -208,8 +246,7 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_43">
 <l>surāsurākarṣaṇaghūrṇamānamanthācalāghātaviśīryamāṇā|</l>
-<l>taraṅgapaṅktiḥ śaraṇārthinīva gṛhṇāti vegena</l>
-<l>diśaścatastraḥ||43||</l>
+<l>taraṅgapaṅktiḥ śaraṇārthinīva gṛhṇāti vegena diśaścatastraḥ||43||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_44">
 <l>uttasthuṣīṃ toyanidheśca lakṣmīṃ cetovikalpaiḥ pariripsunārāt|</l>
@@ -219,14 +256,16 @@ navamaḥ sargaḥ|
 <l>vaikuṇṭhadordaṇḍadṛḍhopagūḍhā vivepate mandaraśailamūrtiḥ|</l>
 <l>kauśeyasaṃkāśanitambabhittivistraṃsamānāmalanirjharāmbhāḥ||45||</l>
 </lg>
-<lg type="verse" xml:id="HV_09_47">
+<lg type="verse" xml:id="HV_09_46">
 <l>kṣaṇaṃ dadhānāmṛtalābhagarbhavisrambhasaṃbhāvanavipralambham|</l>
 <l>saṃvāditadvalguguṇābhyudeti surādhipānāṃ dayitā sarisrut|46||</l>
+</lg>
+<lg type="verse" xml:id="HV_09_47">
 <l>uttiṣṭhati prāṃśunavapravālavalīnikuñjagrathitā muhūrtam|</l>
 <l>lekhāmalā dhūrjaṭijūṭakoṭinivāsayogyāmiva kurvatīndoḥ||47||</l>
 </lg>
-<pb n="134"/>
 <lg type="verse" xml:id="HV_09_48">
+<pb n="134"/>
 <l>māṇikyapuṣpoccayalagnanārīkacāgrasaṃkrāntimivāruṇatvam|</l>
 <l>pravālavallivalayeṣu bibhratsalīlamuttiṣṭhati pārijātaḥ||48||</l>
 </lg>
@@ -236,13 +275,16 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_50">
 <l>nirdahyamāno bhiṣajeva kiṃcitsthānāntareṣvaurvahutāśanena|</l>
-<l>uccaiḥśravā dhūtasaṭāsahastraḥ savegamuttiṣṭhati</l>
-<l>vīcimadhyāt||50||</l>
+<l>uccaiḥśravā dhūtasaṭāsahastraḥ savegamuttiṣṭhati vīcimadhyāt||50||</l>
 </lg>
-<lg type="verse" xml:id="HV_09_52">
+<lg type="verse" xml:id="HV_09_51">
 <l>śaśāṅgagaurādapi dugdhasindhorabhyudgataḥ śyāmarucirviṣaughaḥ|</l>
-<l>grāsīkṛtaḥ kaṇṭhagato 'sya dhatte</l>
-<l>prabhābhirindīvaradāmalīlām||51|| (caturdaśabhiḥ kulakam)</l>
+<l>grāsīkṛtaḥ kaṇṭhagato 'sya dhatte dīvaradāmalīlām||51|| </l>
+</lg>
+<p xml:id="HV_09_51p">
+(caturdaśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_09_52">
 <l>cakrībhavanmaṇḍalamuṣṇaraśmerindośca dhatte pṛthurandhramadhyam|</l>
 <l>āsannadaityendravināśavalgadutpātaśaṃsīva bhayaṃkaratvam||52||</l>
 </lg>
@@ -252,16 +294,14 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_54">
 <l>cakrīkṛtoṣṇāṃśuśikhākṛśānuhetipratānāhitapākakāṣṭhā|</l>
-<l>saśailakīlā vasudhā rathatvamāpāditā gāḍhamupaiti</l>
-<l>dārḍhyam||54||</l>
+<l>saśailakīlā vasudhā rathatvamāpāditā gāḍhamupaiti dārḍhyam||54||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_55">
 <l>vrajannagastyena purārkamārgarurutsayā vṛddhimalaṃ niruddhaḥ|</l>
 <l>rupāntareṇāmbaravartma bhūyo ruṇaddhi vindhyācalavaṃśaketuḥ||55||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_56">
-<l>madhyaṃ samuṣṭigrahasauṣṭhavaṃ ca kṛśīkṛtaṃ</l>
-<l>vāsukibhogakāṣaiḥ|</l>
+<l>madhyaṃ samuṣṭigrahasauṣṭhavaṃ ca kṛśīkṛtaṃ vāsukibhogakāṣaiḥ|</l>
 <l>dadhannatāntobhayakūṭakoṭiḥ kodaṇḍadaṇḍatvamupaiti śailaḥ||56||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_57">
@@ -279,18 +319,16 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_60">
 <l>ākṛṣṭāniḥśeṣakulādrikūṭaniṣpeṣadakṣakṣayakālaraṃhāḥ|</l>
-<l>mahāsurīṇāṃ hṛdayaiḥ karoti kampaṃ</l>
-<l>marutpuṅkhapatattrapaṅkteḥ||60||</l>
+<l>mahāsurīṇāṃ hṛdayaiḥ karoti kampaṃ marutpuṅkhapatattrapaṅkteḥ||60||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_61">
 <l>ityeṣa eva praṇavapratodavirañcisārathyasanāthamekaḥ|</l>
 <l>rathāgramāsthāya sumeruketuṃ puratrayīṃ bhasmamayīṃ cakāra||61||</l>
 </lg>
+<p xml:id="HV_09_61p">(daśabhi kulakam)</p>
 <lg type="verse" xml:id="HV_09_62">
-<l>(daśabhi kulakam)</l>
 <l>abhyuddhatāmarṣadurīkṣyamūrterjvalatkarālānalahetipiṅgam|</l>
-<l>samullasantī bhrukuṭistṛtīyaṃ dāhāya tīvraṃ nudatīva</l>
-<l>cakṣuḥ||62||</l>
+<l>samullasantī bhrukuṭistṛtīyaṃ dāhāya tīvraṃ nudatīva cakṣuḥ||62||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_63">
 <l>ploṣāvalagnasya vapuṣyudagrajvālājaṭālasya vilocanāgreḥ|</l>
@@ -298,16 +336,14 @@ navamaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_09_64">
 <l>lalāṭapaṭṭekṣaṇatārakaughātsaṃdhyāghanādvidyudivotpatantī|</l>
-<l>saṃbhāvitā dṛṣṭinimīlanena na vīkṣituṃ</l>
-<l>piṅgarucojjvalārciḥ||64||</l>
+<l>saṃbhāvitā dṛṣṭinimīlanena na vīkṣituṃ piṅgarucojjvalārciḥ||64||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_65">
-<l>dagdhe 'sya kāme nayanāgninetthaṃ krodhaḥ prasādaśca tathā</l>
-<l>jajṛmbhe|</l>
+<l>dagdhe 'sya kāme nayanāgninetthaṃ krodhaḥ prasādaśca tathā jajṛmbhe|</l>
 <l>aṅgeṣu lāvaṇyasudhāhradeṣu yathā sa lebhe padamaṅganānām||65||</l>
 </lg>
+<p xml:id="HV_09_65p">(kalāpakam)</p>
 <lg type="verse" xml:id="HV_09_66">
-<l>(kalāpakam)</l>
 <pb n="136"/>
 <l>saṃbhrāntadevāsurasaptalokadāhopaśāntyarthamivāmbunāthāḥ|</l>
 <l>vīcicchaṭāghaṭṭanaghoraghoramanyonyamuddāmarayā ghaṭante||66||</l>
@@ -324,8 +360,8 @@ navamaḥ sargaḥ|
 <l>ityasya kālo 'pi vilaṅghitājñaḥ saṃdhukṣitaḥ kopahutāśanena|</l>
 <l>babhāra dāvānaladahyamānaparijvalanmekalaśailalīlām||69||</l>
 </lg>
+<p xml:id="HV_09_69p">(kalāpakam)</p>
 <lg type="verse" xml:id="HV_09_70">
-<l>(kalāpakam)</l>
 <l>saṃvartameghamalinacchavikālakūṭa-</l>
 <l>cchāyāchalena bhuvanapralayāgameṣu|</l>
 <l>ābhātyayaṃ kavalitākhilasaptaloka-</l>
@@ -341,7 +377,7 @@ navamaḥ sargaḥ|
 <l>saṃdehamohaviratirgahaneṣu kṛtya-</l>
 <l>vastuṣvapoḍhatamasāmapi no matīnām|</l>
 <pb n="137"/>
-<l>asyāmalā. hkila dhiyo vicaranti yena|</l>
+<l>asyāmalāḥ kila dhiyo vicaranti yena|</l>
 <l>tāsāmuparyupari citraviśeṣaṇiṣṭhāḥ||72||</l>
 </lg>
 <lg type="verse" xml:id="HV_09_73">
