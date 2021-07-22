@@ -3782,7 +3782,7 @@ saptamaḥ sargaḥ|
 <l>diṇḍeḥ sphuliṅgakaṇikāḥ saruṣaḥ kiradbhi-</l>
 <l>ranyonyapāṇimalanotthitadhūmadigdhaiḥ|</l>
 <l>nāploṣi dhūrjaṭisadaḥ kathamapyathaurva-</l>
-<l>sa.vmāditāṃ vidadhataḥ paruṣākṣipātaiḥ||26||</l>
+<l>saṃvāditāṃ vidadhataḥ paruṣākṣipātaiḥ||26||</l>
 </lg>
 <lg type="verse" xml:id="HV_07_27">
 <l>viṣyandamānaghanagharmakaṇāvakīrṇa-</l>
@@ -3846,11 +3846,13 @@ saptamaḥ sargaḥ|
 <l>reje 'mbarīṣamiva nirgatavahniheti-</l>
 <l>paṅktipratiṣṭhadhavalodaralājagarbham||36||</l>
 </lg>
-<lg type="verse" xml:id="HV_07_38">
+<lg type="verse" xml:id="HV_07_37">
 <l>dīrghaṃ viniḥśvasati tindukinīprasūna-</l>
 <l>vispaṣṭapāṭaladṛśi triśikhe samanyau|</l>
 <l>āsannameva bhuvanapralayāvatāra-</l>
-<l>mābaddhavepathuramanyata rājalokaḥ||37||+</l>
+<l>mābaddhavepathuramanyata rājalokaḥ||37||</l>
+</lg>
+<lg type="verse" xml:id="HV_07_38">
 <l>keyūracakradalanocchaladindranīla-</l>
 <l>khaṇḍāvalī karatalābhihatāṃsabhitteḥ|</l>
 <l>kālasya kuṭṭimatalāmburuhopahāra-</l>
@@ -3968,10 +3970,9 @@ saptamaḥ sargaḥ|
 <l>bhāgaiḥ kapālisadasīti gaṇādhināthaiḥ||56||</l>
 </lg>
 <lg type="verse" xml:id="HV_07_57">
-<l>%pj.117</l>
+<pb n="117" />
 <l>pratyāsīdatpārṣadaśvāsahelākṣiptakṣmābhṛtkūṭaṭāṃkāraghorā|</l>
-<l>gaurībhartuḥ kliṣṭasatvā sabhā sā dadhre</l>
-<l>kalpāpāyavelānukāram||57||</l>
+<l>gaurībhartuḥ kliṣṭasatvā sabhā sā dadhre kalpāpāyavelānukāram||57||</l>
 </lg>
 <lg type="verse" xml:id="HV_07_58">
 <l>vispaṣṭamuṣṭikarasaṃkarapiṣṭahāra-</l>
@@ -3988,7 +3989,7 @@ saptamaḥ sargaḥ|
 <lg type="verse" xml:id="HV_07_60">
 <l>krodhodgatākṛśakṛśānuśikhāsahasra-</l>
 <l>niryāsabhāsvaritarukṣakaṭākṣamokṣaiḥ|</l>
-<l>tryakṣākṛtiḥ kṣaṇamadīpi jagattrayorlkā-</l>
+<l>tryakṣākṛtiḥ kṣaṇamadīpi jagattrayolkā-</l>
 <l>daṇḍairiva tridaśasaṃbhramamākṣipadbhiḥ||60||</l>
 </lg>
 <lg type="verse" xml:id="HV_07_61">
