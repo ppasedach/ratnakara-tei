@@ -74,11 +74,16 @@ daśamaḥ sargaḥ|
 <l>krauñcādrikuñjavivarotthitahaṃsayūtha-</l>
 <l>mārgānusararabhasādiva diṅmukheṣu||2||</l>
 </lg>
-<lg type="verse" xml:id="HV_10_4">
+<lg type="verse" xml:id="HV_10_3">
 <l>vispaṣṭagaurakarasūtrasudhāmayūkha-</l>
 <l>rekhāmṛṇālaśakalaspṛhayevva nāke|</l>
 <l>yasyāni'saṃ dhavalapakṣabalena kīrti-</l>
-<l>haṃsī savibhramamiti bhramati trilokyām||3|| (yugalakam)</l>
+<l>haṃsī savibhramamiti bhramati trilokyām||3|| </l>
+</lg>
+<p xml:id="HV_10_3p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_10_4">
 <l>gaṇḍasthalaṃ samiti yasya vipakṣabhaṅga-</l>
 <l>rāgotthapīnapulakābharaṇaṃ babhāse|</l>
 <l>lakṣmyā vicumbitamivādhiśayānayāṃsa-</l>
@@ -121,12 +126,17 @@ daśamaḥ sargaḥ|
 <l>ādhūya kopaśithilīkṛtabhogibaddha-</l>
 <l>jūṭaṃ śirolulitapiṅgajaṭākalāpam||10||</l>
 </lg>
-<lg type="verse" xml:id="HV_10_12">
+<lg type="verse" xml:id="HV_10_11">
 <l>dantaprabhādhavalabhāsamanekamārga-</l>
 <l>vṛttiṃ manoharapadojjvalavarṇahaṃsām|</l>
 <pb n="140"/>
 <l>gāmbhīryasindhughaṭitāṃ giramujjagāra</l>
-<l>jahnurbhagīrathasutāmiva vahnigarbhaḥ|11|| (ekādaśabhiḥ kulakam)</l>
+<l>jahnurbhagīrathasutāmiva vahnigarbhaḥ|11|| </l>
+</lg>
+<p xml:id="HV_10_11p">
+(ekādaśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_10_12">
 <l>vākyaṃ prabhāmaya yaditthamudāttamāttha</l>
 <l>tenābhidhātumadhunāhamapi pravṛttaḥ|</l>
 <l>sarvo 'nubhāvagarimā sa mukhānilasya</l>
@@ -244,8 +254,8 @@ daśamaḥ sargaḥ|
 <l>gāḍhopagūhanarasādiva bāhuyugmam||30||</l>
 </lg>
 <lg type="verse" xml:id="HV_10_31">
-<l>adyāpi śaiśavabhṛtā damitasya yena śalyāyate śirasi</l>
-<l>kāliyapannagasya|</l>
+<l>adyāpi śaiśavabhṛtā damitasya yena </l>
+<l>śalyāyate śirasi kāliyapannagasya|</l>
 <l>vinyastapādabharabhagnamudaṃśumāla-</l>
 <l>mantaḥsphuratpṛthuphaṇāmaṇicakravālam||31||</l>
 </lg>
@@ -262,11 +272,16 @@ daśamaḥ sargaḥ|
 <l>sā yasya ṣoḍaśanitambavatīsahastra-</l>
 <l>gāḍhopagūhanavaśena nipīḍitā śrīḥ||33||</l>
 </lg>
-<lg type="verse" xml:id="HV_10_35">
+<lg type="verse" xml:id="HV_10_34">
 <l>so 'nekanāskinikurambapuraṃdhriloka-</l>
 <l>vaktrābjahāsaghaṭanāravimbimbacakraḥ|</l>
 <l>kālakrameṇa harirapyaribhaṅgaśauṇḍa-</l>
-<l>dordaṇḍadṛptamanaso ditijāñjaghāna||34|| (caturdaśabhiḥ kulakam)</l>
+<l>dordaṇḍadṛptamanaso ditijāñjaghāna||34|| </l>
+</lg>
+<p xml:id="HV_10_34p">
+(caturdaśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_10_35">
 <l>kāryeṣu kālamusalānuguṇavyavastha-</l>
 <l>mabhyetya tiṣṭhati ciraṃ taralāpi lakṣmīḥ|</l>
 <l>sālaktakaṃ caraṇamambujakhaṇḍagarbha-</l>
@@ -318,7 +333,7 @@ daśamaḥ sargaḥ|
 <lg type="verse" xml:id="HV_10_43">
 <l>abhyutpatañjalabhṛtaḥ stanato nihantuṃ</l>
 <l>kiṃ vikrameṇa vinipātaphalena kuryāt|</l>
-<l>%pj.146</l>
+<pb n="146"/>
 <l>paryastadānajalakuñjarakumbhapīṭha-</l>
 <l>kuṭṭākakoṭikarajakrakaco 'pi siṃhaḥ||43||</l>
 </lg>
@@ -328,11 +343,13 @@ daśamaḥ sargaḥ|
 <l>kaḥ saṃprahārarabhasapratiṣedharaukṣya-</l>
 <l>mīśastava pramathanātha girāthavā syāt||44||</l>
 </lg>
-<lg type="verse" xml:id="HV_10_46">
+<lg type="verse" xml:id="HV_10_45">
 <l>niḥsaṃkhyasaṃkhyakuśalapratipakṣapakṣa-</l>
 <l>maghnanmavāniva na nirvṛtimeti śuṣmī|</l>
 <l>aurvāgnirekamapi tiṣṭhati kiṃ muhūrta-</l>
 <l>mudvīcimaṇḍalamabhasmamayanpayodhim|45||</l>
+</lg>
+<lg type="verse" xml:id="HV_10_46">
 <l>śulī vikīrṇaśikhi śūlamidaṃ vikṛṣya</l>
 <l>śārṅga ca saṃgaramukhesu rathāṅgapāṇiḥ|</l>
 <l>cakrīkṛtatanudhanustarasā bhavāṃśca</l>

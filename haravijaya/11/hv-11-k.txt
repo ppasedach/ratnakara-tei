@@ -111,11 +111,16 @@ ekādaśaḥ sargaḥ|
 <l>aṃsopadhānabhujatalpaniviṣṭayeva</l>
 <l>lakṣmyārpitaṃ nijakarādvikacāravindam||8||</l>
 </lg>
-<lg type="verse" xml:id="HV_11_10">
+<lg type="verse" xml:id="HV_11_9">
 <l>utsarpidarpajādhisphuradūrmisaṃgha-</l>
 <l>saṃghaṭṭaghorataraghoṣanibhāravaśrīḥ|</l>
 <l>līlāvivṛttanijadehabharāvarugṇa-</l>
-<l>ratnāsanāśithilasaṃdhiridaṃ babhāṣe||9|| (yugalakam)</l>
+<l>ratnāsanāśithilasaṃdhiridaṃ babhāṣe||9|| </l>
+</lg>
+<p xml:id="HV_11_9p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_11_10">
 <l>satyaṃ girā tava vibhūṣita eva nīti-</l>
 <l>mārgo nisargagahano 'pi gaṇendra guryvā|</l>
 <l>ekaiva sā jalanidherudiyāya candra-</l>
@@ -159,11 +164,16 @@ ekādaśaḥ sargaḥ|
 <l>gaṇḍūṣasekavisarai raṇakānaneṣu||16||</l>
 </lg>
 <pb n="151"/>
-<lg type="verse" xml:id="HV_11_18">
+<lg type="verse" xml:id="HV_11_17">
 <l>tasyāpi nāma bhavataḥ sakalārthaśāstra-</l>
 <l>tattvāvagāhanagabhīramatipragalbham|</l>
 <l>ākarṇya vākyamamarā nayamārgaśāli</l>
-<l>śaṅke bhavanti saviśeṣaraṇābhilāṣāḥ||17||(kalāpakam)</l>
+<l>śaṅke bhavanti saviśeṣaraṇābhilāṣāḥ||17||</l>
+</lg>
+<p xml:id="HV_11_17p">
+(kalāpakam)
+</p>
+<lg type="verse" xml:id="HV_11_18">
 <l>uddāmadānavavarūthavatīsamīka-</l>
 <l>saṃmardayogyamaparaṃ kṣitipīṭhapṛṣṭam|</l>
 <l>nirmitsyamānamiva paśya hariṃ saroṣa-</l>
@@ -497,11 +507,16 @@ ekādaśaḥ sargaḥ|
 <l>hārāṃllunīhi paripiṇḍḍhi mithaḥ karāgra-</l>
 <l>yugmaṃ jahi kṣititalaṃ paṭupārṣṇighātaiḥ||71||</l>
 </lg>
-<lg type="verse" xml:id="HV_11_73">
+<lg type="verse" xml:id="HV_11_72">
 <l>āsphālayāṃsaśiharaṃ śikharānukāri</l>
 <l>garjābhranādamukharasthiti bhinddhi dhairyam|</l>
 <l>itthṃ vṛthā viphalamatsaramīhamāna-</l>
-<l>metanna saṃprati vibhāti sadaḥ smarāreḥ||72|| (yugalakam)</l>
+<l>metanna saṃprati vibhāti sadaḥ smarāreḥ||72|| </l>
+</lg>
+<p xml:id="HV_11_72p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_11_73">
 <l>na bhrūvibhaṅgaracanā vadane na cāṃsa-</l>
 <l>deśāhatirna daśanacchadadaṃśayogaḥ|</l>
 <l>krodhānubhāvaghaṭanena vinā kṣaye 'gni-</l>
