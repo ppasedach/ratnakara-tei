@@ -968,7 +968,7 @@ tṛtīyaḥ sargaḥ|
 <l>tadabhidhāya tamānaya satvaraṃ madhuravādini tattaditi striyaḥ |</l>
 <l>rasaniyuktasakhīvacanāgatapriyatamāyatamānamuco 'bhavan||12||</l>
 </lg>
-<p>(tilakam)</p>
+<p xml:id="HV_03_12p">(tilakam)</p>
 <lg type="verse" xml:id="HV_03_13">
 <pb n="32" />
 <l>jaraṭhapaṅkajabījasamatviṣo madhu nipātumabhiprajagalbhire|</l>
@@ -980,8 +980,7 @@ tṛtīyaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_03_15">
 <l>sarasamantharatāmarasādarabhramarasajjalayā nalinī madhau|</l>
-<l>jaladhidevatayā sadṛśīṃ śriyaṃ</l>
-<l>sphuṭatarāgatarāgarucirdadhau||15||</l>
+<l>jaladhidevatayā sadṛśīṃ śriyaṃ sphuṭatarāgatarāgarucirdadhau||15||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_16">
 <l>caramapādavidhūtarajaḥ kaṇaprakaradhūsarapakṣatisaṃpuṭaḥ|</l>
@@ -1025,8 +1024,7 @@ tṛtīyaḥ sargaḥ|
 <l>maruti saurabhaśālini nābhavansarati ke ratikelirasākulāḥ||25||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_27">
-<l>vikacapattrapuṭaṃ surabhiśriyaḥ</l>
-<l>sarasavibhramakāñcanacūrṇavaśīkṛtāḥ|</l>
+<l>vikacapattrapuṭaṃ surabhiśriyaḥ sarasavibhramakāñcanacūrṇavaśīkṛtāḥ|</l>
 <l>mumudire parirambhasokhocchvasannijavadhūjavadhūtatanuklamāḥ||27||</l>
 </lg>
 <pb n="34" />
@@ -1093,7 +1091,7 @@ tṛtīyaḥ sargaḥ|
 <l>jitamahaṃ sukumāratayānayā praticikīrṣu śirīṣamitīkṣitam|</l>
 <l>atiruṣeva viyogavatīṃ śūcaṃ sarasahāsadalaṃ sadalambhayāt||42||</l>
 </lg>
-<p>[iti grīṣmaḥ]</p>
+<p xml:id="HV_03_42p">[iti grīṣmaḥ]</p>
 <lg type="verse" xml:id="HV_03_43">
 <l>dadhati yatra payodharapaṅktayo giriśakaṇṭharuciṃ jalamantharāḥ|</l>
 <l>sa kṛtapānthavdhūjanavepathu rasamayaḥ samayaḥ sma vijṛmbhate||43||</l>
@@ -1125,8 +1123,7 @@ tṛtīyaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_03_50">
 <l>sphuritaśakraśarāsanahāriṇā kalayatā caturaṅgabalaśriyam|</l>
-<l>ka iva te 'nuṛtorjitabhūbhṛtā ghanacayena ca ye na</l>
-<l>vaśīkṛtāḥ||50||</l>
+<l>ka iva te 'nuṛtorjitabhūbhṛtā ghanacayena ca ye na vaśīkṛtāḥ||50||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_51">
 <l>saharigopakamaikṣata bhūtalaṃ vrajamivāñcitalāṅgalikaṃ janaḥ|</l>
@@ -1169,7 +1166,7 @@ tṛtīyaḥ sargaḥ|
 <l>hariradāgra ivotthitakalike glapitamānatamā nabhasi sthite|</l>
 <l>kamiva nāma na bāhulatāntatraṃ priyatamāyatamānayadīpsitam||60||</l>
 </lg>
-<p>[iti varṣāḥ]</p>
+<p xml:id="HV_03_60p">[iti varṣāḥ]</p>
 <lg type="verse" xml:id="HV_03_61">
 <l>sphuritacārutarāpaghanaśriyā hṛdayanandanaśobhanaveṣayā|</l>
 <l>dayitayeva janaḥ śaradāśrito mudamalaṃ damalaṅghanamācarat||61||</l>
@@ -1249,7 +1246,7 @@ tṛtīyaḥ sargaḥ|
 <l>srutamado girikānanavartmani pratikarīti karīrakulākule|</l>
 <l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l> 
 </lg>
-<p>[iti śarat]</p>
+<p xml:id="HV_03_79p">[iti śarat]</p>
 <lg type="verse" xml:id="HV_03_80">
 <l>himaṛtau nalinī nalinānanaśriyamudūḍhamanoramakarṇikām|</l>
 <l>tuhinareṇujarāgamaviplavairvimalitāpakṛtaṃ dadhau||80||</l>
@@ -1263,8 +1260,8 @@ tṛtīyaḥ sargaḥ|
 <l>maruti vāti tuṣārakaṇākule kamiturāhitasītkṛtavibhramā|</l>
 <l>abhimukhaṃ valati sma dhutasphuratkaratalā ratalālasayā vadhūḥ||82||</l>
 </lg>
+<p xml:id="HV_03_82p">[iti hemantaḥ]</p>
 <lg type="verse" xml:id="HV_03_83">
-<l>[iti hemantaḥ]</l>
 <l>samaya eva guṇo 'pyupayujyate saparirambharuciṃ dayitaṃ striyāḥ|</l>
 <l>stanayugoṣmabharaḥ śiśirāgame yadakarodakaroṣṇimagopatau||83||</l>
 </lg>
