@@ -105,10 +105,15 @@ trayodaśaḥ sargaḥ|
 <l>phenacchaṭāpaṭalavibhramamaṭṭahāsam||7||</l>
 </lg>
 <pb n="176"/>
-<lg type="verse" xml:id="HV_13_9">
+<lg type="verse" xml:id="HV_13_8">
 <l>ākopakampitaśirāḥ sahasojjihāsu-</l>
 <l>rāṣṭacchyamāna iva mānimanāstitikṣām|</l>
-<l>vākyaṃ jagāda gaṇanayāntaratattvavedī||8|| (kalāpakam)</l>
+<l>vākyaṃ jagāda gaṇanayāntaratattvavedī||8|| </l>
+<p xml:id="HV_13_8p">
+(kalāpakam)
+</p>
+</lg>
+<lg type="verse" xml:id="HV_13_9">
 <l>prajñāṃ namāmi bhuvaneṣu vicitrarūpā-</l>
 <l>mādyāṃ giraṃ ca sakalavyavahārahetum|</l>
 <l>vaktuṃ yadāśrayavaśena mamāpi dhairya-</l>
@@ -287,11 +292,16 @@ trayodaśaḥ sargaḥ|
 <l>śvāsānilā malinayanti na bāhudaṇḍa-</l>
 <l>darpaśriyo lalitavibhramadarpaṇaṃ vaḥ||37||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_39">
+<lg type="verse" xml:id="HV_13_38">
 <l>śauryaśriyā nahi daridritha saṃyugeṣu</l>
 <l>pāraṃ gatāḥ stha ca dhiyā nayamārgasindhoḥ|</l>
 <l>chinnaṃ kimatra bhavatāṃ yadalīkaśaurya-</l>
-<l>śauṭīryaśātravanikāradaśāṃ sahadhve||38|| (yugmam)</l>
+<l>śauṭīryaśātravanikāradaśāṃ sahadhve||38|| </l>
+</lg>
+<p xml:id="HV_13_38p">
+(yugmam)
+</p>
+<lg type="verse" xml:id="HV_13_39">
 <l>unmūlitakṣitibhṛtāṃ sahasā sahelaṃ</l>
 <l>suskandhatāṃ ca dadhatāmapareritānām|</l>
 <l>vistīrṇamambaramiva pralayānalānāṃ</l>
@@ -341,11 +351,16 @@ trayodaśaḥ sargaḥ|
 <l>mandākinīṃ prathitapuṇyaguṇāṃ vihāya</l>
 <l>ratnākaraṃ ka iva pūrayituṃ kṣamo 'nyaḥ||46||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_48">
+<lg type="verse" xml:id="HV_13_47">
 <l>saṃpaśyato 'ntaramihāsumatāṃ visāri-</l>
 <l>sattvaṃ balādadhikamityapi me vitarkaḥ|</l>
 <l>siṃho nipātayati caṇḍacapeṭayaiva</l>
-<l>pṛṣṭhena tūdvahati kuñjaracakravāla-</l>
+<l>pṛṣṭhena tūdvahati kuñjaram aṣṭapādaḥ||47||</l>
+</lg>
+<lg type="verse" xml:id="HV_13_48">
+<l>gambhīragarjitaravaśravaṇotthabhīti-</l>
+<l>naśyatkuraṅgakakulasya kaālamūrteḥ</l>
+<l>lābho 'sti kaḥ kaṭhinakuñjaracakravāla-</l>
 <l>kumbhasthalīvidalanādaparo mṛgāreḥ||48||</l>
 </lg>
 <lg type="verse" xml:id="HV_13_49">
@@ -552,16 +567,20 @@ trayodaśaḥ sargaḥ|
 <l>abhyāpatatsubhaṭamanmathakṛṣyamāṇa-</l>
 <l>kodaṇḍanirgataśarāśaniluptadhairyam||81||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_83">
+<lg type="verse" xml:id="HV_13_82">
 <l>saṅgrāmavāsagṛhamucchritadantidanta-</l>
 <l>paryaṅkamutpulakamaṇḍalagaṇḍabhittiḥ|</l>
 <l>āliṅganātirabhasena jayaśriyo 'ya-</l>
-<l>madyaiva tāvadadhitiṣṭhatu rājalokaḥ||82|| (kalāpakam)</l>
+<l>madyaiva tāvadadhitiṣṭhatu rājalokaḥ||82|| </l>
+</lg>
+<p xml:id="HV_13_82p">
+(kalāpakam)
+</p>
+<lg type="verse" xml:id="HV_13_83">
 <l>adyāvaskandalīlācalitabalaparisyandakharvīkṛtorvī-</l>
 <l>saṃrambhottambhanāsthonnamitabharanamatkaṃdharāsaṃdhirāstām|</l>
 <pb n="190"/>
-<l>śeṣo 'pi</l>
-<l>sphāraphullatsphuṭaṣṭathulaphaṇātphūtkṛtāgnisphuliṅga-</l>
+<l>śeṣo 'pi sphāraphullatsphuṭaṣṭathulaphaṇātphūtkṛtāgnisphuliṅga-</l>
 <l>sphūrjatsaṃdohasaṃdehitavikaṭaśikhāmaṇḍalīratnaṣaṇḍaḥ||83||</l>
 </lg>
 <p>

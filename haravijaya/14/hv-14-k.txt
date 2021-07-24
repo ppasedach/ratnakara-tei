@@ -102,10 +102,14 @@ caturdaśaḥ sargaḥ|
 <l>stheyasī bhuvanamandirasya digbhittibhāgaracitāñcitasthitiḥ|</l>
 <l>cāruṭaṅkaghaṭanā babhautarāṃ yasya kīrtimaṇisālabhaṅjikā||10||</l>
 </lg>
-<lg type="verse" xml:id="HV_14_12">
+<lg type="verse" xml:id="HV_14_11">
 <l>tasya tatra vadato vacastadā nirgatā daśanaraśmimaṇḍalī|</l>
-<l>jāhnavīva śaśipāṇḍurekatāṃ prāpa</l>
-<l>śaṃbhugalakāntisindhunā||11|| (daśabhiḥ kulakam)</l>
+<l>jāhnavīva śaśipāṇḍurekatāṃ prāpa śaṃbhugalakāntisindhunā||11|| </l>
+</lg>
+<p xml:id="HV_14_11p">
+(daśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_14_12">
 <l>kruddhakālamusalādikīrtitaṃ saṃprahāranayagocaraṃ vacaḥ|</l>
 <l>ūrjitaṃ ca madhuraṃ ca śuśrūvānvaktumabhyadhikamutsaheta kaḥ||12||</l>
 </lg>
@@ -124,8 +128,7 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_16">
 <l>na krudho 'vasara eṣa sāṃprataṃ gāḍhamāndhyagatamo nṛṇāmasau|</l>
-<l>dṛśyatāṃ gaṇapate 'nyayā dṛśā kāryametadatisaṃkaṭe</l>
-<l>sthitam||16||</l>
+<l>dṛśyatāṃ gaṇapate 'nyayā dṛśā kāryametadatisaṃkaṭe sthitam||16||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_17">
 <l>tīkṣṇatāmavihatāṃ dadhānayā bhedapāṭavajuṣā yudhi dviṣām|</l>
@@ -133,8 +136,7 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_18">
 <l>yasya nāmni sahasābhyudīrite saṃbhramajvaraparigrahākulāḥ|</l>
-<l>bibhrati sma virasatvamānanaiḥ śoṣitauṣṭhapuṭatālavaḥ</l>
-<l>surāḥ||18||</l>
+<l>bibhrati sma virasatvamānanaiḥ śoṣitauṣṭhapuṭatālavaḥ surāḥ||18||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_19">
 <l>sapratāpamatitīvratānvitaṃ chāyayaiva surarājamaṇḍalam|</l>
@@ -149,13 +151,19 @@ caturdaśaḥ sargaḥ|
 <l>yaśca śaṅkhamiva kaiṭabhaṃ dviṣansaṃdadhau karatalāśrayaṃ</l>
 <l>yaśaḥ||21||</l>
 </lg>
-<lg type="verse" xml:id="HV_14_24">
+<lg type="verse" xml:id="HV_14_22">
 <l>tādṛśe 'pi suravairiṇīdṛśaṃ spaṣṭamagrahaṇameva bibhratām|</l>
-<l>brūta kiṃ nu bhavatāṃ vibhāvyate dhairyametaduta</l>
-<l>jāḍyajṛmbhitam||22|| (pañcabhiḥ kulakam)</l>
+<l>brūta kiṃ nu bhavatāṃ vibhāvyate dhairyametaduta jāḍyajṛmbhitam||22|| </l>
+<p xml:id="HV_14_22p">
+(pañcabhiḥ kulakam)
+</p>
 <pb n="193"/>
+</lg>
+<lg type="verse" xml:id="HV_14_23">
 <l>sādhyavastuṣu na sāmapūrvakaṃ sādhanaṃ na khalu śasyate budhaiḥ|</l>
 <l>bibhrato bhavati dhīrakopatāmānanaṃ prathamamunmiṣatsmitam||23|</l>
+</lg>
+<lg type="verse" xml:id="HV_14_24">
 <l>kṛtyavastu nipuṇāṃ prasādhayadviplavodayadaśāvinākṛtam|</l>
 <l>viddhi bhedagahanairavasthitaṃ tacca saṃkalitapañcabhaktikam||24||</l>
 </lg>
@@ -165,8 +173,7 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_26">
 <l>mohaviplutadaśaṃ pravartitasvedabindupulakāṅkurotkaram|</l>
-<l>vidviṣāṃ haratu mantra eṣa vaḥ kṣveḍamāpyamiva</l>
-<l>darpavibhramam||26||</l>
+<l>vidviṣāṃ haratu mantra eṣa vaḥ kṣveḍamāpyamiva darpavibhramam||26||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_27">
 <l>darśitāvayavapañcakaṃ kramāttatkaṇavratavineyavibhramāḥ|</l>
@@ -174,16 +181,15 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_28">
 <l>sādhayadbhiravirugṇamīpsitaṃ śāstrahetubhiriva trilakṣmabhiḥ|</l>
-<l>jṛmbhitaṃ jagati yairanargalaṃ vairibhiḥ pratidiśaṃ</l>
-<l>divaukasām||28||</l>
+<l>jṛmbhitaṃ jagati yairanargalaṃ vairibhiḥ pratidiśaṃ divaukasām||28||</l>
 </lg>
 <pb n="194"/>
 <lg type="verse" xml:id="HV_14_29">
 <l>visphuranmaṇikarālamūrdhatāṃ bibhratāmatanumecakatviṣām|</l>
 <l>bhogināmiva na daṇḍaghaṭṭanā nopaghātaghaṭanāya vidviṣām||29||</l>
 </lg>
+<p xml:id="HV_14_29p">(yugalakam)</p>
 <lg type="verse" xml:id="HV_14_30">
-<l>(yugalakam)</l>
 <l>ārirādhayiṣuṇā vṛṣadhvaje yena tīvratapasi sthitātmanā|</l>
 <l>andhakāra iva śītarociṣā dhūmarāśirakṛśaḥ purā pape||30||</l>
 </lg>
@@ -191,11 +197,10 @@ caturdaśaḥ sargaḥ|
 <l>saṃyugeṣu hṛtajīvitāñjavājjīvayanditibhuvo 'pi vidyayā|</l>
 <l>so mṛtapratinidhitvamīyivāṃścintya eva bhṛgunandano 'pi vaḥ||31||</l>
 </lg>
+<p xml:id="HV_14_31p">(yugalakam)</p>
 <lg type="verse" xml:id="HV_14_32">
-<l>(yugalakam)</l>
 <l>āyateṣu hṛdayeṣu śemuṣī mandimānamadhunābhyupāgatā|</l>
-<l>brūta dīpakāṃśakheva kiṃ nu vo lakṣyate</l>
-<l>rabhasaghūrṇanākulā||32||</l>
+<l>brūta dīpakāṃśakheva kiṃ nu vo lakṣyate rabhasaghūrṇanākulā||32||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_33">
 <l>saṃkaṭeṣvadhikameva dhīmatāṃ visphuranti nanu mantraśaktayaḥ|</l>
@@ -207,13 +212,11 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_35">
 <l>avyapāyaphalasādhanāspadaṃ kṣmābhṛtāṃ ciramanujjhitakramaiḥ|</l>
-<l>maṇḍalaṃ jagadivartubhiḥ sphuṭaṃ ṣaḍbhireva parivartyate</l>
-<l>guṇaiḥ||35||</l>
+<l>maṇḍalaṃ jagadivartubhiḥ sphuṭaṃ ṣaḍbhireva parivartyate guṇaiḥ||35||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_36">
 <l>cañcalatvavirasāvisaṃvadatsvāśayānuguṇavṛttitāṃ gatāḥ|</l>
-<l>mūḍhamārgarabhasāhṛtāḥ sphuṭaṃ na śriyo 'pi bahu manvate</l>
-<l>patīn||36||</l>
+<l>mūḍhamārgarabhasāhṛtāḥ sphuṭaṃ na śriyo 'pi bahu manvate patīn||36||</l>
 </lg>
 <pb n="195"/>
 <lg type="verse" xml:id="HV_14_37">
@@ -224,8 +227,12 @@ caturdaśaḥ sargaḥ|
 <l>hrādaheturadhikaṃ raṇeṣu vo yadyapi kvacana bhīmadarśanaiḥ|</l>
 <l>nojjhitā sajalameghamecakaiḥ kīrticandanalatāsibhogibhiḥ||38||</l>
 </lg>
+<lg type="verse" xml:id="HV_14_39">
+<l>yady apīndukarakomalacchaviḥ kīrtir apratimarūpatāṃ gatā|</l>
+<l>kātarasya gaṇanātha hāriṇī nākalokalalaneva durlabhā||39||</l>
+</lg>
 <lg type="verse" xml:id="HV_14_40">
-<l>yadyapīndukarakomalacchaviḥ kīrtirapratimarūpatāṃ gatā|</l>
+<l>mandamārutasalīlaghaṭṭanā mañjulakvaṇita dhāratāṃ gatāḥ|</l>
 <l>saṃyugārthamiva yadyapīha vaścodayanti karavālayaṣṭayaḥ||40||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_41">
@@ -234,8 +241,7 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_42">
 <l>khaḍgakṛttabhaṭakaṇṭhamaṇḍalairnimalāśca maṇihārayaṣṭayaḥ|</l>
-<l>caṇḍamārutarayapravartibhirgṛdhrapakṣadhavanaiḥ</l>
-<l>prakīrṇakāḥ||42||</l>
+<l>caṇḍamārutarayapravartibhirgṛdhrapakṣadhavanaiḥ prakīrṇakāḥ||42||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_43">
 <l>ghātamūrcchitabhaṭānanāsṛjā nāgavallidalarāgasaṃpadaḥ|</l>
@@ -264,22 +270,20 @@ caturdaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_14_49">
 <l>saṃprahāramukhadīrghanidrayā pratyupaḥsamayabodhavibhramāḥ|</l>
-<l>vairibandinigaḍaiḥ saniḥsvanaiḥ sāravā</l>
-<l>nijapuraṃdhrinūpurāḥ||49||</l>
+<l>vairibandinigaḍaiḥ saniḥsvanaiḥ sāravā nijapuraṃdhrinūpurāḥ||49||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_50">
 <l>saṃyugeṣu hatabandhusaṃhatestattathāpi bhujavīryaśālinaḥ|</l>
 <l>āsthitasya tarasā jayaśriyaṃ brūta yadyadhibhuvo na dūṣitāḥ||50||</l>
 </lg>
+<p xml:id="HV_14_50p">(trayodaśabhiḥ kulakam)</p>
 <lg type="verse" xml:id="HV_14_51">
-<l>(trayodaśabhiḥ kulakam)</l>
 <l>āyudhāni vividhāni santi vaḥ pīvarā bhaṭajanasya bāhavaḥ|</l>
 <l>kāryamohatimirāvabodhinī durlabhā tu matidīpikā nṛṇām||51||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_52">
 <l>dārḍhyaśāliguṇanītiśṛṅkhalābandhasaṃyatapadāmanargalam|</l>
-<l>stheyasīṃ vidadhatīha paṇḍitāḥ strīnisargataralāṃ</l>
-<l>nṛpaśriyam||52||</l>
+<l>stheyasīṃ vidadhatīha paṇḍitāḥ strīnisargataralāṃ nṛpaśriyam||52||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_53">
 <l>sāṃkhyayogapariniṣṭhitātmatāṃ jñātasattvapuruṣāntaro dadhat|</l>
@@ -290,7 +294,7 @@ caturdaśaḥ sargaḥ|
 <l>andhakūpakuhare parisphuṭaṃ dīpradīpakakaraḥ patatyasau||54||</l>
 </lg>
 <lg type="verse" xml:id="HV_14_55">
-<l>%pj.197</l>
+<pb n="197"/>
 <l>vidviṣatyatulitoruvikrame vikrameta sahasā na nītimān|</l>
 <l>ko nu saṃśaitapannage karaṃ vāmalūcavivare vinikṣipet||55||</l>
 </lg>
@@ -304,11 +308,13 @@ caturdaśaḥ sargaḥ|
 <l>mā smaitatsurasuravairiṇāṃ virodhe trailokyaṃ</l>
 <l>sakalamakāṇḍabhaṅguraṃ bhūt||57||</l>
 </lg>
-<lg type="verse" xml:id="HV_14_59">
+<lg type="verse" xml:id="HV_14_58">
 <l>nandantu nandanavanāvanivīthikāsu</l>
 <l>līnāliyūthaśabalīkṛtayūthikāsu|</l>
 <l>sārdhaṃ surāsuragaṇāḥ kadalīdalorū-</l>
-<l>doḥkandalīvalitapīvarakaṇṭhabhāgāḥ||58+||</l>
+<l>doḥkandalīvalitapīvarakaṇṭhabhāgāḥ||58||</l>
+</lg>
+<lg type="verse" xml:id="HV_14_59">
 <l>puṣpaughavarṣamamarapramadā mudā ca</l>
 <l>muñcantu śāntasuradaityavirodhahṛṣṭāḥ|</l>
 <l>mandāradāmavigalanmakarandabindu-</l>
