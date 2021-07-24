@@ -30,6 +30,9 @@
 </supportDesc>
             </objectDesc>
           </physDesc>
+          <scriptDesc>
+              <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign xml:lang="sa">va</foreign> not distinguished.</scriptNote>
+          </scriptDesc>
           <history>
             <origin>
               <origDate calendar="Vikrama" when="1228">1228</origDate>
