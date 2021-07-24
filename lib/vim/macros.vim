@@ -20,4 +20,7 @@ let @j='0JF<vf>;c €'
 "Wrap a clear line with <l> </l>
 let @l='V`>a</l>`<i<l>j'
 
+
+a<space type="binding-hole"/>
+
 ?xmlvt>y;a pip
