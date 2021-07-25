@@ -68,11 +68,16 @@ trayastriṃśaḥ sargaḥ|
 <l>prastāvamantikasado bhṛgunandanasya</l>
 <l>vaktuṃ dideśa madhuroddhṛtayā bhruvaiva||1||</l>
 </lg>
-<lg type="verse" xml:id="HV_33_3">
+<lg type="verse" xml:id="HV_33_2">
 <l>abhyunmiṣatkanakaśṛṅkhalacakravāla-</l>
 <l>raśmicchaṭāpaṭalavicchuritāṃ dadhānaḥ|</l>
 <l>kālīṃ kalindatanayāmiva dehakānti-</l>
-<l>mullāsitakāliyaphaṇāmaṇirāgabhinnām||2|| (yugalakam)</l>
+<l>mullāsitakāliyaphaṇāmaṇirāgabhinnām||2|| </l>
+</lg>
+<p xml:id="HV_33_2p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_33_3">
 <l>taccoditaḥ sa daśanaprabhayā surārī-</l>
 <l>nandrīnmṛgāṅka iva candrikayā vilimpan|</l>
 <l>dūtaṃ śaśāṅkaśakalābharaṇasya vākya-</l>
@@ -122,11 +127,16 @@ trayastriṃśaḥ sargaḥ|
 <l>bāhudrumeṣu rucirāṅgadapadmarāga-</l>
 <l>ratnaprabhābhramavisaṃbhramamāhaveṣu||10||</l>
 </lg>
-<lg type="verse" xml:id="HV_33_12">
+<lg type="verse" xml:id="HV_33_11">
 <l>helāvinirjitaharerna puro 'bhidhātu-</l>
 <l>masyāsti te 'tra gaṇakheṭa khaṭuṅka śaṅkā|</l>
 <l>itthaṃ isargataralapramathaplavaṅga-</l>
-<l>saṃsargadurlalitatāsuvacaṃ vacaḥ kim||11|| (saptabhiḥ kulakam)</l>
+<l>saṃsargadurlalitatāsuvacaṃ vacaḥ kim||11|| </l>
+</lg>
+<p xml:id="HV_33_11p">
+(saptabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_33_12">
 <l>prāgdarśitāsuravināśavibhīṣikeṇa</l>
 <l>mādhuryasaṃbhṛtiviśe.ajuṣā ca paścāt|</l>
 <l>saṃdeśadānavacasā śabalena te 'tra</l>
@@ -287,11 +297,16 @@ trayastriṃśaḥ sargaḥ|
 <l>adyāpi pallavitapūritapāñcajanya-</l>
 <l>śaṅkhasvanairiva mahāsuragehagarbhaiḥ||37||</l>
 </lg>
-<lg type="verse" xml:id="HV_33_39">
+<lg type="verse" xml:id="HV_33_38">
 <l>tasyādhipāṇi surayauvatavaktrapadma-</l>
 <l>vispaṣṭahāsaghaṭanācaturārkabimbam|</l>
 <l>draṣṭāsi kaiṭabhariporasurendrakaṇṭha-</l>
-<l>pīṭheṣu cakramacirātparivartamānam||38||(pañcabhiḥ kulakam)</l>
+<l>pīṭheṣu cakramacirātparivartamānam||38||</l>
+</lg>
+<p xml:id="HV_33_38p">
+(pañcabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_33_39">
 <l>nāpnoti yasya yudhi dānavahetighāta-</l>
 <l>mūrcchāndhakārapaṭalaṃ hṛdaye 'vakāśam|</l>
 <l>grāsīkṛtoragasahasraphaṇapratiṣṭha-</l>
@@ -322,7 +337,7 @@ trayastriṃśaḥ sargaḥ|
 <l>nīlābhrakacchavimuṣaḥ kusṛtipragalbhā-</l>
 <l>nekaḥkṣaṇātsa dalayiṣyati bhogino vaḥ||43||</l>
 </lg>
-<p>
+<p xml:id="HV_33_43p">
 (pañcabhiḥ kulakam)
 </p>
 <lg type="verse" xml:id="HV_33_44">

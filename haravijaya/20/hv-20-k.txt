@@ -378,21 +378,28 @@ viṃśaḥ sargaḥ|
 <l>kīrṇā diśo dalitasaṃtamasānubandha-</l>
 <l>mindoradīpiṣata dīdhitidīpikābhiḥ||51||</l>
 </lg>
-<lg type="verse" xml:id="HV_20_53">
+<lg type="verse" xml:id="HV_20_52">
 <l>diksundarīghanapayodharabhāratāra-</l>
 <l>hārāḥ sudhāsrutikarālamaṇipravālāḥ|</l>
 <l>bhittvā śanaistimiramañjanapuñjanīla-</l>
-<l>mānuñjurindukiraṇā jagadañjasārāt|52||</l>
+<l>mānuñjurindukiraṇā jagadañjasārāt||52||</l>
+</lg>
+<lg type="verse" xml:id="HV_20_53">
 <l>pauraṃdarīṃ diśamapojjhya viluptarāga-</l>
 <l>saṃpatkṣaṇājjiamiṣatyadhunā pratīcīm|</l>
 <l>anyāḥ prasādayati nirjitapuṇḍarīka-</l>
 <l>śobhāgrapādapatanaiḥ kakubhaḥ salīlam||53||</l>
 </lg>
-<lg type="verse" xml:id="HV_20_55">
+<lg type="verse" xml:id="HV_20_54">
 <l>naiśānilāhatiparasparaghaṭyamāna-</l>
 <l>saṃphullakairavatayālikulapraṇādaiḥ|</l>
 <l>uktveti hastatalatāḍanayeva naktaṃ</l>
-<l>naktaṃcaraściramahāsi kumudvatībhiḥ||54|| (yugalakam)</l>
+<l>naktaṃcaraściramahāsi kumudvatībhiḥ||54|| </l>
+</lg>
+<p xml:id="HV_20_54p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_20_55">
 <l>indīranīrakaṇakaṇṭakitā vikīrṇa-</l>
 <l>parṇā vavurdalitapaṅkajakuṅmalāgrāḥ|</l>
 <l>śītā niśīthamaruto nibhṛtadvirepha-</l>
@@ -578,11 +585,16 @@ viṃśaḥ sargaḥ|
 <l>dhairyaṃ vidhūnaya vadhūṣu vivardhamāna-</l>
 <l>mānoddhuraṃ vidhurabandhuvirodhinīṣu||84||</l>
 </lg>
-<lg type="verse" xml:id="HV_20_86">
+<lg type="verse" xml:id="HV_20_85">
 <l>pārīḥ prasādaya ca pānaparamparāsu</l>
 <l>karpūrapāṃsupaṭalībhiriva prabhābhiḥ|</l>
 <l>ityācaranrucirarocirarocatendu-</l>
-<l>rarcaikacarcajanalocanacakravālaḥ||85|| (pañcabhiḥ kulakam)</l>
+<l>rarcaikacarcajanalocanacakravālaḥ||85|| </l>
+</lg>
+<p xml:id="HV_20_85p">
+(pañcabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_20_86">
 <l>pātālāntaśchavīva ghanāṃ śeṣabhogaprakāśaḥ</l>
 <l>kaṇṭhacchāyāmiva paśupateraṭṭahāso 'bhinīlām|</l>
 <l>vikṣipyārānnabhasi tamasāṃ maṇḍalīṃ ratnarāśe-</l>

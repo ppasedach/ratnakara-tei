@@ -432,11 +432,16 @@ trayoviṃśaḥ sargaḥ|
 <l>utkṣiptamūlakuṭilīkṛtakuñcitabhrū-</l>
 <l>lekhātaraṅgitakarālalalāṭapaṭṭā||60||</l>
 </lg>
-<lg type="verse" xml:id="HV_23_62">
+<lg type="verse" xml:id="HV_23_61">
 <l>preṅkhannitambataṭacumbikarālakāla-</l>
 <l>veṇīlatonnamitapīnapayodharaśrīḥ|</l>
 <l>dīrghībhavattanutarodaraluptapārśva-</l>
-<l>bhāgā vivartavalanaṃ vapuṣaścakāra||61|| (yugalakam)</l>
+<l>bhāgā vivartavalanaṃ vapuṣaścakāra||61|| </l>
+</lg>
+<p xml:id="HV_23_61p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_23_62">
 <l>tāsāmapāṅgapadavīvyatiriktanīla-</l>
 <l>tāratvi.o lalitavīkṣitvibhrameṣu|</l>
 <l>āvṛttipītabharanirgatakajjalaugha-</l>

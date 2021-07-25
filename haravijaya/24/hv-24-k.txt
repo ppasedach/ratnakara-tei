@@ -158,13 +158,17 @@ caturviṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_24_24">
 <l>bhavanonnatacandraśālikāśayane dīrghaviyogabhītitaḥ|</l>
-<l>prathamaṃ priyakaṇṭhavartinī niśi nidrāmabhajatkṣaṇaṃ na</l>
-<l>yā||24||</l>
+<l>prathamaṃ priyakaṇṭhavartinī niśi nidrāmabhajatkṣaṇaṃ na yā||24||</l>
 </lg>
 <pb n="313"/>
-<lg type="verse" xml:id="HV_24_26">
+<lg type="verse" xml:id="HV_24_25">
 <l>aparekṣitumāhitaspṛhā dayitaṃ svapnavitīrṇadarśanām|</l>
-<l>bata tāmapi bahvamaṃstayattadaho kāryagatervicitratā||25|| (yugalakam)</l>
+<l>bata tāmapi bahvamaṃstayattadaho kāryagatervicitratā||25|| </l>
+</lg>
+<p xml:id="HV_24_25p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_24_26">
 <l>abalatvamupeyuṣī tathā virahe kācidatābhyadutsukā|</l>
 <l>vinimīlitapakṣmapīḍitaṃ kathamapyaśrujalaṃ yathāmucat||26||</l>
 </lg>
@@ -186,8 +190,7 @@ caturviṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_24_31">
 <l>karamarpitamānane dadhau smarajṛmbhāsu pidhānalīlayā|</l>
-<l>galitāñjanadhūsaraṃ vadhūḥ śvasitaiḥ</l>
-<l>pluṣṭamivātanūṣmabhiḥ||31||</l>
+<l>galitāñjanadhūsaraṃ vadhūḥ śvasitaiḥ pluṣṭamivātanūṣmabhiḥ||31||</l>
 </lg>
 <lg type="verse" xml:id="HV_24_32">
 <l>vinimīlitalocanāmbujā dadhatī kaṇṭakitāṃ tanutvacam|</l>
@@ -226,7 +229,7 @@ caturviṃśaḥ sargaḥ|
 <l>jagrāha nūnamatuṣāramarīcibimba-</l>
 <l>madhyapraveśanapunaruktivaśotthamauṣṇyam|</l>
 <l>yadviprayuktataruṇījanadehadāha-</l>
-<l>minduḥ spṛśankaraśikhāvalibhi"ścakāra||40||</l>
+<l>m induḥ spṛśankaraśikhāvalibhiś cakāra||40||</l>
 </lg>
 <lg type="verse" xml:id="HV_24_41">
 <l>āścaryametadasamaṃ makarandabindu-</l>
@@ -248,10 +251,8 @@ caturviṃśaḥ sargaḥ|
 <l>rāsīnnirāyatavilocanaśuktigarbhāt||43||</l>
 </lg>
 <lg type="verse" xml:id="HV_24_44">
-<l>anyādṛgapyaparathaiva janasya nūnaṃ bhāvasthitirbhavati</l>
-<l>viplutacittavṛtteḥ|</l>
-<l>naktaṃkarasya kiraṇāḥ sudhayā yadārdrāḥ</l>
-<l>preyoviyogavidhurāstaruṇīradhākṣuḥ||44||</l>
+<l>anyādṛgapyaparathaiva janasya nūnaṃ bhāvasthitirbhavati viplutacittavṛtteḥ|</l>
+<l>naktaṃkarasya kiraṇāḥ sudhayā yadārdrāḥ preyoviyogavidhurāstaruṇīradhākṣuḥ||44||</l>
 </lg>
 <lg type="verse" xml:id="HV_24_45">
 <l>vikṣiptavellahalabāhulatāḥ karābja-</l>

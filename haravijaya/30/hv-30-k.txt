@@ -80,11 +80,16 @@ triṃśaḥ sargaḥ|
 <l>nidrāvimuktivalitāvayavāpaviddha-</l>
 <l>lakṣmīvadhūparimalaśriyi dhūlicakre||3||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_5">
+<lg type="verse" xml:id="HV_30_4">
 <l>śailālivatsphuṭayati sphuṭasarvabhāva-</l>
 <l>vyaktikrameṇa divase mukharāgaśobhām|</l>
 <l>abhyarcya kālamusalaścaraṇau mṛgāṅga-</l>
-<l>cūḍāmaṇerudapataddhruvadhāmavīthīm||4|| (cakkalakam)</l>
+<l>cūḍāmaṇerudapataddhruvadhāmavīthīm||4|| </l>
+</lg>
+<p xml:id="HV_30_4p">
+(cakkalakam)
+</p>
+<lg type="verse" xml:id="HV_30_5">
 <l>tena vyaloki divamutpatatāgravarti</l>
 <l>vispaṣṭalakṣma pariṇāhi mṛgā"kabimbam|</l>
 <l>unnidrakundadalapāṇḍuramaṇḍapiṇḍa-</l>
@@ -103,11 +108,16 @@ triṃśaḥ sargaḥ|
 <l>ratnaprabhākhacitakāñcanatoraṇāgrāḥ||7||</l>
 </lg>
 <pb n="383"/>
-<lg type="verse" xml:id="HV_30_9">
+<lg type="verse" xml:id="HV_30_8">
 <l>ābhyāhatā viśaśarurjavamārutena</l>
 <l>tasyāśu dikṣu surasiddhavimānasaṃghāḥ|</l>
 <l>bāṇāgnidīpitapuratrayatāyamāna-</l>
-<l>nānāvidhāvayavavibhramamūhivāṃsaḥ||8|| (yugalakam)</l>
+<l>nānāvidhāvayavavibhramamūhivāṃsaḥ||8|| </l>
+</lg>
+<p xml:id="HV_30_8p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_30_9">
 <l>keśeṣu tasya kṛtasaṃnidhayo muhūrtaṃ</l>
 <l>kaṃsātatāyina ivāñjananīlabhāsaḥ|</l>
 <l>uṣṇīṣaratnakiraṇadviguṇāyamāna-</l>
@@ -160,7 +170,7 @@ triṃśaḥ sargaḥ|
 <l>tena skhalatkhalakhalāmukharā karāla-</l>
 <l>kailāsakūṭavikaṭorgighaṭāsahasrā|</l>
 <l>saṃkrāntakaiṭabhanisūdanapādapadma-</l>
-<l>preṅkhannakhaccavirivaik.asta jahnukanyā||17||</l>
+<l>preṅkhannakhaccavirivaikṣata jahnukanyā||17||</l>
 </lg>
 <lg type="verse" xml:id="HV_30_18">
 <l>majjatkuberataruṇīgalitāvataṃsa-</l>
@@ -181,11 +191,16 @@ triṃśaḥ sargaḥ|
 <l>caṇḍyā yadīyamaṇikaṃdaramandirāgra-</l>
 <l>vistāritoraṇagatāḥ pravibhānti ghaṇṭāḥ||20||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_22">
+<lg type="verse" xml:id="HV_30_21">
 <l>sthūlendranīlamaṇiśṛṅgaruco 'tha tasya</l>
 <l>kalmāṣitākhiladigantaramunmiṣantī|</l>
 <l>bhūyastarāṃ taraṇimārgarurutsayāśu</l>
-<l>muktāḥ śikhā iva dadarśa sa mekalādreḥ||21|| (yugalakam)</l>
+<l>muktāḥ śikhā iva dadarśa sa mekalādreḥ||21|| </l>
+</lg>
+<p xml:id="HV_30_21p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_30_22">
 <l>līlānimagnaśabarīkucakumbhapīṭha-</l>
 <l>saṃkṣobhajarjaritavīcighaṭāsahasrām|</l>
 <l>revāmasaus saralavañjulajālajambū-</l>
@@ -477,12 +492,16 @@ triṃśaḥ sargaḥ|
 <l>bibhrāṇamacyutamivāñcitaśaṅkhaśobha-</l>
 <l>mambhodamecakaruconnatavicidoṣṇā||68||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_70">
+<lg type="verse" xml:id="HV_30_69">
 <l>velāniloddhataśikhasya viṭaṅkaheti-</l>
 <l>varticchaṭābhiranalasya nipetuṣībhiḥ|</l>
 <l>ābibhrataṃ piśunitā iva kukṣibhāga-</l>
-<l>baddhapratiṣṭhagirisānunidhānabhūmīḥ||69|| (ejatriṃśadbhiḥ</l>
-<l>kulakam)</l>
+<l>baddhapratiṣṭhagirisānunidhānabhūmīḥ||69|| </l>
+</lg>
+<p xml:id="HV_30_69p">
+(ejatriṃśadbhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_30_70">
 <l>yasyādhikaṃ dadhati irmalanīramadhya-</l>
 <l>bimbāgatā jalabhṛto 'bhrakapaṅkanīlāḥ|</l>
 <l>kukṣipraviṣṭakamaṭhaśvasitavyudasta-</l>
@@ -526,11 +545,13 @@ triṃśaḥ sargaḥ|
 <l>dhatte sma yaḥ sphuritavidrumatāmrarāga-</l>
 <l>tālūrasatsthitiribhādhipaterabhikhyām||76||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_78">
+<lg type="verse" xml:id="HV_30_77">
 <l>pratyagravidrumavitānamarīcigāḍha-</l>
 <l>rāgormilāñchitatayā rajanīṣvabhīkṣṇam|</l>
 <l>yasyonnatānugatalakṣmaṇacittavṛtti-</l>
-<l>rābhāti candrakiraṇollasitasya velā||77|||</l>
+<l>rābhāti candrakiraṇollasitasya velā||77||</l>
+</lg>
+<lg type="verse" xml:id="HV_30_78">
 <l>bhindaṃstamo bhuvanavāsagṛhe kṛtaika-</l>
 <l>deśasthitiryamadhitiṣṭhati niṣṭhurārciḥ|</l>
 <l>vistāripātramiva nirmalatyoyataila-</l>
@@ -542,11 +563,16 @@ triṃśaḥ sargaḥ|
 <l>yodhairiva kṣitipatiḥ sthitimetyamanda-</l>
 <l>pātālavāsibhiranekavidhaiśca sattvaiḥ||79||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_81">
+<lg type="verse" xml:id="HV_30_80">
 <l>dhatte jalāśayapatiḥ sthitimambhasāṃ sma</l>
 <l>sārādhikastimitatāmarasāṃ ya ekaḥ|</l>
 <l>yasyāśritena pulināñcitayā śriyā ca</l>
-<l>vīcivrajena hariṇā ca ciraṃ vavalge||80|| (ekādaśabhiḥ kulakam)</l>
+<l>vīcivrajena hariṇā ca ciraṃ vavalge||80|| </l>
+</lg>
+<p xml:id="HV_30_80p">
+(ekādaśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_30_81">
 <pb n="398"/>
 <l>ullaṅghya varṣagirivīcimatīśatāni</l>
 <l>nānāvidhānyatah tadīkṣaṇabaddhatoṣaḥ|</l>
@@ -602,11 +628,16 @@ triṃśaḥ sargaḥ|
 <l>abhraṃkapāgraviṭapāspadaśātakaumbha-</l>
 <l>kumbhīphalānumitaśevadhisaṃniveśaiḥ||89||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_91">
+<lg type="verse" xml:id="HV_30_90">
 <l>tasyānuvelamalivallabhavellitāgra-</l>
 <l>vallīvilolamaṇipallavavallarīkaiḥ|</l>
 <l>aikṣiṣṭa kalpatarubhiḥ kalilāmanalpa-</l>
-<l>saṃkalpasādhanaphalairmaṇimekhalāṃ saḥ||90|| (navabhiḥ kulakam)</l>
+<l>saṃkalpasādhanaphalairmaṇimekhalāṃ saḥ||90|| </l>
+</lg>
+<p xml:id="HV_30_90p">
+(navabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_30_91">
 <pb n="400"/>
 <l>gachankramadatha vilambitaratnadāma-</l>
 <l>dolādhirohataralīkṛtatārakaudham|</l>
@@ -619,11 +650,16 @@ triṃśaḥ sargaḥ|
 <l>āśliṣṭatārakamṛgollikhitāntarikṣa</l>
 <l>saṃdehitenduśakalasphuradardhacandram||92||</l>
 </lg>
-<lg type="verse" xml:id="HV_30_94">
+<lg type="verse" xml:id="HV_30_93">
 <l>nirdhūtacāmaraśikhāśatavījitārka-</l>
 <l>mucchrāyinākamaṇigoṣuratoraṇaṃ saḥ|</l>
 <l>ānanditālivigalanmakarandabindu</l>
-<l>mandāradāmakṛtabandanāmālamāpat||93||(tilakam)</l>
+<l>mandāradāmakṛtabandanāmālamāpat||93||</l>
+</lg>
+<p xml:id="HV_30_93p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_30_94">
 <l>tasya śyāmāyamānasthagitadinakarākāśasaṃkāśakāya-</l>
 <l>cchāyāpītātapāśātaṭanimitadṛśo ratnasānusthalīṣu|</l>
 <l>pratyāsannatriyāmāmukhasaraladhiyaḥ satvaratvaṃ vibhūṣā-</l>

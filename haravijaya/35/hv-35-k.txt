@@ -117,11 +117,16 @@ pañcatriṃśaḥ sargaḥ
 <l>candrāṃśugaurarucikalpalatādukūla-</l>
 <l>paryaṅkabandhavikaṭonnatapīnavakṣāḥ||9||</l>
 </lg>
-<lg type="verse" xml:id="HV_35_11">
+<lg type="verse" xml:id="HV_35_10">
 <l>daityādhipo mukharitākhiladiṅmukhena</l>
 <l>vākyena dānavacamūpatikarṇakukṣīn|</l>
 <l>āpūrayanpralayamegha ivādrirandhra-</l>
-<l>bhāgānviśeṣasparuṣākṣaramityavādīt||10|| (daśabhiḥ kulakam)</l>
+<l>bhāgānviśeṣasparuṣākṣaramityavādīt||10|| </l>
+</lg>
+<p xml:id="HV_35_10p">
+(daśabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_35_11">
 <l>kiṃ sāṃprataṃ taraladūtavacaḥprapañcai-</l>
 <l>rebhiḥ kilākulitasattvadhiyaḥ stha daityāḥ|</l>
 <l>saṃbhāvyate śikhariṇāṃ nahi mugdhapattri-</l>
@@ -165,11 +170,16 @@ pañcatriṃśaḥ sargaḥ
 <l>lakṣmīṃ punarditijarājakulasya kāla-</l>
 <l>daṇḍapracaṇḍaparipīvarabāhudaṇḍāḥ||17||</l>
 </lg>
-<lg type="verse" xml:id="HV_35_19">
+<lg type="verse" xml:id="HV_35_18">
 <l>kiṃ tairna nandanagatairdayitājanasya</l>
 <l>gīrvāṇapauruṣamiva svarucā hasantī|</l>
 <l>āpānabandhamuditairapanidraratna-</l>
-<l>puṣpāvataṃsaracanā kriyate 'surendraiḥ||18||(yugalakam)</l>
+<l>puṣpāvataṃsaracanā kriyate 'surendraiḥ||18||</l>
+</lg>
+<p xml:id="HV_35_18p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_35_19">
 <l>kiṃ vāvalokanakutūhalibhistrilokyā-</l>
 <l>māruhya bāhujitadevavimānavīthīḥ|</l>
 <l>nābhrāmyatāsurabhaṭaiḥ samarāttagandha-</l>
@@ -249,11 +259,16 @@ pañcatriṃśaḥ sargaḥ
 <l>svacchandameva cakṛṣe sahasāśu yena</l>
 <l>sīrāṅkuśena kariṇīva kalindakanyā||31||</l>
 </lg>
-<lg type="verse" xml:id="HV_35_33">
+<lg type="verse" xml:id="HV_35_32">
 <l>saṃkhye jitasya halino 'pi mayaiti tasya</l>
 <l>nūnaṃ trapābharavhastatayottamāṅgam|</l>
 <l>antarnigūḍhamaṇiśāraśiraḥsahasra-</l>
-<l>bhārātigauravavaśādiva bandhuratvam||32|| (yugalakam)</l>
+<l>bhārātigauravavaśādiva bandhuratvam||32|| </l>
+</lg>
+<p xml:id="HV_35_32p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_35_33">
 <l>krīḍāpatattrirabhasotthajighṛkṣayārā-</l>
 <l>tkṣipto mayāpi vinatātanayasya tasya|</l>
 <l>pāśaḥ prasādanavilagnabhujaṃgabhoga-</l>
@@ -284,11 +299,16 @@ pañcatriṃśaḥ sargaḥ
 <l>yasyojjhitaḥ śucimarīcicayaścakāsti</l>
 <l>bhītyeva lakṣmahariṇena kirīṭacandraḥ||37||</l>
 </lg>
-<lg type="verse" xml:id="HV_35_39">
+<lg type="verse" xml:id="HV_35_38">
 <l>ūrdhvekṣaṇānalamanindhanamapyavaimi</l>
 <l>dhatte mayā yudhi haraḥ sa vijīyamānaḥ|</l>
 <l>roṣānubandhamalinālikapaṭṭapṛṣṭha-</l>
-<l>niṣṭhyūtdhūmaśabalīkṛtavisphuliṅgam||38|| (cakkalakam)</l>
+<l>niṣṭhyūtdhūmaśabalīkṛtavisphuliṅgam||38|| </l>
+</lg>
+<p xml:id="HV_35_38p">
+(cakkalakam)
+</p>
+<lg type="verse" xml:id="HV_35_39">
 <l>ākūṇitekṣaṇamukhasya kṛpāṇayaṣṭi-</l>
 <l>reṣā raṇeṣu patitorasi candramauleḥ|</l>
 <pb n="456"/>
