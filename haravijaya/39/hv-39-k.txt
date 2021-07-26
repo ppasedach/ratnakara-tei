@@ -111,11 +111,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>ambhojīnīvanamivāsanapuṇḍarīka-</l>
 <l>khaṇḍāntaraprasavakāraṇamudvahaṃstam||8||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_10">
+<lg type="verse" xml:id="HV_39_9">
 <l>vedhāḥ svayaṃ sa vidhutāsanapuṇḍarīka-</l>
 <l>pakṣmacchaṭāvikaṭakoṭiparāgapiṅgāḥ|</l>
 <l>āsannadaityadalanotsavaviprakīrṇa-</l>
-<l>piṣṭātakā iva diśaḥ samupaiti kūrvan||9|| (pañcabhiḥ kulakam)</l>
+<l>piṣṭātakā iva diśaḥ samupaiti kūrvan||9|| </l>
+</lg>
+<p xml:id="HV_39_9p">
+(pañcabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_39_10">
 <l>śārṅgaṃ nadatyadhiviropitakoṭilagna-</l>
 <l>kalpakṣayānalaśikhojjvalaśiñjinīkam|</l>
 <l>śaureḥ pravālavalayaprabhayāvalīḍha</l>
@@ -183,11 +188,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>vaktraṃ dadhadvikaṭamādivarāhaghora-</l>
 <l>ghoṇābhighātadalitāvanirandhraraudram||20||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_22">
+<lg type="verse" xml:id="HV_39_21">
 <l>niḥśeṣavadhyajanatākaravīrapuṣpa-</l>
 <l>śeṣāmivekṣaṇaruciṃ dadhadasratāmrām|</l>
 <l>āruhya kāsaramakhaṇḍitadaṇḍacaṇḍa-</l>
-<l>hastaḥ puro 'sya ramasadupayāti mṛtyuḥ||21|| (yugalakam)</l>
+<l>hastaḥ puro 'sya ramasadupayāti mṛtyuḥ||21|| </l>
+</lg>
+<p xml:id="HV_39_21p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_39_22">
 <l>saṃdhyānubandh gaganaṃ caṭulīkaḍāra-</l>
 <l>cūḍātḍidbhiriva paśya vidarśayantaḥ|</l>
 <l>āyānti kajjalamalīmasadehadīpti-</l>
@@ -218,11 +228,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>jyotsnātapāmbaramalaṃ vimalaṃ svakānti-</l>
 <l>saṃtānasaṃśayitabhūtiparāgalekham||26||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_28">
+<lg type="verse" xml:id="HV_39_27">
 <l>abhyāpatanti ta ime vikaṭonnatāni</l>
 <l>rudrāḥ sureśa phaṇikaṅkaṇibhiḥ karāgraiḥ|</l>
 <l>āsphālya visphuradarātiruṣā nijāṃsa-</l>
-<l>kūṭaiḥ sahaiva kakudāni kakudmatāṃ vaḥ||27|| (tilakam)</l>
+<l>kūṭaiḥ sahaiva kakudāni kakudmatāṃ vaḥ||27|| </l>
+</lg>
+<p xml:id="HV_39_27p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_39_28">
 <l>dānāmbuvṛṣṭimabhito vikaṭaiḥ kirantaḥ</l>
 <l>saṃvartadurdinaghanairiva gaṇḍabhāgaiḥ|</l>
 <l>vinyastapādabharabandhuritāvanīdhra-</l>
@@ -247,11 +262,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>chāyā ca yasya śaśalakṣmamayī vibhāti</l>
 <l>viṣyandamānayamunājalanirjharaśrīḥ||31||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_33">
+<lg type="verse" xml:id="HV_39_32">
 <l>sa śvetadiggajapateradhiruhya pṛṣṭha-</l>
 <l>mabhyeti dīrghavikaṭaiḥ pṛtanāṅganānām|</l>
 <l>netrotkarairamṛtavarṣibhirindureṣa</l>
-<l>dattāñjanairnijakarairiva dṛśyamānaḥ||32|| (yugalakam)</l>
+<l>dattāñjanairnijakarairiva dṛśyamānaḥ||32|| </l>
+</lg>
+<p xml:id="HV_39_32p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_39_33">
 <l>yoktrīkṛtaiḥ phaṇigaṇairatigāḍhabandha-</l>
 <l>tīvrārtisītkṛtisamīranibhena śītān|</l>
 <l>skhandhānilāniva nipīya punarvamadbhi-</l>
@@ -264,11 +284,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>saṃkocabandhaparihāradhiyā salīla-</l>
 <l>manvīyamāna iva nātha kumudvatībhiḥ||34||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_36">
+<lg type="verse" xml:id="HV_39_35">
 <l>yogāśritāparavapurjaraṭhapratāpa-</l>
 <l>saṃpattireṣa haritacchavisaptapattraḥ|</l>
 <l>bhānuḥ śaratsamayavibhrama eti paśya</l>
-<l>riktīkṛtāvajitavāsavavāsaraśrīḥ||35|| (tilakam)</l>
+<l>riktīkṛtāvajitavāsavavāsaraśrīḥ||35|| </l>
+</lg>
+<p xml:id="HV_39_35p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_39_36">
 <l>rūḍhagūḍhacaraṇolbaṇamārgaṇāni</l>
 <l>kallolacāpavalayāni vinirdhuvantaḥ|</l>
 <l>saptāpyamī kalakalākulitāntarikṣa-</l>
@@ -312,11 +337,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>brāhmī karākalitadaṇḍakamaṇḍaluśrī-</l>
 <l>reṣā śivātra śibire kṛtasaṃnidhiryaḥ||42||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_44">
+<lg type="verse" xml:id="HV_39_43">
 <l>ābhātyasau saralamugdhamṛṇālakāṇḍa-</l>
 <l>kandāvalīkavalanākulatāṃ dadhānaiḥ|</l>
 <l>kundacchadachabibhiracchatadīyagarbha-</l>
-<l>dugdhacchaṭāpariṇateriva vāhahaṃsaiḥ||43|| (yugalakam)</l>
+<l>dugdhacchaṭāpariṇateriva vāhahaṃsaiḥ||43|| </l>
+</lg>
+<p xml:id="HV_39_43p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_39_44">
 <l>udvṛttadānavacamūpatikaṇṭhapīṭha-</l>
 <l>niṣṭyūttaśoṇitamalīmasaśātadhāram|</l>
 <l>prācīva diktapanabimbamudaṃśurāśi</l>
@@ -359,11 +389,16 @@ ekonacatvāriṃśaḥ sargaḥ|
 <l>preṅkhatparetapatipattraviṣāṇagarbha-</l>
 <l>niṣpītasaptabhuvanakṣatajāsavaśrīḥ||50||</l>
 </lg>
-<lg type="verse" xml:id="HV_39_52">
+<lg type="verse" xml:id="HV_39_51">
 <l>adhyāsya rāsabhasabhādhipatiṃ trilokī-</l>
 <l>saṃhāraragarabhasena sabhīti sainyaim|</l>
 <l>saṃrambhabhāsvaramukhī bisabhaṅgagaura-</l>
-<l>dantāṃśureti śibiraṃ tava kālarātriḥ||51|| (tilakam)</l>
+<l>dantāṃśureti śibiraṃ tava kālarātriḥ||51|| </l>
+</lg>
+<p xml:id="HV_39_51p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_39_52">
 <l>kālī ca kokilakalāparuciḥ karāla-</l>
 <l>daṃṣṭrāṅkuraiti samarotkalikākulaiṣā|</l>
 <l>nirdagdhakāla kalikālakalaṅkaketu-</l>

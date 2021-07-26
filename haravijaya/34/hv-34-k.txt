@@ -267,7 +267,7 @@ catustriṃśaḥ sargaḥ|
 <l>vajraprabheṇa vikaṭāduraso vilūya</l>
 <l>muktāphalastabakadāma vikīrṇamūdhvam|</l>
 <l>āsannadeśaracitasthitiśītaraśmi-</l>
-<l>tārāpuaṃdhriparivāravilāsamāpat||34||</l>
+<l>tārāpuraṃdhriparivāravilāsamāpat||34||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_35">
 <l>krodhoddhatabhrukuṭibandhakabandhavaktra-</l>
@@ -295,15 +295,12 @@ catustriṃśaḥ sargaḥ|
 <l>durdarśalocananipītatadātapaśrīḥ||38||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_39">
-<l>mūko 'pi bhrukuṭitaraṅgitaṃ lalāṭaṃ bibhrāṇaḥ</l>
-<l>karatalatāḍitāṃsakūṭaḥ|</l>
-<l>saṃrambhasphuradaruṇekṣamo jagarja krodhāndho</l>
-<l>badhiritasaptalokamuccaiḥ||39||</l>
+<l>mūko 'pi bhrukuṭitaraṅgitaṃ lalāṭaṃ bibhrāṇaḥ karatalatāḍitāṃsakūṭaḥ|</l>
+<l>saṃrambhasphuradaruṇekṣamo jagarja krodhāndho badhiritasaptalokamuccaiḥ||39||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_40">
 <l>vivartitādharavikasatkapolabhūrvicintitāhitaraṇalābhaharṣulaḥ|</l>
-<l>vikoṣitobhayapuṭaphullatārakāmamarṣaṇo dṛśamanimeṣiṇīṃ</l>
-<l>dadhau||40||</l>
+<l>vikoṣitobhayapuṭaphullatārakāmamarṣaṇo dṛśamanimeṣiṇīṃ dadhau||40||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_41">
 <l>visrabdhamaicchadavasāditavāsavoṃ 'sa-</l>
@@ -313,10 +310,8 @@ catustriṃśaḥ sargaḥ|
 <l>visrāvanāvasikaraḥ samare visartum||41||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_42">
-<l>prahrādo vikaṭaviṭaṅkadaṃṣṭramāsyaṃ bibhrāṇaḥ</l>
-<l>karatalatāḍitāṃsakūṭaḥ|</l>
-<l>digbhittipratiphalitāṭṭahāsabhāsā saṃhāre hara iva dattasaṃbhramo</l>
-<l>'bhūt||42||</l>
+<l>prahrādo vikaṭaviṭaṅkadaṃṣṭramāsyaṃ bibhrāṇaḥ karatalatāḍitāṃsakūṭaḥ|</l>
+<l>digbhittipratiphalitāṭṭahāsabhāsā saṃhāre hara iva dattasaṃbhramo 'bhūt||42||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_43">
 <l>diksundarīsphuṭanavāṃśukamindugaura-</l>
@@ -325,10 +320,8 @@ catustriṃśaḥ sargaḥ|
 <l>mātāmratālu śatadundubhirāttajṛmbham||43||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_44">
-<l>pādāghātairdānavacakrasya tadānīmāpātālaṃ</l>
-<l>dṛṣṭagabhīrātanurandhrā|</l>
-<l>sāsūyasya krodhavaśādindukirīṭe pusphoṭa kṣmā</l>
-<l>rauravapātārthamivārāt||44||</l>
+<l>pādāghātairdānavacakrasya tadānīmāpātālaṃ dṛṣṭagabhīrātanurandhrā|</l>
+<l>sāsūyasya krodhavaśādindukirīṭe pusphoṭa kṣmā rauravapātārthamivārāt||44||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_45">
 <l>siṃhāsanādasahanaḥ sahasojjhihāsu-</l>
@@ -431,8 +424,7 @@ catustriṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_34_61">
 <l>vidadhruvasare 'tra daityacakrapralayaparisphuṭapaiśunotthitāni|</l>
-<l>sakalabhuvanamaṇḍale 'pyasaktaṃ bhayamanimittaśatāni</l>
-<l>dāruṇāni||61||</l>
+<l>sakalabhuvanamaṇḍale 'pyasaktaṃ bhayamanimittaśatāni dāruṇāni||61||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_62">
 <l>pratidinamapavargadvārarandhrādamandaṃ</l>
@@ -447,8 +439,7 @@ catustriṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_34_64">
 <l>nirgacchanrajanikarasya bimbamadhyādutpātaprasaravaśna dhūmadaṇḍaḥ|</l>
-<l>vaidagdhīṃ kuvalayadāmanīlabhāsaḥ khaḍgasya vyadhita</l>
-<l>vilagnadattamuṣṭeḥ||64||</l>
+<l>vaidagdhīṃ kuvalayadāmanīlabhāsaḥ khaḍgasya vyadhita vilagnadattamuṣṭeḥ||64||</l>
 </lg>
 <lg type="verse" xml:id="HV_34_65">
 <l>utpātadhumamalinairnijakopacakra-</l>

@@ -93,11 +93,16 @@ ekatriṃśaḥ sargaḥ|
 <l>preṅkholanena harataṇḍavato 'dhikaṃ ca</l>
 <l>dhautāmbarāṃ kṣaya ivormigaṇena gaṅgām||5||</l>
 </lg>
-<lg type="verse" xml:id="HV_31_7">
+<lg type="verse" xml:id="HV_31_6">
 <l>snānavatīrṇadhavalagrahacakravāla-</l>
 <l>saṃdehitendurucibudbudabinduvṛndām|</l>
 <l>uccaiḥśravaḥkhurapuṭāhataratnapaṭṭa-</l>
-<l>sopānapaṅktimavalokya mudā vavande||6|| (pañcabhiḥ kulakam)</l>
+<l>sopānapaṅktimavalokya mudā vavande||6|| </l>
+</lg>
+<p xml:id="HV_31_6p">
+(pañcabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_31_7">
 <l>abhyunmiṣatkanakapaṭṭamarīcipiṅga-</l>
 <l>mutkhātaratnabisamunmadahaṃsagālam|</l>
 <l>mandākinītaṭamavekṣya sa nīlakaṇṭha-</l>
@@ -259,12 +264,17 @@ ekatriṃśaḥ sargaḥ|
 <l>yasyāvipannayajuṣā śrutivartmaneva</l>
 <l>lakṣmīrabhāri caritena gurorgajānām||2||</l>
 </lg>
-<lg type="verse" xml:id="HV_31_34">
+<lg type="verse" xml:id="HV_31_33">
 <l>tuṅgaṃ vapuḥ sakalahāstikabhaṅgabaddha-</l>
 <l>kakṣyo 'tināstika iva sphuṭasādhanaśrīḥ|</l>
 <pb n="409"/>
 <l>vistāricakramiva rāśimayaṃ bibharti</l>
-<l>yo 'nekadhāmakarakumbhakarālaśobham||33|| (ṣaḍviṃśatyā kulakam)</l>
+<l>yo 'nekadhāmakarakumbhakarālaśobham||33|| </l>
+</lg>
+<p xml:id="HV_31_33p">
+(ṣaḍviṃśatyā kulakam)
+</p>
+<lg type="verse" xml:id="HV_31_34">
 <l>ālīnaratnakamale kaladhautapaṅka-</l>
 <l>piṅgīkṛtāmbhasi sa nākasaritpravāhe|</l>
 <l>āmajjato maṇimṛṇālalatāsanātha-</l>
@@ -338,12 +348,17 @@ ekatriṃśaḥ sargaḥ|
 <l>ratnālavālavalayāntaravarti pīta-</l>
 <l>mabhyudvamantamatibhūribharādivāmbhaḥ||45||</l>
 </lg>
-<lg type="verse" xml:id="HV_31_47">
+<lg type="verse" xml:id="HV_31_46">
 <l>nākāṅganāruṇatalāṅgulicakravāla-</l>
 <l>saṃdehitābhinavapallavapāṇilūnaiḥ|</l>
 <l>abhyunmiṣadbhirapi tatsamakālameva</l>
-<l>lakṣmīṃ vahantamaparāpararatnapuṣpaiḥ||46|| (tilakam)</l>
-<l>ityuttarottaraviśe.avilokanecchā-</l>
+<l>lakṣmīṃ vahantamaparāpararatnapuṣpaiḥ||46|| </l>
+</lg>
+<p xml:id="HV_31_46p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_31_47">
+<l>ityuttarottaraviśeṣavilokanecchā-</l>
 <l>vismeratāmupagataḥ śaśimaulidūtaḥ|</l>
 <l>ratnaprabhākhacitakāñcanatoraṇāgra-</l>
 <l>vartī muhurtamabhavatpuruhūtapuryāḥ||47||</l>
@@ -368,8 +383,7 @@ ekatriṃśaḥ sargaḥ|
 <l>mabhraṃkaṣā pratidiśaṃ maṇiharmyapaṅktiḥ||50||</l>
 </lg>
 <lg type="verse" xml:id="HV_31_51">
-<l>pratikakubhamayatnapūrvamārādupavanakalpalatāṃśukāni yasyām|</l>
-<l>surabhayati</l>
+<l>pratikakubhamayatnapūrvamārādupavanakalpalatāṃśukāni yasyām| surabhayati</l>
 <l>gavākṣamārganiryatpracuratarāgurūdhūpasaurabhaśrīḥ||51||</l>
 </lg>
 <lg type="verse" xml:id="HV_31_52">
@@ -402,10 +416,8 @@ ekatriṃśaḥ sargaḥ|
 <l>lekhānibaddhapṛthucakrakarālaśobham||56||</l>
 </lg>
 <lg type="verse" xml:id="HV_31_57">
-<l>yasyāṃ bhūtyānujjhito nīlakaṇṭhacchāyāramyo</l>
-<l>bhogināthairaśūnyaḥ|</l>
-<l>dhatte śobhāṃ dehalīnāṃ gṛhaughaḥ kṣmābhṛtkanyāmunnatātmeva</l>
-<l>śaṃbhuḥ||57||</l>
+<l>yasyāṃ bhūtyānujjhito nīlakaṇṭhacchāyāramyo bhogināthairaśūnyaḥ|</l>
+<l>dhatte śobhāṃ dehalīnāṃ gṛhaughaḥ kṣmābhṛtkanyāmunnatātmeva śaṃbhuḥ||57||</l>
 </lg>
 <lg type="verse" xml:id="HV_31_58">
 <l>dīrghīkṛtāmiva vilocanayoryugeṣu</l>
@@ -435,7 +447,7 @@ ekatriṃśaḥ sargaḥ|
 <l>vivalitaphaṇacakraṃ yatra mārgāgatasya</l>
 <l>ślathayati rathabandhaṃ bhāsvato bhogipaṅktiḥ||62||</l>
 </lg>
-<p>
+<p xml:id="HV_31_62p">
 ṣoḍaśabhiḥ kulakam
 </p>
 <p>
