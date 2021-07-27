@@ -62,13 +62,12 @@
 <!-- Any preliminary stuff would go here -->
 </div>
 <div n="01" type="chapter">
-<!---->
 <p>
-<pb n="187_001" />om̐ svasti|| śrī gaṇeśāya namaḥ|| ||śrī savasvatyai||
+<pb n="001b" />om̐ svasti|| śrī gaṇeśāya namaḥ|| ||śrī savasvatyai||</p>
 <lg type="verse" xml:id="HV_01_1">
-<l>||om̐ kaṇḍaśriyaṃ <lb/>kuvalayastavakābhirāma|</l>
+<l>||om̐ kaṇṭhaśriyaṃ <lb n="02"/>kuvalayastavakābhirāma|</l>
 <l>dhāmānukārivikaṭacchavikālakūṭām</l>
-<l><lb/>bibhrat sukhāni diśatād upahārapīta|</l>
+<l><lb n="03"/>bibhrat sukhāni diśatād upahārapīta|</l>
 <l>dhūpotthadhūmamalinām iva dhū<lb/>rjaṭir vaḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_2">
@@ -120,7 +119,7 @@
 <l>koṇāvamarṣamadhurakvaṇitāṅganāsīt||9||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_10">
-<l>yatrendranīlabhavanaṃ <lb/>pṛthupa(dma)rāga-</l>
+<l>yatrendranīlabhavanaṃ <pb n="003a"/>pṛthupa(dma)rāga-</l>
 <l>vātāyanair ubhayapārśvagatair vibhāti|</l>
 <l>bāṇāsurasya ha<lb/>ricakravilūnabāhu-</l>
 <l>mūlavraṇair iva vapuḥ kṣatajacchaṭārdraiḥ||10||</l>
@@ -146,7 +145,6 @@
 <lg type="verse" xml:id="HV_01_14">
 <l>lakṣmīr na yāṃ bhavanamānasasaṃniveśa-</l>
 <l>haṃsībhir ujjvalavilāsagatikramābhiḥ|</l>
-<pb n="6" />
 <l>strībhir yutāṃ samaṇinūpurajhāṃkṛtābhi-</l>
 <l>r ujjhāṃcakāra jhaṣaketanajhallarībhiḥ||14||</l>
 </lg>
