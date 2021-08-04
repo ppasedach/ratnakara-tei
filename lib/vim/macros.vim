@@ -24,3 +24,11 @@ let @l='V`>a</l>`<i<l>j'
 a<space type="binding-hole"/>
 
 ?xmlvt>y;a pip
+
+"c: shift the comment one verse further down.
+?<!--dd/<lg P
+"n change the number from the verse
+/||\zs\ddt<
+
+"i 
+?xml:id="\zsvt"y0f>i xml:id="pap"q€kb
