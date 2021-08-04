@@ -264,7 +264,7 @@
 <l>vistārisālajaghanaṃ parivartamāna-</l>
 <l>nakṣatraratnaraśa<lb/>nāguṇam udvahantī||33||</l>
 </lg>
-<p>
+<p xml:id="HV_01_33p">
 iti purīvarṇanam
 </p>
 <lg type="verse" xml:id="HV_01_34">
@@ -533,7 +533,6 @@ iti haravijaye mahākāvye purīpurārivarṇano nāma prathamas sargaḥ ||
 <l>sāvartacakra<lb/>m upari bhramatendubimba-</l>
 <l>saṃvāditām upagatena virājamānam||12||</l>
 </lg>
-<pb n="19" />
 <lg type="verse" xml:id="HV_02_13">
 <l><lb/>gambhīrakaṇṭhakuharāspadakālakūṭa-</l>
 <l>niryatprabhādhikamalīmasabhogi<lb/>hāram|</l>
@@ -547,7 +546,7 @@ iti haravijaye mahākāvye purīpurārivarṇano nāma prathamas sargaḥ ||
 <l>kaṇṭhaprabhābhir abhitaḥ punar eva kālīm||14||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_15">
-<l>saṃvījyamānam <lb/>asakṛt kakubhopadhāna-</l>
+<l>saṃvījyamānam <lb/>asakṛt kaku<subst><del>bho</del><add place="left-margin">do</add></subst>padhāna-</l>
 <l>baddhāspadaṃ dviguṇitonnatabāhudaṇḍam|</l>
 <l>lāṅgūla<lb/>cāmarakarālaśikhāmarudbhi-</l>
 <l>r udbhinnabhaktimanaseva kakudmatārāt||<lb/>15||</l>
@@ -564,7 +563,7 @@ iti haravijaye mahākāvye purīpurārivarṇano nāma prathamas sargaḥ ||
 <l>ūrdhvekṣaṇānalaruco ghanacīnapiṣṭa-</l>
 <l>dhūliccha<pb n="005b"/>ṭā iva mukhe viniveśayantam||17||</l>
 </lg>
-<p>
+<p xml:id="HV_02_17p">
 kulakam
 </p>
 <lg type="verse" xml:id="HV_02_18">
@@ -579,10 +578,10 @@ kulakam
 <l>vispaṣṭavādyavidhayaẖ karaṇānubandha-</l>
 <l>bhājaẖ krameṇa murajāḥ sphuṭa<lb/>mārjanāṅkāḥ||19||</l>
 </lg>
-<p>
+<p xml:id="HV_02_19p">
 yugalakam || atra pāṭhāntaram|
 </p>
-<lg type="verse" xml:id="HV_02_19p">
+<lg type="verse" xml:id="HV_02_19vl">
 <l>ājaghnire <lb/>tha murujā pravibhaktamārga-</l>
 <l>citrapracārayatipāṇilayaprapañcāḥ|</l>
 <l>sammārjanākaraṇayogavibhaktamārga-</l>
