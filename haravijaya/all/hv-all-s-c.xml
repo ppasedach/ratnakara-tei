@@ -878,11 +878,11 @@ sargaḥ|
 śrī gaṇeśāya namaḥ|
 </p>
 <lg type="verse" xml:id="HV_03_1">
-<l><lb n="10">atha sa manthagirau sakalakartubhir nijanijaprasavojjvalayā śriyā|</l>
-<l>sama<lb n="11">m asevi kadācid upāśrito girijayārijayānaghadordrumaḥ||1||</l>
+<l><lb n="10"/>atha sa manthagirau sakalakartubhir nijanijaprasavojjvalayā śriyā|</l>
+<l>sama<lb n="11"/>m asevi kadācid upāśrito girijayārijayānaghadordrumaḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
-<l>ma<lb n="12">dhuparājiparājitamāninījanamanassumanas suratiśriyam|</l>
+<l>ma<lb n="12"/>dhuparājiparājitamāninījanamanassumanas suratiśriyam|</l>
 <l>abhṛta vāritavarijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat||2||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">
@@ -1279,7 +1279,9 @@ vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma
 tṛtīyaḥ sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="04" type="chapter">
 <p>
 caturthaḥ sargaḥ|
