@@ -1307,7 +1307,7 @@ haravijaye mahākāvye ratnākarasya kṛtau tṛtīyaḥ sarggaḥ||
 </lg>
 <lg type="verse" xml:id="HV_04_12">
 <l>kallolabhaṃgaghaṭitaprativiṃvacakram</l>
-<l>aikṣiṣṭa yaṃ pṛthuni kūrmmakapāṭapṛṣṭhe<subst><add rend="small stroke above ṣṭhe">|</add></subst></l>
+<l>aikṣiṣṭa yaṃ pṛthuni kūrmmakapāṭapṛṣṭhe<add rend="small stroke above ṣṭhe">|</add></l>
 <l>tuṃgaṃ vibhajya vahudheva vapurbhramaṃta-</l>
 <l>māloḍanāya jaladheḥ suradaityalokaḥ||</l>
 </lg>
@@ -1349,7 +1349,7 @@ haravijaye mahākāvye ratnākarasya kṛtau tṛtīyaḥ sarggaḥ||
 </lg>
 <lg type="verse" xml:id="HV_04_19">
 <l>sthūleṃdranīlakaṭakaprativiṃdhyamāna-</l>
-<l>mā<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>bhāti yatra śaśalakṣmaniruddhamadhyaṃ|</l>
+<l>mā<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>bhāti yatra śaśalakṣmaniruddhamadhyaṃ|</l>
 <l>kṣīrodakūrmmapatipṛṣṭham ivādikola-</l>
 <l>vinyastapādaśalīkṛtam iṃduviṃvaṃ||¦</l>
 <!-- pada d one syllable missing -->
@@ -1564,7 +1564,7 @@ floral || cha ||
 <lg type="verse" xml:id="HV_05_12">
 <l>abhyetya kā<space type="binding-hole"/>nanam idaṃ harati dvirephaḥ꣹</l>
 <l><pb n="8a" />꣹sajjātapakṣatitayā na tamāṃsi cetaḥ|</l>
-<l>śakto nikuṃjagahaneṣv abhihaṃtum arkkaḥ<subst><del rend="cancellation stroke through the visarga">ḥ</del></subst></l>
+<l>śakto nikuṃjagahaneṣv abhihaṃtum arkkaḥ<del rend="cancellation stroke through the visarga">ḥ</del></l>
 <l>sajjātapa¦<space type="binding-hole"/>kṣatitayā na tamāṃsi cetaḥ||12||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_13">
@@ -1669,7 +1669,7 @@ floral || cha ||
 </lg>
 <lg type="verse" xml:id="HV_05_34">
 <l>rajobhir asmin janatā haraṃtī vadhūsarāgā navadhūsarāgā|</l>
-<l>bibhartti no puṣpataṭīḥ dvirephaiḥ|rasāvanālīḍharasā vanālī<subst><del rend="cancellation strokes on top and below the visarga">ḥ</del></subst>||</l>
+<l>bibhartti no puṣpataṭīḥ dvirephaiḥ|rasāvanālīḍharasā vanālī<del rend="cancellation strokes on top and below the visarga">ḥ</del>||</l>
 <!-- additional daṇḍa in pada d -->
 </lg>
 <lg type="verse" xml:id="HV_05_35">
@@ -1695,7 +1695,7 @@ floral || cha ||
 </lg>
 <lg type="verse" xml:id="HV_05_39">
 <l>asyodabhārabharamaṃtharameghacakra-</l>
-<l>gaṃbhīratārarava<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>narttitabarhiṇāyāṃ|</l>
+<l>gaṃbhīratārarava<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>narttitabarhiṇāyāṃ|</l>
 <l>sāmyaṃ kalā ka<space type="binding-hole"/>ṭakavartmavidūrabhūmā-</l>
 <l>buddhinnayā vrajati ratnaśalākayeṃdoḥ||</l>
 </lg>
@@ -2287,7 +2287,7 @@ floral || cha ||
 <lg type="verse" xml:id="HV_05_151">
 <l>svedāṃbhaḥśīkarāgraṃ sphuradamalataracchāyaratnopale 'sminn</l>
 <l>usraiḥ karttā lalāṭaṃ raviralakalatālāṃcchitaṃ kiṃnarīṇāṃ|</l>
-<l>gītaṃ cāsāṃ vidha<space type="binding-hole"/>tte virahita<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>vanitāmaṃḍalīdehayaṣṭiṃ</l>
+<l>gītaṃ cāsāṃ vidha<space type="binding-hole"/>tte virahita<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>vanitāmaṃḍalīdehayaṣṭiṃ</l>
 <l>cetohārīdam uccair aviralakalatālāṃcchitaṃ kiṃnarīṇām||151</l>
 </lg>
 <p>
@@ -2517,13 +2517,13 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <lg type="verse" xml:id="HV_06_36">
 <l>gatam īśa śāśvatikatṛptihetutām</l>
 <l>amṛtaṃ<space type="binding-hole"/> bhavaṃtam iha somapāyinaḥ|</l>
-<l>hari saṃstava<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> vratanimittam uttamaṃ</l>
+<l>hari saṃstava<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del> vratanimittam uttamaṃ</l>
 <l>duhate guhānihitam āhitādarāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_37">
 <l>vahubhedasaṃkhyaguruyogadhāraṇā-</l>
 <l>kṣamatānvitasthirasukhāsa<space type="binding-hole"/>nasthiteḥ|</l>
-<l>bhavati prasannamanasi pravarttate<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst></l>
+<l>bhavati prasannamanasi pravarttate<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></l>
 <l>kṛtinaḥ kilāṣṭavidham aiśvaraṃ balaṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_38">
@@ -2565,7 +2565,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_44">
 <l>śaśimaṃḍalaṃ jalataraṃgasaṃhati-</l>
-<l>prativiṃvitaṃ<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> hara jalāśaye yathā|</l>
+<l>prativiṃvitaṃ<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del> hara jalāśaye yathā|</l>
 <l>drumapallavo¦<space type="binding-hole"/>davasitāṃtarāśrayas</l>
 <l>tapanātapo nipatitaḥ kṣitau yathā||</l>
 </lg>
@@ -2699,7 +2699,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_65">
 <l>nicite rajaḥprabhṛtibhiḥ ghayaṃvare</l>
-<l>salilāni yogam upayāṃti no yathā|<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst></l>
+<l>salilāni yogam upayāṃti no yathā|<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></l>
 <l>aṇumaṃḍalāni bhagavaṃs tathecchayā</l>
 <l>nirupaplavasya bhavataḥ sukhādibhiḥ</l>
 <!-- no daṇḍa after pada d -->
@@ -2712,7 +2712,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_67">
 <l>sriyam anmaye dadhati sāma¦<space type="binding-hole"/>dīdhito</l>
-<l>taraṇes trayīma<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>yanirāmayātmanaḥ|</l>
+<l>taraṇes trayīma<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>yanirāmayātmanaḥ|</l>
 <l>pratibhāsabhedagahano 'vabhāsase</l>
 <l>tvam aṇur yajūṃṣi puruṣo 'tra maṃḍale||</l>
 </lg>
@@ -2768,7 +2768,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_76">
 <l>anaghaś ca śaktivibhavavyavasthiteḥ</l>
-<l>paśupāśamaṃḍala<subst><del rend="small cancellation stroke at the left of the anusvāra">ṃ</del></subst>viva¦<space type="binding-hole"/>kṣaṇātmanaḥ|</l>
+<l>paśupāśamaṃḍala<del rend="small cancellation stroke at the left of the anusvāra">ṃ</del>viva¦<space type="binding-hole"/>kṣaṇātmanaḥ|</l>
 <l>bhuvanādhinātha bhavataḥ pravarttate</l>
 <l>cidacitsvabhāvam iha bhāvamaṃḍalaḥ||</l>
 </lg>
@@ -2858,13 +2858,13 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <l>prakṛtīśvarobhayacidādiceṣṭita-</l>
 <l>prathitaprapaṃcarahitānupāvikam|</l>
 <l>apare pramādvitayaniścitaṃ punas</l>
-<l>tritayātmakaṃ<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> samudayaṃ pracakṣate||</l>
+<l>tritayātmakaṃ<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del> samudayaṃ pracakṣate||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_91">
 <l>anapekṣitāvi<space type="binding-hole"/>kalakāraṇāṃtaraṃ</l>
 <l>bhavinām uśaṃti bhava janma kevalaṃ|</l>
 <l>apare 'pavarggada nisargavādinaḥ</l>
-<l>śikh<subst><del>a</del><add rend="hook on top and stroke at the bottom before kh">i</add></subst>picchasaṃsthita<subst><del rend="cancellation stroke through and at the bottom of the visarga">ḥ</del></subst>vad āṃtaviplavāḥ||</l>
+<l>śikh<subst><del>a</del><add rend="hook on top and stroke at the bottom before kh">i</add></subst>picchasaṃsthita<del rend="cancellation stroke through and at the bottom of the visarga">ḥ</del>vad āṃtaviplavāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_92">
 <l>praṇayodayavyatikarām upaplutī</l>
@@ -2945,7 +2945,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <l>kuruṣe tvam eva kila bhuktimuktidaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_06_104">
-<l>api dharmmaleśasamatāviḍaṃvanā<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>d-</l>
+<l>api dharmmaleśasamatāviḍaṃvanā<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>d-</l>
 <l>apṛthaktva eva puruṣeśayoḥ sthitāḥ|</l>
 <l>bhavadāga<space type="binding-hole"/>māmṛtavahiḥkṛtāḥ pare</l>
 <l>kṛtino bhavaṃti na vivektum aṃtaraṃ||</l>
@@ -3094,7 +3094,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <l>trividhena kaṃcukamalena rūṣitān</l>
 <l>gahanopabhogakuharātipātinaḥ|</l>
 <l>apakṛṣya pudgalagaṇā<space type="binding-hole"/>n guhāvilād</l>
-<l>avadātatāṃ nayasi<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> dūram icchayā|</l>
+<l>avadātatāṃ nayasi<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del> dūram icchayā|</l>
 <!-- single daṇḍa after pada d -->
 </lg>
 <lg type="verse" xml:id="HV_06_128">
@@ -3161,7 +3161,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_138">
 <l>prakṛtiḥ pumān praṇava ity amī trayaḥ</l>
-<l>suranātha kūpaghaṭarajju<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>vat sthitāḥ|</l>
+<l>suranātha kūpaghaṭarajju<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>vat sthitāḥ|</l>
 <l>apakarṣasi tvam upari sthito dṛḍhaṃ</l>
 <l>karaṇaprapaṃcarahito<space type="binding-hole"/> mahādbhutaṃ||</l>
 </lg>
@@ -3173,7 +3173,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_140">
 <l>apadatrayasya<!-- [bow] --><space type="binding-hole"/> guṇaliṃgaśūnyatām</l>
-<l>upajagmuṣaḥ kṛtahṛdaṃvarasthitaḥ|<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst></l>
+<l>upajagmuṣaḥ kṛtahṛdaṃvarasthitaḥ|<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></l>
 <l>vyapalīnaśāṃpratabhaviṣyadarthatā-</l>
 <l>viṣayo 'ṇur īṣa bhavati tvadāśrayāt||</l>
 </lg>
@@ -3301,7 +3301,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <lg type="verse" xml:id="HV_06_160">
 <l>anuraṃjitākhilamano bhavaguṇā</l>
 <l>vapaṃjaraṃ dṛḍham anaꣻꣻjasā</l>
-<l>paridṛṣṭagāḍhamalapaṃcakasthitiḥ<subst><del rend="arrows above and below daṇḍa">|</del></subst></l>
+<l>paridṛṣṭagāḍhamalapaṃcakasthitiḥ<del rend="arrows above and below daṇḍa">|</del></l>
 <l>puruṣo¦<space type="binding-hole"/> bhanakti bhagavaṃs tvadāśrayāt||</l>
 <!-- pada b one syllable missing; no single daṇḍa after pada b -->
 </lg>
@@ -3413,7 +3413,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 </lg>
 <lg type="verse" xml:id="HV_06_177">
 <l>dahane puro kṣitirathasya cakratāṃ</l>
-<l>gamitaṃ tvayā śaśira¦<lb/>śmimaṃḍalaṃ|<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst></l>
+<l>gamitaṃ tvayā śaśira¦<lb/>śmimaṃḍalaṃ|<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></l>
 <l>prativaddhalakṣmamalinodaracchavi-</l>
 <l>sphuṭanābhiraṃdhram iva nātha lakṣyate|<!-- two strokes above and below daṇḍa (encoding?) --></l>
 <!-- pada b one syllable missing; single daṇḍa after pada d -->
@@ -3429,7 +3429,7 @@ haravijaye mahākāvye parvvatavarṇṇano꣹ <pb n="11a" />꣹nāma paṃcama�
 <l>sphuṭakālakūṭaviṣakūṭakaṃdharā-</l>
 <l>kṛtanīrabhāraguruvāridabhramaḥ|</l>
 <l>upadeśalābharasād iva¦<space type="binding-hole"/> gratas</l>
-<l>tava nātha<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst> nṛtyati kumāracaṃdrakī||</l>
+<l>tava nātha<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del> nṛtyati kumāracaṃdrakī||</l>
 <!-- pada c one syllable missing -->
 </lg>
 <lg type="verse" xml:id="HV_06_180">
@@ -3978,7 +3978,7 @@ kṛtau haravijaye mahākāvye gaṇapatisabhākṣobho nāma saptamaḥ sargga�
 <l>āmṛśya kālamusalo musalaṃ<!-- supposedly Bengali anusvāra --> salī-</l>
 <l>māmāṃsalāṃsaśikharaskhaladuttarīyaḥ|</l>
 <l>vākyaṃ nirarga<space type="binding-hole"/>lamudāharadatranāda-</l>
-<l>śāsaṃkatāṃḍavikaṣanmu<subst><del rend="small cancellation stroke at the bottom of the daṇḍa">|</del></subst>khanīlakaṃṭhaṃ||</l>
+<l>śāsaṃkatāṃḍavikaṣanmu<del rend="small cancellation stroke at the bottom of the daṇḍa">|</del>khanīlakaṃṭhaṃ||</l>
 </lg>
 <!-- <p xml:id="HV_08_5p">
 (pañcabhiḥi kulakam)
@@ -3999,7 +3999,7 @@ kṛtau haravijaye mahākāvye gaṇapatisabhākṣobho nāma saptamaḥ sargga�
 <l>yasyātra siṃdhusalilormmighaṭāsamīra-</l>
 <l>paryastamūlaparivarttikirīṭacaṃdraṃ</l>
 <l>chedābhiyuktakarajāgram ivaiti lakṣmī-<!-- [¦ corrected by bow?] --></l>
-<l><lb/>madyāpi mūrtti parameṣṭiśiraḥkapālaṃ<subst><add rend="double daṇḍa above and below line">||</add></subst></l>
+<l><lb/>madyāpi mūrtti parameṣṭiśiraḥkapālaṃ<add rend="double daṇḍa above and below line">||</add></l>
 </lg>
 <lg type="verse" xml:id="HV_08_9">
 <l>yasyādrirājasutayā ratimaṃḍaneṣu</l>
@@ -4021,7 +4021,7 @@ kṛtau haravijaye mahākāvye gaṇapatisabhākṣobho nāma saptamaḥ sargga�
 </lg>
 <lg type="verse" xml:id="HV_08_12">
 <l>yasya vyalokyata suraiḥ puradāhakāle</l>
-<l>helordhvakṛṣṇam abhisaṃhisāgnibāṇa<subst><add rend="daṇḍa above line">|</add></subst></l>
+<l>helordhvakṛṣṇam abhisaṃhisāgnibāṇa<add rend="daṇḍa above line">|</add></l>
 <l>bāṇāsanaṃ saralasaṃgatataṃtughoṇa-</l>
 <l>bhāsvattṛtīyanayanabhrukuṭī<space type="binding-hole"/>karālaṃ||</l>
 </lg>
@@ -4095,7 +4095,9 @@ kulakaṃ||
 <l>saṃvarttakālarajanīṣu¦<space type="binding-hole"/> vijṛmbhamāṇam</l>
 <l>asyālimecakarucira sphuradetadāsyāṃ|</l>
 <l>viśvaṃ visatpralayameti tadāṃdhakāra-</l>
-<l>bījāyamānamabhito diśi dakṣiṇasyām||[cd x2]</l>
+<l>bījāyamānamabhito diśi dakṣiṇasyām||</l>
+<surplus reason="scribal repetition"><l>viśvaṃ visatpralayameti ta¦<lb/>dāṃdhakāra-</l>
+<l>bījāyamānamabhito diśi dakṣiṇasyām||</l></surplus>
 </lg>
 <lg type="verse" xml:id="HV_08_24">
 <l>dūre 'thavaiṣa viṣayīkṛtasaptaloka-</l>
