@@ -34,3 +34,6 @@ a<space type="binding-hole"/>
 
 "i 
 ?xml:id="\zsvt"y0f>i xml:id="pap"q€kb
+
+"g Sitting on the first line of a four-line verse, wrapping it in <lg>.
+?verseYP$?\d€kd€kd€kd€kdo<>€kl\€kb/lg
