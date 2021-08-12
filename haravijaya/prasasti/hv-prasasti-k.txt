@@ -65,7 +65,7 @@
 <l>ratnākaro lalitabandham idaṃ vyadhatta</l>
 <l>candrārdhacūlacaritāśrayacāru kāvyam||1||</l>
 </lg>
-<p>sa kila kavirevamuktavān-</p>
+<p xml:id="HV_P_1p">sa kila kavir evam uktavān-</p>
 <lg type="verse" xml:id="HV_P_2">
 <l>lalitamadhurāḥ sālaṃkārāḥ prasādamanoramā</l>
 <l>vikaṭayamakaśleṣoddhāraprabandhanirargalāḥ|</l>

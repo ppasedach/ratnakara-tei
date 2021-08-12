@@ -131,11 +131,16 @@ catuścatvāriṃśaḥ sargaḥ|
 <l>śūrā varāhajaghanāḥ parayugmaroma-</l>
 <l>sāndratvaco natanirāyatasūkṣmakeśāḥ||11||</l>
 </lg>
-<lg type="verse" xml:id="HV_44_13">
+<lg type="verse" xml:id="HV_44_12">
 <l>bhagnāmaradviradamutpalasaptaparṇa-</l>
 <l>cūtātimuktakasugandhi śaranmadhūttham|</l>
 <l>saṃvāditāṃ nayadahargaṇamañjanena</l>
-<l>senāmataṅgajagaṇā mumucurmadāmbhaḥ||12|| (cakkalakam)</l>
+<l>senāmataṅgajagaṇā mumucurmadāmbhaḥ||12|| </l>
+</lg>
+<p xml:id="HV_44_12p">
+(cakkalakam)
+</p>
+<lg type="verse" xml:id="HV_44_13">
 <l>māṇikyadīdhitiśikhākapiśaprakāśa-</l>
 <l>māyodhane subhaṭahastatalavyapāstam|</l>
 <l>cakraṃ papāta pariṇāhini nāgakumbha-</l>
@@ -185,6 +190,7 @@ catuścatvāriṃśaḥ sargaḥ|
 <l>vṛntaśriyaṃ nipatito viadhāra karṇaḥ||20||</l>
 </lg>
 <lg type="verse" xml:id="HV_44_21">
+<l>hastena śātaśatarakalpitam uttamāṅga-</l>
 <l>masracchaṭāruṇaśiroruhapallavāṅkam|</l>
 <pb n="608"/>
 <l>nākapraveśagurumaṅgalaratnakumbha-</l>
@@ -381,12 +387,17 @@ catuścatvāriṃśaḥ sargaḥ|
 <l>dikkāminīsaralasaṃgatacārudīrgha-</l>
 <l>veṇīlatā samaradurdinamegharājiḥ||52||</l>
 </lg>
-<lg type="verse" xml:id="HV_44_54">
+<lg type="verse" xml:id="HV_44_53">
 <l>piṅgaprabhāvikaṭahetihiraṇmayādri-</l>
 <l>skandhāgnidhūmapaṭalī viyadutpapāta|</l>
 <pb n="614"/>
 <l>senāturaṅgakhuravajraśikhābhighāta-</l>
-<l>piṣṭendranīlamaṇimaṇḍaladhūlilekhā||53|| (yugalakam)</l>
+<l>piṣṭendranīlamaṇimaṇḍaladhūlilekhā||53|| </l>
+</lg>
+<p xml:id="HV_44_53p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_44_54">
 <l>uttiṣṭhati sā dalitāruṇaratnareṇu-</l>
 <l>rāśirvicitramaṇicūrṇakaṇāvakīrṇaḥ|</l>
 <l>vindhyāvanīdhra iva vartma rurutsuruṣṇa-</l>

@@ -150,7 +150,7 @@ saptacatvāriṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_47_15">
 <l>āhanyamānakanakācalalāḍanottha-</l>
-<l>nādānubandhādhirīkṛtasaptalokam|</l>
+<l>nādānubandhabadhirīkṛtasaptalokam|</l>
 <l>kalyāṇi vādayasi kālavibhāvarīṣu</l>
 <l>padmāsanāṇḍavikaṭordhvakavāṭaghaṇṭām||15||</l>
 </lg>
@@ -225,7 +225,7 @@ saptacatvāriṃśaḥ sargaḥ|
 <lg type="verse" xml:id="HV_47_27">
 <l>ābhīlatāṃ brajasi pāṇinakhāgraśukti-</l>
 <l>līlāgṛhītasakaloddhatasaptasindhuḥ|</l>
-<l>pādā'Ngadīkṛtakarālasahasraraśmi-</l>
+<l>pādāṅgadīkṛtakarālasahasraraśmi-</l>
 <l>dhāmāvadhikṣititalā pralayāgameṣu||27||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_28">
@@ -287,7 +287,7 @@ saptacatvāriṃśaḥ sargaḥ|
 <l>uṣṇīṣabandhadṛḍhapīḍitakaṇṭhapīṭha-</l>
 <l>phullatphaṇāphalakavāsukiphūtkṛtotthāḥ|</l>
 <l>tvāṃ caṇḍipāvakaśikhāḥ paritoṣayanti</l>
-<l>saṃ'soṣitābhrasaritaḥ śirasi smarāreḥ||37||</l>
+<l>saṃśoṣitābhrasaritaḥ śirasi smarāreḥ||37||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_38">
 <l>bhāsi tvamamba rajanī śaśalakṣmaśāra-</l>
@@ -674,7 +674,6 @@ saptacatvāriṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_47_100">
 <l>ātasthuṣaḥ ṣaḍavadhisthitavartmamātṛ-</l>
-<l>cakrasya ṣaḍavadhisthitavartmamātṛ-</l>
 <l>cakrasya caṇḍi pṛthusūkṣmaśariravṛttiḥ|</l>
 <pb n="657"/>
 <l>khyātā tvameva jagati pratipannaviśva-</l>
@@ -893,7 +892,7 @@ saptacatvāriṃśaḥ sargaḥ|
 <l>ye vā pibanti surabhestava tāludeśa-</l>
 <l>madhyasthite stanamadhīśvarī lambamānam|</l>
 <l>āpyāyitāstadamṛtena vimuktimārga-</l>
-<l>māyānti te sakalahāvavikāraśūnyāḥ||1365||</l>
+<l>māyānti te sakalahāvavikāraśūnyāḥ||135||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_136">
 <l>saṃvartavāridaghaṭāsu śatahrdātva-</l>
@@ -1088,8 +1087,7 @@ saptacatvāriṃśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_47_167">
 <l>iti tava guṇavādāḥ kilāsmājjanani yadarjitamasti puṇyajātam|</l>
-<l>pratisamayamiyaṃ tvadaṅghripūjābhiratiphalā tvayi tena no 'stu</l>
-<l>bhaktiḥ||167||</l>
+<l>pratisamayamiyaṃ tvadaṅghripūjābhiratiphalā tvayi tena no 'stu bhaktiḥ||167||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_168">
 <l>praśamaya mahāmohātaṅkaṃ vidhatsva sunirmalāṃ</l>

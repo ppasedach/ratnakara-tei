@@ -58,7 +58,6 @@
   <text xml:lang="sa-Latn">
     <body>
 <div xmlns="http://www.tei-c.org/ns/1.0" n="50" type="chapter">
-<pb n="690"/>
 <p>
 pañcāśaḥ sargaḥ|
 </p>
@@ -543,11 +542,13 @@ pañcāśaḥ sargaḥ|
 <l>nirdehire jaraṭhahetiśataiḥ sarīḍha-</l>
 <l>maurvāgnineva makarākaravīcibhaṅgāḥ||78||</l>
 </lg>
-<lg type="verse" xml:id="HV_50_80">
+<lg type="verse" xml:id="HV_50_79">
 <l>taṃ śūlaśaktimusalāśanipaṭṭiśāsi-</l>
 <l>paṭṭairnihatya purajidditijaṃ jughora|</l>
 <l>ghorāstravṛṣṭibhirarthādidadandhako 'pi</l>
-<l>tasminpunaḥ sa vavṛdhe saviśeṣamagniḥ||79|</l>
+<l>tasminpunaḥ sa vavṛdhe saviśeṣamagniḥ||79||</l>
+</lg>
+<lg type="verse" xml:id="HV_50_80">
 <l>kodaṇḍamaṇḍalavinirgatamasya bāṇa-</l>
 <l>jālaṃ yudhi prasabhamindudharo nihatya|</l>
 <l>vegādrathaṃ prati sasāra tamājaghāna</l>
@@ -568,14 +569,11 @@ pañcāśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_50_83">
 <l>smitavikasitagaṇḍabhittibhāgastamabhimukhaṃ guruvegamāpatantam|</l>
-<l>samamabhinadaśeṣadaityakāntājanahṛdayaistriśikhena</l>
-<l>śūlapāṇiḥ||83||</l>
+<l>samamabhinadaśeṣadaityakāntājanahṛdayaistriśikhena śūlapāṇiḥ||83||</l>
 </lg>
 <lg type="verse" xml:id="HV_50_84">
-<l>tadvakṣaḥ sphuritakṛśānuśūlakoṭiṃ</l>
-<l>jhāṃkārāravabadhirīkṛtāntarikṣam|</l>
-<l>sasyande rudhiramakāri yena</l>
-<l>saṃdhyātāmrāṃśucchuritamivābhracakravālam||84||</l>
+<l>tadvakṣaḥ sphuritakṛśānuśūlakoṭiṃ jhāṃkārāravabadhirīkṛtāntarikṣam|</l>
+<l>sasyande rudhiramakāri yena saṃdhyātāmrāṃśucchuritamivābhracakravālam||84||</l>
 </lg>
 <lg type="verse" xml:id="HV_50_85">
 <l>ditijarudhiradhārāsiktaśūlāśribhāga-</l>
@@ -584,10 +582,8 @@ pañcāśaḥ sargaḥ|
 <l>kṣatajamiva tadānīmantarikṣe ruroca||85||</l>
 </lg>
 <lg type="verse" xml:id="HV_50_86">
-<l>sasyande</l>
-<l>triśikhavidāritātsurāreryadvakṣaḥkaṭakataṭādasṛkchaṭāmbhaḥ|</l>
-<l>viśveṣāmakuruta tatpratāpavahnipluṣṭānāmapi jagatāṃ tadeva</l>
-<l>śāntim||86||</l>
+<l>sasyande triśikhavidāritātsurāreryadvakṣaḥkaṭakataṭādasṛkchaṭāmbhaḥ|</l>
+<l>viśveṣāmakuruta tatpratāpavahnipluṣṭānāmapi jagatāṃ tadeva śāntim||86||</l>
 </lg>
 <lg type="verse" xml:id="HV_50_87">
 <l>triśikhamukhavibhedādañjanakṣodapuñja-</l>
@@ -626,11 +622,13 @@ pañcāśaḥ sargaḥ|
 <l>śaśiśakalakirīṭasyandamānāmṛtāmbhaḥ</l>
 <l>srutikṛtapariṣekaṃ jīvayāmāsa sainyam||92||</l>
 </lg>
-<lg type="verse" xml:id="HV_50_94">
+<lg type="verse" xml:id="HV_50_93">
 <l>diśi diśi makarandasyandamādyaddvirephāḥ</l>
 <l>surabhitaghanamārgāḥ puṣpavṛṣṭīḥ kirantaḥ|</l>
 <l>pratinavamukharāgānekavāditraghoṣā-</l>
-<l>stamahitavadhatuṣṭāstuṣṭuvuḥ siddhasādhyāḥ||93|</l>
+<l>stamahitavadhatuṣṭāstuṣṭuvuḥ siddhasādhyāḥ||93||</l>
+</lg>
+<lg type="verse" xml:id="HV_50_94">
 <l>jaguramarataruṇyo maṅgalaṃ tāramandra-</l>
 <l>kramataralitahārotkampipīnastanāgrāḥ|</l>
 <l>aviratavividhabhrūbhaṅgasaṃlakṣyamāṇa-</l>

@@ -80,11 +80,16 @@ catvāriṃśaḥ sargaḥ|
 <l>puñjīkṛtaḥ kṣititale ghanatāmavāpya</l>
 <l>bhindanrasātalamivātibhareṇa bhūyaḥ||3||</l>
 </lg>
-<lg type="verse" xml:id="HV_40_5">
+<lg type="verse" xml:id="HV_40_4">
 <l>kampākulīkṛtasasaṃbhramalokapāla-</l>
 <l>pālīpuraṃdhrihṛdayo bibharāṃcakāra|</l>
 <l>prasthānadundubhiravaḥ kṣayakālavalga-</l>
-<l>duttālakālakaratālaninādalīlām||4|| (tilakam)</l>
+<l>duttālakālakaratālaninādalīlām||4|| </l>
+</lg>
+<p xml:id="HV_40_4p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_40_5">
 <l>utsṛjya saṃyugarasādatha tasya deha-</l>
 <l>bhāgārdhasaṃdhighaṭatanāṃ niriyāya gaurī|</l>
 <l>taccittabhāgagatasattvavidhūtabhīru-</l>
@@ -109,11 +114,16 @@ catvāriṃśaḥ sargaḥ|
 <l>tatspardhayeva savalītrayatāmavāptaṃ</l>
 <l>muṣṭigrahe 'pi śithilaṃ dadhatīti madhyam||8||</l>
 </lg>
-<lg type="verse" xml:id="HV_40_10">
+<lg type="verse" xml:id="HV_40_9">
 <l>pratyagrayāvakarasasphuraṇāruṇāgra</l>
 <l>bhāsvannakhendukiraṇaprakarāpadeśāt|</l>
 <l>saṃdhyāṃ prasādanaparāṃ galitābhyasūyā-</l>
-<l>mārabdhapādapatanāmiva dhārayantī||9|| (pañcabhiḥ kulakam)</l>
+<l>mārabdhapādapatanāmiva dhārayantī||9|| </l>
+</lg>
+<p xml:id="HV_40_9p">
+(pañcabhiḥ kulakam)
+</p>
+<lg type="verse" xml:id="HV_40_10">
 <l>tasyā mukhaṃ sarabhasārpitakāntadṛṣṭi-</l>
 <l>rdṛṣṭvā cirādatha śaśāṅkakalāvataṃsaḥ|</l>
 <l>saṃdarśaneṣu nayanatritayaṃ nimeṣa-</l>
@@ -224,11 +234,16 @@ catvāriṃśaḥ sargaḥ|
 <l>rakṣādhikāranavabhūtisudhopalepa-</l>
 <l>pāṇḍutviṣo racitasaṃnidhayaḥ suraughaiḥ||27||</l>
 </lg>
-<lg type="verse" xml:id="HV_40_29">
+<lg type="verse" xml:id="HV_40_28">
 <l>stamberamā mukharitāmbaraśaṅkhaghaṇṭā-</l>
 <l>ḍhakkāravā dhavalacāmaracāruśobhāḥ|</l>
 <l>vispaṣṭadantamaṇitoraṇasaṃniveśāḥ</l>
-<l>sainyairyudhe vidadhire surasadmarūpāḥ||28|| (yugalakam)</l>
+<l>sainyairyudhe vidadhire surasadmarūpāḥ||28|| </l>
+</lg>
+<p xml:id="HV_40_28p">
+(yugalakam)
+</p>
+<lg type="verse" xml:id="HV_40_29">
 <pb n="519"/>
 <l>pratyagramauktikavitānanidhānakumbha-</l>
 <l>rakṣākulājagarabibhramahastadaṇḍāḥ|</l>
@@ -259,12 +274,17 @@ catvāriṃśaḥ sargaḥ|
 <l>udraśmiratnakaṇaśāritaśātakumbha-</l>
 <l>preṅkhatkhalīnasakhaṇatkṛtivaktrabhāgāḥ||33||</l>
 </lg>
+<lg type="verse" xml:id="HV_40_34">
 <pb n="520"/>
-<lg type="verse" xml:id="HV_40_35">
 <l>sāṅgrāmikīṣu kuśalairgamitāstadānīṃ</l>
 <l>vīthīṣvamandatarasaḥ pṛtanāturaṃgāḥ|</l>
 <l>svedodabinduśabalastuvabhāgavaktra-</l>
-<l>śobhāḥ sudhodgamanalagnakaṇā ivāsan||34|| (tilakam)</l>
+<l>śobhāḥ sudhodgamanalagnakaṇā ivāsan||34|| </l>
+</lg>
+<p xml:id="HV_40_34p">
+(tilakam)
+</p>
+<lg type="verse" xml:id="HV_40_35">
 <l>sānukatāṃ vidadhato 'pyupamānaśūnyā</l>
 <l>mandā api glapitacaṇḍasamīravegāḥ|</l>
 <l>ākuñcitordhvakhuradaṇḍavibhaktapāda-</l>
@@ -357,12 +377,17 @@ catvāriṃśaḥ sargaḥ|
 <l>utplutya dārayitumīhata eva vajra-</l>
 <l>sūcīśitairnakhamukhairapi mārutaṃ yaḥ||49||</l>
 </lg>
-<lg type="verse" xml:id="HV_40_51">
+<lg type="verse" xml:id="HV_40_50">
 <l>tasmiṃstuṣāranikurumbavipāṇḍubhāsi</l>
 <l>siṃhīsute vidalitāñjanamecakārciḥ|</l>
 <pb n="524"/>
 <l>kātyāyanī kṛtapadā śriyamāsasāda</l>
-<l>prāleyaśailagatanūtanameghavallyāḥ||50|| (cakkalakam)</l>
+<l>prāleyaśailagatanūtanameghavallyāḥ||50|| </l>
+</lg>
+<p xml:id="HV_40_50p">
+(cakkalakam)
+</p>
+<lg type="verse" xml:id="HV_40_51">
 <l>śārṅgāyudho 'pi bhuvanakṣayakālavahni-</l>
 <l>śaṅkākulīkṛtasurāsuracakravālam|</l>
 <l>tārkṣyaṃ vidhautakaladhautapi'saṅgapakṣa-</l>
