@@ -4591,7 +4591,7 @@ hva ||
 <!-- <p xml:id="HV_09_69p">(kalāpakam)</p> -->
 <lg type="verse" xml:id="HV_09_70">
 <l>saṃvarttameghamalinātanukālakūṭa-</l>
-<l>cchāyāccha<subst><del>y</del><add>l</add><subst>ena bhuvanapralayāgameṣu|</l>
+<l>cchāyāccha<subst><del>y</del><add>l</add></subst>ena bhuvanapralayāgameṣu|</l>
 <l>ābhāty ayaṃ kavalitākhilasaptaloka-</l>
 <l>pātālaraṃdhratamaseva niruddhakaṃṭhaḥ||70</l>
 </lg>
@@ -4812,15 +4812,23 @@ kulakaṃ ||
 <l>kūpāṃtarocchalitasiṃdhujaleva daityaiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_10_28">
-<l>akrāmatas tribhuvanaṃ <!-- valirājalakṣmī-</l>
+<l>akrāmatas tribhuvanaṃ</l> <!-- valirājalakṣmī-</l>-->
+<l></l>
+<l></l>
+<l></l>
+<!--
 <l>nirvāsanāya navavibhramamaṇḍanaśrīḥ|</l>
 <l>ādhāyi yasya surasiddhavadhūkapola-</l>
 <l>bhāgeṣu pādanakhadīdhitimañjarībhiḥ||28||</l>
-</lg> -->
+ -->
+</lg>
 <lg type="verse" xml:id="HV_10_29">
 <!-- <l>utkhāya nandanavanādupanīta eva</l>
 <l>yena drume bhavanakānanabhūmibhāgam|</l>
-<l>ālokyatāpyanavataṃ -->satitadvinidra-</l>
+<l>ālokyatāpyanavataṃ -->
+<l></l>
+<l></l>
+<l>satitadvinidra-</l>
 <l>puṣpair vvikāsitadṛśā dayitānane śrīḥ|</l>
 </lg>
 <lg type="verse" xml:id="HV_10_30">
