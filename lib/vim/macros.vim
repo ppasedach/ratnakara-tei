@@ -33,19 +33,23 @@ a<space type="binding-hole"/>
 ?<lb n="\zsvt"yf/i n="pf/i"/<lb
 
 "i 
-?xml:id="\zsvt"y0f>i xml:id="pap"q€kb
+?xml:id="\zsvt"y0f>i xml:id="pap"
 
 "g Sitting on the first line of a four-line verse, wrapping it in <lg>.
 ?verseYP$?\d€kd€kd€kd€kdo<>€kl\€kb/lg
-
+?verseYP$?\dj@l@l@l@lO</lg>j
 "g Same for a two line verse, but including the <l>s inside of it.
 ?verseYP$?\dj@l@lO</lg>j
+
+
+
 
 "c
 ?<!--dd/<lg P
 
 "p
 "had a macro that would go to the end of the line, insert </p>, to the beginning of the line, insert <p>, and call @i
+$a<p€kl/€kr>€kh<p>@ij
 
 "c Comment out the commentary section at the end of a page.
 O<!--}jjo-->j
