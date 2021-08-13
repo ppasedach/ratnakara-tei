@@ -40,3 +40,13 @@ a<space type="binding-hole"/>
 
 "g Same for a two line verse, but including the <l>s inside of it.
 ?verseYP$?\dj@l@lO</lg>j
+
+"c
+?<!--dd/<lg P
+
+"p
+"had a macro that would go to the end of the line, insert </p>, to the beginning of the line, insert <p>, and call @i
+
+"c Comment out the commentary section at the end of a page.
+O<!--}jjo-->j
+
