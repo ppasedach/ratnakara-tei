@@ -37,3 +37,6 @@ a<space type="binding-hole"/>
 
 "g Sitting on the first line of a four-line verse, wrapping it in <lg>.
 ?verseYP$?\d€kd€kd€kd€kdo<>€kl\€kb/lg
+
+"g Same for a two line verse, but including the <l>s inside of it.
+?verseYP$?\dj@l@lO</lg>j
