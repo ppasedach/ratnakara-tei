@@ -6,7 +6,7 @@
 
 cd ~/git/ratnakara-tei/haravijaya/all
 #for i in `echo 01 02 47`
-for i in `echo 01 02 03 04 05 06 07 08 09 10 47`
+for i in `echo 01 02 03 04 05 06 07 08 09 10 11 47`
 do
 echo going to $i
 cd ../$i 
