@@ -22437,7 +22437,7 @@ saptacatvāriṃśaḥ sargaḥ|
 -->
 <lg type="verse" xml:id="HV_47_121">
 <l>pītvā tu divyam amṛtaṃ sukhino bhavaṃ<lb/>ti</l>
-<l><subst>y<add>e</add><del>o</del></subst> gauri yogamanaso yad a<subst><add>p</add><del>s</del></subst>oḍhaduḥkhāḥ</l>
+<l><subst>y<del>o</del><add>e</add></subst> gauri yogamanaso yad a<subst><del>s</del><add>p</add></subst>oḍhaduḥkhāḥ</l>
 <l>tvaṃ <lb/>tanmayī bhagavati kṣayam īyivāṃsa-</l>
 <l>m āpyāyaya¦<lb/>sy atiśamāśu svayaiva dṛṣṭā||121||</l>
 </lg>
@@ -23399,7 +23399,7 @@ ___ gandhebhakumbhakaṭakaḥ surasiṃha ekaḥ .. 133 ..
 <l>śātāsirvegagatyā ravaṇagarabhasatrāsacaryā dhunānā</l>
 <l>sārānantāsamagrā jagati rasanutasthāmamattānunādā .. 144 ..</l>
 </lg>
-<p xml:id="HV_48_144p">prātilomyenānantara ślokaḥ--</p>
+<p xml:id="HV_48_144p">prātilomyenānantara ślokaḥ-</p>
 <lg type="verse" xml:id="HV_48_145">
 <l>dānānuttā mamasthā tanusaratigajagrāmasaṃtānarāsā</l>
 <l>nānādhuryā ca satrā sabharagaṇavaratyāgagarve sitāśā .</l>
@@ -24435,6 +24435,7 @@ pañcāśaḥ sargaḥ|
 <l>api śiśur akaviḥ kaviḥ prabhāvād bhavati kaviś ca mahākaviḥ krameṇa||7||</l>
 </lg>
 </div>
+-->
     </body>
   </text>
 </TEI>
