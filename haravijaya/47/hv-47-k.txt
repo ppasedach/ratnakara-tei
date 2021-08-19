@@ -803,10 +803,10 @@ saptacatvāriṃśaḥ sargaḥ|
 <l>niḥśeṣanirjaramayī prathitā madhuścyut||120||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_121">
-<l>pītvāśu divyamamṛtaṃ sukhino bhavanti</l>
+<l>pītvāśu divyam amṛtaṃ sukhino bhavanti</l>
 <l>yogābhiyogamanaso yadapoḍhaduḥkhāḥ|</l>
-<l>tvaṃ tanmayī hagavati kṣayamīyivāṃsa-</l>
-<l>māpyāyayasyaniśameva himāṃśumekā||121||</l>
+<l>tvaṃ tanmayī bhagavati kṣayam īyivāṃsa-</l>
+<l>m āpyāyayasyaniśameva himāṃśum ekā||121||</l>
 </lg>
 <lg type="verse" xml:id="HV_47_122">
 <l>śaktyā tvayānavamayā kila śaṃkarasya</l>
