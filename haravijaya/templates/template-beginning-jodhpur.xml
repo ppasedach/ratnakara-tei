@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Jodhpur</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement></settlement>
+              <region></region>
+              <country></country>
+            </placeName>
+            <institution></institution>
+            <repository></repository>
+            <collection></collection>
+            <idno></idno>
+            <!--<idno type="NCC"></idno>-->
+            <idno type="siglum">D<sub>A</sub></idno>
+          </msIdentifier>
+          <msContents>
+            <summary>[description of manuscript]</summary>
+            <msItem n="1" defective="true">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">[author]</author>
+              <author xml:lang="sa" role="commentator">[commentator]</author>
+              <title xml:lang="sa">Haravijaya</title>
+              <title xml:lang="sa" type="commentary">[title of commentary]</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="e-text">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="digital">Digital</supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="CE" when="unclear">unclear</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en"></origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2020-05-19">
+        <persName>Peter Pasedach</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+

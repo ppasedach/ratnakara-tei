@@ -126,7 +126,7 @@ pañcamaḥ sargaḥ|
 <l>abhivīkṣya ko na ramate 'bhimataṃ jagatāṃ bhavantamiva śailapatim||13||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_14">
-<l>tālīatālīlalitāvataṃsaḥ sārāvasārāvahitāṇḍajo 'sau|</l>
+<l>tālīlatālīlalitāvataṃsaḥ sārāvasārāvahitāṇḍajo 'sau|</l>
 <l>mattālimattāli taṭaṃ bibharti sānūpasānūpahitopaśobhaḥ||14||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_15">
