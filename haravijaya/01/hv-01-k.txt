@@ -64,7 +64,6 @@ prathamaḥ sargaḥ|
 <lg type="verse" xml:id="HV_01_1">
 <l>kaṇṭhaśriyaṃ kuvalayastabakābhirāma-</l>
 <l>dāmānukārivikaṭacchavikālakūṭām|</l>
-<p>test</p>
 <l>bibhrat sukhāni diśatād upahārapīta-</l>
 <l>dhūpotthadhūmamalinām iva dhūrjaṭir vaḥ||1||</l>
 </lg>
