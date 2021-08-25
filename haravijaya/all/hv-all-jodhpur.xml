@@ -916,14 +916,18 @@ ratnāṅke haravijaye mahākāvye tāṇḍavavarṇano nāma dvitīyaḥ
 sargaḥ|
 </p>
 </div>
+-->
 <div n="03" type="chapter">
 <p>
-tṛtīyaḥ sargaḥ|
+śrīgaṇeśāya namaḥ||
 </p>
 <lg type="verse" xml:id="HV_03_1">
-<l>atha sa manthagirau sakalakartubhir nijanijaprasavojjvalayā śriyā|</l>
-<l>samam asevi kadācid upāśrito girijayārijayānaghadordrumaḥ||1||</l>
+<l>atha sa ma<lb/><subst><del rend="white correction fluid applied"><gap reason="illegible"></gap></del><add>ntha</add></subst>girau<!--XXX|XXX--> saka<subst><del><unclear reason="white correction fluid applied in several places"/></del><add>lartu</add></subst>bhir<!--XXX|XXX-->
+<subst><del><unclear reason="white correction fluid applied"/></del><add>ni</add></subst>ꣻjanijaprasavojjvala<lb/>yā<!--XXX|XXX--> śriyā<!--XXX|space XXX--></l>
+<l>samam<!--XXX|'XXX--> a<subst><del>me</del><add rend="small stroke">se</add></subst>vi<!--XXX|XXX--> ka<subst><del rend="white correction fluid applied"><gap reason="illegible"></gap></del><add>dā</add></subst>cid<!--XXX|XXX-->
+upāśri<subst>t<del>a</del><add rend="implied">o</add></subst><!--XXX|XXX--> girijayā<!--XXX|'XXX-->rijayā<!--space?-->naghadordrumaḥ<!--XXX|XXX-->1 </l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_03_2">
 <l>madhuparājiparājitamāninījanamanaḥsumanaḥ surabhiśriyam|</l>
 <l>ābhṛta vāritavarijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat||2||</l>
@@ -1249,7 +1253,7 @@ tṛtīyaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_03_79">
 <l>srutamado girikānanavartmani pratikarīti karīrakulākule|</l>
-<l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l> 
+<l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l>
 </lg>
 <p xml:id="HV_03_79p">[iti śarat]</p>
 <lg type="verse" xml:id="HV_03_80">
@@ -1325,7 +1329,9 @@ vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma
 tṛtīyaḥ sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="04" type="chapter">
 <p>
 caturthaḥ sargaḥ|
@@ -3410,7 +3416,7 @@ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_06_157">
 <l>paripūritākhilaparāparātmaka-</l>
-<l>pratibandhaśūnyaphalasaṃvido 'vyayāḥ|</l> 
+<l>pratibandhaśūnyaphalasaṃvido 'vyayāḥ|</l>
 <l>anivāritāmṛtapayaścyuto vibhos</l>
 <l>tava śaktayo bhuvanakāmadhenavaḥ||157||</l>
 </lg>
