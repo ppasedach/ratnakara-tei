@@ -922,63 +922,82 @@ sargaḥ|
 śrīgaṇeśāya namaḥ||
 </p>
 <lg type="verse" xml:id="HV_03_1">
-<l>atha sa ma<lb/><subst><del rend="white correction fluid applied"><gap reason="illegible"></gap></del><add>ntha</add></subst>girau<!--XXX|XXX--> saka<subst><del><unclear reason="white correction fluid applied in several places"/></del><add>lartu</add></subst>bhir<!--XXX|XXX-->
-<subst><del><unclear reason="white correction fluid applied"/></del><add>ni</add></subst>ꣻjanijaprasavojjvala<lb/>yā<!--XXX|XXX--> śriyā<!--XXX|space XXX--></l>
-<l>samam<!--XXX|'XXX--> a<subst><del>me</del><add rend="small stroke">se</add></subst>vi<!--XXX|XXX--> ka<subst><del rend="white correction fluid applied"><gap reason="illegible"></gap></del><add>dā</add></subst>cid<!--XXX|XXX-->
-upāśri<subst>t<del>a</del><add rend="implied">o</add></subst><!--XXX|XXX--> girija<lb/>yā<!--XXX|'XXX-->rijayā<!--space?-->naghadordrumaḥ<!--XXX|XXX-->1 </l>
+<l>atha sa ma<lb/><subst><del rend="white correction fluid applied"><gap reason="illegible"/></del><add>ntha</add></subst>girau<!--XXX|XXX-->
+  saka<subst><del><unclear reason="white correction fluid applied in several places"/></del><add>lartu</add></subst>bhir<!--XXX|XXX-->
+  <subst><del><unclear reason="white correction fluid applied"/></del><add>ni</add></subst>ꣻjanijaprasavojjvala<lb/>yā<!--XXX|XXX--> śriyā<!--XXX|space XXX--></l>
+<l>samam<!--XXX|'XXX--> a<subst><del>me</del><add rend="small stroke">se</add></subst>vi<!--XXX|XXX-->
+  ka<subst><del rend="white correction fluid applied"><gap reason="illegible"/></del><add>dā</add></subst>cid<!--XXX|XXX-->
+  upāśri<subst>t<del>a</del><add rend="implied">o</add></subst><!--XXX|XXX--> girija<lb/>yā<!--XXX|'XXX-->rijayā<!--space?-->naghadordrumaḥ<!--XXX|XXX-->1 </l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
 <l>madhuparājiparāji<lb/>tamā<subst>n<del>a</del><add rend="implied">i</add></subst>nījanamanassumanas<!--XXX|XXX--> surabhiśriyam<!--XXX|XXX--></l>
 <l>abhṛ<lb/>ta<!--XXX|XXX--> vāritavarijaviplavāṃ<!--XXX|XXX--> sphuṭitatāmratatāmrava<lb/>naṃ<!--XXX|XXX--> jagat<!--XXX|XXX-->2</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">
-<l>drutam<!--XXX|'XXX--> apāsya<!--XXX|XXX--> yamena<!--XXX|XXX--> niṣevitām abhi<lb/>navotka<del><unclear reason="white correction fluid applied above"/></del>taye<!--XXX|i XXX-->va<!--XXX|XXX--> divākaraḥ<!--XXX|XXX--></l>
+<l>drutam<!--XXX|'XXX--> apāsya<!--XXX|XXX--> yamena<!--XXX|XXX--> niṣevitām abhi<lb/>navotka<del><unclear reason="white correction fluid applied above"/></del>
+  taye<!--XXX|i XXX-->va<!--XXX|XXX--> divākaraḥ<!--XXX|XXX--></l>
 <l>diśam<!--XXX|'XXX--> aśiśriyad<!--XXX|XXX--> aiḍabiḍā<lb/>śrayām<!--XXX|'XXX--> asumatāṃ<!--XXX|XXX--> sumatāṃ vidadhat<!--XXX|XXX--> sthitim<!--XXX|XXX-->3</l>
 </lg>
 <lg type="verse" xml:id="HV_03_4">
-<l>sthi<pb n="33"/>ti<!--XXX|XXX-->m<!--XXX half-circle XXX--> adhur<!--XXX|XXX--> madhurām<!--XXX|'XXX--> avalambita<del rend="white correction fluid applied"><!--XXX|XXX--></del>stabakadarpaṇapallavapāṇayaḥ<!--XXX|XXX--></l>
+<l>sthi<pb n="33"/>ti<!--XXX|XXX-->m<!--XXX'XXX--> adhur<!--XXX|XXX--> madhurām<!--XXX|'XXX--> avalambita<del rend="white correction fluid applied"><!--XXX|XXX--></del>
+  stabakadarpaṇapallavapāṇayaḥ<!--XXX|XXX--></l>
 <l>satilakojjvalapattralatā<!--XXX|XXX--> girer<!--XXX|'XXX--> avanayo<!--XXX|XXX--> vanayogakṛtaśri<unclear reason="white fluid">ya</unclear>ḥ<!--XXX|XXX-->4</l>
 </lg>
-<!--
-<pb n="31" />
 <lg type="verse" xml:id="HV_03_5">
-<l>kṛtakuśeśayinīrucayo madhuvyatikarād abhimantharagāminaḥ|</l>
-<l>madhuliho divasāś ca vadhūr vyadhuḥ paravatīr avatīrṇamanobhavāḥ||5||</l>
+<l>kṛtakuśeśayinīrucayo<!--XXX|XXX--> madhuvyatikarād<!--XXX|'XXX--> atimaṃ<subst><del><unclear reason="white correction fluid applied"/></del>
+  <add place="right margin">tha<!--different scribe--></add></subst><lb/>ragāminaḥ</l>
+<l>madhuliho<!--XXX|XXX--> divasā<subst><del><unclear reason="white correction fluid applied"/></del><add>ś</add></subst><!--XXX|XXX-->
+  <add>ca<!--different scribe?--></add><!--XXX|XXX--> vadhūr<!--XXX|XXX--> vyadhuḥ<!--XXX|XXX--> paravatīr<!--XXX|'XXX-->
+  ava<del rend="white correction fluid applied">|</del><lb/>tīrṇamanobhavāḥ<!--XXX|XXX-->5</l>
 </lg>
 <lg type="verse" xml:id="HV_03_6">
-<l>dhruvam anekarasābhyavahārataḥ kṛtarasāyanasaṃgrahasusthitā|</l>
-<l>madhulihām asukhāyata saṃhatir vṛtimatītim atītya kṛtasthitiḥ||6||</l>
+<l>sphuṭam<!--XXX|'XXX--> anekarasābhyavahārataḥ<!--XXX|XXX--> kṛta<lb/>rasāyanasaṃgrahasusthitā<!--XXX|XXX--></l>
+<l>madhulihām<!--XXX|'XXX--> asukhāyata saṃha<lb/>ttir<!--XXX|XXX--> <unclear reason="white correction fluid">v</unclear>ṛtimatī<!--XXX|ī XXX-->tim
+  <!--left margin ītir XXX u XXX upadravaḥ--><!--XXX|'XXX--> atī<add rend="arrows" place="above line">tya</add> kṛtasthitiḥ<!--XXX|XXX-->6</l>
 </lg>
 <lg type="verse" xml:id="HV_03_7">
-<l>madhurayā parapuṣṭagirā śanaiḥ savayaseva sametya madhuśriyā|</l>
-<l>mṛgadṛśo ghaṭitāḥ saha vallabhair mudam adhur damadhuryamanohṛtaḥ||7||</l>
+<l>madhurayā<!--XXX|XXX--> parapuṣṭa<lb/>girā<!--XXX|XXX--> śanaiḥ<!--XXX|XXX--> savayase<!--XXX|i?XXX-->va<!--XXX|XXX-->
+  sametya<!--XXX|XXX--> madhuśriyā<!--XXX|XXX--></l>
+<l>mṛgadṛśo<!--XXX|XXX--><del rend="white correction fluid applied">|</del> <lb/>ghaṭitāḥ<!--XXX|XXX--> saha<!--XXX|XXX-->
+  vallabhair<!--XXX|XXX--> <unclear>mu</unclear>dam<!--XXX|'XXX--> adhur <subst><del rend="white correction fluid applied"><gap reason="illegible"/></del>
+  <add>da</add></subst>madhuryamanohṛtaḥ<!--XXX|XXX-->7</l>
 </lg>
 <lg type="verse" xml:id="HV_03_8">
-<l>surabhitāṃ dadhati pramadānvito navamadhūpahitatviṣi campake|</l>
-<l>surataharmya ivāracitasthitir navaratām baratāṃ madhupo 'nvabhūt||8||</l>
+<l><lb/>surabhitāṃ<!--XXX|XXX--> dadhati<!--XXX|XXX--> pramadānvito<!--XXX|XXX--> navamadhūpahitatviṣi<!--XXX|XXX--> ca<lb/>ṇyake<!--XXX|XXX--></l>
+<l>surataharmya<!--XXX|XXX--> ivā<!--XXX|XXX-->racita<del rend="white correction fluid applied"><!--XXX|XXX--></del>sthitir<!--XXX|XXX-->
+  navaratām<!--XXX|XXX--> varatāṃ<!--XXX|XXX--> madhu<lb/>po<!--XXX|'XXX--> 'nvabhūt<!--XXX|XXX-->8</l>
 </lg>
 <lg type="verse" xml:id="HV_03_9">
-<l>kusumitā girikānanabhūmayaḥ kisalayādharakhaṇḍanalālasaiḥ|</l>
-<l>parabhṛtaiḥ śradadhāyiṣata priyāḥ sumadanā madanāditaṣaṭpadāḥ||9||</l>
+<l>kusumitāḥ<!--XXX|XXX--> girikānanabhūmayaḥ<!--XXX|XXX--> ki<lb/>salayādharakhaṃḍanalā<add rend="arrows" place="above line">la</add>saiḥ<lb/></l>
+<l>parabhṛtaiḥ<!--XXX|XXX--> śradadhāyiṣata<!--XXX|XXX--> pri<del rend="white correction fluid applied">|</del><lb/>yās<!--XXX|XXX-->
+  samadanā<!--XXX|XXX--> madanāditaṣaṭpadāḥ<del rend="white correction fluid applied"><!--XXX|XXX--></del>9</l>
 </lg>
 <lg type="verse" xml:id="HV_03_10">
-<l>madhurajṛmbhaṇavibhramamādhavīmadhurasāsavapānamadotkaṭāḥ|</l>
-<l>madhuliho vyathayantu malīmasāḥ smarasahā rasahāsavātīḥ striyaḥ||10||</l>
+<l>madhura<subst><del rend="white correction fluid applied">bhṛ</del><add>jṛṃ</add></subst>bha<del rend="white correction fluid applied">|</del>
+  <lb/>ṇavibhramamādhavīmadhurasāsavapānamadotkaṭāḥ<!--XXX|XXX--></l>
+<l>ma<pb n="34"/>dhuliho<!--XXX|XXX--> vyathayantu<!--XXX|XXX--> malīmamāḥ<!--XXX|XXX--> smarasahā<!--XXX|XXX--> rasahāvavātīḥ<!--XXX|XXX-->
+  <lb/>striyaḥ<!--XXX|XXX-->10</l>
 </lg>
 <lg type="verse" xml:id="HV_03_11">
-<l>dadhadudañcitapakṣmakarālatāṃ kurabakastabako madhubodhitaḥ|</l>
-<l>tadasamañjasameṣa dunoti yacchucitayā citayāpi viyoginīḥ||11||</l>
+<l>dadhadudañcitapakṣmakarālatāṃ kuravaka<del rend="white correction fluid applied"><!--XXX|XXX--></del>stava<del rend="white correction fluid applied">|</del><lb/>ko<!--XXX|XXX-->
+  madhubodhitaḥ<space unit="akṣara" quantity="1"/></l>
+<l>tad<!--XXX|XXX-->asamañjasam<!--XXX|e XXX-->eṣa<!--XXX|XXX--> dunoti<!--XXX|XXX--> yac<!--XXX|XXX-->chucitayā<!--XXX|XXX--><del rend="white correction fluid applied">|</del>
+  <lb/>citayā<!--XXX|'XXX-->pi<!--XXX|XXX--> viyoginīḥ<!--XXX|XXX-->11</l>
 </lg>
 <lg type="verse" xml:id="HV_03_12">
-<l>tadabhidhāya tamānaya satvaraṃ madhuravādini tattaditi striyaḥ |</l>
-<l>rasaniyuktasakhīvacanāgatapriyatamāyatamānamuco 'bhavan||12||</l>
+<l>tad<!--XXX|XXX-->abhi<subst><del rend="white correction fluid applied"><gap reason="illegible"/></del><add>dhāya<!--XXX|XXX--> tam</add></subst>
+  <!--XXX|''XXX-->ānaya<!--XXX|XXX--> satvaraṃ<!--XXX|XXX--> ma<lb/>dhuravādini<!--XXX|XXX--> tat<!--XXX|XXX-->tad<del rend="white correction fluid applied"><!--XXX|XXX--></del>
+  <!--XXX i XXX-->iti<!--XXX|XXX--> striyaḥ<!--XXX|XXX--></l>
+<l>rasaniyuktasakhīvacanā<lb/>gatapriyatamāyatamānamuco<!--XXX|'XXX--> 'bhavan<!--XXX|XXX-->12</l>
 </lg>
-<p xml:id="HV_03_12p">(tilakam)</p>
+<!-- <p xml:id="HV_03_12p">(tilakam)</p> -->
 <lg type="verse" xml:id="HV_03_13">
-<pb n="32" />
-<l>jaraṭhapaṅkajabījasamatviṣo madhu nipātumabhiprajagalbhire|</l>
-<l>madhuliho virahe kṛtadiṅmukhavyavadhayo vadhayogakṛtaḥ striyaḥ||13||</l>
+<l>jaraḍhapaṃka<subst><del rend="white correction fluid applied"><gap reason="illegible"/></del><add>ja</add></subst><lb/>bījasamatviṣo<!--XXX|XXX-->
+  madhuni<!--XXX|XXX--> pāttu<del rend="white correction fluid applied"><!--XXX|XXX--></del>m<!--XXX|'XXX-->alaṃprajagalbhire<!--XXX|XXX--></l>
+<l>madhuli<lb/>ho<!--XXX|XXX--> virahe<!--XXX|XXX--> <subst><del><unclear reason="white correction fluid applied"/></del><add>kṛ</add></subst>tadiṅmukhavyavadhayo<!--XXX|XXX-->
+  vadhayogakṛtaḥ<!--XXX|XXX--> striyaḥ<!--XXX|XXX-->13</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_03_14">
 <l>surabhimāsi kadācidanujjhitā jaḍatayāpi navāliśatānvitāḥ|</l>
 <l>śamavatāmapi tāmarasākarāḥ sthiratarā ratarāgakṛto 'bhavan||14||</l>
