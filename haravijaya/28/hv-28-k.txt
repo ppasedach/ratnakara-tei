@@ -58,7 +58,6 @@
   <text xml:lang="sa-Latn">
     <body>
 <div xmlns="http://www.tei-c.org/ns/1.0" n="28" type="chapter">
---&gt;
 <pb n="358"/>
 <p>
 aṣṭāviṃśaḥ sargaḥ|
