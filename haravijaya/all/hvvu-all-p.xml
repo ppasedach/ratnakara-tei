@@ -58,8 +58,10 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
+<!--
 <div n="01" type="chapter"></div>
 <div n="02" type="chapter"></div>
+-->
 <div n="03" type="chapter">
 <p xml:id="HVVU_03_1">sa devo mandarācale girijayāvalambito yugapad eva sarvartubhir asevyata | prasavāḥ kusumāni | arīṇāṃ vijetṛtvād anaghā acchadmacāriṇo 'pratihatā vā bhujataravo yasya || 1 ||</p>
 <p xml:id="HVVU_03_2">madhupānāṃ rājibhiḥ parājitamanasvinīmanasaḥ sumanasaḥ puṣpāṇi yatra tādṛśaṃ jagat surabher vasantasya śobhām avahat | sumanobhiḥ surabhi sāmodaṃ jagac chriyaṃ dadhre iti vā yojanā | viplavo bādhaḥ | sphuṭitāni bhinnāni | tatānyāmravaṇāni yatra | ‘vibhāṣauṣadhi-’ ityādinātra nakārasya ṇakāraḥ || 2 ||</p> 
@@ -157,6 +159,7 @@
 <p xml:id="HVVU_03_94">sthalīṣu vikasitā amalāḥ kesarāgā bakulataravo yasya taṃ giriṃ draṣṭuṃ sarāgamalake gaurī spṛśann īśvaro viniryayau | lulite kuṭilīkṛte || 94 || </p>
 <p>iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapadoddyote tṛtīyaḥ sargaḥ ||</p>
 </div>
+<!--
 <div n="04" type="chapter"></div>
 <div n="05" type="chapter"></div>
 <div n="06" type="chapter"></div>
@@ -200,6 +203,7 @@
 <div n="44" type="chapter"></div>
 <div n="45" type="chapter"></div>
 <div n="46" type="chapter"></div>
+-->
     </body>
   </text>
 </TEI>

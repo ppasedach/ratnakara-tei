@@ -5,7 +5,7 @@
 # copy of the text that we'll actually be working from.
 
 cd ~/git/ratnakara-tei/haravijaya/all
-for i in `echo 01`
+for i in `echo 01 03`
 do
 echo going to $i
 cd ../$i 

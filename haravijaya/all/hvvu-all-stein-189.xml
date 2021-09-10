@@ -58,14 +58,17 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
+<!--
 <div n="01" type="chapter"></div>
 <div n="02" type="chapter"></div>
+-->
 <div n="03" type="chapter">
 <p xml:id="HVVU_03_1">sa devo mandarācale girijayā<lb n="25"/>valambito yugapad eva sarvartubhir asevyata prasavāḥ kusumāni arīṇāṃ vijetṛtvā<lb n="26"/>d anaghā adhicchadmacāriṇo pratihatā vā bhujataravo yasya <add place="above line">|1|</add></p>
 <p xml:id="HVVU_03_2">sa madhupānāṃ rājibhiḥ pa<lb n="27"/>rājitamanasvinīsamanaḥ sumanasaḥ puṣpāṇi tatra tādṛśaṃ jagat surabher vasantasya| <pb n="5a"/>śobhām avahat | sumanobhis surabhis svāmodaṃ jagac chriyaṃ dadhre iti vā yojanā vi<lb n="2"/>plavo bādhaḥ | sphuṭitāni bhinnāniꣻꣻꣻꣻ <!--tatānyāmravaṇāni yatra | ‘vibhāṣauṣadhi-’ i-->tyādi nātra nakārasya ṇakāraḥ <add place="above line">|2|</add></p>
 <p xml:id="HVVU_03_3">yamena se<lb n="3"/>vitā dig dakṣiṇā tām apāsya raviḥ| aiḍaviḍo dhanadaḥ āśrayaḥ patir yasyāstādiśam u<lb n="4"/>ttarām aśiśriyat sevitavān utkaṇṭhatānurāgas tenaiva | utsuko hi kāmīꣻ <lb n="5"/>tayā yameneva kenacid adhiṣṭhitāṃ yuvatim utsṛjya kasya<del rend="crossed out">e</del>cid artheśvarasya ramaṇī pra<lb n="6"/>tipadyate asumatāṃ prāṇināṃ sumatāṃ atīva śītoṣṇayor abhāvād atyantarucitāt | 3 |</p>
 <p xml:id="HVVU_03_4"><lb n="7"/>tilakas tarubhedair ujjvalapattrābhiś ca latābhis sahavartamānā giribhuvo ramyāṃ <lb n="8"/>sthitim adhārayan | vanāni kānanāni jalāni vā tilakaś citrakaḥ pattralatāḥ <lb n="9"/>pattrabhaṅgāḥ tatsahitāś ca kāminyo manoharasthitayaḥ | vanānām atra kāmitā pratīya<lb n="10"/>te | samāsoktivaśāt <add place="above line">|4|</add></p>
 <p xml:id="HVVU_03_5">rucir abhilāṣaḥ kāntiś ca madhuḥ puṣparaso madhuś ca vasantaḥ <lb n="11"/>avatīrṇamanobhavatvāt paravatīḫ paratantrā madhuliho bhramarāḥ <add place="above line">|5|</add> </p>
+<!--
 <p xml:id="HVVU_03_6">teṣāṃ saṃhatir asukhāyata sukham anvabhūt | sukhādibhyaḥ kartṛvedanāyāṃ kyaṅ | kutaḥ | kusumauṣadhisaṃbandhino rasasya saṃgrahaḥ pānaṃ tena susthitā śobhanam āsthitā | uktaṃ ca-‘anekaraso 'bhyavahāro rasāyanam’ iti ||6||</p>
 <p xml:id="HVVU_03_7">7||</p>
 <p xml:id="HVVU_03_8">......varo jāmātā ca ||8||</p>
@@ -97,7 +100,7 @@
 <p xml:id="HVVU_03_34">adīdipad iti dīpanaṃ prabodhanaṃ dahanaṃ ca | śikhī vahniḥ | tadvat tena ca piṅgalaṃ kapiśam | vadhūḥ kamitāraṃ kāmukaṃ na kaṃ itā kaṃ na prāptā | nāsau vallabho babhūva yaḥ priyayā na yukta ity arthaḥ || 34 || </p>
 <p xml:id="HVVU_03_35">‘suvarṇaśṛṅkhalābaddho nānāratnavibhūṣitaḥ | lalāṭalambyalaṃkāraś caṭulātilakaḥ smṛtaḥ ||’ raso makarando jalaṃ vā | narasārthahṛtsarvajanamanoramā || 35 ||</p>
 <p xml:id="HVVU_03_36">śucir āṣāḍho māsaḥ | āplutiḥ snānam | vataṃsitā śekharīkṛtā mallikā kusumabhedo yābhir yāsāṃ vā | ‘vaṣṭi bhāgurirallopamavāpyorupasargayoḥ’ ity avaśabdākāralopaḥ || 36 ||</p>
-<p xml:id="HVVU_03_37">karāḥ pāṇayo 'pi | tāpaḥ khedo 'pi | mānaṃ dairghyam abhimānaś ca | cirayāyīni dināni graiṣmikā vāsarāḥ | <hi rend="superscript">1</hi>atra tigmaruceḥ kakubhāṃ ca kāmitā pratīyate | liṅgaviśeṣopādānāt | yathā--‘sarale saha vāsaraśriyā nibhṛtaṃ kvāpi gataḥ sa bhāskaraḥ | vada tena vinābjinī kathaṃ kṣaṇadām adya natāṅgi neṣyati ||' iti | evaṃ dinaśriyo 'pi nāyikātvapratītau yathoktam eva saṃbhavatīti dayitayety upamānapadam apuṣṭārtham iti sahṛdayāḥ || 37 ||</p>
+<p xml:id="HVVU_03_37">karāḥ pāṇayo 'pi | tāpaḥ khedo 'pi | mānaṃ dairghyam abhimānaś ca | cirayāyīni dināni graiṣmikā vāsarāḥ | <hi rend="superscript">1</hi>atra tigmaruceḥ kakubhāṃ ca kāmitā pratīyate | liṅgaviśeṣopādānāt | yathā-‘sarale saha vāsaraśriyā nibhṛtaṃ kvāpi gataḥ sa bhāskaraḥ | vada tena vinābjinī kathaṃ kṣaṇadām adya natāṅgi neṣyati ||' iti | evaṃ dinaśriyo 'pi nāyikātvapratītau yathoktam eva saṃbhavatīti dayitayety upamānapadam apuṣṭārtham iti sahṛdayāḥ || 37 ||</p>
 <p xml:id="HVVU_03_38">priyatamasahitāpi kṛśāṅgī virahiṇyāḥ sthitimitā prāptā | jalārdrā jala<choice><orig>knu</orig><corr>plu</corr></choice>taṃ vastram | atimitākṣarā svalpavarṇā || 38 || </p>
 <p xml:id="HVVU_03_39">ṭaṅkanikuṭṭanena śastrakāhatyā ghaṭitaṃ calitam | raviḥ kila parā priyatamānurodhena duḥsahataraṃ svadhāma tvaṣṭuṣ ṭaṅkena śātayāmāsa | janatā klamam itavatī gatā || 39 || </p>
 <p xml:id="HVVU_03_40">dīpikā lohādimayī dīpādhārabhūtā yaṣṭir api | mallikātailabhājanam api | ghano 'naghaś ca nādaḥ kvaṇitaṃ yeṣām || 40 || </p>
@@ -158,6 +161,7 @@
 <p>iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapadoddyote tṛtīyaḥ sargaḥ ||</p>
 -->
 </div>
+<!--
 <div n="04" type="chapter"></div>
 <div n="05" type="chapter"></div>
 <div n="06" type="chapter"></div>
@@ -201,6 +205,7 @@
 <div n="44" type="chapter"></div>
 <div n="45" type="chapter"></div>
 <div n="46" type="chapter"></div>
+-->
     </body>
   </text>
 </TEI>
