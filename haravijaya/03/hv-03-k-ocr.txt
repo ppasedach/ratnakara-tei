@@ -477,7 +477,7 @@ kāvyamālā |
 <l>harir adāgra ivotthitakālike glapitamānatamā nabhasi sthite |</l>
 <l>kam iva nāma na bāhulatāntaraṃ priyatamāyatamānayadīpsitam || 60 ||</l>
 </lg>
-<p xml:id="HV_03_60">iti varṣāḥ</p>
+<p xml:id="HV_03_60p">iti varṣāḥ</p>
 <lg type="verse" xml:id="HV_03_61">
 <l>sphuritacārutarāpaghanaśriyā hṛdayanandanaśobhanaveṣayā |</l>
 <l>dayitayeva janaḥ śaradāśrito mudam alaṃ damalaṅghanam ācarat || 6 1 ||</l>
@@ -717,7 +717,7 @@ Page 49*************************************************************************
 <p>iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanāmno mahākave rājānaka-
 śrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma
 tṛtīyaḥ sargaḥ|</p>
-<p xml:id="HVVU_03_90-a">taratvāt || 90 || </p><p xml:id="HVVU_03_91">rajany eva rākṣasī tayā ca kā yoṣito nāvacakhādire | sarvā eva
+<p xml:id="HVVU_03_90-b">taratvāt || 90 || </p><p xml:id="HVVU_03_91">rajany eva rākṣasī tayā ca kā yoṣito nāvacakhādire | sarvā eva
 grastāḥ | khādiraṃ śalyaṃ khadiradārumayaḥ kīlakaḥ || 91 || </p><p xml:id="HVVU_03_92">nāsti lavaś chedo yasyā-
 s tādṛśī līlā yasya tadbhāvo yoṣitām āsīt | asamahāsam asādhāraṇahasitaṃ rataṃ nidhu-
 vanaṃ yasyāṃ sā | madhunā puṣparasena | saratā pravahatā | kṛtaḥ ṣaṭpadīnāṃ rasamaho rāgo-

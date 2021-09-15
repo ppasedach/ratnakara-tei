@@ -17,10 +17,10 @@
             <collection></collection>
             <idno></idno>
             <idno type="NCC"></idno>
-            <idno type="siglum">Ś<sub>A</sub></idno>
+            <idno type="siglum">P(A)</idno>
           </msIdentifier>
           <msContents>
-            <summary>Stein 189</summary>
+            <summary>Provisionary Edition</summary>
             <msItem n="1" defective="true">
             <!-- @defective: 'false' for complete, 'true' for incomplete -->
               <author xml:lang="sa" role="author">Ratnākara</author>
