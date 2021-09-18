@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Kāvyamālā</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement></settlement>
+              <region></region>
+              <country></country>
+            </placeName>
+            <institution></institution>
+            <repository></repository>
+            <collection></collection>
+            <idno></idno>
+            <idno type="NCC"></idno>
+            <idno type="siglum">D<sub>D</sub>(A)</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Provisionary Edition</summary>
+            <msItem n="1" defective="true">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Ratnākara</author>
+              <author xml:lang="sa" role="commentator">Alaka</author>
+              <title xml:lang="sa">Haravijaya</title>
+              <title xml:lang="sa" type="commentary">Viṣamapadoddyota</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="e-text">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="digital">Digital</supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="CE" when="unclear">unclear</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en"></origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2021-09-09">
+        <persName>Peter Pasedach</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+<!--
+<div n="01" type="chapter"></div>
+<div n="02" type="chapter"></div>
+-->
+<div n="03" type="chapter">
+<p xml:id="HVVU_03_1">sa devo mandarācale girijayāvalambito yugapad eva sarvartubhir asevyata | prasavāḥ kusumāni | arīṇāṃ vijetṛtvād anaghā acchadmacāriṇo 'pratihatā vā bhujataravo yasya || 1 ||</p>
+<p xml:id="HVVU_03_2">madhupānāṃ rājibhiḥ parājitamanasvinīmanasaḥ sumanasaḥ puṣpāṇi yatra tādṛśaṃ jagat surabher vasantasya śobhām avahat | sumanobhiḥ surabhi sāmodaṃ jagac chriyaṃ dadhre iti vā yojanā | viplavo bādhaḥ | sphuṭitāni bhinnāni | tatānyāmravaṇāni yatra | ‘vibhāṣauṣadhi-’ ityādinātra nakārasya ṇakāraḥ || 2 ||</p> 
+<p xml:id="HVVU_03_3">yamena sevitā dig dakṣiṇā tām apāsya raviḥ aiḍaviḍo dhanada āśrayaḥ patir yasyāstāṃ diśam uttarām aśiśriyat sevitavān | utkatānurāgas teneva | utsuko hi kāmī yathā yameneva kenacid adhiṣṭhitāṃ yuvatim utsṛjya kasyacid artheśvarasya ramaṇīṃ pratipadyate | asumatāṃ prāṇināṃ sumatāṃ atīva śītoṣṇayor abhāvād atyantarucitām || 3 ||</p>
+<p xml:id="HVVU_03_4">tilakais tarubhedair ujjvalapattrābhiś ca latābhiḥ sahavartamānā giribhuvo ramyāṃ sthitim adhārayan | vanāni kānanāni jalāni vā | tilakaś citrakaḥ | pattralatāḥ pattrabhaṅgāḥ | tatsahitāś ca kāminyo manoharasthitayaḥ | vanānām atra kāmitā pratīyate | samāsoktivaśāt || 4 ||</p>
+<p xml:id="HVVU_03_5">rucir abhilāṣaḥ kāntiś ca | madhuḥ puṣparaso madhuś ca vasantaḥ | avatīrṇamanobhavatvāt paravatīḥ paratantrāḥ || 5 || </p>
+<p xml:id="HVVU_03_6">madhuliho bhramarās teṣāṃ saṃhatir asukhāyata sukham anvabhūt | sukhādibhyaḥ kartṛvedanāyāṃ kyaṅ | kutaḥ | kusumauṣadhisaṃbandhino rasasya saṃgrahaḥ pānaṃ tena susthitā śobhanam āsthitā | uktaṃ ca-‘anekaraso 'bhyavahāro rasāyanam’ iti ||6||</p>
+<p xml:id="HVVU_03_7">7||</p>
+<p xml:id="HVVU_03_8">......varo jāmātā ca ||8||</p>
+<p xml:id="HVVU_03_9">kusumitā rajasvalā api priyāḥ prītihetavaḥ | madanaś ca kāmaḥ | parabhṛtāḥ pareṇa poṣitāḥ pṛthagjanā api | madena nāditā mukharīkṛtāḥ ṣaṭpadā bhramarā viṭāś ca yābhis tāḥ || 9 || </p>
+<p xml:id="HVVU_03_10">madhuretyādiviśeṣakam | ratirasena visṛṣṭāyāḥ savayaso vacanenāgate priyatame viṣaye āyataṃ mānaṃ muñcanti yās tathāvidhā yoṣito babhūvuḥ | mādhavī atimuktakalatā | malīmasāḥ pāpāḥ | smarasya sahāḥ samucitāḥ | taruṇīr ity arthaḥ ||10||</p>
+<p xml:id="HVVU_03_11">pakśmabhiḥ kesaraiḥ karālatā vyāptir bhāsuratvaṃ vā | śucitayāpy upalakṣito yad eṣa stabakas tāpayati tad ayuktam | viśadātmatvāt paropatāpanābhāvāt | citayā pravṛddhayā | pakṣmāṇi netralomāny api | karālaṃ bhīṣaṇam api | madhu madyam api || 11 || </p>
+<p xml:id="HVVU_03_12">tat tasmāt tat tad bahuvidham uktvā taṃ dayitaṃ satvaram ānaya | na vayaṃ kālakṣepasahiṣṇava iti bhāvaḥ ||12||</p>
+<p xml:id="HVVU_03_13">paṅkajabījaṃ padmākṣaḥ | vyavadhir ācchādanam | striyā virahe sati vadhayogakṛto ghātukāḥ | strīhananāc ca madyapānaprāgalbhyaṃ malinātmanāṃ kiyat || 13 || </p>
+<p xml:id="HVVU_03_14">jaḍatayā maunena na tyaktāḥ | bāliśatayā ca maugdhyena na sahitā iti virodhaḥ | jaḍatayā śaityenānapākṛtāḥ | navāni ca tāny aliśatāni tair anvitāḥ | ......riṇā...cir yasyā iti cārthadvāreṇa viśeṣaṇam || 14 || </p>
+<p xml:id="HVVU_03_15">15||</p>
+<p xml:id="HVVU_03_16">caramaḥ paścimaḥ | saṃpuṭo dvayam | anugiraṃ girisamīpe | ‘gireśca senakasya’ iti ṭac | rase madhuni mano yasya saḥ | samanādaṃ tulyadhvaniṃ kṛtvā ||16||</p>
+<p xml:id="HVVU_03_17">17||</p>
+<p xml:id="HVVU_03_18"> kusumam eva koṣaś caṣakaṃ tam eva taror nāyakabhūtasyārpayituṃ latā vivalitā saṃmukhaṃ parivṛttā | madhu makarandaḥ surā ca | balī haladharaḥ | tāpaḥ kāmajvaro 'pi ||18||</p>
+<p xml:id="HVVU_03_19">kesarāṇi bakulāny eva | ketūnāṃ dhvajānāṃ śatāni yasmin || 19 ||</p> 
+<p xml:id="HVVU_03_20">madhor vasantasya saṃgamān niśayā mukhe prārambhe kaluṣatā nāpi na prāptā | tadā diśām atiśayena vaiśadyāt | aniśaṃ sadā yāpitam ativāhitaṃ mānaṃ parimāṇaṃ dairghyaṃ yayā | vasante rātrīṇāṃ tānavotpatteḥ | kāminī dvitīyakāminyā kṛtaśamanavighnatvāc cireṇāpi samāgate preyasi na vadane kāluṣyam āpnoti madyasaṃparkāt | madhu madyamapi | māno 'bhimāno 'pi || 20|| </p>
+<p xml:id="HVVU_03_21">sarasijānāmurasimadhye bhramarair joṣam avasthitaṃ sukhaṃ viśrāntam | uttaracchadaḥ pracchadapaṭaḥ | sajānibhiḥ sabhāryaiḥ | ‘jāyāyā niṅ’ || 21 || </p>
+<p xml:id="HVVU_03_22">kuṭṭamitākhyena ceṣṭitena manaḥ kāntasya vadhūr ahṛta samāvarjayat | ‘prāṇeśagāḍhabhujapāśanipīḍitānām uddāmaharṣabharanirbharamānasānām | hī duḥkhayasy alam alaṃ dṛḍhamūḍhavākyaiḥ saukhye 'pi duḥkha iva kuṭṭamitaṃ vadanti’ || 22 || </p>
+<p xml:id="HVVU_03_23">stanavatī yuvatiḥ | sā smarasyāsau sakheti vasantasya saṃsthitim iva samamīmanatsaṃmānayāmāsa | yato navo yavasyāvayava ekadeśo 'ṅkura evābharaṇaṃ yatra tādṛśīṃ śriyaṃ dhārayantī || 23 || </p>
+<p xml:id="HVVU_03_24">ahāryā girayas teṣāṃ [taṭāḥ] smṛtibhūvaḥ kāmasya śakter upacayaṃ kurvantaḥ | tathā pathikānāṃ hananaṃ kurvāṇasya kusumeṣoḥ śaktipoṣaṇaṃ prati sahakāritāṃ sahāyatvam udavahan | sahakāriṇo hiṃ pratyayāḥ prakriyāntarasyopādānabhūtasya kāryaṃ prati śaktim upacinvanti bījasyeva jalādayaḥ | anavamāḥ śreṣṭhāḥ | mādhavo vasantaḥ || 24 || </p>
+<p xml:id="HVVU_03_25">janā ratikrīḍārasena vyākulā babhūvuḥ | kaṅkaṭitaiḥ sasaṃnāhaiḥ || 25|| </p>
+<p xml:id="HVVU_03_26">...kiṃjalkāsvādanena kalair madhurair asakalaiś cāvyaktaśrutibhir alinā ravaiś campakākhyaṃ kusumaṃ samudgatamadanā yoṣitaś cakāra || 26 || </p>
+<p xml:id="HVVU_03_27">rabhasā tvarā | madhukarā evāñjanamayaṃ vaśīkaraṇaprakāracūrṇam | nijābhir vadhūbhir javena dhūtas tiraskṛtaḥ śarīraśramo yeṣām || 27 || </p>
+<p xml:id="HVVU_03_28">śaivalena śevālena satī śobhanā, śaivaiś ca śivabhaktair lasantī śrīr yasyāḥ | bateti vismaye || 28 || </p>
+<p xml:id="HVVU_03_29">atimuktakavratatayo na tatayogā guṇaśrīr yāsāṃ tādṛśyo nābhavan | saṃvistīrṇaguṇaśrīyogā babhūvur ity arthaḥ | prakaṭapattralatāḥ śākhā evābharaṇaṃ tenojjvalā rabhyāḥ | pattralatābhir ābharaṇeś cojjvalā vitataguṇaśobhāś ca yoṣito bhavanti || 29 ||</p>
+<p xml:id="HVVU_03_30">kamitā kāntaḥ | adadarad bibheda | ‘atsmṛhṛtvaraprathamradastṝspaśām‘ ity abhyāsakāryamadantādeśaḥ | rāgo 'nuraktir api | karaḥ pāṇir api || 30 || </p>
+<p xml:id="HVVU_03_31">palāśaḥ kiṃśukaḥ | tatra bhramarāṇāṃ saṃhatiś capalā svām abhikhyām āvirabībhavat prakaṭīcakāra | vibhramaḥ sadṛśaḥ || 31 || </p>
+<p xml:id="HVVU_03_32">anavaś ciraprarūḍhaḥ śamo yeṣāṃ te munayaḥ kāmasya vaśaṃ yayuḥ | animiṣair animīladbhir akṣibhir ālokito vīnāṃ pakṣiṇāṃ bhramarāṇāṃ bhramo yasyām | animiṣaś cākṣṇor daśanasya vilāso yasyāḥ | navamālikā saptalā| anavamaṃ cotkṛṣṭamalikaṃ lalāṭaṃ yasyāḥ || 32 || </p>
+<p xml:id="HVVU_03_33">bhīravo yoṣitaḥ | tāsāṃ janaḥ samadatvād asamaṃ dolanavibhramaṃ dolāvilāsaṃ na nānvabhavat, api tu anubhūtavān eva | parimṛṣṭaṃ spṛṣṭam || 33 || </p>
+<p xml:id="HVVU_03_34">adīdipad iti dīpanaṃ prabodhanaṃ dahanaṃ ca | śikhī vahniḥ | tadvat tena ca piṅgalaṃ kapiśam | vadhūḥ kamitāraṃ kāmukaṃ na kaṃ itā kaṃ na prāptā | nāsau vallabho babhūva yaḥ priyayā na yukta ity arthaḥ || 34 || </p>
+<p xml:id="HVVU_03_35">‘suvarṇaśṛṅkhalābaddho nānāratnavibhūṣitaḥ | lalāṭalambyalaṃkāraś caṭulātilakaḥ smṛtaḥ ||’ raso makarando jalaṃ vā | narasārthahṛtsarvajanamanoramā || 35 ||</p>
+<p xml:id="HVVU_03_36">śucir āṣāḍho māsaḥ | āplutiḥ snānam | vataṃsitā śekharīkṛtā mallikā kusumabhedo yābhir yāsāṃ vā | ‘vaṣṭi bhāgurirallopamavāpyorupasargayoḥ’ ity avaśabdākāralopaḥ || 36 ||</p>
+<p xml:id="HVVU_03_37">karāḥ pāṇayo 'pi | tāpaḥ khedo 'pi | mānaṃ dairghyam abhimānaś ca | cirayāyīni dināni graiṣmikā vāsarāḥ | atra tigmaruceḥ kakubhāṃ ca kāmitā pratīyate | liṅgaviśeṣopādānāt | yathā-‘sarale saha vāsaraśriyā nibhṛtaṃ kvāpi gataḥ sa bhāskaraḥ | vada tena vinābjinī kathaṃ kṣaṇadām adya natāṅgi neṣyati ||' iti | evaṃ dinaśriyo 'pi nāyikātvapratītau yathoktam eva saṃbhavatīti dayitayety upamānapadam apuṣṭārtham iti sahṛdayāḥ || 37 ||</p>
+<p xml:id="HVVU_03_38">priyatamasahitāpi kṛśāṅgī virahiṇyāḥ sthitimitā prāptā | jalārdrā jalaplutaṃ vastram | atimitākṣarā svalpavarṇā || 38 || </p>
+<p xml:id="HVVU_03_39">ṭaṅkanikuṭṭanena śastrakāhatyā ghaṭitaṃ calitam | raviḥ kila parā priyatamānurodhena duḥsahataraṃ svadhāma tvaṣṭuṣ ṭaṅkena śātayāmāsa | janatā klamam itavatī gatā || 39 || </p>
+<p xml:id="HVVU_03_40">dīpikā lohādimayī dīpādhārabhūtā yaṣṭir api | mallikātailabhājanam api | ghano 'naghaś ca nādaḥ kvaṇitaṃ yeṣām || 40 || </p>
+<p xml:id="HVVU_03_41">bandhuro ruciraḥ saurabhaprasaro yasya tadbhāvaḥ saratā vātena dhṛtā | peṭakaḥ samūhaḥ | pāṭalaḥ puṣpabhedaḥ | saṃpuṭā mukulāḥ || 41 || </p>
+<p xml:id="HVVU_03_42">itīva ruṣā pratikartukāmaṃ śirīṣaṃ nāma kusumam īkṣitaṃ sadālokitamātraṃ sat virahiṇī śokam alambhayat prāpayāmāsa | sarasaḥ pratyagro hāsa udbhedo yeṣām || 42 || </p>
+<p xml:id="HVVU_03_43">giriśo haraḥ | ‘girau ḍaś chandasi’ iti pratyayadvāreṇa cchandasi niyamitatvād giriśaśabdasya bhāṣāyāṃ prayogaḥ pramādajaḥ | rasaḥ salilaṃ rāgaś ca | tanmayaḥ samayo varṣārātraḥ || 43 || </p>
+<p xml:id="HVVU_03_44">payodharāṇāṃ dhoraṇī paṅktiḥ | kimu bhuvi rajo nāśamayad iti nañ atra sāmarthyalabhyaḥ || 44 || </p>
+<p xml:id="HVVU_03_45">saṃvananaṃ vaśīkaraṇam | atanuḥ kāmaḥ | avāsiṣur vavuḥ || 45 ||</p>
+<p xml:id="HVVU_03_46">saninādāḥ payomuco yatra tasmin kāle mayūreṇa nṛttavyasanavatā sthitam | navaiś candrakaiḥ picchair lāñchitā lakṣitā, candrasya ca kalayā āñchitā saṃgatā || 46 || </p>
+<p xml:id="HVVU_03_47">āntaramārgo gahanaḥ pradeśaḥ | tadgatāṃ śriyaṃ vanabhuvo 'vahan | jātir mālatī tayā śarīraruk svarūpaśobhā prakaṭā yāsām | tathā jātayaḥ śuddhavikṛtabhedenāṣṭādaśa ṣāḍjīṣaḍjamadhyamadhyamāprabhṛtayaḥ | tatsvarūpasyeva ca rug yāsām | tāsām eva ca viśeṣo 'ntaramārgo bhavati | dviśrutyadhikayor niṣādagāndhārayor yathākramaṃ kākalyantarasvarasaṃjñatvakalpanāt | kavalanā grāsaḥ | tadarthaṃ valanā paribhramaṇam || 47 || </p>
+<p xml:id="HVVU_03_48">mekalo vindhyaḥ | tena meghasya sāmyam asitavarṇatvāt | acirārciḥ saudāmanī | ānatayā punaḥpunar ullasanena dausthityam asmāsu na janayitavyam ity āśayena prahvayā || 48 || </p>
+<p xml:id="HVVU_03_49">alakānāṃ tāṇḍavikair nartakaiḥ || 49 || </p>
+<p xml:id="HVVU_03_50">śakradhanur manohareṇa, gavalasya ca mahiṣaśṛṅgasya śyāmatayā śobhāṃ gṛhṇatā ca, ghanānāṃ cayena bhūbhṛteva caturaṃ kṛtvā na ye vaśīkṛtās te ka iva janāḥ | na kecit | rājā punar anargharatnayogena sphuritendradhanuryo hāras tadvān caturaṅgasya balasya hastyaśvarathapattilakṣaṇasya sainyasya śobhāṃ kalayati || 50 || </p>
+<p xml:id="HVVU_03_51">harigopā indragopākhyāḥ prāṇinaḥ harigopaś ca goparūpadhārī viṣṇuḥ | vrajo gavāṃ nivāsaḥ | añcitā śreṣṭhā lāṅgalikā auṣadhiviśeṣo yatra | añcitaś ca pūjito lāṅgalī haladharo yatra | anavo reṇuś cirasaṃcitaṃ rajaḥ || 51 || </p>
+<p xml:id="HVVU_03_52">atanoḥ kāmasya bahulāyāś ca śriya ālayatvaṃ kalayatā gṛhṇatā kuṭajākhyakusumanicayena nakṣatragaṇavad ācaritam | nabhasi śrāvaṇe 'ntarikṣe ca | candrākārair dalaiḥ pallavaiḥ, candrasya ca dalena khaṇḍenojjvale rucire || 52 || </p>
+<p xml:id="HVVU_03_53">vāri vikira jalaṃ vikiran ityādikam ācaran jalado viyutāṃ viyoginīṃ na navaśām, api tv āyattām eva cakāra | vikiretyādau ‘samuccaye 'nyatarasyām’ iti loṭ | hirādeśaś ca | ācaran iti sāmānyavacanasyānuprayogaḥ ‘samuccaye sāmānyavacanasya’ iti || 53 || </p>
+<p xml:id="HVVU_03_54">nigūhanena sthitimataḥ sukhitān ittham iva ravais taruṇānambudo 'bhyadhyāt | abhimato 'tīvābhipretaḥ | samāgamakāraṇatvāt ||54 || </p>
+<p xml:id="HVVU_03_55">55 ||</p> 
+<p xml:id="HVVU_03_56">alātam ulmukam | tatsadṛśī taḍid āvirabhavat prakaṭībabhūva | samavartī yamaḥ ||56|| </p>
+<p xml:id="HVVU_03_57">āmalais tarubhedaiḥ kandalaiś ca latāviśeṣaiḥ satī śobhanā śrīr yāsām | amalaiś ca kandair bisair anyair vā mūlair lasantī śrīr yāsām | girimallikā kuṭajam | tacchabalitatvād bhramarair valitā veṣṭitāḥ || 57 || </p>
+<p xml:id="HVVU_03_58">navo dhūrgataś ca paradhārādhirūḍhaḥ kāmo yāsāṃ tathāvidhā vadhūrabhrapavanaś cakāraiva | kuṭajādayo vārṣikāḥ kusumaviśeṣāḥ || 58 || </p>
+<p xml:id="HVVU_03_59">mālatīkusumam eva mudgaraḥ praharaṇaviśeṣaḥ | sa eva smṛtibhuvaḥ sakāśād āgatena apaścimena prahārāntarāpekṣiṇā prahāreṇa mūrchitā yoṣitaś cakāra | mālatīkusumam eva kāmasya mudgara iti tu na yuktam | mudgaraśabdasyātra sāpekṣatayā samāsāprasaṅgāt | madarase madajanake madhuny ādaraḥ saṃmramo yeṣāṃ tathāvidhāḥ sāravāś ca bhramarā yasmin || 59 || </p>
+<p xml:id="HVVU_03_60">āyataṃ bhujalatāmadhyaṃ | priyatamā kamīpsitaṃ priyaṃ nānayat | sarvam eva nijā vadhūḥ pariṣasvaje | harir aśvaḥ | rado dantaḥ | kālikā meghapaṅktiḥ, aśvānāṃ vayovijñānacihnaṃ ca | māna eva tamaḥ | mālinyahetutvāt || 60 || </p>
+<p xml:id="HVVU_03_61">śaradā hetunā mudam āśrito janaḥ sutarāṃ damasya śānter laṅghanam akarot | apaghanā megharahitā | apaghanāś cāṅgāni | hṛdayahāriśobho nava iṣa āśvayujo yasyām | hṛdayanandanaś ca śobhano veṣo yasyāḥ | veṣo veśa ākalpa ity arthāntaram || 61 ||</p>
+<p xml:id="HVVU_03_62">kamalānāṃ komalaṃ kuḍmalaṃ janānāṃ haste yatra tadbhāvaṃ dadhatīṃ śriyaṃ śaraddivasā ūhire dadhuḥ | turagā iva | tair api kamalahastā śrīr uhyate | tatsaṃnidhau śriyaḥ sthānāt | kaṃ jalaṃ śiraś ca dhārayantīti kaṃdharā jalabhṛto grīvāś ca | ‘saṃjñāyāṃ bhṛtṝvṛjidhārisahitapidamaḥ’ iti khac ||62 || </p>
+<p xml:id="HVVU_03_63">udārayā mudā yuktam itīva cintayaj jalajamātapasevāsaspṛhaṃ vyakasat || 63 || </p>
+<p xml:id="HVVU_03_64">candrakai rājitāḥ śobhitās taiś citraiḥ śikhaṇḍibhir mayūrai rucirā rucir nālabhyata | citraśikhaṇḍinaś ca saptarṣayaḥ | taiś candrakarair ajitair api niśāpagame na dīpyate || 64 || </p>
+<p xml:id="HVVU_03_65">īyivat gatam | samabhihāraḥ paunaḥpunyam | avikalaṃ samagram || 65 ||</p>
+<p xml:id="HVVU_03_66">tāpavighātasya viparyayo 'nyathātvam atrāparighātaḥ | tatsthityā vilakṣatā trapā | ayukchadāḥ saptacchadās teṣāṃ kānanaiḥ | ayukchadakānāṃ vā ānanair mukhai rasamahāsaṃ kṛtvā niyatam ambudā ahāsiṣata | vayam adhunā tāpopaghātapaṭavaḥ, na yūyam itīva vikasvaratvena hasitā ity arthaḥ | hāso vikāso hasanaṃ ca | ahāsiṣatety upadhāvṛddhir ātmanepadaviṣayatvāc ciṇvadbhāvaprasaṅgāc ca | tasmāt kānanakartṛko 'samo hāso yatra tathā kṛtvā aha kaṣṭaṃ āsiṣateti yojyam || 66 || </p>
+<p xml:id="HVVU_03_67">candrāṃśavo bhramarāṇāṃ kumudeṣu dalayantraṇaṃ pattrabandham adalayan bibhiduḥ | davathuḥ saṃtāpaḥ || 67 || </p>
+<p xml:id="HVVU_03_68">adhikastavanato ramyatayā bahalastutibhājo vanataḥ kānanāj jalād vā kamalarajo vātānāṃ samūhaḥ | kusumitatvād viruddhadarśanā diśaḥ pidhātum iva | kusumitā rajasvalā api | nuśabda ivārthe || 68 || </p>
+<p xml:id="HVVU_03_69">ghanānāṃ jālasya tiraskṛtir antardhānaṃ yatra tasyāṃ śaradi nadītaṭair jaghanajā kāntir atanyata | śakunayaḥ khagāḥ || 69 || </p>
+<p xml:id="HVVU_03_70">ucchvasan madhu makarandaṃ yatra, karīraiś ca tarubhedaiś citā vyāptā sthitir yasya tādṛśaṃ vanaṃ gṛhītavatāṃ bhramarāṇām alasatā kvacin nāsīt | kasumam apy ucchvasad vikasvaraṃ madhukarībhyaś ca racitasthiti kṛtāvasthānam | ṛtuḥ prāpto 'sya ārtavam | ‘ṛtor aṇa’ ity aṇa | lasatāṃ krīḍatām || 70 || </p>
+<p xml:id="HVVU_03_71">vitathā niṣphalā ākhyā pratītir yeṣāṃ tadbhāvo bāṇākhyakusumasamūhena śaratsaṃbandhinā dhṛtaḥ | viyogimanobhedanāt | bāṇāś ca śarāḥ sūkṣmaśaravyabhedakā vitathapratītayo na bhavanti | śarā asanāś ca tarubhedāḥ śarāsanaṃ ca dhanuḥ | alavaṃ prabhūtaṃ tāpaṃ karoti yas tena || 71 || </p>
+<p xml:id="HVVU_03_72">rasaḥ pāradaṃ tatkriyā dhātuvādas tayeva śaracchriyā sthitir avāpi padaṃ nibaddham | āgamaḥ pravṛttiḥ śāstrasaṃpradāyaś ca | tārā nakṣatrāṇi tāraṃ ca rūpyam | kālikā kalaṅko vyājaś ca (?) tāmrādikṛtaḥ | candraḥ śaśī suvarṇaṃ ca | kamalāni padmāni, kamalā ca lakṣmīḥ || 72 || </p>
+<p xml:id="HVVU_03_73">kaṇiśaṃ sasyamañjarī | kalamaḥ śālibhedaḥ | kalo manoharo mandraś ca yo ravas tenākulaṃ kṛtvā || 73 || </p>
+<p xml:id="HVVU_03_74">navaṃ saro viloḍayituṃ haṃsānāṃ gaṇasyāvasaraḥ prasaṅgaś cirād abhūt | kuṭumbinyaḥ priyā haṃsyaḥ || 74 || </p>
+<p xml:id="HVVU_03_75">niṣkuṭajāḥ kuṭajarahitāḥ | kuṭajānāṃ vārṣikatvāt | niṣkuṭā gṛhārāmāstebhyaś ca jātāḥ | asamo 'nanyasadṛśaḥ | śaśiprabhā yoṣito 'pi | śaśinaḥ prabhā yāsām iti kṛtvā || 75 || </p>
+<p xml:id="HVVU_03_76">apāyayat pāyayāmāsa | kvacit ‘adhāpayat’ iti pāṭhaḥ | tatra ‘pādiṣu dheṭa upasaṃkhyānam’ iti ‘nigaraṇa-’ iti prāptasya parasmaipadasya niṣedhāt kartrābhiprāye kriyāphale ‘ṇicaś ca’ iti taṅ | raso madhu stanyaṃ ca | jarasaṃ vyatipatuṣī jarām atikrāntā | ‘jarāyā jarasanyatarasyām’ iti jaras || 76 || </p>
+<p xml:id="HVVU_03_77">sarabhasenātmanā hetunā puraḥsarāsu sārasīṣu anurāgabhareṇa pūritā ye sārasā lakṣmaṇās tair mukharitaṃ saro bhramarāṇāṃ kvaṇatāṃ sarasatvam akarot | raso rāgaḥ || 77 || </p>
+<p xml:id="HVVU_03_78">tālāḥ karayoḥ parasparam abhighātāḥ | teṣāṃ layaḥ śobhā śleṣo vā | gītam eva gītakaṃ gānam | gītakaṃ madrakādiviśiṣṭaṃ gītaṃ prakaṭatālalayaṃ bhavati | tatra tālāś cañcapuṭacācapuṭādayaḥ | teṣāṃ layo drutamadhyavilambitabhedena tridhā kālāntarānuvṛttiḥ | uktaṃ ca-‘tālah kālāntarasthāyī drutamadhyavilambitaḥ | tridhā laya iti prokto badarāmalabilvavat ||’ iti | pracure sasye raso yasya | jighatsatas tad evāttum icchataḥ || 78 || </p>
+<p xml:id="HVVU_03_79">samadaḥ pratigajo 'treti bhrāntyā kṣubhitatā kṣobhas tayā vyāptān anilaḥ kuñjarān akarot || 79 || </p>
+<p xml:id="HVVU_03_80">himaṛtāv ity atra ‘ṛtyakaḥ’ iti prakṛtibhāvaḥ | karṇikā bījakoṣaḥ karṇābharaṇaṃ ca | karṇau ca śrotre | vimalitā mṛditā dhavalitā ca | ata evālināṃ tāpakṛt || 80|| </p>
+<p xml:id="HVVU_03_81">śītabādhabhayenārtayeva latayā sāliṅganaḥ kṛtas taruḥ śuśubhe | caturayā prauḍhayā || 81 || </p>
+<p xml:id="HVVU_03_82">rate lālasā rucir yasyāḥ || 82 || </p>
+<p xml:id="HVVU_03_83">nāsti karāṇām uṣṇimā saṃtāpo yasya tādṛśo gopatir aṃśumān yatra || 83 || </p>
+<p xml:id="HVVU_03_84">ghanasāraṃ karpūram | mu| khāni vadanāny api | anavaraḥ śreṣṭhaḥ || 84 || </p>
+<p xml:id="HVVU_03_85">haimaṃ tuhinasaṃbandhi | kamalākaraḥ śrīprado 'pi | āpadi malinaḥ ko nāma prakarṣeṇa kṛtopakāram api na muñcati | ‘praṇayaprakṛti’ iti pāṭhe snehakāraṇam ity arthaḥ || 85 || </p>
+<p xml:id="HVVU_03_86">kvaṇatāṃ bhramarāṇāṃ paṅktyābhivyāptatvād ittham iva kundaṃ tapasi māghe 'bhyadhāt | hasad vikasat || 86 || </p>
+<p xml:id="HVVU_03_87">himarto rudayāt aśanair amandaṃ aṅganā udakaṇṭhiṣata sotkaṇṭhā jātāḥ | lavaṅgaṃ puṣpabhedaḥ | araśanaiḥ śītavaśān mekhalāśūnyaiḥ || 87 || </p>
+<p xml:id="HVVU_03_88">phalinī priyaṃgulatā | sādhuḥ śreṣṭhaḥ | madhuvratā bhramarāḥ || 88 || </p>
+<p xml:id="HVVU_03_89">girigahane bhramaro lavaṅgasya lavam āśritas tapaso māghasya phalaṃ tam evājñāsīt | girigahanasthaś ca munis tapaso vratasya phalaṃ dvandvasahiṣṇutādi samanubhavati | prasavo janmāpi | saurabhaṃ yaśo 'pi || 89 || </p>
+<p xml:id="HVVU_03_90">kṣaṇadā rātriḥ | tasyāḥ suratotsave kṣamatvaṃ dīrghataratvāt || 90 || </p>
+<p xml:id="HVVU_03_91">rajany eva rākṣasī tayā ca kā yoṣito nāvacakhādire | sarvā eva grastāḥ | khādiraṃ śalyaṃ khadiradārumayaḥ kīlakaḥ || 91 || </p>
+<p xml:id="HVVU_03_92">nāsti lavaś chedo yasyās tādṛśī līlā yasya tadbhāvo yoṣitām āsīt | asamahāsam asādhāraṇahasitaṃ rataṃ nidhuvanaṃ yasyāṃ sā | madhunā puṣparasena | saratā pravahatā | kṛtaḥ ṣaṭpadīnāṃ rasamaho rāgotsavo yayā sā lavalīnāma latā ca śuśubhe || 92 || </p>
+<p xml:id="HVVU_03_93">‘dayitaṃ prati na kopo yuktaḥ, tam ānaya tvam’ ity āśayena yoṣid anavame śreṣṭhe mandarasya sānuni āliṃ gatā sakhī jagāma | navam apūrvaṃ amandarasā bahalānurāgā anunītiḥ prārthanā yatra tathā kṛtvā ca tena āliṅgatā saṃpariṣv ajamānena sā prasāditā ||93 || </p>
+<p xml:id="HVVU_03_94">sthalīṣu vikasitā amalāḥ kesarāgā bakulataravo yasya taṃ giriṃ draṣṭuṃ sarāgamalake gaurī spṛśann īśvaro viniryayau | lulite kuṭilīkṛte || 94 || </p>
+<p>iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapadoddyote tṛtīyaḥ sargaḥ ||</p>
+</div>
+<!--
+<div n="04" type="chapter"></div>
+<div n="05" type="chapter"></div>
+<div n="06" type="chapter"></div>
+<div n="07" type="chapter"></div>
+<div n="08" type="chapter"></div>
+<div n="09" type="chapter"></div>
+<div n="10" type="chapter"></div>
+<div n="11" type="chapter"></div>
+<div n="12" type="chapter"></div>
+<div n="13" type="chapter"></div>
+<div n="14" type="chapter"></div>
+<div n="15" type="chapter"></div>
+<div n="16" type="chapter"></div>
+<div n="17" type="chapter"></div>
+<div n="18" type="chapter"></div>
+<div n="19" type="chapter"></div>
+<div n="20" type="chapter"></div>
+<div n="21" type="chapter"></div>
+<div n="22" type="chapter"></div>
+<div n="23" type="chapter"></div>
+<div n="24" type="chapter"></div>
+<div n="25" type="chapter"></div>
+<div n="26" type="chapter"></div>
+<div n="27" type="chapter"></div>
+<div n="28" type="chapter"></div>
+<div n="29" type="chapter"></div>
+<div n="30" type="chapter"></div>
+<div n="31" type="chapter"></div>
+<div n="32" type="chapter"></div>
+<div n="33" type="chapter"></div>
+<div n="34" type="chapter"></div>
+<div n="35" type="chapter"></div>
+<div n="36" type="chapter"></div>
+<div n="37" type="chapter"></div>
+<div n="38" type="chapter"></div>
+<div n="39" type="chapter"></div>
+<div n="40" type="chapter"></div>
+<div n="41" type="chapter"></div>
+<div n="42" type="chapter"></div>
+<div n="43" type="chapter"></div>
+<div n="44" type="chapter"></div>
+<div n="45" type="chapter"></div>
+<div n="46" type="chapter"></div>
+-->
+    </body>
+  </text>
+</TEI>
