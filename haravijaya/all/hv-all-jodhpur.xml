@@ -1337,7 +1337,7 @@ amvujam<note place="below" type="exegesis">|</note> 62</l>
 <note place="below" type="exegesis">|</note> sphuratsphuṭa<lb n="2"/>tarāmalacaṃdrakarājitaiḥ<note place="below" type="exegesis">|</note></l>
 <l>kvacid<note place="below" type="exegesis">|'</note> avā<subst><del><unclear reason="white correction fluid applied"/></del><add rend="implied">pya</add></subst>ta<note place="below" type="exegesis">|</note>
 cittraśikha<lb n="3"/>ṇḍibhi<!---->r<!--different scribe?--><note place="below" type="exegesis">|</note> <del rend="white correction fluid applied">n</del>na<note place="below" type="exegesis">|</note> rucirā<note place="below" type="exegesis">|</note>
-ruci<!--XXX--><del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del>rā<note place="below" type="exegesis">|'</note><!--XXX not sure XXX-->kaluṣīkṛtaiḥ<note place="below" type="exegesis">|</note> 63</l>
+rucir<note place="below" type="exegesis">|''</note><!--XXX not sure XXX--> ākaluṣīkṛtaiḥ<note place="below" type="exegesis">|</note> 63</l>
 </lg>
 <lg type="verse" xml:id="HV_03_65">
 <l>gagana<del rend="white correction fluid applied">|</del><lb n="4"/>m<note place="below" type="exegesis">|'</note> īyivad<note place="below" type="exegesis">|'</note> āpluavanakriyāsamabhihāram<note place="below" type="exegesis">|i</note>
@@ -1356,7 +1356,7 @@ asamahāsa<del rend="white correction fluid applied">|</del><lb n="9"/>m<note pl
 <lg type="verse" xml:id="HV_03_67">
 <l>asalilāhima<del><unclear reason="white correction fluid applied"/></del>śīta<lb n="10"/>mahāhradāḥ<note place="below" type="exegesis">|</note> śaśabhṛto<note place="below" type="exegesis">|</note> janatādavathuchidaḥ<note place="below" type="exegesis">|</note></l>
 <l>kusu<add place="right-margin">ma</add><lb n="11"/><subst>ṣ<del rend="white correction fluid applied">ā</del><add rend="implied">a</add></subst>ṇḍagataṃ<note place="below" type="exegesis">|</note>
-madhupāyinā<subst><del rend="white correction fluid applied">s</del><add rend="implied">m</add></subst><note place="below" type="exegesis">|'</note> adalayan<note place="below" type="exegesis">|</note> dalayaṃtraṇam<note place="below" type="exegesis">|'</note>
+madhupāyinā<subst><del rend="white correction fluid applied">s</del><add rend="implied">m</add></subst><note place="below" type="exegesis">|'</note> adalayan<note place="below" type="exegesis">|</note> dalayaṃ traṇam<note place="below" type="exegesis">|'</note>
 aṃ<lb n="12"/>śavaḥ<note place="below" type="exegesis">|</note> 66</l>
 </lg>
 <lg type="verse" xml:id="HV_03_68">
@@ -1408,103 +1408,134 @@ kuṭu<subst>mv<del rend="implied">a</del><add>i</add></subst>nīrasavitīrṇab
 <l>samavagāḍhum<note place="below" type="exegesis">|'</note> adhautavinirmalaṃ<note place="below" type="exegesis">|</note> navasaro<note place="below" type="exegesis">|'</note> <add place="above">'vasaro<note place="below" type="exegesis">|'</note></add><!--different scribe?-->
 'tici<lb n="2"/>rād<note place="below" type="exegesis">|'</note> abhūt<note place="below" type="exegesis">|</note> 73</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_03_75">
-<l>salilatonmadahaṃsaravākulo bhavanamārga ivātimanoharaḥ|</l>
-<l>abhṛta niṣkuṭajāṃ śriyamuccakaiḥ sa samayo 'samayogaśaśiprabhaḥ||75||</l>
+<l>salilato<subst><del rend="white correction fluid applied">da</del><add place="above">nma</add></subst>dahaṃsaravākulo<note place="below" type="exegesis">|</note> bhavanamārga<note place="below" type="exegesis">|</note>
+<lb n="3"/>ivā<note place="below" type="exegesis">|'</note><subst><del rend="white correction fluid applied">m</del><add place="above">t</add>i</subst>manoharaḥ<note place="below" type="exegesis">|</note></l>
+<l>abhṛta<note place="below" type="exegesis">|</note> niḥkuṭajāṃ śriyam<note place="below" type="exegesis">|u</note> uccakaiḥ<note place="below" type="exegesis">|</note> <lb n="4"/>sa<note place="below" type="exegesis">|</note>
+samayo<note place="below" type="exegesis">|'</note> 'samayogaśaśiprabhaḥ<note place="below" type="exegesis">|</note> 74</l>
 </lg>
-<pb n="41" />
 <lg type="verse" xml:id="HV_03_76">
-<l>madhupaśāvamapāyayaduccakairaviśadāravamaṅkavivartinam|</l>
-<l>stanamiva stabakaṃ vratatiḥ sravannijarasaṃ jarasaṃ vyatipetuṣī||76||</l>
+<l>madhupaśāvama<lb n="5"/>dhāpayato<note place="below" type="exegesis">|u</note>ccakair<note place="below" type="exegesis">|'</note> aviśadāravam<note place="below" type="exegesis">|'</note>
+aṃkavivar<del rend="white correction fluid applied">t</del>tinam<note place="below" type="exegesis">|</note></l>
+<l>stana<lb n="6"/>m<note place="below" type="exegesis">|i</note> iva<note place="below" type="exegesis">|</note> stavakaṃ<note place="below" type="exegesis">|</note> vratatiḥ<note place="below" type="exegesis">|</note>
+sravanni<add rend="arrows" place="left-margin">jarasaṃ</add><note place="below" type="exegesis">|</note> jarasaṃ<note place="below" type="exegesis">|</note>
+vyatipe<subst><del><unclear reason="white correction fluid applied"/></del><add place="above">yu</add></subst>ṣī<note place="below" type="exegesis">|</note> 75</l>
 </lg>
 <lg type="verse" xml:id="HV_03_77">
-<l>sarabhasātmapuraḥ sarasārasīrasabharāplutasārasarāsitam|</l>
-<l>sarasakesaratāmasaraṃ saraḥ sarasatāmalināṃ rasatāṃ vyadhāt||77||</l>
+<l><lb n="7"/>sa<!---->rabhasā<!--different scribe?-->t<note place="below" type="exegesis">|</note> sapuras<del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del>sarasārasīrasabharāplutasārasarāsi<lb n="8"/>tam
+<note place="below" type="exegesis">|</note></l>
+<l>sarasa<!----><subst>k<del>a</del><add>e</add></subst><!--different scribe?-->saratāmarasaṃ<note place="below" type="exegesis">|</note> saras<note place="below" type="exegesis">|</note> sarasatāṃ<note place="below" type="exegesis">|</note>
+rasatāmali<del rend="white correction fluid applied">|</del><lb n="9"/>nāṃ<note place="below" type="exegesis">|</note> vyadhāt<note place="below" type="exegesis">|</note> 76</l>
 </lg>
 <lg type="verse" xml:id="HV_03_78">
-<l>prakaṭatālalayaṃ śukavāraṇe kalamagopavadhūnavagītakam|</l>
-<l>mṛgagaṇasya manaḥ śrutamākṣipatpracurasasyarasasya jighatsataḥ||78||</l>
+<l>pra<subst>k<del rend="white correction fluid applied">e</del><add rend="implied">a</add></subst>ṭatālalayaṃ<note place="below" type="exegesis">|</note> śukavāraṇe<note place="below" type="exegesis">|</note>
+kalama<del rend="white correction fluid applied">|</del><lb n="10"/>gopavadhūr<note place="below" type="exegesis">|</note> navagītakam<note place="below" type="exegesis">|</note></l>
+<l>mṛgagaṇasya<note place="below" type="exegesis">|</note> manaḥ<note place="below" type="exegesis">|</note> śrutamā<note place="below" type="exegesis">|'</note><lb n="11"/>kṣipat<note place="below" type="exegesis">|</note>
+pracurasasyarasasya<note place="below" type="exegesis">|</note> jighatmataḥ<note place="below" type="exegesis">|</note> 77</l>
 </lg>
 <lg type="verse" xml:id="HV_03_79">
-<l>srutamado girikānanavartmani pratikarīti karīrakulākule|</l>
-<l>marudayukchadasaurabhasaṃbhṛtaḥ kṣubhitatābhitatanakṛta dvipān||79||</l>
+<l>srutamado<note place="below" type="exegesis">|</note> <lb n="12"/>girikānanavartmani<note place="below" type="exegesis">|</note> pratikarī<note place="below" type="exegesis">|i</note>ti<note place="below" type="exegesis">|</note>
+karīrakulākule<note place="below" type="exegesis">|</note></l>
+<l>ma<lb n="13"/>rud<note place="below" type="exegesis">|'</note>
+ayukchadasaurabha<add rend="arrows" place="above">saṃ</add><subst><del rend="white correction fluid applied">m</del><add rend="implied">bh</add>ṛ</subst><del rend="white correction fluid applied">ṭa</del>taḥ kṣubhitatābhitatān<note place="below" type="exegesis">|'</note>
+akṛta<note place="below" type="exegesis">|</note> dvipā<lb n="14"/>t<note place="below" type="exegesis">|</note> 78</l>
 </lg>
-<p xml:id="HV_03_79p">[iti śarat]</p>
+<p xml:id="HV_03_79p">śarat||</p>
 <lg type="verse" xml:id="HV_03_80">
-<l>himaṛtau nalinī nalinānanaśriyamudūḍhamanoramakarṇikām|</l>
-<l>tuhinareṇujarāgamaviplavairvimalitāpakṛtaṃ dadhau||80||</l>
+<l>himaṛtau<note place="below" type="exegesis">|</note> nalinī<note place="below" type="exegesis">|</note> nalinānanaśriya<lb n="15"/>m<note place="below" type="exegesis">|u</note>
+u<subst><del><unclear reason="cancelled out"/></del><add rend="circle" place="left-margin">dū</add></subst>ḍhamanoramakarṇikām<note place="below" type="exegesis">|</note></l>
+<l>tuhinareṇujarāgamavi<pb n="46"/>bhramair<note place="below" type="exegesis">|</note> vimalitā<note place="below" type="exegesis">|</note> malitāpakṛtaṃ<note place="below" type="exegesis">|</note> dadhau<note place="below" type="exegesis">|</note> 79</l>
 </lg>
 <lg type="verse" xml:id="HV_03_81">
-<l>atanuśītapariplavabhītitaḥ sahimamārutavellitayā babhau|</l>
-<l>saparirambha ivopavanadrumaścaturayāturayā latayā kṛtaḥ||81||</l>
+<l>atanu|<lb n="2"/>śītapariplavabhītitaḥ<note place="below" type="exegesis">|</note> sahisamārutavellitayā<note place="below" type="exegesis">|</note> va<lb n="3"/>bhau</l>
+<l>sapariram<subst>bh<del rend="white correction fluid applied">ā</del><add rend="implied">a</add></subst><note place="below" type="exegesis">|</note> ivo<note place="below" type="exegesis">|</note>pavanadrumaś<note place="below" type="exegesis">|</note>
+caturayā<add rend="arrows" place="right-margin"><note place="below" type="exegesis">''</note>turayā</add><note place="below" type="exegesis">|</note> latayā<note place="below" type="exegesis">|</note><del rend="white correction fluid applied">|</del>
+<lb n="4"/>kṛtaḥ<note place="below" type="exegesis">|</note> 80</l>
 </lg>
-<pb n="42" />
 <lg type="verse" xml:id="HV_03_82">
-<l>maruti vāti tuṣārakaṇākule kamiturāhitasītkṛtavibhramā|</l>
-<l>abhimukhaṃ valati sma dhutasphuratkaratalā ratalālasayā vadhūḥ||82||</l>
+<l>maruti<note place="below" type="exegesis">|</note> vāti<note place="below" type="exegesis">|</note> tuṣārakaṇākule<note place="below" type="exegesis">|</note> kamitur<note place="below" type="exegesis">|''</note>
+ā<lb n="5"/>hitasītkṛtavibhramā<note place="below" type="exegesis">|</note></l>
+<l>abhimukhaṃ<note place="below" type="exegesis">|</note> valati<note place="below" type="exegesis">|</note> sma<note place="below" type="exegesis">|</note> dhutasphu<lb n="6"/>ratkaratalā<note place="below" type="exegesis">|</note>
+ratalālasayā<note place="below" type="exegesis">|</note> vadhūḥ<note place="below" type="exegesis">|</note> 81</l>
 </lg>
-<p xml:id="HV_03_82p">[iti hemantaḥ]</p>
+<p xml:id="HV_03_82p">||hemantaḥ||<!--XXX:XXX--></p>
 <lg type="verse" xml:id="HV_03_83">
-<l>samaya eva guṇo 'pyupayujyate saparirambharuciṃ dayitaṃ striyāḥ|</l>
-<l>stanayugoṣmabharaḥ śiśirāgame yadakarodakaroṣṇimagopatau||83||</l>
+<l><lb n="7"/>samaya<note place="below" type="exegesis">|</note> eva<note place="below" type="exegesis">|</note> guṇo<note place="below" type="exegesis">|'</note> 'py<note place="below" type="exegesis">|</note>
+upayujyate<note place="below" type="exegesis">|</note> saparirambharuciṃ<note place="below" type="exegesis">|</note> dayi|<lb n="8"/>taṃ<note place="below" type="exegesis">|</note>
+stri<subst>y<del rend="implied">a</del><add rend="wiggle" place="above">ā</add></subst>ḥ|</l>
+<l>stanayugoṣmabharaḥ<note place="below" type="exegesis">|</note> śiśirāgame<note place="below" type="exegesis">|</note> yad<note place="below" type="exegesis">|'</note>
+akaro<note place="below" type="exegesis">|</note><lb n="9"/>d<note place="below" type="exegesis">'</note> akaroṣṇimagopatau 82</l>
 </lg>
 <lg type="verse" xml:id="HV_03_84">
-<l>aviralaṃ ghanasaracayairiva sphuṭitapuṣpaparāgakadambakaiḥ|</l>
-<l>churayati sma mukhānyabhito diśāmanavaro navarodhramahīruhaḥ||84||</l>
+<l>aviralaṃ<note place="below" type="exegesis">|</note> ghanasāracayair<note place="below" type="exegesis">|</note> i<lb n="10"/>va<note place="below" type="exegesis">|</note> sphuṭitapuṣpaparāgakadamvakaiḥ<note place="below" type="exegesis">|</note></l>
+<l>churayati<note place="below" type="exegesis">|</note> sma<note place="below" type="exegesis">|</note> mu<lb n="11"/>khāny<note place="below" type="exegesis">|'</note> abhito<note place="below" type="exegesis">|</note>
+diśām<note place="below" type="exegesis">|'</note> anavaro<note place="below" type="exegesis">|</note> navarodhramahīruhaḥ 83</l>
 </lg>
 <lg type="verse" xml:id="HV_03_85">
-<l>sthagitadiṅmukhahaimarajaḥplutaṃ madhukaraḥ kamalākaragatyajat|</l>
-<l>tyajati kaḥ prakṛtopakṛtiṃ janaḥ sapadi nāpadi nāma malīmasaḥ||85||</l>
+<l><lb n="12"/>sthagitadiṅmukha<subst>h<del rend="white correction fluid applied">ai</del><add rend="implied">e</add></subst>marajaḥplutaṃ<note place="below" type="exegesis">|</note> madhukaraḥ<note place="below" type="exegesis">|</note>
+kamalā<lb n="13"/>karam<note place="below" type="exegesis">|</note> a<subst><del><unclear reason="white correction fluid applied"/></del><add rend="implied">tya</add></subst>jat<note place="below" type="exegesis">|</note></l>
+<l>tyajati<note place="below" type="exegesis">|</note> kaḥ<note place="below" type="exegesis">|</note> prakṛtopakṛtiṃ<note place="below" type="exegesis">|</note> janaḥ<note place="below" type="exegesis">|</note>
+sa<lb n="14"/>padi<note place="below" type="exegesis">|</note> nā<note place="below" type="exegesis">|''</note>padi<note place="below" type="exegesis">|</note> nāma<note place="below" type="exegesis">|</note>
+malīmasaḥ<note place="below" type="exegesis">|</note> 84</l>
 </lg>
 <lg type="verse" xml:id="HV_03_86">
-<l>apaciteṣu pareṣu viṣaṇṇatāmupagtaṃ kuṣumeṣvahamutthitam|</l>
-<l>tapasi kundamitīva hasatkvaṇanmadhukarālikarālitamabhyadhāt||86||</l>
+<l>apaciteṣu<note place="below" type="exegesis">|</note> pareṣu<note place="below" type="exegesis">|</note> <lb n="15"/>viṣasmatām<note place="below" type="exegesis">|</note> upagtaṃ<note place="below" type="exegesis">|</note>
+kuṣumeṣv<note place="below" type="exegesis">|'</note> aham<note place="below" type="exegesis">|</note> utthitam</l>
+<l>tapasi<note place="below" type="exegesis">|</note> <pb n="47"/>kunda<subst><del rend="white correction fluid applied">s</del><add rend="implied">m</add></subst><note place="below" type="exegesis">|</note>
+itī<note place="below" type="exegesis">|</note>va<note place="below" type="exegesis">|</note> ha<del rend="white correction fluid applied">ṃ</del>satkvaṇanmadhukarālikarālitam<note place="below" type="exegesis">|'</note> a<lb n="2"/>bhyadhāt 85</l>
 </lg>
 <lg type="verse" xml:id="HV_03_87">
-<l>dayitakaṇṭhagatā api visphuṭannavalavaṅgasamīrahatāḥ striyaḥ|</l>
-<l>himaṛtorudakaṇṭhiṣatodayādaraśanai raśnairjaghanaiścitāḥ||87||</l>
+<l>dayitakaṃṭhagatā<note place="below" type="exegesis">|</note> api visphuṭannava<lb n="3"/>lavaṅgasamīrahatāḥ<note place="below" type="exegesis">|</note> <sic>sti</sic>yaḥ<note place="below" type="exegesis">|</note></l>
+<l>himaṛtor<note place="below" type="exegesis">|</note> udakaṃṭhi<lb n="4"/>ṣato<note place="below" type="exegesis">|</note> dayād<note place="below" type="exegesis">|'</note> araśanair<note place="below" type="exegesis">|'</note>
+aśanair<note place="below" type="exegesis">|</note> jaghanaiś<note place="below" type="exegesis">|</note> citāḥ 8<unclear>6</unclear></l>
 </lg>
 <lg type="verse" xml:id="HV_03_88">
-<l>priyaviyuktavadhūhṛdayaiḥ samaṃ śiśiravāyubhiretya vikampitāḥ|</l>
-<l>kusumitāḥ phalinītatayo babhurmadhurasādhurasārthimadhruvatāḥ||88||</l>
+<l>pri<lb n="5"/>yaviyuktavadhūhṛdayaiḥ<note place="below" type="exegesis">|</note> sa<add rend="arrows" place="right-margin">maṃ</add><note place="below" type="exegesis">|</note> śiśiravāyubhir<note place="below" type="exegesis">|</note>
+etya<note place="below" type="exegesis">|</note> vi<lb n="6"/>kampitāḥ<note place="below" type="exegesis">|</note></l>
+<l>kusumitāḥ<note place="below" type="exegesis">|</note> phalinītatayo<note place="below" type="exegesis">|</note> babhur<note place="below" type="exegesis">|</note> madhu<lb n="7"/>rasādhurasārthimadhuvratāḥ<note place="below" type="exegesis">|</note> 87</l>
 </lg>
 <lg type="verse" xml:id="HV_03_89">
-<l>agaṇitaprasavāntaraviplavavyatikaraḥ sphuṭasaurabhamāśritaḥ|</l>
-<l>aliramaṃsta mahattapasaḥ phalaṃ navalavaṅgalavaṃ gahane gireḥ||89||</l>
+<l>agaṇitaprasavānta<lb n="8"/>raviplavavyatikara<del rend="white correction fluid applied">ḥ</del>sphuṭasaurabham<note place="below" type="exegesis">|</note> āśritaḥ<note place="below" type="exegesis">|</note></l>
+<l>ali<note place="below" type="exegesis">|</note><lb n="9"/>r amaṃsta<note place="below" type="exegesis">|</note> mahat<note place="below" type="exegesis">|</note> tapasa<note place="below" type="exegesis">|ḥ</note>
+phalaṃ<note place="below" type="exegesis">|</note> navalavaṃgalavaṃ<note place="below" type="exegesis">|</note> gahane<note place="below" type="exegesis">|</note> gi<lb n="10"/>reḥ 88</l>
 </lg>
 <lg type="verse" xml:id="HV_03_90">
-<l>dhṛtagurūṣmapayodharamaṇḍalīnibiḍapīḍitavallabhavakṣasām|</l>
-<l>kṣaṇadayā sudṛśāṃ suratotsavakṣamatayā matayā ratirādadhe||90||</l>
+<l>dhṛtagu<gap reason="white correction fluid applied" unit="akṣara" quantity="1"/>rūṣmapayodharamaṃḍalīniviḍa|<lb n="11"/>pīḍitavallabhavakṣasām<note place="below" type="exegesis">|</note></l>
+<l>kṣaṇadayā<note place="below" type="exegesis">|</note> sudṛśāṃ<note place="below" type="exegesis">|</note> sura<lb n="12"/>totsavakṣamatayā<note place="below" type="exegesis">|</note> matayā<note place="below" type="exegesis">|</note>
+ratir<note place="below" type="exegesis">|</note> ādadhe 89</l>
 </lg>
-<pb n="43" />
 <lg type="verse" xml:id="HV_03_91">
-<l>smṛtibhuvā hṛdi śalya ivārpite dadhati dārḍhyamatīva ca khadire|</l>
-<l>na rajanīrajanīcarayoṣitā jagati kā virahe 'vacakhādire||91||</l>
+<l>smṛti<lb n="13"/>bhuvā<note place="below" type="exegesis">|</note> <subst>h<del rend="white correction fluid applied">ā</del><add>ṛ</add></subst>di<note place="below" type="exegesis">|</note>
+śal<subst>y<del rend="white correction fluid applied">ā</del><add rend="implied">a</add></subst><note place="below" type="exegesis">|</note>
+i<subst>v<del rend="implied">a</del><add rend="wiggle">ā</add></subst><note place="below" type="exegesis">|'</note>rpite<note place="below" type="exegesis">|</note> dadhati<note place="below" type="exegesis">|</note>
+dārḍhyam<note place="below" type="exegesis">|'</note> atīva<note place="below" type="exegesis">|</note>| <lb n="14"/>ca<note place="below" type="exegesis">|</note> khādire<note place="below" type="exegesis">|</note></l>
+<l>na<note place="below" type="exegesis">|</note> rajanīrajanīcarayoṣitā<note place="below" type="exegesis">|</note> jagati<note place="below" type="exegesis">|</note>| <lb n="15"/>kā<note place="below" type="exegesis">|</note>
+virahe<note place="below" type="exegesis">|'</note> 'vacakhādire 90</l>
 </lg>
 <lg type="verse" xml:id="HV_03_92">
-<l>mṛgadṛśāmabhavatsaha vallabhairasamahāsaratālavalīlata|</l>
-<l>śriyamadhānmadhunā kṛtaṣaṭpadīrasamahā saratā lavalīlatā||92||</l>
+<l>mṛgadṛśām<note place="below" type="exegesis">|'</note> abhavat<note place="below" type="exegesis">|</note> saha<note place="below" type="exegesis">|</note> <pb n="48"/>vallabhair<note place="below" type="exegesis">|</note>
+asamahāsaratā<note place="below" type="exegesis">|'</note>lavalīlatā<note place="below" type="exegesis">|</note></l>
+<l>śriyam<note place="below" type="exegesis">|'</note> adhān<note place="below" type="exegesis">|</note> madhu<lb n="2"/>nā<note place="below" type="exegesis">|</note> kṛtaṣaṭpadīrasamahā<note place="below" type="exegesis">|</note> saratā lavalīlatā 91</l>
 </lg>
 <lg type="verse" xml:id="HV_03_93">
-<l>kopaḥ ka eva dayite tamihānayestva-</l>
-<l>māliṃ gatā navamamandarasānunīti|</l>
-<l>tenāgatena lalanā gamitā prasāda-</l>
-<l>māliṅgatā navamamandarasānunīti||93||</l>
+<l>ko<lb n="3"/>paḥ<note place="below" type="exegesis">|</note> ka<note place="below" type="exegesis">|</note> eva<note place="below" type="exegesis">|</note> dayite<note place="below" type="exegesis">|</note>
+tam<note place="below" type="exegesis">|</note> ihā<note place="below" type="exegesis">|</note> nayes<note place="below" type="exegesis">|</note> tvam</l>
+<l>āliṃ gatā<note place="below" type="exegesis">|'</note>navamama|<lb n="4"/>ndarasānunī<note place="below" type="exegesis">|</note>ti<note place="below" type="exegesis">|</note></l>
+<l>tenā<note place="below" type="exegesis">|''</note>gatena<note place="below" type="exegesis">|</note> lalanā<note place="below" type="exegesis">|</note> gamitā<note place="below" type="exegesis">|</note>
+prasāra<note place="below" type="exegesis">|</note><lb n="5"/>m</l>
+<l>āliṅgatā<note place="below" type="exegesis">|'</note>navam<note place="below" type="exegesis">'</note> amaṃdarasānunīti 92</l>
 </lg>
 <lg type="verse" xml:id="HV_03_94">
-<l>lakṣmīṃ vahantamṛtubhirnagamityudaṃśu-</l>
-<l>ratnasthalīvikasitāmalakesarāgam|</l>
-<l>draṣṭuṃ prabhurniragamallulite salīla-</l>
-<l>mīṣatspaṣṭaśangirisutāmalake sarāgam||94||</l>
+<l>lakṣmīṃ<note place="below" type="exegesis">|</note> vaha<lb n="6"/>ntam<note place="below" type="exegesis">|</note> ṛtubhir<note place="below" type="exegesis">|</note>
+<del rend="white correction fluid applied">n</del>nagam<note place="below" type="exegesis">|i</note> ity<note place="below" type="exegesis">|u</note> udaṃśu-</l>
+<l>ratnasthalīvikasitāma<lb n="7"/>lakesarāgam<note place="below" type="exegesis">|</note></l>
+<l><subst><del rend="white correction fluid applied"><gap/></del><add>dra</add></subst><subst>ṣṭ<del rend="implied">a</del><add>u</add>ṃ</subst> vibhun<note place="below" type="exegesis">|</note> niragamal<note place="below" type="exegesis">|</note>
+lulite<note place="below" type="exegesis">|</note> salī<lb n="8"/>lam<note place="below" type="exegesis">|</note></l>
+<l>īṣan<note place="below" type="exegesis">|</note> mṛṣan girisutām<note place="below" type="exegesis">|'</note> alake<note place="below" type="exegesis">|</note> sarāgam<note place="below" type="exegesis">|</note> 93</l>
 </lg>
 <p>
-iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya
-vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
-ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma
-tṛtīyaḥ sargaḥ|
+<lb n="9"/>iti śrīratnākaraviracite haravijaye mahākāvye <lb n="10"/>ṛttavarṇano nāma tṛtīyaḥ sargaḥ 3||
 </p>
--->
 <p xml:id="HVVU_03_1"><lb n="b1"/>atha sa devo mandarācale girijayā<note place="below" type="exegesis">'</note>valambito yugapad eva sarvartubhir a<note place="below" type="exegesis">'</note>sevya<lb n="b2"/>ta prasavāḥ kusumāni arīṇāṃ vijetṛtvād a<note place="below" type="exegesis">'</note>naghā acchadmacāriṇo
 <note place="below" type="exegesis">'</note><lb n="b3"/>pratihatā vā bhujataravo yasya saḥ 1</p>
 <p xml:id="HVVU_03_2">madhupānāṃ rājibhiḥ parājitamana<lb n="b4"/>svinīmanasaḥ sumanasaḥ puṣpāṇi yatra tādṛśaṃ jagat surabher vasanta<lb n="b5"/>sya śobhām a<note place="below" type="exegesis">'</note>vahat sumanobhiḥ surabhi sāmodaṃ jagat śriyaṃ dadhre i<lb n="b6"/>ti vā yojanā viplavo bādhaḥ sphuṭitāni bhinnāni tatāni āmra<lb n="b7"/>vaṇāni yatra 2</p>
@@ -1597,30 +1628,32 @@ prāpto<note place="below" type="exegesis">'</note>syārttavam_ <lb n="b1"/>ṛt
 <p xml:id="HVVU_03_71">vitathā niṣphalā ākhyā pratī<lb n="b2"/>tir yeṣāṃ tadbhāvo bāṇākhyakusumasamūhena na dhṛtaḥ viyoginīmanobhe<lb n="b3"/>danāt_ bāṇāś ca śarāḥ sūkṣmaśaravyabhedakā vitathapratītayo na bha<lb n="b4"/>vanti śarā asanāś ca tarubhedāḥ śarāsanaṃ ca dhanuḥ alavaṃ prabhūtaṃ tāpaṃ karoti yas tena 70</p>
 <p xml:id="HVVU_03_72">rasaḥ pārataṃ tatkriyā dhātubādhaḥ tayeva śaracchri<lb n="b5"/>yā sthitir a<note place="below" type="exegesis">'</note>vāpi padaṃ nibaddham_ āgamaḥ pravṛttiḥ śāstrasaṃpradāya<lb n="b6"/>ś ca tārā nakṣatrāṇi tāraṃ ca rupyam_ kalikā kalaṅko mālinyaṃ ca <lb n="b7"/> candraḥ śaśī suvarṇaṃ ca kamalāni padmāni kamalā ca lakṣmīḥ 71</p>
 <p xml:id="HVVU_03_73"><lb n="b8"/>kaṇiśaṃ sasyamaṃjarī kalamāḥ śālibhedāḥ kalo manoharo mandra<lb n="b9"/>ś ca <surplus reason="repeated after line break">mandraś ca</surplus> yo ravas tenākulaṃ kṛtvā 72</p>
-<p xml:id="HVVU_03_74"><pb n="43"/><lb n="t1"/>navaṃ saro viloḍayituṃ haṃsānāṃ gaṇasyā<note place="below" type="exegesis">'</note>vasaraḥ prasaṃgaś cirād a<note place="below" type="exegesis">'</note>bhūt_ <lb n="t2"/>kuṭumbinyaḥ priyā haṃsyaḥ 73</p>
-<!--
-<p xml:id="HVVU_03_75">niṣkuṭajāḥ kuṭajarahitāḥ | kuṭajānāṃ vārṣikatvāt | niṣkuṭā gṛhārāmāstebhyaś ca jātāḥ | asamo 'nanyasadṛśaḥ | śaśiprabhā yoṣito 'pi | śaśinaḥ prabhā yāsām iti kṛtvā || 75 || </p>
-<p xml:id="HVVU_03_76">apāyayat pāyayāmāsa | kvacit ‘adhāpayat’ iti pāṭhaḥ | tatra ‘pādiṣu dheṭa upasaṃkhyānam’ iti ‘nigaraṇa-’ iti prāptasya parasmaipadasya niṣedhāt kartrābhiprāye kriyāphale ‘ṇicaś ca’ iti taṅ | raso madhu stanyaṃ ca | jarasaṃ vyatipatuṣī jarām atikrāntā | ‘jarāyā jarasanyatarasyām’ iti jaras || 76 || </p>
-<p xml:id="HVVU_03_77">sarabhasenātmanā hetunā puraḥsarāsu sārasīṣu anurāgabhareṇa pūritā ye sārasā lakṣmaṇās tair mukharitaṃ saro bhramarāṇāṃ kvaṇatāṃ sarasatvam akarot | raso rāgaḥ || 77 || </p>
-<p xml:id="HVVU_03_78">tālāḥ karayoḥ parasparam abhighātāḥ | teṣāṃ layaḥ śobhā śleṣo vā | gītam eva gītakaṃ gānam | gītakaṃ madrakādiviśiṣṭaṃ gītaṃ prakaṭatālalayaṃ bhavati | tatra tālāś cañcapuṭacācapuṭādayaḥ | teṣāṃ layo drutamadhyavilambitabhedena tridhā kālāntarānuvṛttiḥ | uktaṃ ca-‘tālah kālāntarasthāyī drutamadhyavilambitaḥ | tridhā laya iti prokto badarāmalabilvavat ||’ iti | pracure sasye raso yasya | jighatsatas tad evāttum icchataḥ || 78 || </p>
-<p xml:id="HVVU_03_79">samadaḥ pratigajo 'treti bhrāntyā kṣubhitatā kṣobhas tayā vyāptān anilaḥ kuñjarān akarot || 79 || </p>
-<p xml:id="HVVU_03_80">himaṛtāv ity atra ‘ṛtyakaḥ’ iti prakṛtibhāvaḥ | karṇikā bījakoṣaḥ karṇābharaṇaṃ ca | karṇau ca śrotre | vimalitā mṛditā dhavalitā ca | ata evālināṃ tāpakṛt || 80|| </p>
-<p xml:id="HVVU_03_81">śītabādhabhayenārtayeva latayā sāliṅganaḥ kṛtas taruḥ śuśubhe | caturayā prauḍhayā || 81 || </p>
-<p xml:id="HVVU_03_82">rate lālasā rucir yasyāḥ || 82 || </p>
-<p xml:id="HVVU_03_83">nāsti karāṇām uṣṇimā saṃtāpo yasya tādṛśo gopatir aṃśumān yatra || 83 || </p>
-<p xml:id="HVVU_03_84">ghanasāraṃ karpūram | mu| khāni vadanāny api | anavaraḥ śreṣṭhaḥ || 84 || </p>
-<p xml:id="HVVU_03_85">haimaṃ tuhinasaṃbandhi | kamalākaraḥ śrīprado 'pi | āpadi malinaḥ ko nāma prakarṣeṇa kṛtopakāram api na muñcati | ‘praṇayaprakṛti’ iti pāṭhe snehakāraṇam ity arthaḥ || 85 || </p>
-<p xml:id="HVVU_03_86">kvaṇatāṃ bhramarāṇāṃ paṅktyābhivyāptatvād ittham iva kundaṃ tapasi māghe 'bhyadhāt | hasad vikasat || 86 || </p>
-<p xml:id="HVVU_03_87">himarto rudayāt aśanair amandaṃ aṅganā udakaṇṭhiṣata sotkaṇṭhā jātāḥ | lavaṅgaṃ puṣpabhedaḥ | araśanaiḥ śītavaśān mekhalāśūnyaiḥ || 87 || </p>
-<p xml:id="HVVU_03_88">phalinī priyaṃgulatā | sādhuḥ śreṣṭhaḥ | madhuvratā bhramarāḥ || 88 || </p>
-<p xml:id="HVVU_03_89">girigahane bhramaro lavaṅgasya lavam āśritas tapaso māghasya phalaṃ tam evājñāsīt | girigahanasthaś ca munis tapaso vratasya phalaṃ dvandvasahiṣṇutādi samanubhavati | prasavo janmāpi | saurabhaṃ yaśo 'pi || 89 || </p>
-<p xml:id="HVVU_03_90">kṣaṇadā rātriḥ | tasyāḥ suratotsave kṣamatvaṃ dīrghataratvāt || 90 || </p>
-<p xml:id="HVVU_03_91">rajany eva rākṣasī tayā ca kā yoṣito nāvacakhādire | sarvā eva grastāḥ | khādiraṃ śalyaṃ khadiradārumayaḥ kīlakaḥ || 91 || </p>
-<p xml:id="HVVU_03_92">nāsti lavaś chedo yasyās tādṛśī līlā yasya tadbhāvo yoṣitām āsīt | asamahāsam asādhāraṇahasitaṃ rataṃ nidhuvanaṃ yasyāṃ sā | madhunā puṣparasena | saratā pravahatā | kṛtaḥ ṣaṭpadīnāṃ rasamaho rāgotsavo yayā sā lavalīnāma latā ca śuśubhe || 92 || </p>
-<p xml:id="HVVU_03_93">‘dayitaṃ prati na kopo yuktaḥ, tam ānaya tvam’ ity āśayena yoṣid anavame śreṣṭhe mandarasya sānuni āliṃ gatā sakhī jagāma | navam apūrvaṃ amandarasā bahalānurāgā anunītiḥ prārthanā yatra tathā kṛtvā ca tena āliṅgatā saṃpariṣv ajamānena sā prasāditā ||93 || </p>
-<p xml:id="HVVU_03_94">sthalīṣu vikasitā amalāḥ kesarāgā bakulataravo yasya taṃ giriṃ draṣṭuṃ sarāgamalake gaurī spṛśann īśvaro viniryayau | lulite kuṭilīkṛte || 94 || </p>
-<p>iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapadoddyote tṛtīyaḥ sargaḥ ||</p>
--->
+<p xml:id="HVVU_03_74"><pb n="45"/><lb n="t1"/>navaṃ saro viloḍayituṃ haṃsānāṃ gaṇasyā<note place="below" type="exegesis">'</note>vasaraḥ prasaṃgaś cirād a<note place="below" type="exegesis">'</note>bhūt_ <lb n="t2"/>kuṭumbinyaḥ priyā haṃsyaḥ 73</p>
+<p xml:id="HVVU_03_75">niṣkuṭajāḥ kuṭajarahitāḥ teṣāṃ vārṣi<lb n="t3"/>katvāt_ niṣkuṭā gṛhārāmās tebhyaś ca jātāḥ asamo <note place="below" type="exegesis">'</note>'nanyasadṛśaḥ <lb n="t4"/>śaśiprabhā yoṣito 'pi śaśinaḥ prabhā yāsām iti 74</p>
+<p xml:id="HVVU_03_76"></p>
+<p xml:id="HVVU_03_77"><lb n="b1"/>sārasīṣv a<note place="below" type="exegesis">'</note>nurāgabhareṇa pūritā ye sārasā lakṣmaṇās tair mukha<lb n="b2"/>ritaṃ saro bhramarāṇāṃ kvaṇatāṃ sarasatvam a<note place="below" type="exegesis">'</note>karot_ raso rā<lb n="b3"/>gaḥ 76</p>
+<p xml:id="HVVU_03_78">tālaḥ karayoḥ parasparam a<note place="below" type="exegesis">'</note>bhighātaḥ teṣāṃ layaḥ <lb n="b4"/>śobhā śleṣo vā gītam eva gītakaṃ gānam_ gītakaṃ madrakādi<lb n="b5"/>viśiṣṭaṃ gītaṃ prakaṭatālalayaṃ bhavati tatra tālāś ca puṭacā<lb n="b6"/>capuṭādayaḥ teṣāṃ layo drutamadhyamavilambitabhedena tridhā <lb n="b7"/>kālāntarasthāyī uktaṃ ca tālaḥ kālāntarasthāyī druta<lb n="b8"/>madhyavilambitaḥ tridhā laya iti prokto badarāmalabilva<lb n="b9"/>vad iti pracure sasye raso yasya jighatsatas tad evāttum
+iccha<lb n="b10"/>taḥ 77</p>
+<p xml:id="HVVU_03_79">samadaḥ pratigajo <note place="below" type="exegesis">'</note>'treti bhrāntyā kṣubhitatā kṣobhas ta<lb n="b11"/>yā vyāptān a<note place="below" type="exegesis">'</note>nilaḥ kuñjarān a<note place="below" type="exegesis">'</note>karot 78</p>
+<p xml:id="HVVU_03_80"><pb n="46"/><lb n="b1"/>himaṛtāv ity atra ṛtyaka iti prakṛtibhāvaḥ karṇikā bījako<lb n="b2"/>śaḥ karṇābharaṇaṃ ca dadhau śrotre vimalitā dhavalitā ca ata evā<lb n="b3"/>lināṃ tāpakṛt 79</p>
+<p xml:id="HVVU_03_81">śītabādhabhayenā<note place="below" type="exegesis">''</note>turyeva latayā kṛtāliṃ<lb n="b4"/>ganas taruḥ śuśubhe caturayā prauḍhayā 80</p>
+<p xml:id="HVVU_03_82">rate lālasā rucir yasyāḥ <add place="right-margin">81</add></p>
+<p xml:id="HVVU_03_83"><lb n="b5"/>nāsti karāṇām uṣṇimā santāpo yasya tādṛśo gopatir aṃśumā<lb n="b6"/>n_ yatra 82</p>
+<p xml:id="HVVU_03_84">ghanasāraḥ karpūraṃ mukhāni vadanāny api anava<lb n="b7"/>raḥ śreṣṭhaḥ 83</p>
+<p xml:id="HVVU_03_85">haimaṃ tuhinasaṃbandhi kamalākaraḥ śrīprado 'pi <lb n="b8"/>āpadi malinaḥ ko nāma prakarṣeṇa kṛtopakāram a<note place="below" type="exegesis">'</note>pi na muñcati <lb n="b9"/>praṇayaprakṛtim iti pāṭhe snehakāraṇam ity arthaḥ 84</p>
+<p xml:id="HVVU_03_86">kvaṇatāṃ bhra<lb n="b10"/>marāṇāṃ paṃktyābhivyāptatvād ittham iva kundaṃ tapasi māghe <note place="below" type="exegesis">'</note>'bhyadhā<lb n="b11"/>t_ hasat_ vikasat 85</p>
+<p xml:id="HVVU_03_87"><pb n="47"/><lb n="t1"/>himarto rudayaḥ aśanair a<note place="below" type="exegesis">'</note>mandam a<note place="below" type="exegesis">'</note>ṅganā udakaṇṭhiṣata sotkaṇṭhā abhūvan_ <lb n="t2"/>lavaṅgaṃ puṣpabhedaḥ araśanaiḥ śītavaśān mekhalāśūnyaiḥ 86</p>
+<p xml:id="HVVU_03_88">phalini pri<lb n="t3"/>yaṅgulatā sādhuḥ śreṣṭhaḥ madhuvratā bhramarāḥ 87<!--XXX line fillers ⸢ ⸢ (deleted?)XXX--></p>
+<p xml:id="HVVU_03_89"><lb n="b1"/>girigahane bhramaro lavaṅgasya lavam āśritas tapaso māghasya phalaṃ ta<lb n="b2"/>pasas tat_ girigahanasthaś ca munis tapaso vratasya phalaṃ dvandvasahi<lb n="b3"/>ṣṇutādi samanubhavati prasavo janmāpi saurabhaṃ yaśo 'pi 88</p>
+<p xml:id="HVVU_03_90"><lb n="b4"/>kṣaṇadā rātris tasyāḥ suratotsave kṣamatvaṃ dīrghataratvāt 89</p>
+<p xml:id="HVVU_03_91"><lb n="b5"/>rajany eva rākṣasī tayā ca kā yoṣito nāvacakhādire sarvā e<lb n="b6"/>va grastāḥ khādiraṃ śalyaṃ khadiradārumayaḥ kīlakaḥ 90</p>
+<p xml:id="HVVU_03_92"><pb n="48"/><lb n="t1"/>nāsti lavaḥ chedo yasyās tādṛśī līlā yasya tadbhāvo yoṣitām āsīt_ <lb n="t2"/>asamahāsam asādhāraṇahasitaṃ rataṃ nidhuvanaṃ yasyāṃ sā madhunā puṣpara<lb n="t3"/>sena saratā pravahatā kṛtaḥ ṣaṭpadīnāṃ rasamaho rāgotsavo yayā sā <lb n="t4"/>lavalīnāma la<del rend="white correction fluid applied">sa</del>tā ca śuśubhe 91</p>
+<p xml:id="HVVU_03_93"><lb n="b1"/>dayitaṃ prati ca kopo yuktas tam ā<note place="below" type="exegesis">''</note>naya tvam ity āśayena yoṣid a<note place="below" type="exegesis">'</note>navame śre<lb n="b2"/>ṣṭhe mandarasya sānuni
+āliṅ<subst>g<del rend="white correction fluid applied">i</del><add rend="implied">a</add></subst>tā sakhīṃ jagāma navam a<note place="below" type="exegesis">'</note>pūrvaṃ a<note place="below" type="exegesis">'</note>mandara<lb n="b3"/>sā
+bahalānurāgā<note place="below" type="exegesis">'</note>nunītiḥ prārthanā yatra tathā kṛtvā <gap reason="white correction fluid applied" unit="akṣara" qunatity="1"/>tenāliṅga<lb n="b4"/>tā pariṣv ajamānena sā
+prasādi<subst>t<del rend="implied">a</del><add rend="wiggle">ā</add></subst><gap reason="white correction fluid applied" unit="akṣara" qunatity="5"/> 92</p>
+<p xml:id="HVVU_03_94">sthalīṣu vi<lb n="b5"/>kasitā amalāḥ kesararāgā bakulataravo yasya taṃ giriṃ draṣṭuṃ sarā<lb n="b6"/>gam a<note place="below" type="exegesis">'</note>lake gaurīṃ spṛśann īśvaro 'pi viniryayau lulite kuṭilīkṛte <add place="right-margin">93</add></p>
+<p>iti haravijayaviṣamapadoddyote tṛtīyaḥ sargaḥ <!--XXX<space/>XXX--> 3</p>
 </div>
 <!--
 <div n="04" type="chapter">
