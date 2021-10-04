@@ -70,7 +70,7 @@
 <lg type="verse" xml:id="HV_01_3">
 <l>pa<space type="binding-hole"/>rjjaṃtavarttiparipāṃḍurapatrapaṃkti-</l>
 <l>padmāsanāsanakuśeśayakeśacakraṃ|</l>
-<l>yuṣmān punātu dadhad uddhatadugdhasindhu[crossed sign for long ā]-</l>
+<l>yuṣmān punātu dadhad uddhatadugdhasindhu<subst><add rend="crossed out">ā</add></subst>-</l>
 <l>vīcicchaṭāvalayitām araśailalīlāṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_4">
@@ -855,7 +855,7 @@ ratnākarasya kṛtau tāṃḍavavarṇṇano nāma dvitīyaḥ sargaḥ ||
 <l>madhulihām asukhāyata saṃhatir dhṛtimatītim atītya kṛtisthitiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_7">
-<l>madhurayā parapuṣṭagirāsanaiḥ sava<g rend="deleted daṇḍa">¦</g><lb/>yaseva sametya madhuśriyā|</l>
+<l>madhurayā parapuṣṭagirā sanaiḥ sava<g rend="deleted daṇḍa">¦</g><lb/>yaseva sametya madhuśriyā|</l>
 <l>mṛgadṛśo ghaṭitāḥ saha vallabhair mudam adhur damadhuryamanohṛtaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_8">
@@ -19277,8 +19277,8 @@ ratnāṅke haravijaye mahākāvye icaṇḍikāsamarākṣepo nāma
 <lg type="verse" xml:id="HV_47_168">
 <l>praśamaya mahāmohātaṃkaṃ vi<space type="binding hole"/>dhatsva nirmmalāṃ</l>
 <l>dṛśam anuṃkūṭīkūṭībhūtaṃ tiraskuru kilbiṣaṃ|</l>
-<l>vighaṭaya dṛḍhān pāśagraṃ[crossed sign for long ā]thīr bhava vyatiṣaṃgiṇā</l>
-<l>nataviphalā pādāṃbhoja[crossed sign for long ā]smṛtiḥ praṇatātmanām||168||<g rend="deleted daṇḍa">¦</g></l>
+<l>vighaṭaya dṛḍhān pāśagraṃ<subst><add rend="crossed out">ā</add></subst>thīr bhava vyatiṣaṃgiṇā</l>
+<l>nataviphalā pādāṃbhoja<subst><add rend="crossed out">ā</add></subst>smṛtiḥ praṇatātmanām||168||<g rend="deleted daṇḍa">¦</g></l>
 </lg>
 <p>
 <space type="binding hole"/>cha || iti haravijaye mahākāvye ratnākarakṛtau
