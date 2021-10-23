@@ -389,7 +389,7 @@
 <l>sapariraṃbha ivopavanadrumaś caturayāturayā latayā kṛtaḥ</l>
 </lg>
 <lg type="verse" xml:id="HV_03_82">
-<l><lb n="9"/>maruti vāt<add place="between">i</add> tuṣārakaṇākule kamitur āhatasītkṛtavibhramāḥ</l>
+<l><lb n="9"/>maruti vāt<del rend="implied">a</del><add>i</add> tuṣārakaṇākule kamitur āhatasītkṛtavibhramāḥ</l>
 <l>abhimukhaṃ valati sma dhutasphu<lb n="10"/>ratkaratalā ratalālasayā vadhūḥ 82</l>
 </lg>
 <p xml:id="HV_03_82p">hemaṃtavarṇanam</p>
