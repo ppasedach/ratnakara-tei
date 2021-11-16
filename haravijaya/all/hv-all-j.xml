@@ -5319,32 +5319,31 @@ haravija<lb/>ye mahākāvye agnidaṃṣṭrāvyāhāravarṇṇano
 nāma ekādaśamaḥ sargaḥ||
 </p>
 </div>
-<!--
 <div n="12" type="chapter">
 <p>
-dvādaśaḥ sargaḥ|
+[floral] || cha ||
 </p>
 <lg type="verse" xml:id="HV_12_1">
-<l>iti sthirārātivirodhaniścayāmudīrya vācaṃ virate gaṇādhipe|</l>
-<l>smitacchaṭābṛṃhitaharadīdhitistato 'ṭṭahāso vyavaladvivakṣayā||1||</l>
+<l>iti sthitārātivirodhaniścayāmu<del rend="stroke">|</del>dīrya vācaṃ virute gaṇādhipe|</l>
+<l>smitaprabhābṛṃhitahāradīdhiti<space type="binding-hole"/>stato 'ṭṭahāso vyavaladvivakṣayā||</l>
 </lg>
 <lg type="verse" xml:id="HV_12_2">
-<l>arātimattadvipakumbhamaṇḍalīvipāṭanotthāmalamauktikāvaliḥ|</l>
-<l>kṛpāṇalagnā vidadhāra yasya sā tadacchadhārājalabudbudaśriyam||2||</l>
+<l>arātimattadvipakuṃbhamaṃḍalīnikhaṃḍanotthāmalamauktikāvaliḥ|</l>
+<l>kṛpāṇalagnā vidadhāra yasya sā ta<!--XXX ccha XXX-->dhārājalabudbudaśri<space type="binding-hole"/>yaṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_12_3">
-<l>vitenivāṃso 'pyavilaṅghyarūpatāmanekasaṃkhyā dadhato 'napāyatām|</l>
-<l>hareṇa kalpā iva yena kālatāmupeyuṣānāyiṣata dviṣaḥ kṣayam||3||</l>
+<l>vitenavāt saumyavilaṃgharūpatām anekasaṃkhyā dadhatānapāyatān|</l>
+<l>hareṇa kalpā iva yena kalpatām upeyuṣānāyiṣataḥ dviṣaḥ kṣayaṃ||</l>
 </lg>
-<pb n="12" />
 <lg type="verse" xml:id="HV_12_4">
-<l>dadhatyabhīkṣṇa dhavalāni bhūyasīṃ digantaravyāptīrargalāṃ śriyam|</l>
-<l>raṇeṣu nirjitya balāni vidviṣāṃ yaśāṃsi yena prathayāṃbabhūvire||4||</l>
+<l>dadhaty abhīkṣṇaṃ dhavalāni bhūya<g rend="deleted daṇḍa">¦</g><lb n="4"/>sīṃ digaṃdaravyāptinirargalāṃ śriyaṃ|</l>
+<l>raṇeṣu nirjitya balāni vidviṣāṃ yaśāṃsi yena prathayāṃbabhūvire||</l>
 </lg>
 <lg type="verse" xml:id="HV_12_5">
-<l>dadhatsadāśoṇitapānaśauṇḍatāṃ kṛtābhiyogo bahulakṣapāṭane|</l>
-<l>babhūva yasyātanudantamaṇḍalaḥ kṣayāya kaukṣeyakarākṣaso dviṣam||5||</l>
+<l>dadhatsadāśoṇitapāṇaśauṃḍatāṃ kṛtābhiyogo bahulakṣapāṭane|</l>
+<l>ba<space type="binding-hole"/>bhūva yasyātanudaṃtamaṃḍalaḥ kṣayāya kaukṣeyakarākṣaso dviṣāṃ||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_12_6">
 <l>subandhurāmodamanoramāṃ śriyaṃ sphuraccharārau yudhi yodhikāṃ dadhat|</l>
 <l>nirāsa sainyaṃ tarasā suradviṣāmiṣīkatūlaṃ śaradīva mārutaḥ||6||</l>
@@ -5695,7 +5694,9 @@ vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye 'ṭṭahāsanayopanyāso nāma
 dvādaśaḥ sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="13" type="chapter">
 <p>
 trayodaśaḥ sargaḥ|
