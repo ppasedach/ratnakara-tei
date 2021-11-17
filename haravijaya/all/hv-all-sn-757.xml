@@ -1537,7 +1537,6 @@ yugmam
 <l>saudāminī<lb n="11"/>kapilakesarimālabhāri-</l>
 <l>nīlābhrapattragaganotpalanā<lb n="12"/>ladaṇḍam 37||</l>
 </lg>
-<!---->
 <lg type="verse" xml:id="HV_04_38">
 <l>yasya prabhāvipulahārahitaiḥ stanā<lb n="13"/>graiḥ</l>
 <l>ślāghyā tribhir valimukhaiḥ kṛtamadhyaśobhaiḥ<note place="below" type="exegesis">|</note></l>
@@ -1657,6 +1656,7 @@ pañcamaḥ sargaḥ|
 <l>dhyānāvanirdayitatāṃ <lb n="11"/>śucitāmarāti-</l>
 <l>tāpi<note place="below" type="exegesis">|</note>ñcchame<note place="below" type="exegesis">|</note> ca<note place="below" type="exegesis">|</note> katamā<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> ghanā<note place="below" type="exegesis">|</note> gatā<note place="below" type="exegesis">|</note><lb n="12"/>rāt||18||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_05_19">
 <l>abhimatajanasaṃgame 'ṅganānāmanukṛtakomalasīripāṇipadmāḥ|</l>
 <l>iha manasijavibhramā vibhānti sphuṭataralāṅgalatābhirāmarūpāḥ||19||</l>
