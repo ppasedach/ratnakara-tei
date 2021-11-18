@@ -5,7 +5,7 @@
 # copy of the text that we'll actually be working from.
 
 #mss=(stein-189 k)
-mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay)
+mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p)
 
 #ms="stein-189"
 #text="hvvu"
@@ -95,6 +95,12 @@ case $ms in
     cantos=(03)
     text="hv"
     echo "I just did Bombay."
+    ;;
+
+  p)
+    cantos=(01 02 03 06 47)
+    text="hv"
+    echo "I just did P."
     ;;
 
   *)

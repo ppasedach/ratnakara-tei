@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
         <title>Provisional Edition</title>
@@ -10,13 +10,13 @@
             <idno type="siglum">P</idno>
           </msIdentifier>
           <msContents>
-            <summary>Provisional Edition of the Haravijaya.</summary>
+            <summary>Provisional Edition of the Haravijaya. Correction of P11/P18, and newly edited sections go here.</summary>
             <msItem n="1" defective="true">
             <!-- @defective: 'false' for complete, 'true' for incomplete -->
               <author xml:lang="sa" role="author">Ratnākara</author>
               <title xml:lang="sa">Haravijaya</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī script.</textLang>
+              <textLang mainLang="sa-Latn">Sanskrit in Latin script.</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
@@ -25,7 +25,7 @@
             <!-- @form can be "pothi", "book", scroll", etc. -->
               <supportDesc material="digital">
               <extent>
-              <measure quantity="something" unit="we need here" />
+              <measure quantity="something" unit="we need here"/>
               </extent>
 </supportDesc>
             </objectDesc>
@@ -41,14 +41,14 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2020-06-01">
+      <change when="2020-08-22">
         <persName>Peter Pasedach</persName>
       </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-    <div n="6" type="chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" n="06" type="chapter">
 <lg type="verse" xml:id="HV_06_1">
 <l>tam athāndhakāsuranikāraviplutāḥ</l>
 <l>kṛtapūrvasevam abhirāddhamānasam |</l>
@@ -917,7 +917,7 @@ yugmam
 
 <lg type="verse" xml:id="HV_06_120">
 <l>bhavadicchayaiva vinirodhavartināṃ</l>
-<l>paratantratāṃ ca jagatāṃ upeyuṣām |</l>
+<l>paratantratāṃ ca jagatām upeyuṣām |</l>
 <l>sthitirakṣaṇādikavidhāyinaḥ kvacin</l>
 <l>na calanti nātha kila mantranāyakāḥ || 120 ||</l>
 </lg>
