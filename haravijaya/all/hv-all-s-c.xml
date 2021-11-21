@@ -1709,7 +1709,7 @@ sargaḥ ||</p>
 <l>iha kāntir unmiṣati kāmalī lāsakṛ-</l>
 <l><lb n="19"/>nmṛgacakṣuṣāṃ racitakāmalīlāsakṛt|</l>
 <l>kriyatetarāṃ ratir anuttarā gā<lb n="20"/>yatā</l>
-<l>madhupena cāni samanuttarāgāyatā||40||</l>
+<l>madhupena cānisam anuttarāgāyatā||40||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_41">
 <l>vikaṭakaṭakabhittibhā<lb n="21"/>ganunnāḥ</l>
@@ -1728,7 +1728,7 @@ sargaḥ ||</p>
 <l>kaṭakakṣiti <pb n="15a"/>m eṣa nātha dhatte ghanasacchāyakirātatābhirāmām||43||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_44">
-<l>ramaṇīya<lb n="2"/>tayā viyogināṃ prathamānaṅgavikāratāpadam|</l>
+<l>ramaṇīya<lb n="2"/>tayā viyogināṃ prathamānaṅ gavi kā ratā padam|</l>
 <l>amum āpya na kāmi<lb n="3"/>nī śriyāṃ prathamānaṃ gavi kā ratā padam||44||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_45">
@@ -1738,19 +1738,19 @@ sargaḥ ||</p>
 <l>lagnaṃ dvirephavalayaṃ tanute tra lakṣmīm||45||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_46">
-<l>ihāṅga<lb n="6"/>nā kā pramadaṃ priyasya nādhādasaṃrambharasaṃ dadhānā|</l>
+<l>ihāṅga<lb n="6"/>nā kā pramadaṃ priyasya nādhādasaṃ rambharasaṃ dadhānā|</l>
 <l>cetas sthitā kalpala<lb n="7"/>tānikuñje helāmatārabdharatāmalāhe||46||</l>
 </lg>
 <!--<p xml:id="HV_05_46p">(pratilomānulomapādaḥ)</p>-->
 <lg type="verse" xml:id="HV_05_47">
-<l>iha nitambabhuvo bhuvanā<lb n="8"/>tigāṃ sthitimupeyuṣi tāraghanatviṣaḥ|</l>
+<l>iha nitambabhuvo bhuvanā<lb n="8"/>tigāṃ sthitim upeyuṣi tāraghanatviṣaḥ|</l>
 <l>kumudinīhṛdayaṅgamavibhramā <lb n="9"/>dadhati candramasāracitāṃ śriyam||47||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_48">
-<l>gītaiḫ pranṛtyati purastava paśya <lb n="10"/>miśra-</l>
+<l>gītaiḫ pranṛtyati puras tava paśya <lb n="10"/>miśra-</l>
 <l>keśī karālavalayā balitālasadbhiḥ|</l>
-<l>dantīndradānapayasaḥ pava<lb n="11"/>naistaṭe sya</l>
-<l>ke śīkarā lavalayāvalitā lasadbhiḥ||48||</l>
+<l>dantīndradānapayasaḥ pava<lb n="11"/>nais taṭe sya</l>
+<l>keśī karālavalayāvalitā lasadbhiḥ||48||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_49">
 <l>vyāptavato sya <lb n="12"/>dīrghavikaṭair maṇiśikharaśatai-</l>
@@ -1765,11 +1765,11 @@ sargaḥ ||</p>
 <lg type="verse" xml:id="HV_05_51">
 <l>nirdhūtadīrghataravāladhicāmaraugha-</l>
 <l>lakṣmībhṛto nukṛtarājagṛhās salī<lb n="17"/>lam|</l>
-<l>krīḍanti nirjharajalais sakareṇavo tra</l>
+<l>krīḍanti nirjharajalais sakareṇa vo tra</l>
 <l>nāgā nage sakaladhautakarā<lb n="18"/>lakumbhāḥ||51||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_52">
-<l>bhramaṇākulās sphuradadabhramaṇāviha tā nabhoyuvatayo vi<lb n="19"/>hatāḥ|</l>
+<l>bhramaṇākulās sphuradadabhramaṇāv iha tā nabho yuvatayo vi<lb n="19"/>hatāḥ|</l>
 <l>na lasanti samprati mahānalasaṃ sakalāḫ priyair lalitahāsakalāḥ||<lb n="20"/>52||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_53">
@@ -1780,7 +1780,7 @@ sargaḥ ||</p>
 <l>nṛtyan girā suravadhūjana eti tṛptiṃ</l>
 <l>na grāmarāgamatayā savikāraha<lb n="23"/>staḥ|</l>
 <l>ślāghye calanti na janāś ca sajānayo smi-</l>
-<l>nagrāmarāgamatayāsavikā ra<lb n="24"/>hastaḥ||54||</l>
+<l>nagrāmarāgamatayā savikāra<lb n="24"/>hastaḥ||54||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_55">
 <l>etat paśyāmy ādripateś śṛṅgam uddhūḍhapremodrekaiẖ kiṃpuruṣais se<pb n="15b"/>vitamārāt|</l>
@@ -1791,8 +1791,8 @@ sargaḥ ||</p>
 <l>sphuran maṇivibhā vibhāti sakalākalāpirahitā hitāsya ca taṭī||56||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_57">
-<l><lb n="4"/>bibhrāṇam ardhavinimīlitatārakatva-</l>
-<l>m utsāritātanutamas sphuṭadṛṣṭatattvam|</l>
+<l><lb n="4"/>bibhrāṇam ardhavinimīlitatārakatvam</l>
+<l>utsāritātanutamas sphuṭadṛṣṭatattvam|</l>
 <l><lb n="5"/>asya prabhātam iva saṃyamaśāli paśya</l>
 <l>sānūrudhāma munimaṇḍalam etad adreḥ||<lb n="6"/>57||</l>
 </lg>
