@@ -62,7 +62,7 @@
 <p>tṛtīyaḥ sargaḥ |</p>
 <lg type="verse" xml:id="HV_03_1">
 <l>atha sa manthagirau sakalartubhir nijanijaprasavojjvalayā śriyā |</l>
-<l>samam asevi kadācid upāśrito girijayārijayānaghadordvamaḥ || 1 ||</l>
+<l>samam asevi kadācid upāśrito girijayārijayānaghadordrumaḥ || 1 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
 <l><hi rend="superscript">1</hi>madhuparājiparājitamāninījanamanaḥsumanaḥsurabhiśriyam |</l>
