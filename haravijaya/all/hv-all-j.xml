@@ -5952,13 +5952,13 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 </lg>
 <lg type="verse" xml:id="HV_13_35">
 <l>ketuṃ yaśāṃsi samarāpa<space type="binding-hole"/>ṇiṣu pragalbham</l>
-<l>iṃduprabhādhavala<!--XXX arrows, see HV_13_48 XXX--><!--bhāṃsi kṛtaspṛhāṇām|</l>
-<l>ceto dunoti bhavatāmanutāpahetuḥ</l>
-<l>kasmātpareṇa kṛta eṣa na mānabhaṅgaḥ||35||</l>-->
+<l>iṃduprabhādhavala<!--XXX arrows, see HV_13_48 XXX--><add place="l.7"><note>3X</note>bhāṃsi kṛtaspṛhāṇāt|</add></l>
+<l><add place="l.7">ceto dunoti bhava<g rend="deleted daṇḍa">¦</g><space type="binding hole"/>tām anutāpahetuḥ</add></l>
+<l><add place="l.7">kasmāt pareṇa kuta eṣa na mānabhaṃgaḥ||</add></l>
 </lg>
 <lg type="verse" xml:id="HV_13_36">
-<!--<l>saṃhārakālaśikhitīvrataro 'pi manyu-</l>-->
-<l><!--ruttaṃsalūniphala--> eva sa eṣa jātaḥ|</l>
+<l><add place="l.7">saṃhārakālaśikhitīvrataro 'pi manyu</add></l>
+<l><add place="l.7">ruttaṃsalūniphala<note>X3</note></add> eva sa eṣa jātaḥ|</l>
 <l>cchinnā itīva bhavataḥ kiraṇacchaṭābhir</l>
 <l>ete hasaṃti maṇikuṭṭimasīmni hārāḥ||</l>
 </lg>
@@ -5968,11 +5968,13 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 <l>śvāsānilā malinayaṃti na bāhudaṃḍa-</l>
 <l>darppaśriyo lalitavibhramadarppaṇaṃ vaḥ||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_39">
+<lg type="verse" xml:id="HV_13_38">
 <l>sauryaśriyā nahi haridviṣi saṃyugeṣu</l>
 <l>pāraṃ gatāḥ stha ca dhiyā nayamārgasiṃ<g rend="deleted daṇḍa">¦</g><lb n="4"/>dhoḥ|</l>
 <l>cchinnaṃ kim atra bhavatāṃ yadalīkasaurya-</l>
 <l>śauṭīyaśātravanikāradaśāṃ sahadhve|</l>
+</lg>
+<lg type="verse" xml:id="HV_13_39">
 <l>unmūlitakṣitibhṛtāṃ sahasā sahelaṃ</l>
 <l>suskaṃdhatāṃ ca dadhatām apareritānāṃ|</l>
 <l>vistīrṇṇam aṃbaram iva pralayā<space type="binding-hole"/>nilānāṃ</l>
@@ -6020,11 +6022,13 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 <l>maṃdākinī prathitapuṇyaguṇāṃ<space type="binding-hole"/> vihāya</l>
 <l>ratnākaraṃ ka iva pūrayituṃ kṣamo 'nyaḥ||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_48">
+<lg type="verse" xml:id="HV_13_47">
 <l>saṃpaśyatottaram ihāsumatāṃ visāri-</l>
 <l>satvaṃ balād adhikam ity api me vitarkkaḥ|</l>
 <l>siṃho nipātayati caṃḍacapeṭayaiva</l>
-<l>pṛṣṭe<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>na nudvahati kuṃjaram aṣṭapādaḥ||
+<l>pṛṣṭe<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>na nudvahati kuṃjaram aṣṭapādaḥ||</l>
+</lg>
+<lg type="verse" xml:id="HV_13_48">
 <l>gaṃbhīraśabditaravaśravaṇotthabhīti</l>
 <l>na syatturaṃgakakulasya karālamūrtteḥ|</l>
 <l>lābho 'sti kaḥ kaṭhinakuṃjaracakravāla-</l>
@@ -6235,16 +6239,17 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 <l>abhyāpatatsubhaṭamanmathakṛṣyamāṇa-</l>
 <l>kodaṇḍanirgataśarāśaniluptadhairyam||81||</l>
 </lg>
-<lg type="verse" xml:id="HV_13_83">
+<lg type="verse" xml:id="HV_13_82">
 <l>saṅgrāmavāsagṛhamucchritadantidanta-</l>
 <l>paryaṅkamutpulakamaṇḍalagaṇḍabhittiḥ|</l>
 <l>āliṅganātirabhasena jayaśriyo 'ya-</l>
 <l>madyaiva tāvadadhitiṣṭhatu rājalokaḥ||82|| (kalāpakam)</l>
+</lg>
+<lg type="verse" xml:id="HV_13_83">
 <l>adyāvaskandalīlācalitabalaparisyandakharvīkṛtorvī-</l>
 <l>saṃrambhottambhanāsthonnamitabharanamatkaṃdharāsaṃdhirāstām|</l>
 <pb n="190" />
-<l>śeṣo 'pi</l>
-<l>sphāraphullatsphuṭaṣṭathulaphaṇātphūtkṛtāgnisphuliṅga-</l>
+<l>śeṣo 'pi sphāraphullatsphuṭaṣṭathulaphaṇātphūtkṛtāgnisphuliṅga-</l>
 <l>sphūrjatsaṃdohasaṃdehitavikaṭaśikhāmaṇḍalīratnaṣaṇḍaḥ||83||</l>
 </lg>
 <p>
