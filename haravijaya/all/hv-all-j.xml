@@ -5952,13 +5952,13 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 </lg>
 <lg type="verse" xml:id="HV_13_35">
 <l>ketuṃ yaśāṃsi samarāpa<space type="binding-hole"/>ṇiṣu pragalbham</l>
-<l>iṃduprabhādhavala<!--XXX arrows, see HV_13_48 XXX--><add place="l.7"><note>3X</note>bhāṃsi kṛtaspṛhāṇāt|</add></l>
-<l><add place="l.7">ceto dunoti bhava<g rend="deleted daṇḍa">¦</g><space type="binding hole"/>tām anutāpahetuḥ</add></l>
-<l><add place="l.7">kasmāt pareṇa kuta eṣa na mānabhaṃgaḥ||</add></l>
+<l>iṃduprabhādhavala<!--XXX arrows, see HV_13_48 XXX--><add n="l.7a"><note place="inline">3 X</note>bhāṃsi kṛtaspṛhāṇāt|</add></l>
+<l><add n="l.7b">ceto dunoti bhava<g rend="deleted daṇḍa">¦</g><space type="binding hole"/>tām anutāpahetuḥ</add></l>
+<l><add n="l.7c">kasmāt pareṇa kuta eṣa na mānabhaṃgaḥ||</add></l>
 </lg>
 <lg type="verse" xml:id="HV_13_36">
-<l><add place="l.7">saṃhārakālaśikhitīvrataro 'pi manyu</add></l>
-<l><add place="l.7">ruttaṃsalūniphala<note>X3</note></add> eva sa eṣa jātaḥ|</l>
+<l><add n="l.7d">saṃhārakālaśikhitīvrataro 'pi manyu</add></l>
+<l><add n="l.7e">ruttaṃsalūniphala<note place="inline">X 3 ꣹</note></add> eva sa eṣa jātaḥ|</l>
 <l>cchinnā itīva bhavataḥ kiraṇacchaṭābhir</l>
 <l>ete hasaṃti maṇikuṭṭimasīmni hārāḥ||</l>
 </lg>
@@ -6032,7 +6032,7 @@ haravijaye mahākāvye aṭṭahāsavisphūrjitaṃ nāma dvādaśasarggaḥ||
 <l>gaṃbhīraśabditaravaśravaṇotthabhīti</l>
 <l>na syatturaṃgakakulasya karālamūrtteḥ|</l>
 <l>lābho 'sti kaḥ kaṭhinakuṃjaracakravāla-</l>
-<l>kuṃbhasthalīvidalanād aparo <lb n="7"/><!--XXX<add>3 X bhāṃsi kṛtaspṛhāṇāt| ceto dunoti bhava<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>tām anutāpahetuḥ kasmāt pareṇa kuta eṣa na mānabhaṃgaḥ|| saṃhārakālaśikhitīvrabharo 'pi manyu uttaṃsalūniphala X 3 ꣹</add>XXX-->mṛgāreḥ|</l>
+<l>kuṃbhasthalīvidalanād aparo <lb n="7"/><ptr corresp="#l.7a #l.7b #l.7c #l.7d #l.7e"/>mṛgāreḥ|</l>
 </lg>
 <lg type="verse" xml:id="HV_13_49">
 <l>śabdāṃtarāṇi khalu saṃti pṛtha<space type="binding-hole"/>gvidhāni</l>

@@ -359,9 +359,9 @@ trayodaśaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_13_48">
 <l>gambhīragarjitaravaśravaṇotthabhīti-</l>
-<l>naśyatkuraṅgakakulasya kaālamūrteḥ</l>
+<l>naśyatkuraṅgakakulasya karālamūrteḥ</l>
 <l>lābho 'sti kaḥ kaṭhinakuñjaracakravāla-</l>
-<l>kumbhasthalīvidalanādaparo mṛgāreḥ||48||</l>
+<l>kumbhasthalīvidalanād aparo mṛgāreḥ||48||</l>
 </lg>
 <lg type="verse" xml:id="HV_13_49">
 <l>śabdāntarāṇi khalu sānta pṛthagvidhāni</l>

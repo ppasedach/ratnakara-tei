@@ -284,7 +284,7 @@ caturthaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_04_35">
 <l>līlāvilolakalakaṇṭhavihaṃgakeli-</l>
-<l>kolāhalākulakulāyakulamalāṅke|</l>
+<l>kolāhalākulakulāyakulāmalāṅke|</l>
 <l>kakkolakandakadalīlavalīlavaṅga-</l>
 <l>mālālalāmajalamañjulakūlakacche||35|| </l>
 </lg>
