@@ -33,7 +33,11 @@ a<space type="binding-hole"/>
 ?<lb n="\zsvt"yf/i n="pf/i"/<lb
 "n add numbering to lbs, staying at the same point
 ?<lb n="\zsvt"yf/i n="pf/i"
+"n add numbering to ps in the commentary.
+?<p xml:id="HVVU_\d\d_\zsvt"yf>i xml:id="HVVU_05_pf>i"/<p
 
+"n add numbering to ps
+?<lg type="verse" xml:id="HV_\d\d_\zsvt"yf>i xml:id="HV_04_pf>ip"/<p>
 
 "i 
 ?xml:id="\zsvt"y0f>i xml:id="pap"
