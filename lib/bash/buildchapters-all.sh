@@ -5,7 +5,7 @@
 # copy of the text that we'll actually be working from.
 
 #mss=(stein-189 k)
-mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p)
+mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay sn-757 p)
 
 #ms="stein-189"
 #text="hvvu"
@@ -97,6 +97,13 @@ case $ms in
     echo "I just did Bombay."
     ;;
 
+  sn-757)
+    cantos=(01 02 04 05)
+    specialcantos=(03)
+    text="hv"
+    echo "I just did SN-757."
+    ;;
+
   p)
     cantos=(01 02 03 06 47)
     text="hv"
@@ -109,17 +116,34 @@ case $ms in
 esac
 }
 
-function build-chapters {
-for i in ${cantos[*]}
-do
-cd ../$i 
+
+function build-beginning {
 echo "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">"  > $text-$i-$ms.txt
 xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:teiHeader" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt
 echo  >> $text-$i-$ms.txt
 echo "  <text xml:lang=\"sa-Latn\">" >> $text-$i-$ms.txt
 echo "    <body>" >> $text-$i-$ms.txt
+}
+
+function build-chapters {
+for i in ${cantos[*]}
+do
+cd ../$i 
+build-beginning
 #cat ../templates/template-beginning-$ms.xml > $text-$i-$ms.txt
 xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:div[@n=\"$i\"]" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt
+cat ../templates/template-end.xml >> $text-$i-$ms.txt
+done
+}
+
+function build-special-chapters {
+for i in ${specialcantos[*]}
+do
+cd ../$i 
+build-beginning
+xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:div[@n=\"${i}a\"]" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt
+echo  >> $text-$i-$ms.txt
+xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:div[@n=\"${i}b\"]" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt
 cat ../templates/template-end.xml >> $text-$i-$ms.txt
 done
 }
@@ -128,5 +152,6 @@ for ms in ${mss[*]}
 do
 setvariables
 build-chapters
+build-special-chapters
 done
 
