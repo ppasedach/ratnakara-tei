@@ -2,13 +2,13 @@
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>[Etext Acharya]</title>
+        <title>Haravijaya</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <placeName>
-              <settlement></settlement>
+              <settlement>Srinagar</settlement>
               <region></region>
               <country></country>
             </placeName>
@@ -17,7 +17,7 @@
             <collection></collection>
             <idno></idno>
             <idno type="NCC"></idno>
-            <idno type="siglum">K</idno>
+            <idno type="siglum">SN 757</idno>
           </msIdentifier>
           <msContents>
             <summary>[description of manuscript]</summary>
@@ -51,7 +51,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2020-05-19">
+      <change when="2021-12-15">
         <persName>Peter Pasedach</persName>
       </change>
     </revisionDesc>
