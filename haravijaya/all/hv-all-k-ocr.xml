@@ -1400,56 +1400,73 @@ haravijayam |
 <pb n="54"/>
   yān kāmuko 'pi | upakaṇṭhaṃ samīpaṃ kaṇṭhasya ca samīpam || 9 ||
 </p>
-<!--hier weiter-->
 <!--
 
 Page 60****************************************************************************************
 kāvyamālā|
 -->
+<pb n="54"/>
 <lg type="verse" xml:id="HV_05_010">
-<l>atra snigdhaṃ naladavidalanaprāptābhikhye'tibalaphalavati |</l>
-<l>akṣaṇāṃ cakre navanalinavanacchāyāṃ dhatte vibhuramarabhuvi || 10 ||</l>
+<l>atra snigdhaṃ naladavidalanaprāptābhikhye 'tibalaphalavati |</l>
+<l>akṣṇāṃ cakre navanalinavanacchāyāṃ dhatte vibhuramarabhuvi || 10 ||</l>
 </lg>
 <p xml:id="HV_05_010p">(samapratilomānulomārdhapādaḥ)</p>
 <lg type="verse" xml:id="HV_05_011">
 <l>iha vibudhagajasya karṇatālaskhalanasamīravidhūtakumbhadhātoḥ |</l>
-<l>vahati madanadī parāgaraktā ratagṛhabhittiriva śriyaṃ parāām || 11 ||</l>
+<l>vahati madanadī parāgaraktā ratagṛhabhittir iva śriyaṃ parārdhyām || 11 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_012">
-<l>abhyetya kānanamidaṃ harati dvirephaḥ</l>
+<l>abhyetya kānanam idaṃ harati dvirephaḥ</l>
 <l>sajjātapakṣatitayānatamāṃsi cetaḥ |</l>
 <l>śakto nikuñjagahaneṣvamihatumarkaḥ ||</l>
 <l>sajjātapakṣatitayā na tamāṃsi cetaḥ || 12 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_013">
-<l>sphuritāhirājakaṭakaṃ vikaṭasphuṭakuñjarājinamamuṃ rabhasāt |</l>
-<l>abhivīkṣya ko na ramate'bhimataṃ jagatāṃ bhavantamiva śailapatim || 13 ||</l>
+<l>sphuritāhirājakaṭakaṃ vikaṭasphuṭakuñjarājinam amuṃ rabhasāt |</l>
+<l>abhivīkṣya ko na ramate 'bhimataṃ jagatāṃ bhavantam iva śailapatim || 13 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_014">
-<l>tālīlatālīlalitāvataṃsaḥ sārāvasārāvahitāṇḍajo'sau |</l>
+<l>tālīlatālīlalitāvataṃsaḥ sārāvasārāvahitāṇḍajo 'sau |</l>
 <l>mattālimattāli taṭaṃ bibharti sānūpasānūpahitopaśobhaḥ || 14 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_015">
 <l>gaṇḍopalaskhalanajarjaritācchavīci-</l>
-<l>cakrāṇi tāraravapūritadiśi dūrāt |</l>
-<l>asyaiṣa nirjharajalāni pibatyamanda|</l>
-<l>madhvaśramāta iva tigmakaraḥ karātraiḥ || 15 ||</l>
+<l>cakrāṇi tāraravapūritadiṃśi dūrāt |</l>
+<pb n="55"/>
+<l>asyaiṣa nirjharajalāni pibatyamanda-</l>
+<l>madhvaśramārta iva tigmakaraḥ karāgraiḥ || 15 ||</l>
 </lg>
-
-<p xml:id="HVVU_05_010">naladasya gandhamāṃsyā
-<lb/>vidalanamudbhadaḥ | 'atibalaphalavati' iti nirdoṣa eṣa pāṭhaḥ | atibalāni mahāprabhā-
-<lb/>vāṇi phalāni santi yasmin | amarabhuvi svarge vibhurindraḥ || 10 || </p><p xml:id="HVVU_05_011">karṇāveva tālau
-<lb/>vyajane | praśaṃsāoṃ vātra tālaśabdaḥ | dhāturatra sindūram | madanadī dānajalakalyā|
-<lb/>parāgo rajaḥ saindūram | madanadīpaśca suratapradīpastasya rāgaḥ prabhā || 11 || </p><p xml:id="HVVU_05_012">satī jātā
-<lb/>pakṣatiryasya tadbhāvena bhramaro vanamidaṃ anatamāṃsi dīrghasallakīkaṃ prāpya cetaḥ samāvarja-
-<lb/>yati | itaśca latāmaṇḍapābhyantareṣu raviḥ sajjā saṃnihitā ātapakṣatiryasya tadbhāvena
-<lb/>tamāṃsi nirasituṃ na samarthaḥ | pakṣāṇāṃ mūlaṃ pakṣatiḥ | māṃsiśabdaḥ kṛtahasvakārā- |
-<lb/>nto'tra || 12 || </p><p xml:id="HVVU_05_013">sphuritāhirājaḥ kaṭako nitamba yasya | ahirājā eva kaṭakā va-
-<lb/>layāni | kuñjarājinaṃ kujaiojanaśīlam | kuarasya ca gajakhyājinaṃ kṛttiḥ || 13 ||</p>
-<lb/><p xml:id="HVVU_05_014">tālīlatānāṃ pataya evāvataṃso yasya | sārāvā mukharāḥ sāre ca gato svāduni bisādī
-<lb/>vā avahitāḥ pakṣiṇo yatra | mattā alina: santi yatra | tālāśca taravaḥ santi ya-
-<lb/>smin | sānūpaiḥ kṣetrabhūmisahitaiḥ sānubhirutpāditaśobhaḥ || 14 || </p><p xml:id="HVVU_05_015">karāḥ pāṇayo'pi
-<lb/>|| 15||</p> <note>1| ādarśapustake'pi sadoṣapāṭho nopalabdhaḥ|</note>
+<p xml:id="HVVU_05_010">
+  naladasya gandhamāṃsyā
+<lb n="2"/>vidalanam udbhedaḥ | ‘atibalaphalavati’ iti ni<!--XXX<metamark function="reference" place="above">1</metamark><note place="footer" type="exegesis">1. ādarśapustake 'pi sadoṣapāṭho nopalabdhaḥ.</note>XXX-->rdoṣa eṣa pāṭhaḥ | atibalāni mahāprabhā-
+<lb n="3"/>vāṇi phalāni santi yasmin | amarabhuvi svarge vibhur indraḥ || 10 ||
+</p>
+<p xml:id="HVVU_05_011">
+  karṇāv eva tālau
+<lb n="4"/>vyajane | praśaṃsārtho vātra tālaśabdaḥ | dhātur atra sindūram | madanadī dānajalakulyā|
+<lb n="5"/>parāgo rajaḥ saindūram | madanadīpaś ca suratapradīpas tasya rāgaḥ prabhā || 11 ||
+</p>
+<p xml:id="HVVU_05_012">
+  satī jātā
+<lb n="6"/>pakṣatir yasya tadbhāvena bhramaro vanam idaṃ anatamāṃsi dīrghasallakīkaṃ prāpya cetaḥ samāvarja-
+<lb n="7"/>yati | itaś ca latāmaṇḍapābhyantareṣu raviḥ sajjā saṃnihitā ātapakṣatir yasya tadbhāvena
+<lb n="8"/>tamāṃsi nirasituṃ na samarthaḥ | pakṣāṇāṃ mūlaṃ pakṣatiḥ | māṃsiśabdaḥ kṛtahrasvekārā-
+<lb n="9"/>nto 'tra || 12 ||
+</p>
+<p xml:id="HVVU_05_013">
+  sphuritāhirājaḥ kaṭako nitambaṃ yasya | ahirājā eva kaṭakā va-
+<lb n="10"/>layāni | kuñjarājinaṃ kuñjair bhrājanaśīlam | kuñjarasya ca gajasyājinaṃ kṛttiḥ || 13 ||
+</p>
+<p xml:id="HVVU_05_014">
+<lb n="11"/>tālīlatānāṃ paṅktaya evāvataṃso yasya | sārāvā mukharāḥ sāre ca gatau svāduni bisādau
+<lb n="12"/>vā avahitāḥ pakṣiṇo yatra | mattā alinaḥ santi yatra | tālāś ca taravaḥ santi ya-
+<lb n="13"/>smin | sānūpaiḥ kṣetrabhūmisahitaiḥ sānubhir utpāditaśobhaḥ || 14 ||
+</p>
+<p xml:id="HVVU_05_015">
+  karāḥ pāṇayo 'pi
+<pb n="55"/>
+  || 15||
+</p>
 <!--
 
 Page 61****************************************************************************************
@@ -1457,134 +1474,182 @@ Page 61*************************************************************************
 haravijayam|
 -->
 <lg type="verse" xml:id="HV_05_016">
-<l>viṭapitatiramuṣya nānāphalairatiśayanamitāsakṛcchrīmataḥ |</l>
-<l>iha ramayati yaṃ na sīmantinī ratiśayanamitā sa kṛcchrī mataḥ ||16||</l>
+<l>viṭapitatir amuṣya nānāphalair atiśayanamitāsakṛcchrīmataḥ |</l>
+<l>iha ramayati yaṃ na sīmantinī ratiśayanamitā sa kṛcchrī mataḥ || 16 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_017">
 <l>saviśeṣakāntamalikālasacchavi sphuṭapāṭalādharamudāradarśanam |</l>
-<l>taṭavartma cārucibukopaśobhitaṃ śriyametyamutra vadanaṃ ca subhravaḥ || 17 ||</l>
+<l>taṭavartma cārucibukopaśobhitaṃ śriyametyamutra vadanaṃ ca subhruvaḥ || 17 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_018">
 <l>prītiṃ na kasya kurute kaṭake vinidra-</l>
 <l>tāpiñchamecakatamānaghanāgatārāt |</l>
 <l>dhyānāvanirdayitatāṃ śucitāmarāti-</l>
-<l>tāpicchame ca katamā na ghanā gatārāt || 18 ||</l>
+<l>tāpiñcchame ca katamā na ghanā gatārāt || 18 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_019">
-<l>abhimatajanasaṃgame'ṅganānāmanukatakomalasīripāṇipadmāḥ |</l>
-<l>iha manasijavibhramā vibhānti sphuṭataralāṅgalatābhirāmarūpāḥ || 19||</l>
+<l>abhimatajanasaṃgame 'ṅganānāmanukṛtakomalasīripāṇipadmāḥ |</l>
+<l>iha manasijavibhramā vibhānti sphuṭataralāṅgalatābhirāmarūpāḥ || 19 ||</l>
 </lg>
-<p xml:id="HVVU_05_016">śrīmato'sya gireviṭapināṃ patiḥ phalairatiśayena namitā | asakṛddhahuśaḥ |
-<lb/>iha ca ratiśayanaṃ surataśayyāmitā prāptā yuvatiya janaṃ na ramayati sa kṛcchrī duḥkhavā-
-<lb/>nmataḥ || 16 || </p><p xml:id="HVVU_05_017">saviśeṣa kāntamatiruciram | alibhiḥ kālī satī chaviryasya |
-<lb/>pāṭalā puṣpabhedastaṃ dhārayati yat | udāradarśanamuttamairavalokanīyam | ārucibhiḥ sa-
-<lb/>vato bhāsurairbukaiḥ puṣpabhedairupaśobhitam | vadanaṃ tu-saviśeṣakaḥ satilako'nta ekadeśo
-<lb/>yasya tat | praśasto vā viśeṣako viśeṣakāntaḥ | antaśabdo'tra praśaṃsāvacanaḥ |
-<lb/>yathā-'dhūpena saṃtyājitamābhāvaṃ keśāntamantaḥkusumaṃ tadīyam |' iti| alike lalāṭe
-<lb/>ā samantālasantī chaviryasya | sphuṭapāṭalo'tilohito'dharo yasya | udāre darśane nayane
-<lb/>| yasya | cāruṇā ca cibukenādharasyādhobhāgenopaśobhitam || 17 || </p><p xml:id="HVVU_05_018">tāpiñchaṃ tamālaṃ
-<lb/>tadvanmecakatamā atiśyāmā anaghāścākhaṇḍitā nāgāḥ kariṇo yasya tadbhāvo'sya kasya
-<lb/>|| na prītimutpādayati | ārādūrāt | samādhibhūmiśca ghanā śuddha ca gatā katamā na śama
-<lb/>- nimittaṃ dayitatāmarāt | sarvaiva priyatāṃ dadau | arātitāpinniti bhagavantaṃ saṃbodhayati |
-<lb/>atra nakārasya śakāre parataḥ 'śituk' iti tuk | 'śaracho'ṭi' iti śakārasya cha-
-<lb/>kāraḥ | 'stoścanā ścuḥ' iti takārasya cakāraḥ | nakārasyānusvāraparasavarṇau | yadyeva-
-<lb/>|||| miha cakārasyābhyadhikasya śravaṇāttulyaśrutitvamuparuddha miti yamakatā na prāpnoti | saṃ-
-<lb/>||| yogāntalopāścātra na saṃbhavati | tadvidhau cakārasyāsiddhatvāt | satyametat | kiṃtu
-<lb/>vyañjanātparaścakāraśchakārasaṃnidhau tacchāyāchurita evopalabhyamānaḥ parabhāgaṃ nāyātīti
-<lb/>tulyāyāmakṣaraśrutau yamakavyavahṛtiratrāpyucitaiveti nāsti doṣaḥ || 18|| </p><p xml:id="HVVU_05_019">sīrī hala-
-<lb/>dharaḥ | sphuṭā taralā cāṅgalatā gātrayaṣṭistatra | sphuṭataraṃ lāgalaṃ halaṃ yasya tadbhāvena
-<lb/>ca sundaraḥ || 19 || </p><!--
+<p xml:id="HVVU_05_016">
+  śrīmato 'sya girer viṭapināṃ paṅktiḥ phalair atiśayena namitā | asakṛdbahuśaḥ |
+<lb n="2"/>iha ca ratiśayanaṃ surataśayyāmitā prāptā yuvatir yaṃ janaṃ na ramayati sa kṛcchrī duḥkhavā-
+<lb n="3"/>nmataḥ || 16 ||
+</p>
+<p xml:id="HVVU_05_017">
+  saviśeṣaṃ kāntamatiruciram | alibhiḥ kālī satī chavir yasya |
+<lb n="4"/>pāṭalā puṣpabhedas taṃ dhārayati yat | udāradarśanam uttamair avalokanīyam | ārucibhiḥ sa-
+<lb n="5"/>rvato bhāsurair bukaiḥ puṣpabhedair upaśobhitam | vadanaṃ tu-saviśeṣakaḥ satilako 'nta ekadeśo
+<lb n="6"/>yasya tat | praśasto vā viśeṣako viśeṣakāntaḥ | antaśabdo 'tra praśaṃsāvacanaḥ |
+<lb n="7"/>yathā-‘dhūpena saṃtyājitamārdrabhāvaṃ keśāntamantaḥkusumaṃ tadīyam |’ iti| alike lalāṭe
+<lb n="8"/>ā samantāl lasantī chavir yasya | sphuṭapāṭalo 'tilohito 'dharo yasya | udāre darśane nayane
+<lb n="9"/>yasya | cāruṇā ca cibukenādharasyādhobhāgenopaśobhitam || 17 ||
+</p>
+<p xml:id="HVVU_05_018">
+  tāpiñchaṃ tamālaṃ
+<lb n="10"/>tadvanmecakatamā atiśyāmā anaghāś cākhaṇḍitā nāgāḥ kariṇo yasya tadbhāvo 'sya kasya
+<lb n="11"/>na prītim utpādayati | ārād dūrāt | samādhibhūmiś ca ghanā śuddhiṃ ca gatā katamā na śama-
+<lb n="12"/>nimittaṃ dayitatāmarāt | sarvaiva priyatāṃ dadau | arātitāpinn iti bhagavantaṃ saṃbodhayati |
+<lb n="13"/>atra nakārasya śakāre parataḥ ‘śituk’ iti tuk | ‘śaścho 'ṭi’ iti śakārasya cha-
+<lb n="14"/>kāraḥ | ‘stoścunā ścuḥ’ iti takārasya cakāraḥ | nakārasyānusvāraparasavarṇau | yady eva-
+<lb n="15"/>m iha cakārasyābhyadhikasya śravaṇāt tulyaśrutitvam uparuddham iti yamakatā na prāpnoti | saṃ-
+<lb n="16"/>yogāntalopāś cātra na saṃbhavati | tadvidhau cakārasyāsiddhatvāt | satyam etat | kiṃ tu
+<lb n="17"/>vyañjanāt paraś cakāraś chakārasaṃnidhau tacchāyāchurita evopalabhyamānaḥ parabhāgaṃ nāyātīti
+<lb n="18"/>tulyāyām akṣaraśrutau yamakavyavahṛtir atrāpy ucitaiveti nāsti doṣaḥ || 18 ||
+</p>
+<p xml:id="HVVU_05_019">
+  sīrī hala-
+<pb n="56"/>
+  dharaḥ | sphuṭā taralā cāṅgalatā gātrayaṣṭis tatra | sphuṭataraṃ lāṅgalaṃ halaṃ yasya tadbhāvena
+<lb n="2"/>ca sundaraḥ || 19 ||
+</p>
+<!--
 
 Page 62****************************************************************************************
 kāvyamālā|
 -->
+<pb n="56"/>
 <lg type="verse" xml:id="HV_05_020">
-<l>paśya nātha surasadmasaṃpadāṃ kuṃ jarājitamamuṃ japāvanaiḥ |</l>
-<l>śailarājamabhito na saṃkulaṃ kuñjarājitamamuñjapāvanaiḥ || 20 ||</l>
+<l>paśya nātha surasadmasaṃpadāṃ kuṃ jarājitam amuṃ japāvanaiḥ |</l>
+<l>śailarājam abhito na saṃkulaṃ kuñjarājitamamuñjapāvanaiḥ || 20 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_021">
 <l>kṣiptaḥ priyāpahṛtapīnanitambabimba-</l>
 <l>vāsoṅganākaratalena virugṇanālaḥ |</l>
 <l>ratnapradīpa iva nīlasarojakarṇa-</l>
-<l>pūro'tra bhāti madhukannavacampakāgre || 21 ||</l>
+<l>pūro 'tra bhāti madhukṛnnavacampakāgre || 21 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_022">
 <l>utkayantī śriyā mānasāraṃ janaṃ kurvatī rāgiṇāṃ mānasārañjanam |</l>
-<l>atra rautyunmukhī he matā līlayā saṃhatiḥ patriṇāṃ hematālīlayā ||22||</l>
+<l>atra rautyunmukhī he matā līlayā saṃhatiḥ pattriṇāṃ hematālīlayā ||22||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_023">
 <l>stananābhimukhaśriyaṃ dadhatyaḥ satataṃ sajjaghanāvalambiśampāḥ|</l>
 <l>avadhūtaniśākaraprakāśā iha varṣā iva yoṣito vibhānti || 23 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_024">
-<l>bibhratyamūstaṭabhuvo maṇicakramuccai-</l>
-<l>ratrasnu tāstava kareṇukarālitābhyaḥ |</l>
-<l>vallībhya eva purato makarandaṣṭi-</l>
-<l>ratra snutā stabakareṇukarālitābhyaḥ || 24 ||</l>
+<l>bibhraty amūs taṭabhuvo maṇicakram uccai-</l>
+<l>r atrasnu tās tava kareṇukarālitābhyaḥ |</l>
+<l>vallībhya eva purato makaranvṛṣṭi-</l>
+<l>r atra snutā stabakareṇukarālitābhyaḥ || 24 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_025">
-<l>mā bhūtsatrāsatvamamīṣāmiti śaṅkāmaṅkasthānāṃ vatsalatāyā dadhadadriḥ |</l>
-<l>nānāratnābhīṣuvitānavyapadeśādrakṣāsūtrāṇīva diśatyeṣa maṇīnām || 25 ||</l>
+<l>mā bhūt satrāsatvam amīṣām iti śaṅkām aṅkasthānāṃ vatsalatāyā dadhadadriḥ |</l>
+<l>nānāratnābhīṣuvitānavyapadeśādrakṣāsūtrāṇīva diśaty eṣa maṇīnām || 25 ||</l>
 </lg>
-<p xml:id="HVVU_05_020">svargasaṃpadāṃ kuṃ avani, jarayā ajitaṃ satataikarūpaṃ amuṃ śaile-
-<lb/>ndramākalaya | muñjākhyaistuṇaiḥ pāvanāni na bhavanti yāni japāvanāni tairna saṃkulam |
-<lb/>āpi tu muñja pāvanaireva tairvyāptam | ata eva kuñjeṣu rājitam | japā kusumabhedaḥ || 20 ||</p>
-<lb/><p xml:id="HVVU_05_021">madhu karoti pibatīti madhukṛdbhamaraḥ || 21 || </p><p xml:id="HVVU_05_022">māna eva sāraḥ sarvasvaṃ yasya taṃ mana-
-<lb/>svinīnāṃ janamutkaṇṭhayantī vihagapatiratra vaṇati | ārañjanamāvarjanam | he ityabhimu-
-<lb/>khīkāre | līlayā hetunā matā abhipretā | hemamayīṣu ca tālīṣu layaḥ saṃśleṣo yasyāḥ |
-<lb/>|| 22 || </p><p xml:id="HVVU_05_023">stanayo bhermukhasya ca, stanane ca garjane abhimukhī śrīḥ śobhā | sati
-<lb/>jaghane, sajjeṣu ca saṃnaddheṣu ghaneṣvavalambinī śampā yāsām | śampā raśanā vidyucca ||23||</p>
-<lb/><p xml:id="HVVU_05_024">atrasnu bhedarahitaṃ maṇīnāṃ cakrametā vanabhuvo dhārayanti | tā iti pūrvānubhūtāḥ | tavaiva
-<lb/>ca purato'tra latābhyo madhuvṛṣṭiḥ snutā prasutā | kareṇūnāmibhānāṃ karairālitābhya upadru-
-<lb/>tābhya ākṛṣṭābhyo vā | stabakānāṃ ca reṇunā karālitābhyo bhrājitābhyaḥ || 24 ||</p>
-<lb/><p xml:id="HVVU_05_025">trāso bhaṅgaḥ bhūtādibhyo bhayaṃ ca | aṅkasthāḥ samīpavartino bālāśca ye notsaṅgamujjhanti|
-<lb/>vatsalatāyā iti hetau 'vibhāṣā guṇe-' iti yogavibhāgātpaścamī | abhīṣuvitāno ra-
-<lb/>śmipuñjaḥ | vyapadeśo vyājaḥ || 25 ||</p> <!--
+<p xml:id="HVVU_05_020">
+  svargasaṃpadāṃ kuṃ avaniṃ, jarayā ajitaṃ satataikarūpaṃ amuṃ śaile-
+<lb n="3"/>ndram ākalaya | muñjākhyais tṛṇaiḥ pāvanāni na bhavanti yāni japāvanāni tair na saṃkulam |
+<lb n="4"/>api tu muñjapāvanair eva tair vyāptam | ata eva kuñjeṣu rājitam | japā kusumabhedaḥ || 20 ||
+</p>
+<p xml:id="HVVU_05_021">
+<lb n="5"/>madhu karoti pibatīti madhukṛdbhramaraḥ || 21 ||
+</p>
+<p xml:id="HVVU_05_022">
+  māna eva sāraḥ sarvasvaṃ yasya taṃ mana-
+<lb n="6"/>svinīnāṃ janam utkaṇṭhayantī vihagapaṅktir atra kvaṇati | ārañjanam āvarjanam | he ity abhimu-
+<lb n="7"/>khīkāre | līlayā hetunā matā abhipretā | hemamayīṣu ca tālīṣu layaḥ saṃśleṣo yasyāḥ |
+<lb n="8"/>|| 22 ||
+</p>
+<p xml:id="HVVU_05_023">
+  stanayor nābher mukhasya ca, stanane ca garjane abhimukhī śrīḥ śobhā | sati
+<lb n="9"/>jaghane, sajjeṣu ca saṃnaddheṣu ghaneṣv avalambinī śampā yāsām | śampā raśanā vidyuc ca ||23||
+</p>
+<p xml:id="HVVU_05_024">
+<lb n="10"/>atrasnu bhedarahitaṃ maṇīnāṃ cakrametā vanabhuvo dhārayanti | tā iti pūrvānubhūtāḥ | tavaiva
+<lb n="11"/>ca purato 'tra latābhyo madhuvṛṣṭiḥ snutā prasrutā | kareṇūnām ibhānāṃ karair ālitābhya upadru-
+<lb n="12"/>tābhya ākṛṣṭābhyo vā | stabakānāṃ ca reṇunā karālitābhyo bhrājitābhyaḥ || 24 ||
+</p>
+<p xml:id="HVVU_05_025">
+<lb n="13"/>trāso bhaṅgaḥ bhūtādibhyo bhayaṃ ca | aṅkasthāḥ samīpavartino bālāś ca ye notsaṅgam ujjhanti|
+<pb n="57"/>
+  vatsalatāyā iti hetau ‘vibhāṣā guṇe-’ iti yogavibhāgāt paścamī | abhīṣuvitāno ra-
+<lb n="2"/>śmipuñjaḥ | vyapadeśo vyājaḥ || 25 ||
+</p>
+<!--
 
 Page 63****************************************************************************************
 5 sargaḥ]
 haravijayam |
 -->
+<pb n="57"/>
 <lg type="verse" xml:id="HV_05_026">
-<l>vṛttiḥ sarojaina vinodakānāṃ śilīmukhaughasya vinodakānām |</l>
-<l>atrāśritānalpakuraṅganābhirdivaukasāṃ bhāti kuraṅganābhiḥ || 26 ||</l>
+<l>vṛttiḥ sarojair na vinodakānāṃ śilīmukhaughasya vinodakānām |</l>
+<l>atrāśritānalpakuraṅganābhir divaukasāṃ bhāti kuraṅganābhiḥ || 26 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_027">
-<l>asyāniśaṃ kaṭakabhūmiranargalakṣa-</l>
-<l>cakrākulasthitiradhaḥtatigmaraśmiḥ |</l>
+<l>asyāniśaṃ kaṭakabhūmir anargalarkṣa-</l>
+<l>cakrākulasthitir adhaḥkṛtatigmaraśmiḥ |</l>
 <l>ābaddhakelikilakiñcitakāminīkā</l>
-<l>dhatte'kṣapākaracitāṃ rajanīva lakṣmīm || 27 ||</l>
+<l>dhatte 'kṣapākaracitāṃ rajanīva lakṣmīm || 27 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_028">
-<l>vyādhaśreṇī nāgakumbhāgrabhaṅgasthāmāsaktā mugdhamuktāsamāsthā |</l>
-<l>ābhātyatra strīṣu cāṭuprapañce kālī vyaktārambharaktāvyalīkā ||28||</l>
+<l>vyādhaśreṇī nāgakumbhāgrabhaṅgasthām āsaktā mugdhamuktāsamāsthā |</l>
+<l>ābhāty atra strīṣu cāṭuprapañce kālī vyaktārambharaktāvyalīkā ||28||</l>
 </lg>
 <p xml:id="HV_05_028p">(pratilomavilomapādaḥ)</p>
 <lg type="verse" xml:id="HV_05_029">
-<l>iha caṭulatayā vilocanaudhaiḥ sphuṭaśititārakavibhramaistaruṇyaḥ |</l>
-<l>dadhati madhukaraiścakorakāntasthitiramaṇīyataraiḥ śriyaṃ nalinyaḥ || 29 ||</l>
+<l>iha caṭulatayā vilocanaughaiḥ sphuṭaśititārakavibhramais taruṇyaḥ |</l>
+<l>dadhati madhukaraiś cakorakāntasthitiramaṇīyataraiḥ śriyaṃ nalinyaḥ || 29 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_030">
 <l>dhatte viṣāṇagaṇameṇakulaṃ kṛtāstha-</l>
-<l>matrāsamānasamadabhramarālatābhiḥ |</l>
-<l>prāptā sthitiśca makarandabharasya nūna-</l>
-<l>matrāsamāna samadabhramarā latābhiḥ || 30 ||</l>
+<l>m atrāsamānasamadabhramarālatābhiḥ |</l>
+<l>prāptā sthitiś ca makarandabharasya nūna-</l>
+<l>m atrāsamāna samadabhramarā latābhiḥ || 30 ||</l>
 </lg>
-<p xml:id="HVVU_05_026">udakānāmatra kamalaivinā na vartanam | ata
-<lb/>evālivṛndasya vinodakānāmāvarjanaparāṇām | divaukasāmaṅganābhirapsarobhiḥ śritā ca
-<lb/>kuḥ pṛthivī bhrājate | kuraṅganābhiḥ kastūrikā || 26 || </p><p xml:id="HVVU_05_027">ṛkṣāḥ prāṇibhedā nakṣatrāṇi
-<lb/>ca | kilakiścitaṃ ceṣṭāviśeṣaḥ | uktaṃ ca-'śuṣka kṣaṇaṃ praruditaṃ kṣaṇamaśrupātaḥ krodho
-<lb/>muhurhasitamāśu punaśca gītam | vyāmiśrarūpamiha harṣavaśaprayuktamuktaṃ janaiḥ śrutadhanaiḥ
-<lb/>kilakiścitākhyam ||' iti | akṣā bibhītakāstatpākena racitām | kṣapākareṇa ca citāṃ
-<lb/>vyāptāṃ vihitāṃ vā || 27 || </p><p xml:id="HVVU_05_028">nāgānāṃ kumbhadalane sthāma balaṃ tadāsaktā śabarapatiratra
-<lb/>rājati | mugdhāsu svabhāvarucirāsu muktāsu asamā āsthā yasyāḥ | kālī kṛṣṇā |
-<lb/>strīviṣaye cāṭuprapañce vyaktārambhaṃ kṛtvā raktā prasaktā | avyalīkā gotraskhalitādyaparā-
-<lb/>dhaśūnyā || 28 || </p><p xml:id="HVVU_05_029">sphuṭā śitiśca śyāmā tārakā kanīnikā yeṣu tādṛśā vilāsā
-<lb/>yeṣām | madhukarāśca sphuṭaśitayaḥ | tāra eva tārakaścodbhaṭo vibhramo yeṣāṃ te tathoktāḥ |
-<lb/>cakorāḥ karāstadvatkāntā | pakṣāntare caḥ samuccaye | korakānto mukulaikadeśaḥ
-<lb/>|| 29 || </p><p xml:id="HVVU_05_030">arālatābhiḥ kauṭilyaiḥ kṛtasthitimatra śṛṅganikaraṃ kuraṅgayūthaṃ dhatte | atrāsa-
-<lb/>mānasaṃ nirbhayacittam | adabhraṃ prabhūtam | he asamāna lokottara | samadā bhramarā yatra
-<lb/>tādṛśī madhubharasthitiratra latābhiśca prāptā || 30 || </p><!--
+<p xml:id="HVVU_05_026">
+  udakānām atra kamalair vinā na vartanam | ata
+<lb n="3"/>evālivṛndasya vinodakānām āvarjanaparāṇām | divaukasām aṅganābhir apsarobhiḥ śritā ca
+<lb n="4"/>kuḥ pṛthivī bhrājate | kuraṅganābhiḥ kastūrikā || 26 ||
+</p>
+<p xml:id="HVVU_05_027">
+  ṛkṣāḥ prāṇibhedā nakṣatrāṇi
+<lb n="5"/>ca | kilakiñcitaṃ ceṣṭāviśeṣaḥ | uktaṃ ca-‘śuṣkaṃ kṣaṇaṃ praruditaṃ kṣaṇam aśrupātaḥ krodho
+<lb n="6"/>muhurhasitamāśu punaś ca gītam | vyāmiśrarūpam iha harṣavaśaprayuktam uktaṃ janaiḥ śrutadhanaiḥ
+<lb n="7"/>kilakiñcitākhyam ||’ iti | akṣā bibhītakās tatpākena racitām | kṣapākareṇa ca citāṃ
+<lb n="8"/>vyāptāṃ vihitāṃ vā || 27 ||
+</p>
+<p xml:id="HVVU_05_028">
+  nāgānāṃ kumbhadalane sthāma balaṃ tadāsaktā śabarapaṅktir atra
+<lb n="9"/>rājati | mugdhāsu svabhāvarucirāsu muktāsu asamā āsthā yasyāḥ | kālī kṛṣṇā |
+<lb n="10"/>strīviṣaye cāṭuprapañce vyaktārambhaṃ kṛtvā raktā prasaktā | avyalīkā gotraskhalitādyaparā-
+<lb n="11"/>dhaśūnyā || 28 ||
+</p>
+<p xml:id="HVVU_05_029">
+  sphuṭā śitiś ca śyāmā tārakā kanīnikā yeṣu tādṛśā vilāsā
+<lb n="12"/>yeṣām | madhukarāś ca sphuṭaśitayaḥ | tāra eva tārakaś codbhaṭo vibhramo yeṣāṃ te tathoktāḥ |
+<lb n="13"/>cakorāḥ karās tadvatkāntā | pakṣāntare caḥ samuccaye | korakānto mukulaikadeśaḥ
+<lb n="14"/>|| 29 ||
+</p>
+<p xml:id="HVVU_05_030">
+  a<!--XXX<note place="below">8</note>???XXX-->rālatābhiḥ kauṭilyaiḥ kṛtasthitim atra śṛṅganikaraṃ kuraṅgayūthaṃ dhatte | atrāsa-
+<pb n="58"/>
+  mānasaṃ nirbhayacittam | adabhraṃ prabhūtam | he asamāna lokottara | samadā bhramarā yatra
+<lb n="2"/>tādṛśī madhubharasthitir atra latābhiś ca prāptā || 30 ||
+</p>
+<!--hier weiter-->
+<!--
 
 Page 64****************************************************************************************
 58
