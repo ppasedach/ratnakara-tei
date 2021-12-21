@@ -1438,7 +1438,7 @@ kāvyamālā|
 </lg>
 <p xml:id="HVVU_05_010">
   naladasya gandhamāṃsyā
-<lb n="2"/>vidalanam udbhedaḥ | ‘atibalaphalavati’ iti ni<!--XXX<metamark function="reference" place="above">1</metamark><note place="footer" type="exegesis">1. ādarśapustake 'pi sadoṣapāṭho nopalabdhaḥ.</note>XXX-->rdoṣa eṣa pāṭhaḥ | atibalāni mahāprabhā-
+<lb n="2"/>vidalanam udbhedaḥ | ‘atibalaphalavati’ iti ni<anchor n="HV_05_10_n1"/><!--XXX<metamark function="reference" place="above">1</metamark><note place="footer" type="exegesis">1. ādarśapustake 'pi sadoṣapāṭho nopalabdhaḥ.</note>XXX-->rdoṣa eṣa pāṭhaḥ | atibalāni mahāprabhā-
 <lb n="3"/>vāṇi phalāni santi yasmin | amarabhuvi svarge vibhur indraḥ || 10 ||
 </p>
 <p xml:id="HVVU_05_011">
@@ -1467,6 +1467,11 @@ kāvyamālā|
 <pb n="55"/>
   || 15||
 </p>
+<ab type="apparatus" corresp="#HV_05_10">
+  <list type="notes">
+    <item corresp="#HV_05_10_n1">1. ādarśapustake 'pi sadoṣapāṭho nopalabdhaḥ.</item>
+  </list>
+</ab>
 <!--
 
 Page 61****************************************************************************************
