@@ -98,8 +98,8 @@ case $ms in
     ;;
 
   sn-757)
-    cantos=(01 02 04 05)
-    specialcantos=(03)
+    cantos=(01 02 06)
+    specialcantos=(03 04 05)
     text="hv"
     echo "I just did SN-757."
     ;;
