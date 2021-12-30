@@ -2113,7 +2113,7 @@ kāvyamālā|
   ābhayā atikarkeṇa atidhavalena śaśinā lāñchitayā lakṣitayā | asadṛkṣonanyasa-
 <lb n="2"/>dṛśaḥ || 66 ||
 </p>
-<!--hier weiter-->
+
 <!--
 
 Page 71****************************************************************************************
@@ -2123,47 +2123,66 @@ Page 71*************************************************************************
 -->
 <lg type="verse" xml:id="HV_05_067">
 <l>madavipāṭalakāntirasāvitaḥ kalakalākulitākhiladiṅmukhām |</l>
-<l>alitatiṃ yamunājalaveṇikāmiva rasādiha karṣati lāgalī || 67 ||</l>
+<l>alitatiṃ yamunājalaveṇikām iva rasād iha karṣati lāṅgalī || 67 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_068">
 <l>atra vibhāti jalagrahahetoḥ kāñcanavaprasaro namadabhre ||</l>
-<l>premṇi vadhūṃ ramayatyapi kāntaḥ kāṃ ca navaprasaronamadabhre || 68 ||</l>
+<l>premṇi vadhūṃ ramayaty api kāntaḥ kāṃ ca navaprasaronamadabhre || 68 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_069">
 <l>bimbāgatāmalarucigrahacakravāla-</l>
 <l>kalmāṣitasphuritanīlaśilānitambaḥ |</l>
-<l>ālakṣyapāṇḍurapṭaṣaṭkacamūrucarma-</l>
+<l>ālakṣyapāṇḍurapṛṣaṭ_kacamūrucarma-</l>
 <l>saṃvītamadhya iva naktamayaṃ vibhāti || 69 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_070">
-<l>asau ghanatatīna dīrghanamitā nadīrghanamitā jahāti nabhasaḥ|</l>
-<l>sthitirjalaruhāmahāsarasikā mahāsarasi kā vibhāvyata itaḥ || 70 ||</l>
+<l>asau ghanatatīrna dīrghanamitā nadīr ghanamitā jahāti nabhasaḥ|</l>
+<l>sthitir jalaruhāmahāsarasikā mahāsarasi kā vibhāvyata itaḥ || 70 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_071">
-<l>adṛṣṭapūrvā api khecaraugheralaṃkṛtāḥ kāñcanamekhalābhiḥ |</l>
-<l>dhatte'varodhapramadā ivāsāvadhiṣṭhitāḥ kañcukibhiguhorvīḥ || 71 ||</l>
+<l>adṛṣṭapūrvā api khecaraughair alaṃkṛtāḥ kāñcanamekhalābhiḥ |</l>
+<l>dhatte 'varodhapramadā ivāsāvadhiṣṭhitāḥ kañcukibhir guhorvīḥ || 71 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_072">
-<l>lakṣmīramuṣya sakalātiśayaṃ sureśa</l>
+<l>lakṣmīr amuṣya sakalātiśayaṃ sureśa</l>
 <l>sārā sasāra sarasāsurasaurasaṃsat |</l>
-<l>dhatte'bjinīṣu ca virājitamagravartī</l>
+<l>dhatte 'bjinīṣu ca virājitam agravartma</l>
 <l>sārāsasārasarasāsu rasaurasaṃ sat || 72 ||</l>
 </lg>
 
-<p xml:id="HVVU_05_067">mado vikāsaḥ kṣīvatā ca | veṇikā pravāhaḥ | raso makarandamapi |
-<lb/>lāṅgalī nāmauṣadhihaladharaśca || 67 || </p><p xml:id="HVVU_05_068">kāñcanavapre svarṇasānuni saro'tra bhrājate |
-<lb/>jalaṃ grahītuṃ namadabhre avatarajjalade | adabhre ca mahati premṇi sati dayitaḥ kāṃ vadhū
-<lb/>prasareṇonaṃ kṛtvā ramayati | na kāṃcit | pūrvavatpūrṇāmeva sarvā ramayatītyarthaḥ || 68 ||</p>
-<lb/><p xml:id="HVVU_05_069">bimbāgataṃ pratibimbitam | nīlā indranīlamaṇayaḥ | pṛṣaṭakāstilakākārā bindavaḥ |
-<lb/>• 'pṛṣaka' iti pāṭhe pṛṣacchabdo binduvacanaḥ | 'kap ca samāsāntaḥ | camūro mṛgaviśeṣaḥ
-<lb/>||69 || </p><p xml:id="HVVU_05_070">namaso dīrgha namitāḥ kṛṣṭā nadīśca ghanaṃ muhuḥ itāḥ prāptāḥ | ghanānāṃ paṅkṣīreṣa
-<lb/>nojjhati | ito'tra mahāsarasi sarojānāṃ sthitiḥ ahāsarasikā vikāsānabhimukhī
-<lb/>kā| sarvā vikasvaraivāvalokyata ityarthaḥ || 70 || </p><p xml:id="HVVU_05_071">mekhalā nitambo raśanā ca | kañca-
-<lb/>kinaḥ sarpāḥ sauvidallāśca || 71 || </p><p xml:id="HVVU_05_072">asya sakalā lakṣmīratiśayaṃ sasāra prāptavatī |
-<lb/>sārā sthirā | ayaṃ cābjinīṣu vibhiḥ pakṣibhiviśeṣeṇa vā rājitatvādagravama saccāra
-<lb/>vahati | sarasā śṛṅgāriṇī asurāṇāṃ saurasya ca surasamūhasya saṃsat sabhā yatra saḥ |
-<lb/>sārāsāḥ saśabdāḥ sārasā lakṣmaṇāsteṣāṃ rasāsu bhūmiṣu teṣāṃ raso vā yāsu | ramaurasaṃ
-<lb/>sahajajalam | auraso'kṛtrimaḥ || 72 ||</p> <!--
+<p xml:id="HVVU_05_067">
+  mado vikāsaḥ kṣībatā ca | veṇikā pravāhaḥ | raso makarandam api |
+<lb n="3"/>lāṅgalī nāmauṣadhir haladharaś ca || 67 ||
+</p>
+<p xml:id="HVVU_05_068">
+  kāñcanavapre svarṇasānuni saro 'tra bhrājate |
+<lb n="4"/>jalaṃ grahītuṃ namadabhre avatarajjalade | adabhre ca mahati premṇi sati dayitaḥ kāṃ vadhūṃ
+<lb n="5"/>prasareṇonaṃ kṛtvā ramayati | na kāṃcit | pūrvavatpūrṇām eva sarvāṃ ramayatīty arthaḥ || 68 ||
+</p>
+<p xml:id="HVVU_05_069">
+<lb n="6"/>bimbāgataṃ pratibimbitam | nīlā indranīlamaṇayaḥ | pṛṣaṭ_kāstilakākārā bindavaḥ |
+<lb n="7"/>‘pṛṣatka’ iti pāṭhe pṛṣacchabdo binduvacanaḥ | ‘kap_ ca’ samāsāntaḥ | camūro mṛgaviśeṣaḥ
+<lb n="8"/>|| 69 ||
+</p>
+<p xml:id="HVVU_05_070">
+  nabhaso dīrghaṃ namitāḥ kṛṣṭā nadīś ca ghanaṃ muhuḥ itāḥ prāptāḥ | ghanānāṃ paṅktīr eṣa
+<lb n="9"/>nojjhati | ito 'tra mahāsarasi sarojānāṃ sthitiḥ ahāsarasikā vikāsānabhimukhī
+<lb n="10"/>kā | sarvā vikasvaraivāvalokyata ity arthaḥ || 70 ||
+</p>
+<p xml:id="HVVU_05_071">
+  mekhalā nitambo raśanā ca | kañcu-
+<lb n="11"/>kinaḥ sarpāḥ sauvidallāś ca || 71 ||
+</p>
+<p xml:id="HVVU_05_072">
+  asya sakalā lakṣmīr atiśayaṃ sasāra prāptavatī |
+<lb n="12"/>sārā sthirā | ayaṃ cābjinīṣu vibhiḥ pakṣibhir viśeṣeṇa vā rājitatvād agravartma saccāru
+<lb n="13"/>vahati | sara<!--XXX<note place="below">9</note>???XXX-->sā śṛṅgāriṇī asurāṇāṃ saurasya ca surasamūhasya saṃsat_ sabhā yatra saḥ |
+<pb n="66"/>
+  sārāsāḥ saśabdāḥ sārasā lakṣmaṇās teṣāṃ rasāsu bhūmiṣu teṣāṃ raso vā yāsu | rasaurasaṃ
+<lb n="2"/>sahajajalam | auraso 'kṛtrimaḥ || 72 ||
+</p>
+<!--hier weiter-->
+<!--
 
 Page 72****************************************************************************************
 kāvyamālā|
