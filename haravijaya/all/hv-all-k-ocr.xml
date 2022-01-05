@@ -2760,98 +2760,125 @@ kāvyamālā |
 <pb n="75"/>
   || 119 ||
 </p>
-<!--hier weiter-->
+
 <!--
 
 Page 81****************************************************************************************
 5 sargaḥ]
 haravijayam |
 -->
+<pb n="75"/>
 <lg type="verse" xml:id="HV_05_120">
-<l>mubhrūratra priyatamalābhe nūnaṃ sthānādānānaghaghananādānāsthā |</l>
+<l>subhrūr atra priyatamalābhe nūnaṃ sthānādānānaghaghananādānāsthā |</l>
 <l>asyorvī me janayati toṣaṃ nānāsādhyāpātā pikakapitāpādhyāsā ||120||</l>
 </lg>
 <p xml:id="HV_05_120p">(pratilomānulomapādaḥ)</p>
 <lg type="verse" xml:id="HV_05_121">
-<l>viyogato'nukriyate'śruśīkarairanuttamānastanitambamārayā |</l>
-<l>striyātra sā meghaghaṭā natā jalairanuttamāna stanitaṃ babhāra yā ||121||</l>
+<l>viyogato 'nukriyate 'śruśīkarair anuttamānastanitambabhārayā |</l>
+<l>striyātra sā meghaghaṭā natā jalair anuttamāna stanitaṃ babhāra yā ||121||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_122">
 <l>saṃdarśanaṃ vyathayatīha janaṃ vimukta-</l>
 <l>mabhrāntarāgamalipannagamaṇḍalīnām |</l>
-<l>ratnāṃśusaṃhatiramuṃ dadhataṃ ca mūrti-</l>
+<l>ratnāṃśusaṃhatir amuṃ dadhataṃ ca mūrti-</l>
 <l>mabhrāntarāga malipannagamaṇḍalīnām || 122 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_123">
-<l>prāvṛṣā ka iha hitamūrmimatīpayaḥ</l>
-<l>saṃtatāra sikatopalasajanatāpadam |</l>
+<l>prāvṛṣā ka iha bṛṃhitamūrmimatīpayaḥ</l>
+<l>saṃtatāra sikatopalasajjanatāpadam |</l>
 <l>ketakīvipinamutkalikāstanutetarāṃ</l>
 <l>saṃtatā rasikatopalasajjanatāpadam || 123 ||</l>
 </lg>
-"
 
-<p xml:id="HVVU_05_120">sthānaṃ samucito deśastabaheṇa anaghasyākhaṇḍitasya ghanasya nāde viṣaye
-<lb/>nāsti āsthā gaṇyatā yasyāstāhagatra subhraḥ priyatamalābhe sati | garjato'pyasmāna
-<lb/>bibhetītyarthaḥ | strīṇāmiti tāsāṃ ghanagarjite sthānagaṇyatā tasyāḥ kiṃcitkaratvā dityarthaḥ
-<lb/>(?) | nānāvidhāḥ sādhyāḥ suraviśeṣāsteṣāmāpāta āgamanaṃ yatra | pikāḥ kokilā:
-<lb/>kapayaśca vānarāsteṣāṃ tāpaḥ śarīraruk ādhiānasī pīḍā tayoścāso nirasanaṃ yasyā-
-<lb/>stathāvidhā vasudhā asya māṃ saṃtoṣayati || 120 || </p><p xml:id="HVVU_05_121">anastaḥ svīkṛto nitambasya
-<lb/>bhāro gauravaṃ yayā tayātra yoṣitā viyoge bāṣpaśīkarairambadānāṃ patiranukriyate | yā
-<lb/>jalainaṃtā satī stanitaṃ babhāra | tathāvidhāyāḥ savaretvāt | anuttamā śreṣṭhā | anutto
-<lb/>mānaḥ pajā yeneti bhagavatsaṃbodhanam | athavā he anuttama sarvātiśāyin , yā ghanapati-
-<lb/>• ranattamā gṛhītalakṣmīḥ stanitaṃ na babhāra sā striyānukriyate| tasyā virahe vāḍnirodhāta
-<lb/>|| 121 || </p><p xml:id="HVVU_05_122">alina eva pannagāḥ sāstanmaṇḍalīnāmiha darśanaṃ virahijanaṃ khedayati |
-<lb/>abhrānto niścitaḥ | aṇḍalīnāṃ brahmāṇḍavyāpinī mūrti binataṃ, samunnatatvādabhrastha
-<lb/>namaso'ntare agāstaravo yasya tādṛśaṃ cāmuṃ nagaṃ ratnakiraṇasaṃhatiralipat charitavatī
-<lb/>|| 122 || </p><p xml:id="HVVU_05_123">amimatyo nadyastāsāmiha salilaṃ varṣābhirabhivadhitaṃ kaḥ saṃtatāra | na ka|
-<lb/>ścit | sikatāsūpaleṣu ca sajjanaṃ bruḍanaṃ tena tāpadaṃ khedakaram | rasikatayā rasenopa-
-<lb/>lasantyā janatāyāḥ padaṃ viharaṇasthānamiha ketakīvanaṃ cotkalikā ruharuhikā unmukhā-
-<lb/>śca kalikāḥ pratanoti | saṃtatāḥ sthirāḥ || 123 || </p><!--
+<p xml:id="HVVU_05_120">
+  sthānaṃ samucito deśas tadgraheṇa anaghasyākhaṇḍitasya ghanasya nāde viṣaye
+<lb n="2"/>nāsti āsthā gaṇyatā yasyās tādṛg atra subhrūḥ priyatamalābhe sati | garjato 'py asmān na
+<lb n="3"/>bibhetīty arthaḥ | strīṇām iti tāsāṃ ghanagarjite sthānagaṇyatā tasyāḥ kiṃcit karatvād ity arthaḥ
+<lb n="4"/>(?) | nānāvidhāḥ sādhyāḥ suraviśeṣās teṣām āpāta āgamanaṃ yatra | pikāḥ kokilā:
+<lb n="5"/>kapayaś ca vānarās teṣāṃ tāpaḥ śarīraruk_ ādhirmānasī pīḍā tayoś cāso nirasanaṃ yasyā-
+<lb n="6"/>s tathāvidhā vasudhā asya māṃ saṃtoṣayati || 120 ||
+</p>
+<p xml:id="HVVU_05_121">
+  anastaḥ svīkṛto nitambasya
+<lb n="7"/>bhāro gauravaṃ yayā tayātra yoṣitā viyoge bāṣpaśīkarair ambudānāṃ paṅktir anukriyate | yā
+<lb n="8"/>jalair natā satī stanitaṃ babhāra | tathāvidhāyāḥ sarvaṣatvāt | anuttamā śreṣṭhā | anutto
+<lb n="9"/>mānaḥ pūjā yeneti bhagavatsaṃbodhanam | athavā he anuttama sarvātiśāyin_, yā ghanapaṅkti-
+<lb n="10"/>r anuttamā gṛhītalakṣmīḥ stanitaṃ na babhāra sā striyānukriyate| tasyā virahe vāṅnirodhāt
+<lb n="11"/>|| 121 ||
+</p>
+<p xml:id="HVVU_05_122">
+  alina eva pannagāḥ sarpās tanmaṇḍalīnām iha darśanaṃ virahijanaṃ khedayati |
+<lb n="12"/>abhrānto niścitaḥ | aṇḍalīnāṃ brahmāṇḍavyāpinīṃ mūrtiṃ bibhrataṃ, samunnatatvād abhrasya
+<lb n="13"/>nabhaso 'ntare agāstaravo yasya tādṛśaṃ cāmuṃ nagaṃ ratnakiraṇasaṃhatir alipat_ churitavatī
+<lb n="14"/>|| 122 ||
+</p>
+<p xml:id="HVVU_05_123">
+  ūrmimatyo nadyas tāsām iha salilaṃ varṣābhir abhivardhitaṃ kaḥ saṃtatāra | na ka-
+<lb n="15"/>ścit | sikatāsūpaleṣu ca sajjanaṃ bruḍanaṃ tena tāpadaṃ khedakaram | rasikatayā rasenopa-
+<lb n="16"/>lasantyā janatāyāḥ padaṃ viharaṇasthānam iha ketakīvanaṃ cotkalikā ruharuhikā unmukhā-
+<pb n="76"/>
+  ś ca kalikāḥ pratanoti | saṃtatāḥ sthirāḥ || 123 ||
+</p>
+
+<!--
 
 Page 82****************************************************************************************
-6
+76
 kāvyamālā|
-•
-RA-
 -->
+<pb n="76"/>
 <lg type="verse" xml:id="HV_05_124">
-<l>kṣmā dasau bibharti kaṭakaśriyamamṛtamucā</l>
+<l>kṣmābhṛd asau bibharti kaṭakaśriyam amṛtamucā</l>
 <l>hemamasārasāravasudhāmadhikamalinitām |</l>
-<l>śrotrapathaṃ nayanti madhurāṃ mudamiha dadhato</l>
-<l>he'mama sārasā ravasudhāmadhikamalini tām || 124 ||</l>
+<l>śrotrapathaṃ nayanti madhurāṃ mudam iha dadhato</l>
+<l>he 'mama sārasā ravasudhāmadhikamalini tām || 124 ||</l>
 </lg>
-<p xml:id="HV_05_124p">(iti prāvṛṭa)</p>
+<p xml:id="HV_05_124p">(iti prāvṛṭ)</p>
 <lg type="verse" xml:id="HV_05_125">
-<l>vīkṣya prasīdati vadhūrdayite'pi mānā-</l>
-<l>nānāvilā sarasi kaumudamatra santau |</l>
-<l>kānto kulaṃ kalayataśca ratāvamandaṃ</l>
+<l>vīkṣya prasīdati vadhūr dayite 'pi mānā-</l>
+<l>nnānāvilā sarasi kaumudam atra santau |</l>
+<l>kāntau kulaṃ kalayataś ca ratāvamandaṃ</l>
 <l>nānāvilāsarasikau mudamatrasantau || 125 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_126">
 <l>yadapi rahayituṃ mayūrakekāravaśamanī yatate na bandhurāgam |</l>
-<l>śaradiha kusumairvanaṃ natadhūravaśamanīyata tena bandhurāgam || 126 ||</l>
+<l>śarad iha kusumair vanaṃ natabhrūravaśamanīyata tena bandhurāgam || 126 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_05_127">
-<l>sthitamaliyoṣitā smararasaṃ janasya vidhānayā madhulihā</l>
+<l>sthitamaliyoṣitā smararasaṃ janasya vidadhānayā madhulihā</l>
 <l>navatatamālatīrasikatāmadabhramitayā sahāravapuṣā |</l>
-<l>saśiśiramārutātra ca sariniṣevyata iyaṃ ratau na sudṛśā</l>
+<l>saśiśiramārutātra ca sarinniṣevyata iyaṃ ratau na sudṛśā</l>
 <l>na bata tamālatīrasikatāmadabhramitayā sahāravapuṣā || 127 ||</l>
 </lg>
 
-<p xml:id="HVVU_05_124">henā suvarṇena masāraiśca maṇibhedaiḥ
-<lb/>sārā prakarṣavatī vasudhā yatra tādṛśoṃ kaṭakalakṣmīmamṛtamucā jaladenādhikaṃ malinitāṃ
-<lb/>eṣa bhūbhadvibharti | rājāpi śiviraśobhāmīhaśīmeva bibhāta | he amama nirahaṃkāra,
-<lb/>iha cādhikamalini pabhinyāṃ sārasāḥ śrotṛṇāṃ karṇagocaraṃ ravasudhāṃ vistāmataṃ prāpaya-
-<lb/>nti | tāmiti prakṛṣṭām || 124 || </p><p xml:id="HVVU_05_125">mānāt na anāvilā api tvāvilaiva tathāvi||
-<lb/>dhāpi vadhūratra sarasi kaumudaṃ kulaṃ kumudavanaṃ vīkṣya dayite prasīdati kāluṣyaṃ jahāti |
-<lb/>anu ca anasantā eva santo vartamānā nānāvilāseṣu rasikau ca kāntī surate ama|"
-<lb/>ndaṃ saṃmadaṃ bhajataḥ | kāntaśca kāntā ca kāntāvityekaśeṣaḥ || 125 || </p><p xml:id="HVVU_05_126">bandhurāgaṃ
-<lb/>sundarataru vanaṃ yadiha kusumairvajayituṃ mayūrāṇāṃ kekāravasya śamanī śarat na yatate|
-<lb/>tenāpi ramaṇībandhau priye rāgamavaśaṃ balādanīyata prāpitā || 126 || </p><p xml:id="HVVU_05_127">navā tatā ca
-<lb/>mālatī jātistatra rasikatā rasaṃ adabhraṃ bahulaṃ itayā bhramaryā asmin āravapuṣā bhrama-
-<lb/>reṇa saha sthitam | eṣā ca ratau suratakāle śītalamarutsahitā nadī sudṛśā na na niṣe-
-<lb/>vyate | niṣevyata eva | tamālatīrasikatāsu madena kṣībatayā saṃcāritayā sahāraṃ ca vapu|
-<lb/>yasyāstayā | bateti vismaye || 127 || </p><!--
+<p xml:id="HVVU_05_124">
+  hemnā suvarṇena masāraiś ca maṇibhedaiḥ
+<lb n="2"/>sārā prakarṣavatī vasudhā yatra tādṛśīṃ kaṭakalakṣmīm amṛtamucā jaladenādhikaṃ malinitāṃ
+<lb n="3"/>eṣa bhūbhṛd bibharti | rājāpi śiviraśobhām īdṛśīm eva bibharti | he amama nirahaṃkāra,
+<lb n="4"/>iha cādhikamalini padminyāṃ sārasāḥ śrotṝṇāṃ karṇagocaraṃ ravasudhāṃ virutāmṛtaṃ prāpaya-
+<lb n="5"/>nti | tām iti prakṛṣṭām || 124 ||
+</p>
+<p xml:id="HVVU_05_125">
+  mānāt_ na anāvilā api tvāvilaiva tathāvi-
+<lb n="6"/>dhāpi vadhūr atra sarasi kaumudaṃ kulaṃ kumudavanaṃ vīkṣya dayite prasīdati kāluṣyaṃ jahāti |
+<lb n="7"/>anu ca atrasantau eva santau vartamānau nānāvilāseṣu rasikau ca kāntau surate ama-
+<lb n="8"/>ndaṃ saṃmadaṃ bhajataḥ | kāntaś ca kāntā ca kāntāv ity ekaśeṣaḥ || 125 ||
+</p>
+<p xml:id="HVVU_05_126">
+  bandhurāgaṃ
+<lb n="9"/>sundarataru vanaṃ yad iha kusumair varjayituṃ mayūrāṇāṃ kekāravasya śamanī śarat_ na yatate|
+<lb n="10"/>tenāpi ramaṇībandhau priye rāgam avaśaṃ balād anīyata prāpitā || 126 ||
+</p>
+<p xml:id="HVVU_05_127">
+  navā tatā ca
+<lb n="11"/>mālatī jātis tatra rasikatāṃ rasaṃ adabhraṃ bahulaṃ itayā bhramaryā asmin_ āravapuṣā bhrama-
+<lb n="12"/>reṇa saha sthitam | eṣā ca ratau suratakāle śītalamarutsahitā nadī sudṛśā na na niṣe-
+<lb n="13"/>vyate | niṣevyata eva | tamālatīrasikatāsu madena kṣībatayā saṃcāritayā sahāraṃ ca vapu-
+<pb n="77"/>
+  r yasyās tayā | bateti vismaye || 127 ||
+</p>
+<!--hier weiter-->
+<!--
 
 Page 83****************************************************************************************
 77
