@@ -9090,147 +9090,144 @@ cha ||
 <l>utkṣiptaṣaṭpadagha¯¯¯romarājir</l>
 <l>iṃduṃ vilokya sahasā kumudiny athāsīt||</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_20_66">
-<l>indoḥ karairatanukausumasaukumārya-</l>
-<l>bhāgbhirmanobhuva iveṣubhirāhatābhiḥ|</l>
-<l>udgīrṇagandhakumudānanamūḍhanaiśa-</l>
-<l>gharmodabindubhirajṛmbhi kumudvatībhiḥ||66||</l>
+<l>iṃduḥ karairatanakausumasaukumāryā-</l>
+<l>bhāgbhi<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>r mmanobhuva iṣubhir āhatābhiḥ|</l>
+<l>udgīrṇṇagaṃdhakumudānanagūḍhagāḍha-</l>
+<l>naiśādabiṃdubhir ajṛṃbhi kumudvatībhiḥ||</l>
 </lg>
-<pb n="276" />
 <lg type="verse" xml:id="HV_20_67">
-<l>ścyotatsudhāśiśiranirjharaśīkarārdra-</l>
-<l>candrāṃśurāśiparimṛṣṭakarālakoṣāḥ|</l>
+<l>ścyotat_sudhāśiśiranirjjharasīkarārdraṃ</l>
+<l>caṃ<subst>dr<del rend="implied">a</del><add rend="wiggle above">ā</add></subst>ṃ<space type="binding-hole"/>śurāśiparimṛṣṭakalāpakośāḥ|</l>
 <l>padmākarāḥ sapadi saṃcukucurniśītha-</l>
-<l>śītārditā iva dalāmbarasaṃvṛtāṅgāḥ||67||</l>
+<l>śītārditā iva talāṃbarasaṃvṛtāṃgāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_68">
-<l>preyaḥ samāgamasukhārdrapuraṃdhrinirya-</l>
-<l>dānandabāṣpakaṇikāśiśiro nabhasvān|</l>
-<l>bandhakramādhigatatānavatāratamya-</l>
-<l>saugandhikotthaghanasaurabhasaṃpadāsīt||68||</l>
+<l>preyaḥ samāgamasukhārdrapuraṃdhriniryad-</l>
+<l>ānaṃdabā<lb n="3"/>ṣpakaṇikāśiśiro nabhasvān|</l>
+<l>baddhakramādhigatatānavatāratamya-</l>
+<l>saugaṃdhikotthaghanasaurabhasaṃpadāsīt||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_69">
-<l>niḥśeṣameva surabhiṃ mama kopagandha-</l>
-<l>māvāndinakṣayamarunmama maiṣa moṣīt|</l>
-<l>itthaṃ bhiyeva kamalaṃ kalayāṃcakāra</l>
-<l>saṃkocasaṃkaṭaviśaṅkaṭakuṅmalatvam||69||</l>
+<l>niḥśeṣam eva surabhir navakośagaṃdham</l>
+<l>aurvvāṃ<space type="binding-hole"/>dinakṣayamarunmama maiṣa moṣīt|</l>
+<l>itthaṃ bhineva kamalaṃ kalayāṃcakāra</l>
+<l>saṃkocasaṃghaṭavisaṃkaṭakuṅmalatvaṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_70">
-<l>spṛṣṭā na yā dinakarāṃśubhirahni vahni-</l>
-<l>garbhairapi kvacana caklamurambujinyaḥ|</l>
-<l>mamlustarāṃ śaśikarairapi tāḥ sudhārdrai-</l>
-<l>rakṣuṇṇavāmacaritā bata padmanetrāḥ||70||</l>
+<l>spṛṣṭā na yā dinakarāṃśubhir ahni vahni-<space type="binding-hole"/></l>
+<l>garbhair api kvacana caklamur aṃbujinyaḥ|</l>
+<l>mamlus tarāṃ śaśakarair api tāḥ sudhādraiḥ</l>
+<l>rakṣunnadhāmaracitā bata padmanetrāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_71">
-<l>pātuṃ madhūnyadhikumudvati baddharāga-</l>
-<l>muddhūtapakṣati madhuvratamutpatantam|</l>
-<l>śliṣyatsarojadalasaṃpuṭapīḍitāṅghri-</l>
-<l>mīrṣyāvaśādiva kuśeśayinī babandha||71||</l>
+<l>pātuṃ madhūny api kumudvatabaṃdharāgam</l>
+<l>uddhūtapakṣya<lb n="4"/>ti madhuvratam utpataṃtaṃ|</l>
+<l>śliṣyatsarojapuṭasaṃpuṭapīḍitāṃhrim</l>
+<l>īrṣyāvaśād iva kuśeśayinī babaṃdhaṃ|</l>
 </lg>
 <lg type="verse" xml:id="HV_20_72">
-<l>sādhyaṃ na tajjagati yanna kalāvato 'sti</l>
-<l>candraḥ karaiḥ sakaladiṅmukhakarṇapūraiḥ|</l>
-<l>viṣyaṇṇavārivisarāḥ parito nināya</l>
-<l>yaccandrakāntadṛṣado 'pi tadārdrabhāvam||72||</l>
+<l>sādhyaṃ na tajyagati yan na kalāvato 'sti|</l>
+<l>caṃdraḥ karaiḥ sa<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>kaladiṅmukhakarṇṇapūraiḥ|</l>
+<l>viṣyannavārivisarāḥ parito nināya</l>
+<l>yaccaṃdrakāṃtadṛśadāpi tadārdrabhāvaṃ||</l>
 </lg>
-<pb n="277" />
 <lg type="verse" xml:id="HV_20_73">
-<l>saṃkocadhūsaramakāri sarojakhaṇḍa-</l>
-<l>magre yadasya śaśinā paripīḍya pādaiḥ|</l>
-<l>tena sphuradvikaṭakesaradantapaṅkti</l>
-<l>toṣādivātiviśadaṃ kumudaṃ jahāsa||73||</l>
+<l>saṃkocadhūsaramakāri kilābjaṣaṃḍam</l>
+<l>agre<space type="binding-hole"/> yadasya śaśinā paripūrṇṇa pādaiḥ|</l>
+<l>tena cchuṭadvikaṭakesaradaṃtapaṃkti</l>
+<l>toṣādivāvitisadaṃ kusadaṃ jahāsa||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_74">
-<l>saṃdhukṣitāsamaśareṇa karairavāpta-</l>
-<l>nidrā satī kumudinī śaśināvamṛṣṭā|</l>
-<l>huṃkāriṇīva bubudhe kumudodarastha-</l>
-<l>kūjanmadhuvratakulakvaṇitānubandhaiḥ||74||</l>
+<l>saṃdhukṣitāsamasareṇa karair avāpta-</l>
+<l>nidrā satī<g rend="deleted daṇḍa">¦</g> <lb n="5"/>kumudinī śaśināvamṛṣṭā|</l>
+<l>huṃkāriṇāva bubudhe kumudodarastha-</l>
+<l>kūjanmadhuvratakulakvaṇitānubaṃdhaiḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_75">
-<l>preyoṃśumālivirahavyasanānubandha-</l>
-<l>mūrchānimīlitasarojadṛśo nalinyāḥ|</l>
-<l>nyastāḥ salīlamabhavannuparīndunāpi</l>
-<l>khedāya komalamarīcimṛṇāladaṇḍāḥ||75||</l>
+<l>preyāṃśumālivirahavyasanānubaṃdhaṃ</l>
+<l>mūrcchāni<space type="binding-hole"/>mīlitasarojadṛśo nalinyāḥ|</l>
+<l>nyastāḥ salīlam abhavann uparīṃdurāpi</l>
+<l>khedāya komalamarīcimṛṇāladaṃḍāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_76">
-<l>kallolapīvarapayodharapṛṣṭhabhāga-</l>
-<l>mākṛṣya vīcivalibhaṅgabhuvaṃ ca candraḥ|</l>
-<l>āvartanābhinihitāgrakaraścakāra</l>
-<l>raktābjinīṃ mukhanimīlitapadmanetrām||76||</l>
+<l>kallolapīvarapayodharapṛṣṭhabhā<space type="binding-hole"/>gam</l>
+<l>ākṛṣya vīcivalibhaṃgabhuvaṃ ca caṃdraḥ|<del rend="stroke below">|</del></l>
+<l>āvarttanābhinihitāgrakaraś cakāra</l>
+<l>raktābjinī mukhanimīlitapadmanetrām||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_77">
-<l>paryucchvasatsaralakesarakāñcanottha-</l>
-<l>nārācacakraparipūritakukṣirandhram|</l>
-<l>īṣadvibhinnamukulānanamindubhābhi-</l>
-<l>rādatta kairavamanaṅganiṣaṅgalīlām||77||</l>
+<l>paryucchvasasarasakesarakāṃca<g rend="deleted daṇḍa">¦</g><lb n="6"/>nābja-</l>
+<l>nārācacakraparipūritakukṣiraṃdhraṃ|</l>
+<l>īṣadvibhinnamukulānanabiṃdubhābhir</l>
+<l>ādatta kair avamanaṃganiṣaṃgalīlāṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_78">
-<l>jyotsnāmayaṃ yadamṛtaprabhameghamukta-</l>
-<l>mambhaḥ papāta kumudacchadaśuktikoṣe|</l>
-<pb n="278" />
-<l>tatsthūlalagnarajanījalabindujāla-</l>
-<l>vyājena mauktikakaṇatvamabhiprapede||78||</l>
+<l>jyotsnāmayaṃ yadamṛtaprabhameghamu<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>ktam</l>
+<l>ambhaḥ papāta kumudacchadaśuktigarbhe|</l>
+<l>tatsthūlalagnarajanījalabiṃdujāla-</l>
+<l>vyājena mauktikaṇatvam iva pra<del rend="stroke above">da</del>pede||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_79">
-<l>udbhinnakaṇṭakabharātpulakānubandha-</l>
+<l>udbhinnakaṃṭhakabharopula<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>kānubaṃdha-</l>
 <l>paryākulā kumudinī muditā pradoṣe|</l>
-<l>dhūtāravindarucicandrakarapraṇoda-</l>
-<l>cakrībhavatkumudacārukucā cakāśe||79||</l>
+<l>pūtāraviṃdarucicaṃdrakarapraṇoda-</l>
+<l>cakrībhavatkumudacārukucā cakāse||</l>
 </lg>
 <lg type="verse" xml:id="HV_20_80">
-<l>paryāptanirmalakareṇa karaiḥ sudhārdraiḥ</l>
-<l>saṃbhāvitāni na himadyutināpi netum|</l>
-<l>ninye jalāni niśi nirviṣatāmagastyaḥ</l>
-<l>kārye kvacidbhavati kasyacideva śaktiḥ||80||</l>
+<l>paryāptanirmmalaka꣹<lb n="7"/>reṇa karaiḥ sudhārdraiḥ</l>
+<l>saṃbhāvitāni na himacyutināpi netum|</l>
+<l>ninye jalāni niśi nirvviṣatāmagastya-</l>
+<l>kārye kvacidbhavati kasyacid eva śaktiḥ||</l>
 </lg>
+<p xml:id="HV_20_80p">
+kula<space type="binding-hole"/>kaṃ ||
+</p>
 <lg type="verse" xml:id="HV_20_81">
-<l>āskanda dūramudayaṃ madayasva manda-</l>
-<l>mānandayenduvadanā madanāvidūnāḥ|</l>
+<l>āskaṃda dūramudayaṃ madayannamaṃda-</l>
+<l>mānaṃ dayeṃduvadanā madanāvidūnāḥ|</l>
 <l>krūraṃ tamaḥ kira karaiḥ kuru korakāgra-</l>
-<l>bhaṅgaṃ ca kairavakulasya karālakāntaiḥ||81||</l>
+<l>bhaṃgaṃ ca kair avakulasya karā<space type="binding-hole"/>lakāṃteḥ|</l>
 </lg>
 <lg type="verse" xml:id="HV_20_82">
-<l>cañcvagracumbanavikuñcitakesarāsu</l>
-<l>saṃcārayāñcitadalāsu ca cañcarīkān|</l>
-<l>kundāvadātavidaladdaladīrghadaṇḍa-</l>
-<l>dūroditāsu muditāsu kumudvatīṣu||82||</l>
+<l>caṃcagracuṃbanavikuṃcitakesarāsu</l>
+<l>saṃcārayāṃcita꣹<pb n="41a"/>dalāsu ca caṃcarīkāṃ||</l>
+<l>kuṃdāvadātavidaladdaladīrghadaṃḍa-</l>
+<l>dūrāditāsu muditāsu kumudvatīṣu|</l>
 </lg>
 <lg type="verse" xml:id="HV_20_83">
-<l>saṃdhehi pattrapaṭalaṃ paṭupuṇḍarīka-</l>
-<l>khaṇḍasya maṇḍaya diśaḥ sphuṭamaṇḍalaśrīḥ|</l>
-<l>saṃkṣobhayoddalanadohadalīladola-</l>
-<l>kallolakāṇḍakalilaṃ salilaṃ ca sindhoḥ||83||</l>
+<l>satveṣu patrapaṭalī paṭupuṃḍarīka-</l>
+<l>ṣaṃḍasya maṃḍaya diśa sphuṭamaṃḍa<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>laśrīḥ||</l>
+<l>saṃkṣobhayoddalanadohadalīlalola-</l>
+<l>kallolakāṃḍakalile kalilaṃ ca siṃdhoḥ|</l>
 </lg>
-<pb n="279" />
 <lg type="verse" xml:id="HV_20_84">
-<l>saṃdhukṣaya smaramavandhyaśaraprabandha-</l>
-<l>saṃdhānabandhurasamādhi dhanurdhunānam|</l>
-<l>dhairyaṃ vidhūnaya vadhūṣu vivardhamāna-</l>
-<l>mānoddhuraṃ vidhurabandhuvirodhinīṣu||84||</l>
+<l>saṃdhukṣaya smaram avaṃdhyasaraprabaṃdha-</l>
+<l>saṃdhānabaṃdhuramathāsu dhanurddha<space type="binding-hole"/>rāṇāṃ|</l>
+<l>dhairyaṃ vidhūraya vadhūṣu vivarddhamāna-</l>
+<l>mānoddhuraṃ vidhurabaṃdhuvirodhinīṣu|</l>
 </lg>
-<lg type="verse" xml:id="HV_20_86">
-<l>pārīḥ prasādaya ca pānaparamparāsu</l>
-<l>karpūrapāṃsupaṭalībhiriva prabhābhiḥ|</l>
-<l>ityācaranrucirarocirarocatendu-</l>
-<l>rarcaikacarcajanalocanacakravālaḥ||85|| </l>
+<lg type="verse" xml:id="HV_20_85">
+<l>mārīḥ prasādhaya ca <!--XXX<note>128</note>XXX-->pānaparaṃparāsu</l>
+<l>karpūrapāṃśupaṭalībhir iva prabhābhiḥ||</l>
+<l>ity ācaran_<lb n="2"/>rucirarocirarociteṃdur</l>
+<l>aryaikavarcajanalocanacakravālaḥ|</l>
 </lg>
 <p xml:id="HV_20_85p">
-(pañcabhiḥ kulakam)
+kulakaṃ ||
 </p>
-<l>rarcaikacarcajanalocanacakravālaḥ||85|| (pañcabhiḥ kulakam)</l>
-<l>pātālāntaśchavīva ghanāṃ śeṣabhogaprakāśaḥ</l>
-<l>kaṇṭhacchāyāmiva paśupateraṭṭahāso 'bhinīlām|</l>
-<l>vikṣipyārānnabhasi tamasāṃ maṇḍalīṃ ratnarāśe-</l>
-<l>rdattollāsaḥ śaśabhṛdamalaśrīścakāsāṃcakāra||86||</l>
+<lg type="verse" xml:id="HV_20_86">
+<l>pātālācchaccham iva ghanāṃ śeṣabhogaprakāśaṃ</l>
+<l>kaṃṭacchāyām iva paśupate<subst><del rend="deleted daṇḍa">ḥ</del><add>r</add></subst> aṭṭahāso<space type="binding-hole"/> 'bhilīnāṃ|</l>
+<l>vikṣipyaṃtāṃ nabhasi tamasāṃ maṃḍalīṃ ratnarāśer</l>
+<l>dattollāsaḥ śaśabhṛdamalaśrīś cakāsāṃcakāra||</l>
 </lg>
 <p>
-iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya
-vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau
-ratnāṅke haravijaye mahākāvye candrodayavarṇano nāma viṃśa
-sargaḥ|
+cha ||
 </p>
--->
+<p>
+iti haravijaye mahākāvye candrodayavarṇano nāma viṃśamaḥ<space type="binding-hole"/> sargaḥ||
+</p>
 </div>
 <!--
 <div n="21" type="chapter">
