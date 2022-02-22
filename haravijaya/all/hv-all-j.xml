@@ -10928,7 +10928,7 @@ iti haravija<space type="binding-hole"/>ye mahākāvye dūtīsaṃlpavarṇṇan
 </lg>
 <lg type="verse" xml:id="HV_26_11">
 <l>śobhāṃ babhāra makaraṃdarasāyamāna-</l>
-<l>maireyagarbhamaṇi<subst><del>kośya</del><add rend="floral anusvāra">kāṃśya</add></subst>karālakośaṃ|</l>
+<l>maireyagarbhamaṇi<subst>k<del>o</del><add rend="floral anusvāra">āṃ</add></subst>śyakarālakośaṃ|</l>
 <l><lb n="2"/>vāmabhruvāḥ prakṛtitāmratalābhirāma-</l>
 <l>dīrghāṃgulīdalakulaṃ karapuṃḍarīkaṃ|</l>
 </lg>
@@ -11429,61 +11429,61 @@ cha ||<space type="binding-hole"/>
 iti haravijaye mahākāvye āpānavibhramo nāma ṣaḍviṃśaḥ sarggaḥ||
 </p>
 </div>
-<!--
 <div n="27" type="chapter">
 <p>
-saptaviṃśaḥ sargaḥ|
+[floral] || cha ||
 </p>
 <lg type="verse" xml:id="HV_27_1">
-<l>atiratirabhasādalīkanidrārabhasavighūrṇitalocanāmbujābhiḥ |</l>
-<l>śayanatalam aśiśriyan vadhūbhiḥ saha madamanmathamantharā yuvānaḥ || 1 ||</l>
+<l>atha ratirabhasākadalīkanidrārabhasavighūrṇṇitalocanāṃbujābhiḥ|</l>
+<l>sanavalam asiśri<g rend="deleted daṇḍa">¦</g><lb n="2"/>ye vadhūbhiḥ saha madamanmathamaṃtharavā yuvānaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_2">
-<l>priyeṇa vāsasyapanīyamāne māṃ hanti kāntā śravaṇotpalena |</l>
-<l>aśiśriyat pūrvam itīva dīpas tadgaṇḍabhittiṃ pratimāpadeśāt || 2 ||</l>
+<l>priyeṇa vasasyapanīyamāne māṃ haṃti kāṃtā sravalotpale|</l>
+<l>aśiśriyat_ pūrvvam itīva dīpas taṃ gaṃḍabhitti pratimāpade<space type="binding-hole"/>śāt||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_3">
-<l>ākṛṣyamāṇam atha puṣpaśarāsanena</l>
-<l>saṃrabhya kāmihṛdayāni bibhitsatārāt |</l>
-<l>līnadvirephakulajhāṃkṛticittahāri</l>
-<l>ṭāṃkāranādamukharasthiti cāpam āsīt || 3 ||</l>
+<l>ākṛṣyamāṇam atha puṣpasarāsanena</l>
+<l>saṃra<del rend="stroke above">ṇā</del>la kāmihṛdayāni bibhatsatārāt||</l>
+<l>līnadvirephakularutkṛticittahāri</l>
+<l>ṭhāṃkaranādamukhara<space type="binding-hole"/>sthiti copam āsīt||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_4">
-<l>bhindanta eva hṛdayāny api saṃdadhānāḥ</l>
-<l>pauṣyā api draḍhimasārabhṛto'bhiyoge |</l>
-<l>cetobhuvaḥ surapuraṃdhrikharūcikāsu</l>
-<l>petuḥ śarāḥ kusumakārmukacakramuktāḥ || 4 ||</l>
+<l>bhiṃdaṃta eva hṛdayāny api saṃdadhānāḥ</l>
+<l>pauṣyā a<metamark place="above and below" function="insertion">^</metamark><add place="top-margin">jā</add>pi dūhimasārabhūto viyoge</l>
+<l>cetonuva surapuraṃdhrikhalūrikāsu</l>
+<l>petuḥ sarāḥ kusu<lb n="3"/>makārmukacakramuktāḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_5">
-<l>dayitaparihṛtāmbaraṃ varorvāḥ kanakaśilāvipulaṃ nitambabimbam |</l>
-<l>madanakariviṣāṇaghātarandhrapratimakukundarasundaraṃ babhāse || 5 ||</l>
+<l>cetobhuvo bhuvanadurvviṣahā nitāṃtam</l>
+<l>ākṣiptaśīghragamanā iva cittavṛtteḥ|</l>
+<l>dhairyaṃ patatrimaruteva vidhūmayaṃto</l>
+<l>bāṇāḥ puraṃdhrihṛ<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>dayeṣu rayān nipetuḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_6">
-<l>cetobhuvo bhuvanadurviṣahā nitānta-</l>
-<l>m ākṣiptaśīghragamanā iva cittavṛtteḥ |</l>
-<l>dhairyaṃ patattramaruteva vidhūnayanto</l>
-<l>bāṇāḥ puraṃbhihṛdayeṣu rayān nipetuḥ || 6 ||</l>
+<l>dayitatamahṛtāṃbaraṃ varorvvāḥ kanakaśilā<subst>v<del rend="implied">a</del><add>i</add></subst>kaṭaṃ nitaṃbabimbaṃ|</l>
+<l>madanakaraviṣāṇaghātaraṃdhrapratimakukuṃdara<unclear>ṣuṃ</unclear>daraṃ<!--XXX Bengali anusvāra XXX--><space type="binding-hole"/> babhāse||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_7">
-<l>pīnorumūlaṃ rabhasāpanītavāso vilolekṣaṇam īkṣamāṇam |</l>
-<l>jaghāna roṣāt kila pīvareṇa kucadvayenorasi kāpi kāntam || 7 ||</l>
+<l>pīnorvvumūlaṃ rabhasāpanītavāso vilolakṣaṇam īkṣamāṇaṃ|</l>
+<l>jaghāna roṣāt kila pīvareṇa kucadvayenorasi kāpi kāṃtaṃ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_8">
-<l>ucchvāsipīnajaghane nibirīsamūrvo-</l>
-<l>rgāḍhaṃ nitambaphalake ghanagharmavārau|</l>
-<l>tanvyāḥ kukundarayuge śithilaṃ cakarṣa</l>
-<l>caṇḍātakaṃ katham api priyapāṇipadmaḥ || 8 ||</l>
+<l>ucchvāsipīna<g rend="deleted daṇḍa">¦</g><lb n="4"/>jaghane nidhirīśapūrvvo</l>
+<l>gāḍhaṃ nitaṃbaphalake ghanagharmmadhārau|</l>
+<l>tanvyāḥ kukuṃdarayuge śithilāṃ cakarṣa</l>
+<l>caṃḍāthakaṃ katham api priyamāṇipadmaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_9">
-<l>hrīmantharā vidhṛtavepathunā kareṇa</l>
-<l>karṇotpalaṃ dayitamuktanitambavāsāḥ |</l>
+<l>hrīmaṃtharā<space type="binding-hole"/>rihṛtavepathunā kareṇa</l>
+<l>karṇṇotpalaṃ dayitanitaṃbavāsāḥ|</l>
 <l>cikṣepa dīpahataye parihṛtya tena</l>
-<l>taddāhasaṃbhramavaśād iva taṃ nipete || 9||</l>
+<l>taddāhasaṃbhramavasād iva tan nipete|</l>
 </lg>
 <lg type="verse" xml:id="HV_27_10">
-<l>aviratarativibhramo jajṛmbhe śramajalaśīkarabindupuṣpaśobhī |</l>
-<l>kurabakaviṭapīva pīvarastrīstanakalaśāhatibhir vidagdhayūnām || 10 ||</l>
+<l>avirativibhra<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>mo jajṛṃbhe śramajalaśīkacapuṣpaśobhī|</l>
+<l>kurabakaviṭapīvarastrīstanakalasāhatibhir vvidagdhayūnāṃ||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_27_11">
 <l>āliṅgitāyā dayitena tanvyāḥ sparśasya mā bhūd vyavadhānakhedaḥ |</l>
 <l>tadvakṣasītīva mamajja nunnā kucadvayasyopari hārayaṣṭiḥ || 11 ||</l>
@@ -12031,7 +12031,9 @@ iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanām
 rājānakaśrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye
 saṃbhogavarṇano nāma saptaviṃśaḥ sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="28" type="chapter">
 <pb n="358" />
 <p>
