@@ -5805,6 +5805,7 @@ iti śrīmahākavirājānuratnākaviracite mahākavye haravijaye <lb n="9"/>dvā
 <l>ākopakampita<lb n="24"/>śirās sahasojjihāsur</l>
 <l>āpṛcchyamāna iva mānimanāsti<choice><orig>r</orig><corr>t</corr></choice>ikṣām_|</l>
 <l>vākyaṃ jagā<lb n="25"/>da gaṇanātha nutipragalbham atyūrjitaṃ raṇayāntaratattvavedī||8|| cakkalakam_||</l>
+</lg>
 <lg type="verse" xml:id="HV_13_9">
 <l><pb n="42b"/>prajñāṃ namāmi bhuvaneṣu vicitrarūpām</l>
 <l>ādyāṃ giraṃ ca sakalavyavahārahetum_|</l>
@@ -5984,6 +5985,7 @@ iti śrīmahākavirājānuratnākaviracite mahākavye haravijaye <lb n="9"/>dvā
 <l>pāraṃ gatās stha ca dhiyā nayamārgasindhoḥ|</l>
 <l>chinnaṃ kim atra bhavatāṃ <lb n="11"/>yadalīkaśaurya-</l>
 <l>śauṭīryaśātravanikāradaśāṃ sahadhve||38||</l>
+</lg>
 <lg type="verse" xml:id="HV_13_39">
 <l>unmūlitakṣiti<lb n="12"/>bhṛtāṃ sahasā sahelaṃ</l>
 <l>suskandhatāṃ ca dadhatām apareritānām_|</l>
@@ -6037,6 +6039,7 @@ iti śrīmahākavirājānuratnākaviracite mahākavye haravijaye <lb n="9"/>dvā
 <l>satvaṃ balād adhikam ity api me vitarkaḥ|</l>
 <l>siṃho nipāta<lb n="4"/>yati caṇḍacapeṭayaiva</l>
 <l>pṛṣṭhena tūdvahati kuñjaram aṣṭapādaḥ||47||</l>
+</lg>
 <lg type="verse" xml:id="HV_13_48">
 <l>gaṃbhīraśiñjita<lb n="5"/>ravaśravaṇotthabhīti</l>
 <l>na śyat kuraṅgakakulasya karālamūrteḥ|</l>
@@ -6729,6 +6732,7 @@ daśabhiḥ kulakam_||
 <lg type="verse" xml:id="HV_15_48">
 <l>bhuvanapralayeṣu somasūryajvalanāneka<lb n="20"/>marudgaṇā viśantaḥ|</l>
 <l>pṛthuvaktragabhīratālumūlaṃ bahudhā viśvasṛjo mayāsya dṛ<lb n="21"/>ṣṭāḥ||48||</l>
+</lg>
 <lg type="verse" xml:id="HV_15_49">
 <l>avipannavibhāvasūcitatvaṃ dadhad uddīpitamīnaketu cakṣuḥ|</l>
 <l>śriya<lb n="22"/>m āpadam uṣya citrabhedasphuṭaśṛṅgārarasaprabandhakalpam_||49||</l>
@@ -6747,7 +6751,7 @@ daśabhiḥ kulakam_||
 </lg>
 <lg type="verse" xml:id="HV_15_53">
 <l>namucipramadālatā<lb n="3"/>su yasya smirapuṣpodgamaśobhitāṃ dadhānāḥ|</l>
-<l>kuliśāgniśikhāhatā ivaite na yayu<lb n="4"/>r vibhramapallavāḥ praroham_||choice><orig>6</orig><corr>5</corr></choice>3|</l>
+<l>kuliśāgniśikhāhatā ivaite na yayu<lb n="4"/>r vibhramapallavāḥ praroham_||<choice><orig>6</orig><corr>5</corr></choice>3|</l>
 </lg>
 <lg type="verse" xml:id="HV_15_54">
 <l>avadhīritaghoravajravahner namucer niṣṭhurakaṇṭha<lb n="5"/>pīṭhamūlam_</l>
@@ -6781,6 +6785,7 @@ daśabhiḥ kulakam_||
 <lg type="verse" xml:id="HV_15_60">
 <l>iti ḍāmaramastu maiva tāvasvarakarṇoḍḍumarapraṇādaca<lb n="15"/>ṇḍam_|</l>
 <l>raṇasindhutaraṇḍabāhudaṇḍā ripulakṣmīharaṇe bhaṭāḥ kramantām_||60||</l>
+</lg>
 <!--
 <lg type="verse" xml:id="HV_15_61">
 <l><lb n="16"/>rathakuñjaravājipattisainyaṃ prathatāṃ dikṣu rasātalodaraṃ vaḥ|</l>
