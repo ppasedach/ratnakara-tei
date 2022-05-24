@@ -22014,53 +22014,57 @@ cha ||
 iti śrībālabṛhaspatyanujīvino vāgīśvarāṃkasya kave ratnākarasya kṛtau haravi<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>jaye mahākāvye devadevapratiṣṭhāpano nāma paṃcāśaḥ sargaḥ||
 </p>
 </div>
-<!--
 <div n="prasasti" type="chapter">
-<p>(granthakartuḥ praśastiḥ|)</p>
+<p>
+[floral] || cha ||
+</p>
 <lg type="verse" xml:id="HV_P_1">
 <l>śrīdurgadattanijavaṃśahimādrisānu-</l>
-<l>gaṅgāhradāśrayasutāmṛtabhānusūnuḥ|</l>
-<l>ratnākaro lalitabandham idaṃ vyadhatta</l>
-<l>candrārdhacūlacaritāśrayacāru kāvyam||1||</l>
+<l>gaṃgāhradodayasutāmṛtabhānusūnuḥ|</l>
+<l>ratnāka<g rend="deleted daṇḍa">¦</g><lb n="3"/>ro lalitabaṃdham idaṃ vyadhatta</l>
+<l>caṃdrāvatūlacaritasrayacāru kāvyaṃ||</l>
 </lg>
-<p>sa kila kavirevamuktavān-</p>
+<p>
+sa kila kavir evam uktavān||
+</p>
 <lg type="verse" xml:id="HV_P_2">
-<l>lalitamadhurāḥ sālaṃkārāḥ prasādamanoramā</l>
-<l>vikaṭayamakaśleṣoddhāraprabandhanirargalāḥ|</l>
-<l>asadṛśagatīś citre mārge mamodgirato giro</l>
-<l>na khalu nṛpate ceto vācaspater api śaṅkate||2||</l>
+<l>lalitamadhurāḥ sālaṃkārāḥ prasādamanoramāḥ</l>
+<l>vika<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>ṭajamakaśleṣodāraprabaṃdhanirargalāḥ|</l>
+<l>asadṛśagatīś citre mārge samudgirate giro</l>
+<l>na khalu nṛpaceto vācaspater api śaṃkate||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_3">
-<l>sāndrānandāmṛtarasaparispandaniḥsyandinīnā-</l>
-<l>m asmadvācām atiśayajuṣāṃ vastutattvābhidhāne|</l>
-<l>prauḍhajyotsnādhavalavikasaddigvadhūkarṇapūra-</l>
-<l>brahmastambhastabakayaśasāṃ ko 'pi ṭāṅkāraṭaṅkaḥ||3||</l>
-</lg>
+<l>sāṃdrānaṃdā<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>mṛtarasaparisyaṃdavisyaṃdinīnām</l>
+<l>asmadvācām atisayajuṣāṃ vastutatvābhidhāne|</l>
+<l>prauḍhājyotsnādhavalavikasaddigvadhūkarṇṇapūra-</l>
+<l>brahmastabakayaśasāṃ ko 'pi <lb n="4"/>ṭaṃkāraṭaṃkaḥ||</l>
+</lg
 <lg type="verse" xml:id="HV_P_4">
-<l>dhārākāvyaprabandhapraṇihitaparamaḥ śrotrapeyā kavīnāṃ</l>
-<l>bhāṣāṣaṭke 'pi yasya kvacid api na gatā bhāratī bhāravattvam|</l>
-<pb n="706" />
-<l>prāptajñeyāvasānasphuradamalataraprāptibhajñānasaṃpa-</l>
-<l>t so 'haṃ ratnākaras te sadasi kṛtapadaḥ kṣmāpa vāgīśvarāṅkaḥ||4||</l>
+<l>nānākāvyaprabaṃdhapraṇihitamanasaḥ śrotrapeyaḥ kavīnāṃ</l>
+<l>bhāṣāpaṃke 'pi yasya kvacid api na gatā bhāratī bhaṃguratvaṃ|</l>
+<l>prāptajñeyāvasā<space type="binding-hole"/>rddhasphuradamalataraprātibhajñānasaṃpat_</l>
+<l>so 'haṃ ratnākaras te sadasi kṛtapadaḥ kṣmāpa vāgīśvarāṃkaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_5">
-<l>yasyodaye 'ndhatamasaṃ dadhato (dahato) viśuddhi-</l>
-<l>r āvirbhavaty aniśam eva jalāśayānām|</l>
-<l>tadgrastavāṅmayasamudram avehi rāja-</l>
-<l>n ratnākaraṃ ravim athainam agastyam aurvam||5||</l>
+<l>yasyodaye 'ndhatamasannudato viśu<g rend="deleted daṇḍa">¦</g><space type="binding-hole"/>ddhir</l>
+<l>āvirbhavaty aniśam eva jalāśayānāṃ|</l>
+<l>udgrastavāṅmayasamudram avaihi rāja</l>
+<l>ratnākaraṃ sadasisādyam agastyam aurvyaṃ|| ꣹</l>
 </lg>
 <lg type="verse" xml:id="HV_P_6">
-<l>dṛbdhaṃ satprajñakair yan na jagati kavibhir vastu tan nāsti kiṃci-</l>
-<l>t kṣuṇṇe kṣuṇṇatvacintā gahanaviṣayatā tasya dūrāstu tāvat|</l>
-<l>tanmandābhipragalbhaprasaragurugirām agraṇīr bāṇa eko</l>
-<l>rājan ratnākaraś ca jvalanavadavanau jājvalīti dvitīyaḥ||6||</l>
+<l><!--dṛbdhaṃ satprajñakair yan na jagati kavibhir vastu tan nāsti kiṃcit--></l>
+<l><pb n="107b"/><unclear reason="defect">kṣu</unclear>nno 'kṣunnatvabhinnā gahanaviṣayatā tasya dūre 'stu tāvat<!--XXX not t_ but tta; one t belongs to tāvat though XXX--><add rend="line above">|</add></l>
+<l>tatsaṃdarbhapragalbhaprasaragurugirā<space type="binding-hole"/>m agraṇī bāṇa eko</l>
+<l>rājan_ ratnākaraś ca jvalanavadananau jājvalīti dvitīyaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_P_7">
-<l>haravijayamahākaveḥ pratijñāṃ śṛṇuta kṛtapraṇayo mama prabandhe|</l>
-<l>api śiśur akaviḥ kaviḥ prabhāvād bhavati kaviś ca mahākaviḥ krameṇa||7||</l>
+<l><!--haravijayamahākaveḥ pratijñāṃ śṛṇuta kṛtapraṇayo mama prabandhe|--></l>
+<l><!--api śiśur akaviḥ kaviḥ prabhāvād bhavati kaviś ca mahākaviḥ krameṇa||7||--></l>
 </lg>
+<p>
+[floral] || iti haravijayaṃ nāma mahākāvyaṃ samāptaṃ || [floral] || cha ||<space type="binding-hole"/> maṃ<unclear reason="defect">galamahā</unclear>śrīḥ || [floral] || saṃvat_ 1228 vaiśākhasudi 1 ady<unclear reason="defect">e</unclear>ha śrīmadaṇahilapāṭakasthitena vividha lipijñena paṃḍitasūpaṭena likhitam iti || [floral] || cha ||
+</p>
 </div>
--->
     </body>
   </text>
 </TEI>
