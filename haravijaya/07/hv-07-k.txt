@@ -1,56 +1,57 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Kāvyamālā</title>
+        <title>[Etext Acharya]</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
+            <placeName>
+              <settlement/>
+              <region/>
+              <country/>
+            </placeName>
+            <institution/>
+            <repository/>
+            <collection/>
+            <idno/>
+            <idno type="NCC"/>
             <idno type="siglum">K</idno>
           </msIdentifier>
           <msContents>
-            <summary>Kāvyamālā Edition of the Haravijaya. Transcript based on an old e-text from Diwakar and Rabi Acharya.</summary>
+            <summary>[description of manuscript]</summary>
             <msItem n="1" defective="true">
             <!-- @defective: 'false' for complete, 'true' for incomplete -->
-              <author xml:lang="sa" role="author">Ratnākara</author>
+              <author xml:lang="sa" role="author">[author]</author>
+              <author xml:lang="sa" role="commentator">[commentator]</author>
               <title xml:lang="sa">Haravijaya</title>
+              <title xml:lang="sa" type="commentary">[title of commentary]</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī script.</textLang>
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
           <physDesc>
-            <objectDesc form="book">
+            <objectDesc form="e-text">
             <!-- @form can be "pothi", "book", scroll", etc. -->
-              <supportDesc material="paper">
-              <extent>
-              <measure quantity="708" unit="pages" />
-              </extent>
-</supportDesc>
+              <supportDesc material="digital">Digital</supportDesc>
             </objectDesc>
           </physDesc>
           <history>
             <origin>
-              <origDate calendar="CE" when="1890">1890</origDate>
+              <origDate calendar="CE" when="unclear">unclear</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-              <origPlace xml:lang="en">Bombay</origPlace>
+              <origPlace xml:lang="en"/>
             </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
           </history>
         </msDesc>
-      <publicationStmt>
-      <date calendar="Gregorian">1890</date>
-      <publisher>Nirṇaya-Sāgara Press</publisher>
-      <pubPlace>Bombay</pubPlace>
-      <series>
-      <title level="s">Kāvyamālā</title>
-      <biblScope>22</biblScope>
-      </series>
-      </publicationStmt>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2020-05-31">
+      <change when="2020-05-19">
         <persName>Peter Pasedach</persName>
       </change>
     </revisionDesc>

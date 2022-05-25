@@ -1,56 +1,57 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Kāvyamālā</title>
+        <title>[Etext Acharya]</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
+            <placeName>
+              <settlement/>
+              <region/>
+              <country/>
+            </placeName>
+            <institution/>
+            <repository/>
+            <collection/>
+            <idno/>
+            <idno type="NCC"/>
             <idno type="siglum">K</idno>
           </msIdentifier>
           <msContents>
-            <summary>Kāvyamālā Edition of the Haravijaya. Transcript based on an old e-text from Diwakar and Rabi Acharya.</summary>
+            <summary>[description of manuscript]</summary>
             <msItem n="1" defective="true">
             <!-- @defective: 'false' for complete, 'true' for incomplete -->
-              <author xml:lang="sa" role="author">Ratnākara</author>
+              <author xml:lang="sa" role="author">[author]</author>
+              <author xml:lang="sa" role="commentator">[commentator]</author>
               <title xml:lang="sa">Haravijaya</title>
+              <title xml:lang="sa" type="commentary">[title of commentary]</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī script.</textLang>
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
           <physDesc>
-            <objectDesc form="book">
+            <objectDesc form="e-text">
             <!-- @form can be "pothi", "book", scroll", etc. -->
-              <supportDesc material="paper">
-              <extent>
-              <measure quantity="708" unit="pages" />
-              </extent>
-</supportDesc>
+              <supportDesc material="digital">Digital</supportDesc>
             </objectDesc>
           </physDesc>
           <history>
             <origin>
-              <origDate calendar="CE" when="1890">1890</origDate>
+              <origDate calendar="CE" when="unclear">unclear</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-              <origPlace xml:lang="en">Bombay</origPlace>
+              <origPlace xml:lang="en"/>
             </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
           </history>
         </msDesc>
-      <publicationStmt>
-      <date calendar="Gregorian">1890</date>
-      <publisher>Nirṇaya-Sāgara Press</publisher>
-      <pubPlace>Bombay</pubPlace>
-      <series>
-      <title level="s">Kāvyamālā</title>
-      <biblScope>22</biblScope>
-      </series>
-      </publicationStmt>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2020-05-31">
+      <change when="2020-05-19">
         <persName>Peter Pasedach</persName>
       </change>
     </revisionDesc>
@@ -84,13 +85,13 @@ ekacatvāriṃśaḥ sargaḥ
 <l>sphuṭamaṇipariṇāhaprasphuratpuṣkaraśrī-</l>
 <l>rdrutamupari niyantrā hantumutkṣipyamāṇaḥ|</l>
 <l>udayagiriśikhāgrādūravartyarkabimba-</l>
-<l>śriyamatanumatānīḍḍiṇḍimaḥ kuñjarasya||4||</l>
+<l>śriyam atanumatānīḍḍiṇḍimaḥ kuñjarasya||4||</l>
 </lg>
 <pb n="528"/>
 <lg type="verse" xml:id="HV_41_5">
 <l>pratigajamadagandhāgrāṇahelāvyudastaḥ</l>
 <l>sphuradudaraniviṣṭaspaṣṭarekho 'grahastaḥ|</l>
-<l>śriyamabhṛta kareṇornākasaṃrohaṇāya</l>
+<l>śriyam abhṛta kareṇornākasaṃrohaṇāya</l>
 <l>drutamiva subhaṭānāṃ baddhasopānapaṅktiḥ||5||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_6">
@@ -106,14 +107,14 @@ ekacatvāriṃśaḥ sargaḥ
 <l>bahuguṇamapi manye doṣahetuṃ kadācit||7||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_8">
-<l>śriyamatanuta rakṣābhūtivinyāsapāṇḍuḥ</l>
+<l>śriyam atanuta rakṣābhūtivinyāsapāṇḍuḥ</l>
 <l>sapadi madajalena ścyotatā saptadhorvyām|</l>
 <l>dviradapatiranīcairvisphuradgaṇḍaśaila-</l>
 <l>stridaśanagaragaṅgāsrotasevārkaśailaḥ||8||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_9">
 <l>dadhurabhinavalākṣārañjitaiścāmaraughaiḥ</l>
-<l>śriyamanukṛtavātyāraṃhasaḥ sainikānām|</l>
+<l>śriyam anukṛtavātyāraṃhasaḥ sainikānām|</l>
 <l>khuraśikharanipātakṣudyamānākhilorvī-</l>
 <l>janitaśikhiśikhaughāśliṣṭarūpā ivāśvāḥ||9||</l>
 </lg>
@@ -345,7 +346,7 @@ ekacatvāriṃśaḥ sargaḥ
 <l>anukṛtagiriśṛṅgābhogagaṇḍasthalāgra-</l>
 <l>skhalitavikaṭabhasvattāranakṣatramālā|</l>
 <l>srutamadajalalekhābimbitā vāraṇānāṃ</l>
-<l>śriyamatanuta tārāpaṅktirārātphurantī||46||</l>
+<l>śriyam atanuta tārāpaṅktirārātphurantī||46||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_47">
 <l>śravaṇaśikharabhūṣācāmarānmā sma dhākṣī-</l>
@@ -357,7 +358,7 @@ ekacatvāriṃśaḥ sargaḥ
 <l>churitasurapathāsuttuṅgakumbhasthalīṣu</l>
 <l>śravaṇadhutihatābhi'scīnapiṣṭacchaṭābhiḥ|</l>
 <l>kṣaṇaghaṭanavilolā nākanakṣatramālāḥ</l>
-<l>śriyamananṛtamayyastenire vāraṇānām||48||</l>
+<l>śriyam ananṛtamayyastenire vāraṇānām||48||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_49">
 <l>vikaṭakanakakakṣyādāmasaudāminīkaṃ</l>
@@ -407,7 +408,7 @@ ekacatvāriṃśaḥ sargaḥ
 <l>vikaṭaśikharalagnāḥ ketudaṇḍāvalīṣu</l>
 <l>sphuritavividharatnacchāyakalmāṣabhāsaḥ|</l>
 <l>navajaladharakhaṇḍāḥ kekipicchātapatra-</l>
-<l>śriyamadadhuradhastādgacchatāṃ sainikānām||56||</l>
+<l>śriyam adadhuradhastādgacchatāṃ sainikānām||56||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_57">
 <l>sphuritamaṇikirīṭagranthigarbhāntarāla-</l>
@@ -418,7 +419,7 @@ ekacatvāriṃśaḥ sargaḥ
 <lg type="verse" xml:id="HV_41_58">
 <l>rathaturagakhurāgrakṣudyamānātpurastā-</l>
 <l>tpratipadamuḍucakrādutthitā dhūlilekhā|</l>
-<l>śriyamatanuta muktāvālukāyāstadānīṃ</l>
+<l>śriyam atanuta muktāvālukāyāstadānīṃ</l>
 <l>gaganamakarasadmanyaśnuvānā digantān||58||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_59">
@@ -441,7 +442,7 @@ ekacatvāriṃśaḥ sargaḥ
 <l>kṣitidharapatilīlāṃ bibhradabhraṃkaṣaśrīḥ||61||</l>
 </lg>
 <lg type="verse" xml:id="HV_41_62">
-<l>śriyamabhṛta purastādindumaulestadānīṃ</l>
+<l>śriyam abhṛta purastādindumaulestadānīṃ</l>
 <l>gaṇapatirativegātprasthito nākamārgam|</l>
 <l>dadhadaparamivendorbhāgamuṣṇīṣabhājaḥ</l>
 <l>paraśumukhamamandollāsanāśāritābhram||62||</l>
