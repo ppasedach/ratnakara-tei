@@ -5,7 +5,8 @@
 # copy of the text that we'll actually be working from.
 
 #mss=(stein-189 k)
-mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay sn-757 p k)
+#mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay sn-757 p k)
+mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p k)
 
 #ms="stein-189"
 #text="hvvu"
@@ -128,9 +129,11 @@ echo "    <body>" >> $text-$i-$ms.txt
 function build-chapters {
 for i in ${cantos[*]}
 do
+echo "Building $i"
 cd ../$i 
 build-beginning
 #cat ../templates/template-beginning-$ms.xml > $text-$i-$ms.txt
+#echo 'xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:div[@n=\"$i\"]" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt'
 xmlstarlet sel -N x="http://www.tei-c.org/ns/1.0" -t -c "//x:div[@n=\"$i\"]" ../all/$text-all-$ms.xml >> $text-$i-$ms.txt
 cat ../templates/template-end.xml >> $text-$i-$ms.txt
 done

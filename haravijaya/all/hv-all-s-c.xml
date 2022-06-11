@@ -30,6 +30,7 @@
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
               <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+              <filiation corresp="#HV-only">HV-only</filiation>
             </msItem>
           </msContents>
           <physDesc>
