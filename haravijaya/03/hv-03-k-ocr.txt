@@ -496,7 +496,7 @@ kāvyamālā |
 <l>stanitabhītapuraṃdhrinigūhanasthitimato 'timato 'bhidadhau ghanaḥ || 54||</l>
 </lg>
 <p xml:id="HVVU_03_54">nigūhanena sthitimataḥ sukhitān
-<pb/>ittham iva ravais taruṇānambudo 'bhyadhyāt | abhimato 'tīvābhipretaḥ | samāgamakāraṇatvāt
+<pb/>ittham iva ravais taruṇān ambudo 'bhyadhyāt | abhimato 'tīvābhipretaḥ | samāgamakāraṇatvāt
 ||54 || </p>
 <lg type="verse" xml:id="HV_03_55">
 <l>navadaladvayaśobhi ghanāgamaśriya ivābharaṇaṃ śravaṇāśrayam |</l>
@@ -622,7 +622,7 @@ vanaṃ gṛhītavatāṃ bhramarāṇām alasatā kvacin nāsīt | kasumam apy 
 racitasthiti kṛtāvasthānam | ṛtuḥ prāpto 'sya ārtavam | ‘ṛtor aṇa’ ity aṇa | lasatāṃ
 krīḍatām || 70 || </p>
 <lg type="verse" xml:id="HV_03_71">
-<l>na khalu bāṇagaṇena śarāsanaśriyamṛtor dadhatā vitathākhyatā |</l>
+<l>na khalu bāṇagaṇena śarāsanaśriyam ṛtor dadhatā vitathākhyatā |</l>
 <l>priyaviyuktapuraṃdhrimanobhidā balavatālavatāpakṛtā dadhe || 71||</l>
 </lg>
 <p xml:id="HVVU_03_71">vitathā niṣphalā ākhyā pratītir yeṣāṃ tadbhāvo bāṇākhyakusumasa-
