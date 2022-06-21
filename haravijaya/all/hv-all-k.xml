@@ -11296,31 +11296,39 @@ sargaḥ|
 </div>
 <div n="26" type="chapter">
 <p>
-ṣaḍiśaḥ sargaḥ.
+ṣaḍviṃśaḥ sargaḥ |
 </p>
 <lg type="verse" xml:id="HV_26_1">
-<l>ityāgatāḥ kalitacandrakalāprakāśa-</l>
-<l>karpūravāsasurabhīṇyanukūlavṛttīḥ |</l>
+<l>ity āgatāḥ kalitacandrakalāprakāśa-</l>
+<l>karpūravāsasurabhīṇy anukūlavṛttīḥ |</l>
 <l>premāmṛtārdramanaso dayitā madhūni</l>
-<l>nīlāravindaśabalāni vadhūrapīpyan || 1 ||</l>
+<l>nīlāravindaśabalāni vadhūr apīpyan || 1 ||</l>
 </lg>
+<p xml:id="HVVU_26_1">
+<lb/>iti dūtīvacanād āgatāḥ preyāṃso madyāni vadhūr apīpyan pāyayāmāsuḥ | pibateś caṅ pare
+<lb/>ṇau ‘lopaḥ pibater īccābhyāsasya’ <!-- XXX citation Aṣṭādhyāyī 7.4.4 XXX --> ity upadhālope 'bhyāsasya cettvekṛte 'pīpyann iti rūpam || 1 ||
+ </p>
 <lg type="verse" xml:id="HV_26_2">
 <l>udgrīvarājatavarāvaravīsalīla-</l>
-<l>haṃsīsanāthaśuciśuktiśataikadeśā|</l>
+<l>haṃsīsanāthaśuciśuktiśataikadeśā |</l>
 <l>āpānabhūmir amarādritaraṅgiṇīva</l>
 <l>lakṣmīṃ tadātanuta kāñcanavālukābhiḥ || 2 ||</l>
 </lg>
+<p xml:id="HVVU_26_2">
+<lb/>āvaravyaḥ kalikā iti prasiddhā madhukalaśikāḥ | tā api salīlahaṃsīvad udgrīvāḥ | śu-
+<lb/>ktayaḥ pānapātrāṇi prāṇiviśeṣāś ca | ālukābhir madyadhānībhiḥ kāṃ vā lakṣmīṃ nātanuta sa-
+<lb/>rvām eva tene | vāśabdaḥ pūrvaślokāpekṣayā vākyāntarasamuccaye | anyatra kāñcanamayobhir vālu-
+<pb n="325"/>
+kābhiḥ sikatābhir ity arthaḥ || 2 ||
+</p>
+
 <lg type="verse" xml:id="HV_26_3">
 <l>indoḥ kalā iva vikāsavatīḥ pṛthaktva-</l>
 <l>m abhyāgatā nipatitāḥ katham apy athorvyām |</l>
+<pb n="325"/>
 <!--
 pulakainālaṃkṛtatvādapūrvatā || 71 || iti rājānakajayānakasūnoralakasya kṛtau haravijaya-
 viṣamapadohayote pañcaviṃśaḥ sargaḥ ||
-iti datīvacanādāgatāḥ preyāṃso madyāni vadharapīpyan pāyayāmāsuḥ| pivateścapare
-ṇau lopaḥ pibaterīcābhyāsasya' ityupadhālope'bhyāsasya cettvekṛte'pīpyaniti rūpam||1||
-āvaravyaḥ kalikā iti prasiddhā madhukalaśikāḥ | tā api salīlahaṃsovadrīvāḥ | śu-
-ktayaḥ pānapātrāṇi prāṇiviśeṣāśca | ālukābhirmadyadhānībhiḥ kāṃ vā lakṣmī nātanata sa|
-vāmeva tene | vāśabdaḥ pūrvaślokāpekṣayā vākyāntarasamuccaye | anyatra kāñcanamayobhirvāla-
 
 Page 331****************************************************************************************
 26 sargaḥ
@@ -11330,43 +11338,56 @@ haravijayam |
 <l>śuktir janā maṇimayīr gṛhur vidhūta-</l>
 <l>roṣāḥ pipāvayiṣavo 'tha vadhūni yoṣāḥ || 3 ||</l>
 </lg>
+<p xml:id="HVVU_26_3">
+ 3 ||
+</p>
 <lg type="verse" xml:id="HV_26_4">
 <l>tāsām adṛṣṭacarapārvaṇacandramukta-</l>
 <l>nidrāravindaghaṭanāsadṛśatvam āptāḥ |</l>
 <l>līlāgṛhītamadhupūrapiśaṅgaratna-</l>
-<l> koṣāḥ karāḥ śriyam atha prathayāṃbabhūvuḥ || 4 ||</l>
+<l>koṣāḥ karāḥ śriyam atha prathayāṃbabhūvuḥ || 4 ||</l>
 </lg>
+<p xml:id="HVVU_26_4">
+adṛṣṭacarī pūrvam adṛṣṭā | ‘bhūtapūrva caraṭ’ <!-- XXX citation Aṣṭādhyāyī 5.3.53 XXX -->| ko-
+<lb/>paś caṣakam || 4 || 
+</p>
 <lg type="verse" xml:id="HV_26_5">
 <l>kiṃ kāryam atra bhavatā vijahīhi cāpa-</l>
 <l>m ity abhyadhād iva rutair madanaṃ dvirephaḥ|</l>
 <l>raṅgattaraṅgataralotpalagarbharatna-</l>
 <l>pārīvikīrṇasahakārasaharṣacetāḥ || 5 ||</l>
 </lg>
+<p xml:id="HVVU_26_5">raṅgac calat | pārī pānapātram || 5||</p> 
 <lg type="verse" xml:id="HV_26_6">
 <l>pratyagraśoṇamaṇiśuktitalena śīdhu-</l>
 <l>dhārāṃ vadhūḥ karakato madhurābhirāmām |</l>
 <l>jagrāha pāṭalapalāśamukhena bāla-</l>
 <l>sūryāṃśurājim iva paṅkajinī patantīm || 6 ||</l>
 </lg>
+<p xml:id="HVVU_26_6">
+karako madhukalaśa: || 6 ||
+</p>
 <lg type="verse" xml:id="HV_26_7">
 <l>utkṣipyamāṇakanakāvaravīvikīrṇa-</l>
 <l>maireyarecakarayākularatnakoṣaiḥ|</l>
 <l>strīṇāṃ vikāsinavatāmarasābhirāma-</l>
 <l>rūpair atāmi sukumāratayā karāgraiḥ || 7 ||</l>
 </lg>
+<p xml:id="HVVU_26_7">
+<lb/>maireyaṃ madhuviśeṣaḥ | recako bhramaṇam || 7 ||
+</p>
 <lg type="verse" xml:id="HV_26_8">
 <l>saṃpādyate bhṛśam anena mamāvataṃsa-</l>
 <l>cchāyeti ratnakarakānnipatanramaṇyāḥ |</l>
 <l>vyāvṛtibhiś caṣakamadhyajuṣaś cakāra</l>
 <l>śīdhuḥ pradakṣiṇam iva kṣaṇam utpalasya || 8 ||</l>
 </lg>
+<p xml:id="HVVU_26_8"> 8||</p> 
 <lg type="verse" xml:id="HV_26_9">
 <l>asyā jito 'pi niravadyamukhendunā tvaṃ</l>
 <l>tiṣṭhan puro na kim apatrapase sadoṣaḥ|</l>
+<pb n="326"/>
 <!--
-kābhiḥ sikatābhirityarthaḥ || 2 || 3 || adṛṣṭacarī pūrvamadṛṣṭā | 'bhūtapūrva caraṭ | ko|
-paścaṣakam || 4 || ragaccalat | pārī pānapātram || 5|| karako madhukalaśa: || 6 ||
-mereyaṃ madhaviśeṣaḥ | recako bhramaṇam || 7 || 8|| niravadyo niṣkalaṅkaḥ | sadoṣaḥ saka
 
 Page 332****************************************************************************************
 kāvyamālā|
@@ -11374,6 +11395,10 @@ kāvyamālā|
 <l>ityutpale kalaravair iva huṃ cakāra</l>
 <l>bhṛṅgaḥ saśīdhucaṣakapratibimbacandram || 9||</l>
 </lg>
+<p xml:id="HVVU_26_9">
+niravadyo niṣkalaṅkaḥ | sadoṣaḥ saka-
+<pb n="326"/>
+laṅkaḥ sarātriś ca || 9 ||</p>
 <lg type="verse" xml:id="HV_26_10">
 <l>pītaḥ kalaṅkakaluṣaḥ saha śīdhunāya-</l>
 <l>m indur mano malinayiṣyati mā tavāccham |</l>
@@ -11406,7 +11431,7 @@ kāvyamālā|
 </lg>
 <!--
 |
-laṅkaḥ sarātriśca ||9||10 | kāṃsyaṃ caṣakameva koṣaḥ kalikā yasya || 11 || aṅga-
+10 | kāṃsyaṃ caṣakameva koṣaḥ kalikā yasya || 11 || aṅga-
 libhistaraṅgitaḥ surāpūro yatra tathā kṛtvā caṣakaprativimbitaśaśimūrtimunmāṣṭumabhilaṣantī
 āyasyati sma saṃrabdhā babhūva || 12 || śītalarajaḥ karpūrapāṃsuḥ | laghutvādūrdhvamaploṣata -
 tāni || 13 || madhuraiḥ svādubhimanojñaiśca añcitairmanoharairdīdhaiśca pakṣmabhiḥ kesarailŏmabhiśca
