@@ -1,22 +1,22 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Kāvyamālā</title>
+        <title>Kāvyamālā 22, OCR</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <placeName>
-              <settlement></settlement>
-              <region></region>
-              <country></country>
+              <settlement/>
+              <region/>
+              <country/>
             </placeName>
-            <institution></institution>
-            <repository></repository>
-            <collection></collection>
-            <idno></idno>
-            <idno type="NCC"></idno>
+            <institution/>
+            <repository/>
+            <collection/>
+            <idno/>
+            <idno type="NCC"/>
             <idno type="siglum">K<sub>OCR</sub></idno>
           </msIdentifier>
           <msContents>
@@ -42,7 +42,7 @@
             <origin>
               <origDate calendar="CE" when="unclear">unclear</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-              <origPlace xml:lang="en"></origPlace>
+              <origPlace xml:lang="en"/>
             </origin>
             <provenance>[record of ownership]</provenance>
             <acquisition>[how it was acquired]</acquisition>
@@ -746,7 +746,7 @@ ttham iva kundaṃ tapasi māghe 'bhyadhāt | hasad vikasat || 86 || </p>
 <l>dayitakaṇṭhagatā api visphuṭannavalavaṅgasamīrahatāḥ striyaḥ |</l>
 <l>himaṛtor udakaṇṭhiṣatodayādaraśanai raśanair jaghanaiś citāḥ || 87 ||</l>
 </lg>
-<p xml:id="HVVU_03_87">himarto rudayāt aśa-
+<p xml:id="HVVU_03_87">himartor udayāt aśa-
 nair amandaṃ aṅganā udakaṇṭhiṣata sotkaṇṭhā jātāḥ | lavaṅgaṃ puṣpabhedaḥ | araśanaiḥ śītava-
 śān mekhalāśūnyaiḥ || 87 || </p>
 <lg type="verse" xml:id="HV_03_88">

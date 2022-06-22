@@ -5,8 +5,8 @@
 # copy of the text that we'll actually be working from.
 
 #mss=(stein-189 k)
-#mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay sn-757 p k)
-mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p k)
+#mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay sn-757 p k j)
+mss=(stein-189 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p k j jodhpur k-ocr s-c)
 
 #ms="stein-189"
 #text="hvvu"
@@ -35,6 +35,12 @@ case $ms in
     cantos=(03)
     text="hv"
     echo "I just did jammu-797."
+    ;;
+
+  k-ocr)
+    cantos=(03)
+    text="hv"
+    echo "I just did k-ocr."
     ;;
 
   jammu-495)
@@ -67,6 +73,11 @@ case $ms in
     echo "I just did bori-486-1887-91."
     ;;
 
+  j)
+    cantos=(01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 prasasti)
+    text="hv"
+    echo "I just did Jaisalmer."
+    ;;
 
   k)
     cantos=(01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 prasasti)
@@ -109,6 +120,18 @@ case $ms in
     cantos=(01 02 03 06 47)
     text="hv"
     echo "I just did P."
+    ;;
+
+  jodhpur)
+    cantos=(01 03 47)
+    text="hv"
+    echo "I just did Jodhpur."
+    ;;
+
+  s-c)
+    cantos=(`seq -w 24; echo 47`)
+    text="hv"
+    echo "I just did s-c."
     ;;
 
   *)
