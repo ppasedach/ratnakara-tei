@@ -3400,7 +3400,8 @@ haravijayam |
 
 <!--
 Page 331****************************************************************************************
-26 sargaḥ
+
+26 sargaḥ]
 haravijayam |
 325
 -->
@@ -3464,7 +3465,8 @@ haravijayam |
 
 <!--
 Page 332****************************************************************************************
-326 kāvyamālā|
+
+326 kāvyamālā |
 -->
 
 <pb n="326"/>
@@ -3529,102 +3531,139 @@ Page 332************************************************************************
 
 <!--
 Page 333****************************************************************************************
-26 sargaḥ
+
+26 sargaḥ]
 haravijayam |
 327
 -->
 
-<!--XXX continue here XXX-->
 <lg type="verse" xml:id="HV_26_15">
 <l>niḥśvāsavātadhutaśīdhutaraṅgaraṅgi</l>
 <l>tasthau prasāritaviloladalaṃ taruṇyāḥ |</l>
 <l>tatsaurabhātiśayavāsanam ātmamūrte-</l>
 <l>r ādhātum utpalam ivāsavabhājanāgre || 15 ||</l>
 </lg>
+<p xml:id="HVVU_26_15">
+  teṣāṃ niḥśvāsānāṃ saurabhasya yo 'tiśayas tena vāsanaṃ saṃskāram iva
+<lb n="2"/>kartum agre 'tiṣṭhat | ivaśabdasya bhinnakramatve yuktir uktā || 15 ||
+</p>
 <lg type="verse" xml:id="HV_26_16">
 <l>tvatsaṃnidhiglapitaśobhatayā mayātra</l>
 <l>kaṣṭaṃ vataṃsaparabhāgarucir na labdhā |</l>
 <l>ity abhyadhād iva śilīmukhaśiñjitena</l>
 <l>nīlotpalaṃ caṣakabimbitam akṣi vadhvāḥ || 16 ||</l>
 </lg>
+<p xml:id="HVVU_26_16">
+  16 ||
+</p>
 <lg type="verse" xml:id="HV_26_17">
 <l>nārīviniḥśvasitadhūtamadhūrmipūra-</l>
 <l>pāriplavaḥ prapatitaḥ pratimāpadeśāt |</l>
 <l>ātmānam indur asakṛtparivṛtya ratna-</l>
-<l>pāryāmadhāvad iva lagnam alaṃ viśuddhyai || 17 ||</l>
+<l>pāryām adhāvad iva lagnam alaṃ viśuddhyai || 17 ||</l>
 </lg>
+<p xml:id="HVVU_26_17">
+  17||
+</p>
 <lg type="verse" xml:id="HV_26_18">
-<l>anyābhidhāgrahaṇabaddharuṣo'bhibhartṛ</l>
+<l>anyābhidhāgrahaṇabaddharuṣo 'bhibhartṛ</l>
 <l>pārī vilakṣyahasitadyutibhis taruṇyāḥ |</l>
 <l>āplāviteva vibabhau pratibimbavarti-</l>
 <l>śīdhudravīkṛtamṛgāṅkarasacchaṭābhiḥ || 18 ||</l>
 </lg>
+<p xml:id="HVVU_26_18">
+  anyābhi-
+<lb n="3"/>dhā sapatnīnāma | rasacchaṭābhir iva dyutibhir āplāvitā pārī śuśubhe ||18||
+</p>
 <lg type="verse" xml:id="HV_26_19">
 <l>āvarjite sapadi yatra taraṅgabhaṅga-</l>
 <l>dolādhiroharabhasāt sahasodanaṃsīt |</l>
 <l>niḥśeṣite madhuni tatra śuceva jāta-</l>
 <l>saṃkocam utpalam adhomukhatām ayāsīt || 19 ||</l>
 </lg>
+<p xml:id="HVVU_26_19">
+  āvarjitaṃ
+<lb n="4"/>dattam | udanaṃsīd unnanāma | ‘yamaramanamātāṃ sak ca’<!-- XXX citation Aṣṭādhyāyī 7.2.73 XXX --> iti sagiṭau || 19 ||
+</p>
 <lg type="verse" xml:id="HV_26_20">
 <l>vispaṣṭalakṣmaṇi saśīdhutaraṅgaratna-</l>
 <l>pārītalapratimite śaśini priyāyāḥ |</l>
-<!--
-teṣāṃ niḥśvāsānāṃ saurabhasya yo'tiśayastena vāsanaṃ saṃskāramiva
-kartumagre'tiṣṭhat | ivaśabdasya bhinnakramatve yuktiruktā || 15 || 16 ||17|| anyābhi|
-dhā sapatnīnāma | rasacchaṭābhiriva dyutibhirāplāvitā pārī śuśubhe ||18|| āvarjitaṃ
-dattam | udanaṃsīdunnanāma | 'yamaramanamātāṃ sakca' iti sagiṭī ||19|| 20 | candrasya
 
+<!--
 Page 334****************************************************************************************
-328
-kāvyamālā|
+
+328 kāvyamālā |
 -->
+
+<pb n="328"/>
 <l>gaṇḍasthale ca vikacotpalakarṇapūra-</l>
 <l>kalmāṣabhāsi bibhide na janasya dṛṣṭiḥ || 20 ||</l>
 </lg>
+<p xml:id="HVVU_26_20">
+  20 ||
+</p>
 <lg type="verse" xml:id="HV_26_21">
 <l>prāptāvadhūtakamalacchavicandramūrti-</l>
 <l>pādāvamarśasubhagaś caṣakālavāle |</l>
 <l>lakṣmīm aśokaviṭapīva vikāsitāmra-</l>
 <l>vīcicchaṭākisalayo vidadhāra śīdhuḥ || 21 ||</l>
 </lg>
+<p xml:id="HVVU_26_21">
+  candrasya
+<pb n="328"/>
+<lb n="1"/>mūrtiḥ śarīram | candrasyeva mūrtir yasyāḥ sā ca yoṣit | pādāḥ kiraṇāḥ | pādaś caraṇaḥ | avamarśa-
+<lb n="2"/>sparśaḥ | tena prāptena subhagaḥ ||21||
+</p>
 <lg type="verse" xml:id="HV_26_22">
 <l>āliṅgitā prasṛtaraśmibhujaṃ [masāra-</l>
-<l>koṣāntara] pratimitena tuṣārabhāsā |</l>
+<l>koṣāntara]pratimitena tuṣārabhāsā |</l>
 <l>prītyā vikāsinavanīlasarojacakṣuḥ</l>
 <l>sodaryasaṃjanitayeva surā babhūva || 22 ||</l>
 </lg>
+<p xml:id="HVVU_26_22">
+  masāro maṇiviśeṣaḥ | prītyeva vikasvaraṃ kuvalayam eva
+<lb n="3"/>cakṣur yasyāḥ | sodaryaṃ bhrātṛtā | tac ca dvayor api samudrād udgamāt || 22 ||
+</p>
 <lg type="verse" xml:id="HV_26_23">
 <l>kiṃcin nipīya caṣakāt taralāyatākṣyā</l>
 <l>labdhauṣṭhacumbanasukhaḥ pariśeṣitaḥ san |</l>
 <l>śīdhur mudeva surabhiśvasitāvadhūta-</l>
 <l>paryucchvasatsaralavīcibhujo nanarta || 23 ||</l>
 </lg>
+<p xml:id="HVVU_26_23">
+  23 ||
+</p>
 <lg type="verse" xml:id="HV_26_24">
-<l>niḥśeṣite'tha madhuni sphaṭikācchaśukti-</l>
+<l>niḥśeṣite 'tha madhuni sphaṭikācchaśukti-</l>
 <l>garbhād udaiyata śucipratimāpadeśāt |</l>
-<l>saṃvāditārakanavotpalaśobhino'tri-</l>
+<l>saṃvāditārakanavotpalaśobhino 'tri-</l>
 <l>netrodarād iva tuṣāṇakareṇa bhūyaḥ || 24 ||</l>
 </lg>
+<p xml:id="HVVU_26_24">
+  saṃvādinī
+<lb n="4"/>samā tārakā yasya tena tārakāyamāṇenotpalena śobhinaḥ || 24 ||
+</p>
 <lg type="verse" xml:id="HV_26_25">
 <l>sīmantinīvadanapaṅkajadīyamāna-</l>
 <l>gaṇḍūṣaśīdhuni rasād dhṛdayālavāle |</l>
 <l>puṣpāstrabāṇabakulaḥ kamitur babhāra</l>
-<l>paryucchrasanmukuladṛṣṭimanoharatvam || 25 ||</l>
+<l>paryucchvasanmukuladṛṣṭimanoharatvam || 25 ||</l>
 </lg>
-<!--
-pratiḥ śarīram| candrasyeva mūrtiryasyāḥ sā ca yoṣit | pādāḥ kiraṇāḥ| pādaścaraṇaḥ | avamarśa-
-sparśaḥ | tena prāptena subhagaḥ ||21|| masāro maṇiviśeṣaḥ | prītyeva vikasvaraṃ kuvalayameva
-cakṣaryasyāḥ | sodarya bhrātṛtā | tacca dvayorapi samudrādudgamāt || 22 || 23 || saṃvādinī
-samā tārakā yasya tena tārakāyamāṇanotpalena śobhinaḥ || 24 ||babhāreti bharaṇaṃ poṣaṇaṃ
-dhāraṇaṃ ca | mukulākhyā dṛṣṭiḥ | yaduktam-'sphuradāśliṣṭapakṣmāyā mukulordhvapuṭāñcitā|
-sukhāmīlitatārā ca mukulā dṛṣṭiriṣyate ||' mukulānāṃ ca kumalānāṃ dṛṣṭidarśanam||25||
-3
+<p xml:id="HVVU_26_25">
+  babhāreti bharaṇaṃ poṣaṇaṃ
+<lb n="5"/>dhāraṇaṃ ca | mukulākhyā dṛṣṭiḥ | yaduktam_ -<!--XXX special character? XXX--> ‘sphuradāśliṣṭapakṣmāgrā mukulordhvapuṭāñcitā |
+<lb n="6"/>sukhāmīlitatārā ca mukulā dṛṣṭir iṣyate ||’ mukulānāṃ ca kuḍmalānāṃ dṛṣṭir darśanam||25||
+</p>
 
+<!--
 Page 335****************************************************************************************
+
 26 sargaḥ]
 haravijayam |
 329
 -->
+
+<!--XXX continue here XXX-->
 <lg type="verse" xml:id="HV_26_26">
 <l>nālakṣyatātmamaṇibhājanamadhyagaṃ ya-</l>
 <l>tsāvarṇyataḥ sphuṭam alaṃ pratimendubimbam |</l>
