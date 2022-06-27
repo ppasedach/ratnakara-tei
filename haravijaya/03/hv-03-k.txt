@@ -30,6 +30,7 @@
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
               <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+              <filiation corresp="#HV-only">HV-only</filiation> <!-- Well, for the time being.  -->
             </msItem>
           </msContents>
           <physDesc>
@@ -63,11 +64,11 @@
 tṛtīyaḥ sargaḥ|
 </p>
 <lg type="verse" xml:id="HV_03_1">
-<l>atha sa manthagirau sakalakartubhir nijanijaprasavojjvalayā śriyā|</l>
+<l>atha sa manthagirau sakalartubhir nijanijaprasavojjvalayā śriyā|</l>
 <l>samam asevi kadācid upāśrito girijayārijayānaghadordrumaḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
-<l>madhuparājiparājitamāninījanamanaḥsumanaḥ surabhiśriyam|</l>
+<l>madhupa<pc> </pc>rāji<pc> </pc>parājita<pc> </pc>māninī<pc> </pc>jana<pc> </pc>manaḥ<pc> </pc>sumanaḥ<pc> </pc>surabhi<pc> </pc>śriyam|</l>
 <l>ābhṛta vāritavarijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat||2||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">
