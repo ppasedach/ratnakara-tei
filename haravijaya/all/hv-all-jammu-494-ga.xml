@@ -30,6 +30,7 @@
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
               <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī Script</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+              <filiation corresp="#HV-only">HV-only</filiation>
             </msItem>
           </msContents>
           <physDesc>
@@ -64,7 +65,7 @@
 <l>samam asevi kadācid upāśrito girijayā<lb n="6"/>rijayānaghadodrumāḥ||1||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
-<l>madhuparājiparājitamā<lb n="7"/>nanījanamanassumanaḥ sumanassaratiśriyaṃ</l>
+<l>madhupa<pc> </pc>rāji<pc> </pc>parājita<pc> </pc>mā<lb n="7"/>nanī<pc> </pc>jana<pc> </pc>manas<pc> </pc>sumanaḥ<pc> </pc>sumanas<pc> </pc>sarati<pc> </pc>śriyaṃ</l>
 <l>abhra<lb n="8"/>ta vārijavimlavā sphuṭitāt tāmratatāmravanaṃ ja<lb n="9"/>gat|2|</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">

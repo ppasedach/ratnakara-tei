@@ -30,6 +30,7 @@
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
               <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī Script</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+              <filiation corresp="#HV-only">HV-only</filiation>
             </msItem>
           </msContents>
           <physDesc>
@@ -60,11 +61,11 @@
     <body>
 <div n="03" type="chapter">
 <lg type="verse" xml:id="HV_03_1">
-<l><lb n="7"/>atha sa manthagirau sakalakartubhir nijanijaprasavojjvalanā <!--<lb n="5"/>warum?:)-->śriyā</l>
+<l><lb n="7"/>atha sa manthagirau sakalartubhir nijanijaprasavojjvalanā <!--<lb n="5"/>warum?:)-->śriyā</l>
 <l>samam asevi kadācid upāśri<lb n="8"/>to girijayā<!--<lb n="6"/>-->rijayānaghadordrumāḥ 1</l>
 </lg>
 <lg type="verse" xml:id="HV_03_2">
-<l>madhuparājiparājitamānanījanamanassumanas surati<lb n="9"/>śriyam</l>
+<l>madhupa<pc> </pc>rāji<pc> </pc>parājita<pc> </pc>mānanī<pc> </pc>jana<pc> </pc>manas<pc> </pc>sumanas surati<pc> </pc><lb n="9"/>śriyam</l>
 <l>ābhṛta vāritavārijaviplavā sphuṭitātāmratatāmravanaṃ jagat 2</l>
 </lg>
 <lg type="verse" xml:id="HV_03_3">

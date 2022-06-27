@@ -67,14 +67,14 @@
 <lb/><p xml:id="HVVU_03_1">sa devo mandarācale girijayāvalambito yugapad eva sarvartubhir asevyata | prasavāḥ kusumā-
 <lb/>ni | arīṇāṃ vijetṛtvād anaghā acchadmacāriṇo 'pratihatā vā bhujataravo yasya || 1 ||</p>
 <lg type="verse" xml:id="HV_03_2">
-<l><hi rend="superscript">1</hi>madhuparājiparājitamāninījanamanaḥsumanaḥsurabhiśriyam |</l>
+<l><hi rend="superscript">1</hi>madhupa<pc> </pc>rāji<pc> </pc>parājita<pc> </pc>māninī<pc> </pc>jana<pc> </pc>manaḥ<pc> </pc>sumanaḥ<pc> </pc>surabhi<pc> </pc>śriyam |</l>
 <l>abhṛta vāritavārijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat || 2||</l>
 </lg>
 <note>1. udāhṛto 'yaṃ ślokaḥ kāvyaprakāśasya navamollāse yamakaprakaraṇe|</note>
 <lb/><p xml:id="HVVU_03_2">madhupānāṃ rājibhiḥ parājitamanasvinīmanasaḥ sumanasaḥ puṣpāṇi yatra tādṛśaṃ jagat surabher va-
 <lb/>santasya śobhām avahat | sumanobhiḥ surabhi sāmodaṃ jagac chriyaṃ dadhre iti vā yojanā | vi-
 <lb/>plavo bādhaḥ | sphuṭitāni bhinnāni | tatānyāmravaṇāni yatra | ‘vibhāṣauṣadhi-’ ityādi-
-<lb/>nātra nakārasya ṇakāraḥ || 2 ||</p> 
+<lb/>nātra nakārasya ṇakāraḥ || 2 ||</p>
 <lg type="verse" xml:id="HV_03_3">
 <l>drutam apāsya yamena niṣevitām abhinavotkatayeva divākaraḥ |</l>
 <l>diśam aśiśriyad aiḍaviḍāśrayām asumatāṃ sumatāṃ vidadhat sthitim || 3 ||</l>
@@ -204,7 +204,7 @@ kāvyamālā|
 <l>kamalabhūmiṣu mānahatisphuṭaprasarakesaraketuśate madhau || 19 ||</l>
 </lg>
 <p xml:id="HVVU_03_19">kesarāṇi bakulāny eva | ketūnāṃ dhvajānāṃ
-<lb/>śatāni yasmin || 19 ||</p> 
+<lb/>śatāni yasmin || 19 ||</p>
 <lg type="verse" xml:id="HV_03_20">
 <l>śiśirabhāsi cireṇa dinaśriyā kṛtasamāgamavighna upāgate |</l>
 <l>kaluṣatāpi mukhe madhusaṃgamān na niśayāniśayāpitamānayā || 20 ||</l>
@@ -502,7 +502,7 @@ kāvyamālā |
 <l>navadaladvayaśobhi ghanāgamaśriya ivābharaṇaṃ śravaṇāśrayam |</l>
 <l>vyadhita hāri kadambam api striyaḥ smaravaśā ravaśāliśilīmukham ||15||</l>
 </lg>
-<p xml:id="HVVU_03_55">55 ||</p> 
+<p xml:id="HVVU_03_55">55 ||</p>
 <lg type="verse" xml:id="HV_03_56">
 <l>ghanatamasyabalāḥ samavartinā dadṛśire virahaglapitā na yāḥ |</l>
 <l>jagati tā iva darśayituṃ taḍitpraviralāviralātanibhābhavat ||56||</l>
