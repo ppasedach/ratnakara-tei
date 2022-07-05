@@ -11499,7 +11499,7 @@ iti śrīrājānaratnakaviracite haravijaye <lb n="6"/>mahākāvye pānagoṣṭ
 </lg>
 <lg type="verse" xml:id="HV_27_10">
 <l>aviratirativibhramo jajṛmbhe śramajalaśīkarabindupuṣpaśobhī |</l>
-<l><lb n="25"/>kurabakaviṭapīva pīvarastrīstanakalaṣāhati<del>r</del><add place="overwritten">bh</add>||</ir vidagdhayūnām_ || 10 ||</l>
+<l><lb n="25"/>kurabakaviṭapīva pīvarastrīstanakalaṣāhati<del>r</del><add place="overwritten">bh</add>||ir vidagdhayūnām_ || 10 ||</l>
 </lg>
 <lg type="verse" xml:id="HV_27_11">
 <l>ā<lb n="26"/>liṅgitāyā dayitena tanvyāḥ sparśasya mā bhūd vyavadhānakhedaḥ |</l>
@@ -12049,7 +12049,9 @@ iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanām
 rājānakaśrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye
 saṃbhogavarṇano nāma saptaviṃśaḥ sargaḥ|
 </p>
+-->
 </div>
+<!--
 <div n="28" type="chapter">
 <pb n="358" />
 <p>
