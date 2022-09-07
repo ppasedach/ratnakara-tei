@@ -76,59 +76,69 @@ sametam|
 </div>
 -->
 <div n="01" type="chapter">
-<!--
 <p>
-<pb n="1">oṁ namaḥ śrīkaṇṭhāya
+<pb n="1">oṃ namaḥ śrīkaṇṭhāya
 </p>
 <lg type="verse" xml:id="HV_01_1">
-<l>kaṇṭhaśriyaṃ kuvalayastabakābhirāma-</l>
-<l>dāmānukārivikaṭacchavikālakūṭām|</l>
-<l>bibhrat sukhāni diśatād upahārapīta-</l>
-<l>dhūpotthadhūmamalinām iva dhūrjaṭir vaḥ||1||</l>
+<l>kaṇṭhaśriyaṃ<note place="below" type="exegesis">|</note> kuvalayastabakā<lb n="2"/>bhirāma-</l>
+<l>dāmānukārivikaṭacchavikālakūṭām_ <del rend="white correction fluid applied">|</del></l>
+<l><lb n="3"/>bibhrat<note place="below" type="exegesis">|</note><del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del> sukhāni<note place="below" type="exegesis">|</note> diśatād<note place="below" type="exegesis">|</note> upahārapīta-</l>
+<l>dhūpotthadhūmama<lb n="4"/>linām<note place="below" type="exegesis">|i</note> iva<note place="below" type="exegesis">|</note> dhūrjaṭir<note place="below" type="exegesis">|</note> vaḥ<note place="below" type="exegesis">|</note> 1</l>
 </lg>
--->
-<p xml:id="HVVU_01_1">oṁ svasti kuvalayastavakam utpalagucchaṃ dāma sragdāma vikaṭaṃ sundare proktaṃ viśālavikarālayo<lb n="b2"/>r iti viśvaḥ atha ca saṅkaro niḥśreyasalakṣaṇaśubhakārī sukhāni su śobhanāni svakā<lb n="b3"/>ryakṣamāṇi aviṣayāpavartīni khāni indriyāṇi diśatāt sampādayatu kathaṃbhūtaḥ a<lb n="b4"/>nukāḥ śṛṅgāriṇas teṣāṃ 'riḥ kāmaḥ tathā vikaṭacchavir bhīṣaṇakāntir yaḥ kālaḥ tayoḥ kūṭāṃ <lb n="b5"/>dāhikāṃ upahāraṃ hārasamīpe rthād dhāroragasamīpe yaḥ pītaḥ kapiśo dhūpo viṣāgnisamba<lb n="b6"/>ndhī santāpas tadutthena dhūmena malinām iva kaṇṭhaśriyaṃ bibhrat punaḥ kīdṛśaḥ kuvala<lb n="b7"/>ye bhūmaṇḍale stavakānāṃ stotṝṇāṃ abhirāmasyabhīṣṭasya dāmā dātā stautīti stavo 'ja<lb n="b8"/>ntaḥ pacāditvāt sa eva stavakaḥ svārthe kapratyayaḥ vaḥ yuṣmabhyam 1 </p>
-<!--
+
+<p xml:id="HVVU_01_1">
+oṃ svasti kuvalayastavakam utpalagucchaṃ dāma sragdāma vikaṭaṃ sundare proktaṃ viśālavikarālayo<lb n="b2"/>r iti viśvaḥ atha ca śaṅkaro niḥśreyasalakṣaṇaśubhakārī sukhāni su śobhanāni sva<subst><del rend="white correction fluid applied"><unclear/></del><add>kā</add></subst><lb n="b3"/>ryakṣamāṇi aviṣayāpavartīni khāni indriyāṇi diśatāt sampādayatu kathaṃbhūtaḥ a<lb n="b4"/>nukāḥ śṛṃgāriṇas teṣām <note place="below" type="exegesis">'</note>ariḥ kāmaḥ tathā vikaṭacchavir bhīṣaṇakāntir yaḥ kālaḥ tayoḥ kūṭāṃ <lb n="b5"/>dāhikāṃ upahāraṃ hārasamīpe 'rthād dhāroragasamīpe yaḥ pītaḥ kapiśo dhūpo viṣāgnisamba<lb n="b6"/>ndhī santāpas tadutthena dhūmena malinām iva kaṇṭhaśriyaṃ bibhrat_ punaḥ kīdṛśaḥ kuvala<lb n="b7"/>ye bhūmaṇḍale stabakānāṃ sto<subst>t<del rend="arrow above">rā</del><add>ṝ</add></subst>ṇāṃ abhirāmasyābhīṣṭasya dāmā dātā stautīti stavo <note place="below" type="exegesis">'</note>'ja<lb n="b8"/>ntaḥ pacāditvāt_ sa eva stabakaḥ svārthe kapratyayaḥ vaḥ yuṣmabhyam_ 1
+</p>
+
 <lg type="verse" xml:id="HV_01_2">
-<l>jṛmbhāvikāsitamukhaṃ nakhadarpaṇānta-</l>
-<l>rāviṣkṛtapratimukhaṃ gururoṣagarbham|</l>
+<l>jṛmbhāvikāsitamukhaṃ<note place="below" type="exegesis">|</note> na<lb n="5"/>khadarpaṇānta-</l>
+<l>rā<note place="below" type="exegesis">|''</note>viṣkṛtapratimukhaṃ<note place="below" type="exegesis">|</note> gururoṣagarbham_<note place="below" type="exegesis">|</note></l>
 <pb n="3" />
-<l>rūpaṃ punātu janitāricamūvimarśam</l>
-<l>udvṛttadaityavadhanirvahaṇaṃ harer vaḥ||2||</l>
+<l><lb n="6"/>rūpaṃ<note place="below" type="exegesis">|</note> punātu<note place="below" type="exegesis">|</note> janitāricamūvimarṣam<note place="below" type="exegesis">|u</note></l>
+<l>udvṛttedetyavadhani<lb n="7"/>rvahaṇaṃ<note place="below" type="exegesis">|</note> harer<note place="below" type="exegesis">|</note> vaḥ<note place="below" type="exegesis">|</note> 2</l>
 </lg>
--->
-<p xml:id="HVVU_01_2"> janito ri<lb n="b9"/>camūnāṃ vimarśo vividhaprakāravicāro narasiṃho bhayarūpatvena ākārādy anirdhāra<lb n="b10"/>ṇād yena vṛttaṃ saccaritram utkramya vartamāno yo daityo hiraṇyakaśipus tasya vadhanirvā<lb n="b11"/>hakam 2</p>
-<!--
+
+<p xml:id="HVVU_01_2">
+janito <note place="below" type="exegesis">'</note>'ri<lb n="b9"/>camūnāṃ vimarṣo vividhaprakāravicāro narasiṃho bhayarūpatvena ākārādy <note place="below" type="exegesis">'</note>anirdhāra<lb n="b10"/>ṇād yena vṛttaṃ saccaritram utkramya vartamāno yo daityo hiraṇyakaśipus tasya vadhanirvā<lb n="b11"/>hakam_ 2
+</p>
+
 <lg type="verse" xml:id="HV_01_3">
-<l>paryantavartiparipāṇḍurapattrapaṅkti-</l>
-<l>padmāsanāsanakuśeśayakoṣacakram|</l>
-<l>yuṣmān punātu dadhad uddhatadugdhasindhu-</l>
-<l>vīcicchaṭāvalayitāmaraśailalīlām||3||</l>
+<l>paryantavartiparipāṇḍurapattrapaṃkti<note place="below" type="exegesis">|</note>-</l>
+<l><lb n="8"/>padmāsanāsanakuśeśayakośacakram_<note place="below" type="exegesis">|</note></l>
+<l>yuṣmān<note place="below" type="exegesis">|</note> pu<lb n="9"/>nātu<note place="below" type="exegesis">|</note> dadhad<note place="below" type="exegesis">|u</note> uddhatadugdhasiṃdhu-</l>
+<l>vīcicchaṭābalayi<del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del><lb n="10"/>tāmaraśailalīlām_<note place="below" type="exegesis">|</note> 3</l>
 </lg>
--->
-<p xml:id="HVVU_01_3">padmāsanasya brahmaṇo yadāsanakuśeśayaṃ padmaṃ tasya koṣacakraṃ karṇike<lb n="b12"/>ti kartṛpadam_ vīcisthānīyāni pattrāṇi śailasthānīyā karṇikā 3</p>
-<!--
+
+<p xml:id="HVVU_01_3">
+padmāsanasya brahmaṇo yadāsanakuśeśayaṃ padmaṃ tasya kośacakraṃ karṇike<lb n="b12"/>ti kartṛpadam_ vīcisthānīyāni pattrāṇi śailasthānīyā karṇikā 3
+</p>
+
 <lg type="verse" xml:id="HV_01_4">
-<l>asty unnate surasarijjaladhāvyamāna-</l>
-<l>bhāge navārkaruci mandaraśailaśṛṅge|</l>
-<l>jyotsnāvatīti nagarī bhuvanatrayaika-</l>
-<l>bhūṣā vṛṣāṅkaśirasīva śaśāṅkalekhā||4||</l>
+<l>asty<note place="below" type="exegesis">|u</note> unnate<note place="below" type="exegesis">|</note> surasarijjaladhā<lb n="11"/>vyamāna-</l>
+<l>bhā<del rend="white correction fluid applied">ṃ</del>ge<note place="below" type="exegesis">|</note> navārkaruci<note place="below" type="exegesis">|</note> mandaraśailaśṛṃge<note place="below" type="exegesis">|</note></l>
+<l><del rend="white correction fluid applied">na</del> jyo<lb n="12"/>tsnāvatī<note place="below" type="exegesis">|i</note>ti<note place="below" type="exegesis">|</note> nagarī<note place="below" type="exegesis">|</note> bhuvanatrayaika-</l>
+<l>bhūṣā<note place="below" type="exegesis">|</note> vṛṣāṅkaśi<lb n="13"/>rasī<note place="below" type="exegesis">|i</note><metamark place="below" function="insertion">^</metamark><add place="above">va</add><note place="below" type="exegesis">|</note> śaśāṃkalekhā<note place="below" type="exegesis">|</note> <add place="inline">4</add></l>
 </lg>
--->
-<p xml:id="HVVU_01_4">astī<lb n="b13"/>ti nityatvād vartamānanirdeśaḥ īśvaro stītyādivat_ navārkarucīti sauvarṇatvāt_ <lb n="b14"/>yad vā navair arkākhyatarubhiḥ sphaṭikair vā ruk kāntir yatreti vṛṣadhvajaśi<lb n="b15"/>ro pi gaṅgājaladhāvyamānam jaṭā kapilaṃ ca | lekheti pṛṣāpi hi jyotsnāvatī<add place="below line">4</add> 
+
+<p xml:id="HVVU_01_4">
+astī<lb n="b13"/>ti nityatvād vartamānanirdeśaḥ īśvaro<!--XXX defect (small hole) XXX--> 'stīty ādivat_ navārkarucīti sauvarṇatvāt_ <lb n="b14"/>yad vā navair arkākhyatarubhiḥ sphaṭikair vā ruk kāntir yatreti vṛṣetyādivṛṣadhvajaśi<lb n="b15"/>ro 'pi gaṃgājaladhāvyamānam jaṭā kapilaṃ ca lekheti pṛṣāpi hi jyotsnāvatī <add place="bottom-margin">4</add> 
 </p>
-<!--
+
 <lg type="verse" xml:id="HV_01_5">
-<l>yasyāṃ niśāsu gaganaṃ navapadmarāga-</l>
-<l>sadmaprabhāruṇitamadhyagatendulekham|</l>
-<l>vakṣo nṛsiṃhanakharair asurādhipasya</l>
-<l>sāsṛkchaṭaṃ viṣamabhinnam ivācakāsti||5||</l>
+<l>yasyāṃ<note place="below" type="exegesis">|</note> niśāsu<note place="below" type="exegesis">|</note> gaganaṃ<note place="below" type="exegesis">|</note> navapa<del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del><pb n="2">dmarāga-</l>
+<l>sadmaprabhāruṇitamadhyagatendulekham_<note place="below" type="exegesis">|</note></l>
+<l>vakṣo<note place="below" type="exegesis">|</note> <lb n="2"/>nṛsiṃhanakharair<note place="below" type="exegesis">|</note> <note place="below" type="exegesis">a</note>asurādhipasya<note place="below" type="exegesis">|</note></l>
+<l>sāsṛk_chaṭaṃ<note place="below" type="exegesis">|</note> viṣama<lb n="3"/>bhinnam<note place="below" type="exegesis">|i</note> ivā<note place="below" type="exegesis">|''</note>cakāsti 5</l>
 </lg>
--->
+
 <p xml:id="HVVU_01_5">
-<pb n="2"/>nṛsiṃhanakhabhinnaṃ sarudhiracarcaṃ vakṣa iva gaganam iti bhinnakramo 'yam ivaśabdaḥ i<lb n="b2"/>vena lugvibhakteḥ pūrvapadaprakṛtisvaratvaṃ ceti samāsasya nityaṃ vidhānāt_ bhinna<lb n="b3"/>kramatā na yujyata iti cet_ maivam_ sāmarthye sati samāsena bhavitavyam_ bhinna<lb n="b4"/>śabdāt paraṃ cevaśabdaḥ śruto na tenāsya sāmathyam anvayābhāvāt_ yady evaṃ vakṣaḥ<lb n="b5"/>śabdād anantaram asya prayogas tena ca samāsaḥ prāpnoti tenaivāsya saṃsargāt_ <lb n="b6"/>nityābhikāre ca vigrahasya nirāsāt_ evaṃ tarhi cchandoviṣayatvād asya vā<lb n="b7"/>kyasya na doṣaḥ asati tatra cchandograhaṇe kathaṃ tadviṣayatvaṃ niścinuma iti <lb n="b8"/>cet_ asty eva tanniścayanibandhanaṃ tatrabhavato bhāṣyakārasya vyavahāraḥ yad a<lb n="b9"/>sau chandoviṣaya eva tatrodājahāra kanye iva vāsasī ivaeti anyatra ca lau<lb n="b10"/>kikaprayoge bhinnakramam ivaśabdaṃ prayuyuje siṃhīrūpam ivety atra siṃhīva rūpa<lb n="b11"/>m ityartho vivakṣitaḥ na tu rūpam iva siṃhīti ity alaṃ vācālatayā || 5||
+<pb n="2"/>nṛsiṃhanakhabhinnaṃ sarudhiracarcaṃ vakṣa iva gaganam iti bhinnakramo <note place="below" type="exegesis">'</note>'yam ivaśabdaḥ i<lb n="b2"/>venā<note place="below" type="exegesis">'</note>lugvibhakteḥ pūrvapadaprakṛtisvaratvaṃ ceti samāsasya nityaṃ vidhānāt_ bhinna<lb n="b3"/>kramatā na yujyata iti cet_ maivam_ sāmarthye sati samāsena bhavitavyam_ bhinna<lb n="b4"/>śabdāt paraṃ cevaśabdaḥ śruto na tenāsya sāmathyam anvayābhāvāt_ yady evaṃ vakṣaḥ<lb n="b5"/>śabdād anantaram asya prayogas tena ca samāsaḥ prāpnoti tenaivā<note place="below" type="exegesis">'</note>sya saṃsargāt_ <lb n="b6"/>nityābhikāre ca vigrahasya nirāsāt_ evaṃ tarhi chandoviṣayatvād <note place="below" type="exegesis">'</note>asya vā<lb n="b7"/>kyasya na doṣaḥ asati tatra chandograhaṇe kathaṃ tadviṣayatvaṃ niścinuma iti <lb n="b8"/>cet_ asty eva tanniścayanibandhanaṃ tatrabhavato bhāṣyakārasya vyavahāraḥ yad a<lb n="b9"/>sau chandoviṣaya eva tatrodājahāra kanye iva vāsasī iveti anyatra ca lau<lb n="b10"/>kikaprayoge bhinnakramam ivaśabdaṃ prayuyuje siṃhīrūpam iveti siṃhīva rūpa<lb n="b11"/>m ityartho vivakṣito na tu rūpam iva siṃhīti ity alaṃ vācālatayā 5
 </p>
+
+<!--
 <p>[TBC]</p>
+-->
+
 <!--
 <lg type="verse" xml:id="HV_01_6">
 <l>jyotīrasāśmabhavanājiradugdhasindhur</l>
