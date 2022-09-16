@@ -562,73 +562,79 @@ iti haravijaye mahākā<del rend="white correction fluid applied">|</del><lb n="
 </p>
 
 </div>
-<!--
+
 <div n="02" type="chapter">
-<p>
-dvitīyaḥ sargaḥ|
-</p>
+
 <lg type="verse" xml:id="HV_02_1">
-<l>krīḍārasena sa kadācid athādhisānu</l>
-<l>līlāvalambitahimādrisutākarāgraḥ|</l>
-<l>pratyagrakāñcanalatāñcitasaṃniveśa-</l>
-<l>m ākrīḍamaṇḍapam amaṇḍayad aśmadhāmnaḥ||1||</l>
+<l><lb n="10"/>krīḍārasena<note place="below" type="exegesis">|</note> sa<note place="below" type="exegesis">|</note> kadācid<note place="below" type="exegesis">| '</note> athā<note place="below" type="exegesis">| '</note>dhisānu<note place="below" type="exegesis">|</note></l>
+<l>līlāva<lb n="11"/>lambitahimādrisutākarāgraḥ<note place="below" type="exegesis">|</note></l>
+<l>pratyagrakāṃcana<lb n="12"/>latāṃcitasanniveśam<note place="below" type="exegesis">| ''</note></l>
+<l>ākrīḍamaṃḍapam<note place="below" type="exegesis">| '</note> amaṃḍayad<note place="below" type="exegesis">| '</note> aśma<lb n="13"/>dhāmnaḥ<note place="below" type="exegesis">|</note> 1</l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_2">
-<l>tasmin kṛtāsanaparigraham adrirāja-</l>
-<l>kanyānukūlarasadigdhakathāvidagdham|</l>
-<l>anyonyaghaṭṭanavicūrṇitaratnabandha-</l>
-<l>hemāṅgadās tam amarādhibhuvo 'dhijagmuḥ||2||</l>
+<l>tasmin<note place="below" type="exegesis">|</note> kṛtāsanaparigraham<note place="below" type="exegesis">| '</note> adrirāja-</l>
+<l>ka<pb n="17"/>nyānukūlarasadigdhakathāvidagdham_<note place="below" type="exegesis">|</note></l>
+<l>anyonya<subst><del rend="white correction fluid applied">pa</del><add place="above">gha</add></subst>ṭṭana<lb n="2"/>vicūṇitaratnabaṃdha-</l>
+<l>hemāṃgadās<note place="below" type="exegesis">|</note> tam<note place="below" type="exegesis">| '</note> amarādhibhuvo<note place="below" type="exegesis">| '</note> 'dhi<lb n="3"/>jagmuḥ<note place="below" type="exegesis">|</note> 2</l>
 </lg>
-<pb n="17" />
+
 <lg type="verse" xml:id="HV_02_3">
-<l>vellajjaṭāpaṭalaśevalavallarīkāṃ</l>
-<l>cūḍendukhaṇḍakuṭilorumṛṇāladaṇḍām|</l>
-<l>ākāśasindhum avataṃsakapālahaṃsa-</l>
-<l>hāsām amī dadhatam aikṣiṣatainam ārāt||3||</l>
+<l>vellajjaṭāpa<metamark place="below" function="insertion">^</metamark><add place="above">ṭa<metamark>^</metamark></add>laśevalavallarīkāṃ<note place="below" type="exegesis">|</note></l>
+<l>cūḍendu<lb n="4"/>khaṃḍakuṭilorumṛṇāladaṃḍām_<note place="below" type="exegesis">|</note></l>
+<l>ākā<subst><del rend="white correction fluid applied">ca</del><add place="above">śa</add></subst>siṃdhu<note place="below" type="exegesis">|</note>m<note place="below" type="exegesis">| '</note> a<lb n="5"/>vataṃsakapālahaṃsa-</l>
+<l>hāsām<note place="below" type="exegesis">| '</note> amī<note place="below" type="exegesis">|</note> dadhata<note place="below" type="exegesis">|</note>m<note place="below" type="exegesis">| ai</note> aikṣiṣatai<note place="below" type="exegesis">| e</note>na<note place="below" type="exegesis">|</note><lb n="6"/>m<note place="below" type="exegesis">| ''</note> ārāt_<note place="below" type="exegesis">|</note> 3</l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_4">
 <l>karṇāvataṃsaghaṭitotphaṇadandaśūka-</l>
-<l>phūtkāramārutaparāhatalocanotthaiḥ|</l>
-<l>riktīkṛtāṃ śikhikaṇaprakaraiḥ satoṣa-</l>
-<l>gaurīkṣitāṃ suranadīṃ śirasā vahantam||4||</l>
+<l>phū<lb n="7"/>tkāramārutaparāhatalocanotthaiḥ<note place="below" type="exegesis">|</note></l>
+<l>riktīkṛtāṃ<note place="below" type="exegesis">|</note> <subst>ś<del rend="implied">a</del><add rend="implied">i</add></subst><lb n="8"/>khikaṇaprakaraiḥ<note place="below" type="exegesis">|</note> satoṣa-</l>
+<l>gaurīkṣitāṃ<note place="below" type="exegesis">|</note> suranadīṃ<note place="below" type="exegesis">|</note> śi<lb n="9"/>rasā<note place="below" type="exegesis">|</note> vahantam_<note place="below" type="exegesis">|</note> <subst><del rend="implied">8</del><add rend="implied">4</add></subst></l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_5">
-<l>cūḍāgatena jaḍadīdhitinā tanutva-</l>
-<l>m āseduṣā sarabhasaṃ pravivikṣuṇārāt|</l>
-<l>bhāsvallalāṭataṭanākatalārkabimba-</l>
-<l>m adhyāsyamānam iva bibhratam ūrdhvacakṣuḥ||5||</l>
+<l>cūḍāgatena<note place="below" type="exegesis">|</note> jaḍadīdhitinā<note place="below" type="exegesis">|</note> ta<lb n="10"/>nutvam<note place="below" type="exegesis">| ''</note></l>
+<l>āsedu¯ṣā<note place="below" type="exegesis">|</note> sarabhasaṃ<note place="below" type="exegesis">|</note> pravivikṣu<subst><del><note place="below" type="deletion">|</note>ṇā<note place="below" type="deletion">|</note></del><add place="right-margin"><note place="below" type="insertion">|</note>ṇeva<note place="below" type="insertion">|</note></add></subst><note place="below" type="exegesis">''</note>rāt_<note place="below" type="exegesis">|</note></l>
+<l><lb n="11"/>bhāsvallalāṭataṭanākatalārkabimbam<note place="below" type="exegesis">| '</note></l>
+<l>adhyāsya<lb n="12"/>mānam<note place="below" type="exegesis">| i</note> iva<note place="below" type="exegesis">|</note> bibhratam<note place="below" type="exegesis">| ū</note> ūrdhvacakṣuḥ<note place="below" type="exegesis">|</note> 5</l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_6">
-<l>śailātmajāvadanacandramasaḥ kathaṃ nu</l>
-<l>lekhāpi me na sadṛśī śaśinā saśokam|</l>
-<l>ūrdhvekṣaṇotthaśikhinīva nipitsunettha-</l>
-<l>m adhyāsitonnatalalāṭataṭopakaṇṭham||6||</l>
+<l>śailātmajā<del rend="white correction fluid applied">|</del><lb n="13"/>vadanacaṃdram<del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del>asaḥ<note place="below" type="exegesis">|</note> kathaṃ<note place="below" type="exegesis">|</note> nu<note place="below" type="exegesis">|</note></l>
+<l>lekhā<note place="below" type="exegesis">| '</note>pi<note place="below" type="exegesis">|</note> me<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> sadṛśī<note place="below" type="exegesis">|</note> śa<pb n="18"/>śinā<note place="below" type="exegesis">|</note> saśokam_<note place="below" type="exegesis">|</note></l>
+<l>ūrdhvekṣaṇotthaśikhinī<note place="below" type="exegesis">| i</note>va<note place="below" type="exegesis">|</note> ni<lb n="2"/>pitsune<note place="below" type="exegesis">| i</note>ttham<note place="below" type="exegesis">| '</note></l>
+<l>adhyāsitonnatalalāṭataṭopakaṃ<del rend="white correction fluid applied">|</del><lb n="3"/>ṭham_<note place="below" type="exegesis">|</note> 6</l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_7">
-<l>stamberamājinagalatkṣatajāvaseka-</l>
-<l>saṃpāditāruṇarucā kvacid uttamāṅge|</l>
-<l>tāmbūlarāgaparipāṭalayeva danta-</l>
-<l>paṅktyā virājitakirīṭakapālakhaṇḍam||7||</l>
+<l>stambheramājinagalatkṣatajāvaseka-</l>
+<l>sa<del rend="white correction fluid applied">|</del><lb n="4"/>mpāditāruṇarucā<note place="below" type="exegesis">|</note> kvacid<note place="below" type="exegesis">| u</note> uttamāṃge<note place="below" type="exegesis">|</note></l>
+<l>tāmbūlarāga<del rend="white correction fluid applied">|</del><lb n="5"/>paripāṭalaye<note place="below" type="exegesis">| i</note>va<note place="below" type="exegesis">|</note> danta-</l>
+<l>paṃktyā<note place="below" type="exegesis">|</note> virājitakirīṭaka<lb n="6"/>pālaṣaṃḍam_<note place="below" type="exegesis">|</note> 7</l>
 </lg>
-<pb n="18" />
+
 <lg type="verse" xml:id="HV_02_8">
-<l>jyotsnārucāmbaram alaṃ vimalaṃ diśanta-</l>
-<l>m induṃ nidhāya mukuṭe dayitāyamānam|</l>
-<l>tallāñchanacchavim ivātanukālakūṭa-</l>
-<l>cchāyāchalena dadhataṃ pṛthukaṇṭhalagnām||8||</l>
+<l>jyotsnārucā<note place="below" type="exegesis">| '</note>mbaram alaṃ<note place="below" type="exegesis">|</note> vima<lb n="7"/>laṃ<note place="below" type="exegesis">|</note> diśantam<note place="below" type="exegesis">| i</note></l>
+<l>induṃ<note place="below" type="exegesis">|</note> nidhāya<note place="below" type="exegesis">|</note> mukuṭe<note place="below" type="exegesis">|</note> dayitāyamāna<lb n="8"/>m_<note place="below" type="exegesis">|</note></l>
+<l>ullāṃchanacchavim<note place="below" type="exegesis">| i</note> ivā<note place="below" type="exegesis">| '</note>tanukālakūṭa-</l>
+<l>cchā<lb n="9"/>yāchalena<note place="below" type="exegesis">|</note> dadhataṃ<note place="below" type="exegesis">|</note> pṛthukaṃṭhalagnām_<note place="below" type="exegesis">|</note> 8<del rend="white correction fluid applied">|</del></l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_9">
-<l>saṃhārakālakavalīkṛtasaptalokā-</l>
-<l>m ambhodhibhārabharamantharameghanīlām|</l>
-<l>kaṇṭhāntarālaparivartinipītadhūpa-</l>
-<l>vartitviṣaṃ viṣamayīṃ dadhataṃ ca lekhām||9||</l>
+<l>saṃhāra<lb n="10"/>kālakavalīkṛtasaptalokām<note place="below" type="exegesis">| '</note></l>
+<l>ambhotibhārabha<lb n="11"/>ramaṃ<unclear>tha</unclear>rameghanīlām_<note place="below" type="exegesis">|</note></l>
+<l>kaṃṭhāntarālaparivarti<lb n="12"/>nipītadhūpa-</l>
+<l>vartitviṣaṃ<note place="below" type="exegesis">|</note> viṣamayīṃ<note place="below" type="exegesis">|</note> dadhataṃ<note place="below" type="exegesis">|</note> ca<note place="below" type="exegesis">|</note> le<del rend="white correction fluid applied">|</del><pb n="19"/>khām_<note place="below" type="exegesis">|</note> 9</l>
 </lg>
+
 <lg type="verse" xml:id="HV_02_10">
-<l>preṅkhatkarālamaṇiśaṅkhasahasraśāra-</l>
-<l>hāroragendraphaṇabhaṅguravīcicakram|</l>
-<l>kaṇṭhasthitotkaṭaviśaṅkaṭakālakūṭa-</l>
-<l>kūṭaprabhāprakarakūrmagṛhaṃ vahantam||10||</l>
+<l>preṃkhatkarālamaṇiśaṃkhasahasraśāra-</l>
+<l>hāro<lb n="2"/>ragendraphaṇabhaṃguravīcicakram_<note place="below" type="exegesis">|</note></l>
+<l>kaṃṭhasthito<del rend="white correction fluid applied">|</del><lb n="3"/>tkaṭaviśaṃkaṭakālakūṭa-</l>
+<l>kūṭaprabhāprakarakū<lb n="4"/>rmagṛhaṃ<note place="below" type="exegesis">|</note> vahantam_<note place="below" type="exegesis">|</note> 10</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_02_11">
 <l>bhasmāṅgarāgadhavalaṃ parapuṣṭapiccha-</l>
 <l>cchāyāṅgadoragaphaṇākulitāṃsakūṭam|</l>
@@ -992,8 +998,9 @@ vidyādhipatyaparanāmno mahākave rājanakaśrīratnākarasya kṛtau
 ratnāṅke haravijaye mahākāvye tāṇḍavavarṇano nāma dvitīyaḥ
 sargaḥ|
 </p>
-</div>
 -->
+</div>
+
 <div n="03" type="chapter">
 <p>
 śrīgaṇeśāya namaḥ||
