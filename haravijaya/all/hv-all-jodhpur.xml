@@ -3626,9 +3626,9 @@ sthitavatīty ādi caturbhiḥ kalāpakam_ gāṃvācaṃ <lb n="b11"/>śuciḥ 
 
 <lg type="verse" xml:id="HV_06_10">
 <l>kvaṇi<lb n="10"/>tānubandhamukharānanabhramad-</l>
-<l>bhramaropayuktamukhasaurabhaśri<lb n="11"/>yaṃ<note place="below" type="exegesis">|</note></l>
+<l>bhramaropayuktamukhasaurabhaśri<!--XXX gap filler XXX--><lb n="11"/>yaṃ<note place="below" type="exegesis">|</note></l>
 <l>daśanāṃśukesara<del rend="white correction fluid applied"><unclear/></del>karālitāṃ<note place="below" type="exegesis">|</note> puro<note place="below" type="exegesis">|</note></l>
-<l>nijapuṣpasaṃpada<note place="below" type="exegesis">|</note><lb n="12"/>m<note place="below" type="exegesis">i</note> ivo<note place="below" type="exegesis">| u</note>dgiran<note place="below" type="exegesis">|</note> giraṃ 10</l>
+<l>nijapuṣpasaṃpada<note place="below" type="exegesis">|</note><!--XXX gap filler XXX--><lb n="12"/>m<note place="below" type="exegesis">i</note> ivo<note place="below" type="exegesis">| u</note>dgiran<note place="below" type="exegesis">|</note> giraṃ 10</l>
 </lg>
 
 <p xml:id="HVVU_06_10">
@@ -3644,178 +3644,184 @@ sthitavatīty ādi caturbhiḥ kalāpakam_ gāṃvācaṃ <lb n="b11"/>śuciḥ 
 <p xml:id="HVVU_06_11">
 smara eva bāndhavaḥ tatkṣayakāriṇi haro<lb n="b12"/>dhvanayane serṣyahṛdaya iva nimīlitekṣaṇatvāt_ 11
 </p>
-<!--
+
 <lg type="verse" xml:id="HV_06_12">
-<l>śravaṇāgralagnanavacūtamañjarī-</l>
-<l>makarandaśīkarakaṇaspṛhāgataiḥ|</l>
-<l>madhur ity abhāṣata madhuvrataiḥ puro</l>
-<l>hriyamāṇavākya iva mañjuśiñjitaiḥ||12||</l>
+<l>śravaṇāgralagnana<lb n="2"/>vacūtamaṃjarī-</l>
+<l>makarandaśīkarakaṇaspṛhāgataiḥ<note place="below" type="exegesis">|</note></l>
+<l>madhur<note place="below" type="exegesis">| i</note> ity<note place="below" type="exegesis">| '</note> abhā<lb n="3"/>ṣata<note place="below" type="exegesis">|</note> madhuvrataiḥ<note place="below" type="exegesis">|</note> puro<note place="below" type="exegesis">|</note></l>
+<l>hriyamāṇavākya<note place="below" type="exegesis">|</note> iva<note place="below" type="exegesis">|</note> maṃjuśiṃjitaiḥ 12</l>
 </lg>
 
 <p xml:id="HVVU_06_12">
-
+<pb n="93"/><lb n="t1"/>śīkarakaṇā binduleśāḥ puraḥ pūrvam_ hriyamāṇavākya ive<lb n="t2"/>ti vayam eva tvadanuyāyino vijñāpayāmo na yuktam<note place="below" type="exegesis">'</note> asmatsaṃ<lb n="t3"/>nidhau svayam eva vibhor abhidhātum ity<note place="below" type="exegesis">'</note> abhiprāyaḥ 12
 </p>
 
 <p>
-(cakkalakam)
+ca<lb n="4"/>kkalakaṃ
 </p>
 
 <lg type="verse" xml:id="HV_06_13">
-<l>adhitiṣṭhato hṛdayapadmaviṣṭaraṃ</l>
-<l>bhuvanatrayavyavahṛdekasākṣiṇaḥ|</l>
-<l>pratighavyapāyapariśūnyasaṃvidaḥ</l>
-<l>kim ivāsti yan na viditaṃ taveśituḥ||13||</l>
+<l>adhitiṣṭato<note place="below" type="exegesis">|</note> hṛdayapadmaviṣṭaraṃ<note place="below" type="exegesis">|</note></l>
+<l>bhuvanatrayavyavahṛ<lb n="5"/>dekasākṣiṇaḥ</l>
+<l>pratighavyapāyapariśūnyasaṃvidaḥ<note place="below" type="exegesis">|</note></l>
+<l>kim<note place="below" type="exegesis">| i</note> ivā<note place="below" type="exegesis">| '</note><lb n="6"/>sti<note place="below" type="exegesis">|</note> yan<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> viditaṃ<note place="below" type="exegesis">|</note> tave<note place="below" type="exegesis">|</note>śituḥ 13</l>
 </lg>
 
 <p xml:id="HVVU_06_13">
-
+<lb n="b1"/>pratighaḥ pratibandhako hetus tatkṛtena vyapāyena bādhayā rahitā saṃvi<lb n="b2"/>dvijñānaṃ yasya tādṛśasya hṛtpadmavartinas tava yan na viditaṃ tad iha <lb n="b3"/>nāsti bhavataḥ sarvajñatvāt_ ata eva jagataḥ śubhāśubheṣu karmasu <lb n="b4"/>tava sākṣiṇaḥ ka iva sākṣī viṣṭaram<note place="below" type="exegesis">''</note> āsanaṃ taveti ktasya ca varta<lb n="b5"/>māna iti kartari ṣaṣṭhī 13
 </p>
 
 <lg type="verse" xml:id="HV_06_14">
-<l>tava saṃvidādisahajaṃ catuṣṭayaṃ</l>
-<l>jagati pratītam anaghaṃ tathā yathā|</l>
-<l>sthitim āpuṣo 'sya sakalātiśāyinīm</l>
-<l>aparaṃ na kiṃcid api tāratamyabhāk||14||</l>
+<l>tava<note place="below" type="exegesis">|</note> saṃvidādi<note place="below" type="exegesis">|</note> sahajaṃ<note place="below" type="exegesis">|</note> catuṣṭayaṃ<note place="below" type="exegesis">|</note></l>
+<l><lb n="7"/>ja<del rend="white correction fluid applied"><note place="below" type="exegesis">|</note></del>gati<note place="below" type="exegesis">|</note> pratītam<note place="below" type="exegesis">| '</note> anaghaṃ<note place="below" type="exegesis">|</note> tathā<note place="below" type="exegesis">|</note> yathā<note place="below" type="exegesis">|</note></l>
+<l>sthitim<note place="below" type="exegesis">| ''</note> āpuṣo<note place="below" type="exegesis">| '</note> 'sya<note place="below" type="exegesis">|</note> saka<lb n="8"/>lātiśāyinīm<note place="below" type="exegesis">| '</note></l>
+<l>aparaṃ<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> kiṃcid<note place="below" type="exegesis">| '</note> api<note place="below" type="exegesis">|</note> tāratamyabhāk_ 14</l>
 </lg>
 
 <p xml:id="HVVU_06_14">
-
+saṃvidādi vijñānaiśvaryavairāgya<lb n="b6"/>dharmalakṣaṇaṃ tava guṇacatuṣṭayam_ tathā prathitaṃ yathaitasya prakarṣava<lb n="b7"/>tīṃ sthitim āptasya sato na kiṃcid<note place="below" type="exegesis">'</note> aparaṃ tāratamyabhāg<note place="below" type="exegesis">'</note> atiśayaṃ<lb n="b8"/> bhajate asyaiva sātiśayatvāt_ asyety<note place="below" type="exegesis">'</note> anādare ṣaṣṭhī 14
 </p>
 
 <lg type="verse" xml:id="HV_06_15">
-<l>saha siddhiniṣpratighasaṃvidarciṣo</l>
-<l>na ghaṭām upaiti parapāradṛśvanaḥ|</l>
-<l>tava nātha śabdasamayāgatā kvacit</l>
-<l>sakalārthamaṇḍalasatattvaveditā||15||</l>
+<l>sa<lb n="9"/>ha siddhiniṣpratighasaṃvidarciṣo<note place="below" type="exegesis">|</note></l>
+<l>na<note place="below" type="exegesis">|</note> ghaṭām<note place="below" type="exegesis">|</note> upaiti<note place="below" type="exegesis">|</note> parapāra<lb n="10"/>dṛśvanaḥ<note place="below" type="exegesis">|</note></l>
+<l>tava<note place="below" type="exegesis">|</note> nātha<note place="below" type="exegesis">|</note> śabdasamayāgatā<note place="below" type="exegesis">|</note> kvacit<note place="below" type="exegesis">|</note></l>
+<l>sakalārthamaṃ<lb n="11"/>ḍalasatattvaveditā<note place="below" type="exegesis">|</note> 15</l>
 </lg>
 
 <p xml:id="HVVU_06_15">
-
+sa<lb n="b9"/>kalasyā<note place="below" type="exegesis">'</note>rthajātasya satattvaṃ paramārthaḥ tadveditā te śabdamayāgatā <lb n="b10"/>na ghaṭām upaiti śabdena saṃketenotpanneti na yujyate anyo hi pa<lb n="b11"/>rokṣam apy<note place="below" type="exegesis">'</note> apūrvādi śabdamukhenaiva pratipadyate devaḥ punar apratihata<lb n="b12"/>jñānajyotiḥ brahmaṇo<note place="below" type="exegesis">'</note> 'pi pāradarśī samagram āgamān apekṣayaiva <lb n="b13"/>sākṣātkaroti paraṃ prakṛṣṭaṃ brahmetyarthaḥ 15
 </p>
 
 <lg type="verse" xml:id="HV_06_16">
-<l>aviśeṣavṛttir ahimatviṣo yathā</l>
-<l>sakaleṣu vastuṣu vibhā vijṛmbhate|</l>
-<l>tava nātha niṣpratighanirmalīmasa-</l>
-<l>sthitir astamohatimirā matis tathā||16||</l>
+<l>aviśeṣavṛttir<note place="below" type="exegesis">|</note> ahimatviṣo<note place="below" type="exegesis">|</note> yathā<note place="below" type="exegesis">|</note></l>
+<l>sa<lb n="12"/>kaleṣu<note place="below" type="exegesis">|</note> vastuṣu<note place="below" type="exegesis">|</note> vibhāvi<note place="below" type="exegesis">|</note> jṛṃbhate<note place="below" type="exegesis">|</note></l>
+<l>tava<note place="below" type="exegesis">|</note> nātha<note place="below" type="exegesis">|</note> niṣpratighanirma<lb n="13"/>lībhava-</l>
+<l>sthitir<note place="below" type="exegesis">|</note> astamohatimirā<note place="below" type="exegesis">|</note> matis<note place="below" type="exegesis">|</note> tathā 16</l>
 </lg>
 
 <p xml:id="HVVU_06_16">
-
+aviśeṣavṛttiḥ sa<lb n="b14"/>mānā vibhā dīptiḥ 16
 </p>
 
 <lg type="verse" xml:id="HV_06_17">
-<l>pratipannasarvagatavastuvistaras</l>
-<l>tad apīśa pṛcchasi yad adya tena naḥ|</l>
-<l>kurute 'dhunā kuśalasaṃgrahaṃ paraṃ</l>
-<l>madhuro mithastvadabhibhāṣaṇakṣaṇaḥ||17||</l>
+<l>pratipanna<pb n="94"/>sarvagatavastuvistara<note place="below" type="exegesis">|</note></l>
+<l>tad<note place="below" type="exegesis">| '</note> apīśa<note place="below" type="exegesis">|</note> pṛcchasi<note place="below" type="exegesis">|</note> yad<note place="below" type="exegesis">| '</note> adya<note place="below" type="exegesis">|</note> tena<note place="below" type="exegesis">|</note> naḥ<note place="below" type="exegesis">|</note></l>
+<l>kurute<note place="below" type="exegesis">|</note> <lb n="2"/><note place="below" type="exegesis">'</note>'dhunā<note place="below" type="exegesis">|</note> kuśalasaṃgrahaṃ<note place="below" type="exegesis">|</note> paraṃ<note place="below" type="exegesis">|</note></l>
+<l>madhuro<note place="below" type="exegesis">|</note> mithas<note place="below" type="exegesis">|</note> tvadabhibhāṣaṇakṣaṇaḥ <add place="right-margin">17</add></l>
 </lg>
 
 <p xml:id="HVVU_06_17">
-
+<pb n="94"/><lb n="b1"/>vistaraḥ samūhaḥ prathanam atra na vivakṣitam iti prathane vāvaśabda iti na ghañaḥ prāptiḥ <add place="right-margin">17</add>
 </p>
 
 <lg type="verse" xml:id="HV_06_18">
-<l>prakṛteḥ pṛthag vikṛtiśūnyatāṃ gataḥ</l>
-<l>pratiṣiddhavastugatadharmaniṣkriyaḥ|</l>
-<l>puruṣas tvam eva kila pañcaviṃśakaḥ</l>
-<l>sphuṭacūlikārthavacanair nigadyase||18||</l>
+<l><lb n="3"/>prakṛteḥ<note place="below" type="exegesis">|</note> pṛthag<note place="below" type="exegesis">|</note> vikṛtiśūnyatāṃ<note place="below" type="exegesis">|</note> gataḥ<note place="below" type="exegesis">|</note></l>
+<l>pratiṣiddhavastugatadharma<lb n="4"/>niṣkriyaḥ<note place="below" type="exegesis">|</note></l>
+<l>puruṣas<note place="below" type="exegesis">|</note> tvam<note place="below" type="exegesis">|</note> eva<note place="below" type="exegesis">|</note> kila<note place="below" type="exegesis">|</note> paṃcaviṃśakaḥ<note place="below" type="exegesis">|</note></l>
+<l>sphuṭacūlikā<lb n="5"/>rthavacanair<note place="below" type="exegesis">|</note> nigadyame 18</l>
 </lg>
 
 <p xml:id="HVVU_06_18">
-
+<lb n="b2"/>cūlikasya paṃcaśikhākhyasya muner arthāḥ astitvam ekatvam athārthavattvaṃ pārārthyamanya<lb n="b3"/>tvam atho nivṛttiḥ yogo viyogo bahavaḥ pumāṃsaḥ sthitiḥ śarīrasya ca śeṣavṛ<lb n="b4"/>ttir iti daśa padārthāḥ tadvacobhis tvam eva paṃcaviṃśakaḥ puruṣo nigadyase nitarāṃ pra<lb n="b5"/>tipādyase puri śarīre uśitatvān nirvacanenābhidhīyase cūlikārthāḥ sūkṣmārthā <lb n="b6"/>iti kecit_ prakṛtiḥ kāraṇaṃ avyaktam vikṛtayo mahadādyāḥ tadvilakṣaṇaḥ yadu<lb n="b7"/>ktam_ mūlaprakṛtir<note place="below" type="exegesis">'</note> avikṛtir mahadādyāḥ prakṛtivikṛtayaḥ sapta ṣoḍaśakas tu vi<lb n="b8"/>kāro na prakṛtir na vikṛtiḥ puruṣa iti nityatvāc ca niṣiddhā vastugatā dharmā jāya<lb n="b9"/>te 'sti vipariṇamate vivardhate prakṣīyate vinaśyatīti ṣaḍ bhāvavikārā yena tathā<lb n="b10"/>vidho niṣkriyaś codāsīnatvāt_ 18
 </p>
 
 <lg type="verse" xml:id="HV_06_19">
-<l>prathitaprapañcarasabhāvavarjitaḥ</l>
-<l>kvacid eva kiṃcid api kartum akṣamaḥ|</l>
-<l>avapur gataḥ karaṇavṛttiśūnyatāṃ</l>
-<l>prakṛter aho nu sadṛśo 'si kāmukaḥ||19||</l>
+<l>prathitaprapaṃcarasabhāvavavarjitaḥ<note place="below" type="exegesis">|</note></l>
+<l>kva<lb n="6"/>cid<note place="below" type="exegesis">|</note> eva<note place="below" type="exegesis">|</note> kiṃcid<note place="below" type="exegesis">| '</note> api<note place="below" type="exegesis">|</note> kartum<note place="below" type="exegesis">|</note> akṣamaḥ<note place="below" type="exegesis">|</note></l>
+<l>avapur<note place="below" type="exegesis">|</note> gataḥ<note place="below" type="exegesis">|</note> karaṇavṛttiśū<lb n="7"/>nyatāṃ<note place="below" type="exegesis">|</note></l>
+<l>prakṛter<note place="below" type="exegesis">|</note> aho<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> sadṛśo<note place="below" type="exegesis">| '</note> 'si kāmukaḥ 19</l>
 </lg>
 
 <p xml:id="HVVU_06_19">
-
+aho vicitraṃ tvaṃ prakṛteḥ kāmukaḥ sadṛśaḥ <lb n="b11"/>puruṣasya kāmukatvaṃ prakṛtim ahaṃ bhuñjīyeti kāmanāt_ tasya punar ānurūpyam i<lb n="b12"/>hopahāsena viparītalakṣaṇayā pratikṣipyate tathāhi puruṣaḥ prathitaḥ prapaṃco <lb n="b13"/>vistīrṇatā yasya tādṛśena rasena rāgeṇa bhāvena ca janmanā rahitaḥ kiṃcid a<lb n="b14"/>pi kartum akṣamaḥ niṣkriyatvāt_ avapuḥ anabhivyaktasvarūpaḥ karaṇasya cakṣurādi<lb n="b15"/>trayodaśavidhasyendriyasya vṛttyā viṣayagrahaṇena śūnyaḥ prakṛtiḥ punar etadvi<lb n="b16"/>sadṛśarūpeti katham anayoḥ sāmyam_  yo 'pi rasena śṛṅgārādinā bhāvena ca sā<pb n="95"/><lb n="t1"/>ttvikādi bahuvidhena rahito dhanavaikalyāc ca kiṃcid api kartum<note place="below" type="exegesis">'</note> asaho<note place="below" type="exegesis">'</note> 'vapuś ca rūpa<lb n="t2"/>rahitaḥ karaṇena kāmaśāstraprasiddhenotphullakādinā vṛttyā ca dhanārjanopāyena <lb n="t3"/>śūnyaś ca puruṣaḥ so <subst>'ṅg<del rend="arrow above">ā</del><add rend="implied">a</add></subst>nāṃ kām api kāmayata iti cittram adaḥ 19
 </p>
 
 <lg type="verse" xml:id="HV_06_20">
-<l>kathayanti nātha daśahetusaṃśraya-</l>
-<l>vyavadhūtaviplavaviśuddhacetasaḥ|</l>
-<l>tava sāṃkhyavṛddhamatabhedavartinaḥ</l>
-<l>kṛtino 'nivṛtti kila tat paraṃ padam||20||</l>
+<l>kathayaṃti<note place="below" type="exegesis">|</note> nā<lb n="8"/>tha<note place="below" type="exegesis">|</note> daśahetusaṃśraya-</l>
+<l>vyavadhūtaviplavaviśuddhacetasaḥ<note place="below" type="exegesis">|</note></l>
+<l>tava<note place="below" type="exegesis">|</note> sāṃ<lb n="9"/>khyavṛddhamatabhedavartinaḥ<note place="below" type="exegesis">|</note></l>
+<l>kṛtino<note place="below" type="exegesis">|</note> ऽ'nivṛtti<note place="below" type="exegesis">|</note> kila<note place="below" type="exegesis">|</note> tat<note place="below" type="exegesis">|</note> paraṃ<note place="below" type="exegesis">|</note> padaṃ <add place="right-margin">20</add></l>
 </lg>
 
 <p xml:id="HVVU_06_20">
-
+<pb n="94"/><lb n="t1"/>sāṅkhyavṛddhasya kapilamaharṣer mataviśeṣasthāḥ kṛtinaḥ sāṅkhyāḥ te tāvakaṃ paraṃ <lb n="t2"/>padaṃ tad<note place="below" type="exegesis">'</note> alaukikaṃ anivṛtti nāsti nivṛttiḥ punaḥ saṃsārāgamo yasmāt tādṛśaṃ pra<lb n="t3"/>tipādayanti daśa hetavo vītāvītākhyāḥ tatra bhedānāṃ parimāṇātsamanvayāc cha<lb n="t4"/>ktitaḥ pravṛtteś ca kāraṇakāryavibhāgād<note place="below" type="exegesis">'</note> avibhāgād vaiśvarūpyasya kāraṇam asty<note place="below" type="exegesis">'</note> avyakta<lb n="t5"/>m iti prakṛtisādhanāyopanyastāḥ paṃcahetavo vītāḥ tāvanta eva te puruṣārthasādhakāḥ <lb n="t6"/>avītāḥ <space reason="verse" unit="akṣara" quantity="26"/> tadyathā saṃghā<lb n="t7"/>taparā<space reason="verse" unit="akṣara" quantity="26"/>rthatvāt triguṇā<lb n="t8"/>divipa<space reason="verse" unit="akṣara" quantity="24"/>ryā<space reason="verse" unit="akṣara" quantity="1"/>d adhiṣṭhā<lb n="t9"/>nāt_ pu<space reason="verse" unit="akṣara" quantity="24"/>ruṣo 'sti bhoktṛ<lb n="t10"/>bhāvāt kai<space reason="verse" unit="akṣara" quantity="25"/>valyārthaṃ pravṛ<lb n="t11"/>tteś ceti <space reason="verse" unit="akṣara" quantity="23"/> etadāśrayeṇa <lb n="t12"/>tiraskṛ<space reason="verse" unit="akṣara" quantity="23"/>to viplavo nāsti<lb n="t13"/>kavādo <space reason="verse" unit="akṣara" quantity="25"/> yair ata eva viśu<lb n="t14"/>ddhahṛda<space reason="verse" unit="akṣara" quantity="25"/>yāḥ 20
 </p>
 
 <lg type="verse" xml:id="HV_06_21">
-<l>dadhatīha karmaphalabhogavarjite</l>
-<l>sakalārthatattvavidi puṃviśeṣatām|</l>
-<l>tvayi śabdam īśvara iti vyavasthitaṃ</l>
-<l>kathayanty ananyaviṣayaṃ manīṣiṇaḥ||21||</l>
+<l><lb n="10"/>dadhatī<note place="below" type="exegesis">|</note>ha<note place="below" type="exegesis">|</note> karmaphalabhogavarjite<note place="below" type="exegesis">|</note></l>
+<l>sakalārthatatvavidi<note place="below" type="exegesis">|</note> puṃviśe<lb n="11"/>ṣatām_<note place="below" type="exegesis">|</note></l>
+<l>tvayi<note place="below" type="exegesis">|</note> śabdam<note place="below" type="exegesis">|</note> īśvara<note place="below" type="exegesis">|</note> iti<note place="below" type="exegesis">|</note> vyavasthitaṃ<note place="below" type="exegesis">|</note></l>
+<l>kathayaṃty<note place="below" type="exegesis">| '</note> ananyavi<lb n="12"/>ṣayaṃ<note place="below" type="exegesis">|</note> manīṣiṇaḥ 21</l>
 </lg>
-<pb n="87" />
+
+<p xml:id="HVVU_06_21">
+<pb n="95"/><!--XXX <lb n="t3"/> after HVVU_06_19 XXX-->nāsty anyo <lb n="t4"/>viṣayo yasya tathā tvayi puruṣaviśeṣatvaṃ bibhrati sthitam īśvara iti nāma vyapadiśa<lb n="t5"/>nti vidvāṃsaḥ karmaṇaḥ śubhāśubhasya phalaṃ sukhaduḥkharūpo vipākas tadanubhavaśūnye <lb n="t6"/>nirāśaṃsatvāt_ <space reason="verse" unit="akṣara" quantity="25"/> sarvārtha<lb n="t7"/>tattvadarśi<space reason="verse" unit="akṣara" quantity="25"/>ni ca ka<lb n="t8"/>rmakleśā<space reason="verse" unit="akṣara" quantity="26"/>śayair a<lb n="t9"/>parāmṛṣṭatvāt_ <space reason="verse" unit="akṣara" quantity="26"/> uktaṃ ca <lb n="t10"/>kleśakarmavi<space reason="verse" unit="akṣara" quantity="22"/>pākāśa<lb n="t11"/>yair aparāmṛṣṭaḥ <space reason="verse" unit="akṣara" quantity="22"/> puruṣavi<lb n="t12"/>śeṣa īśvara i<space reason="verse" unit="akṣara" quantity="25"/>ti 21
+</p>
+
 <lg type="verse" xml:id="HV_06_22">
-<l>dṛḍhabandhakoṭiparimarṣakarṣitaṃ</l>
-<l>na kadācid anyaśaminām iva kvacit|</l>
-<l>vidur īśvaratvam anaghaṃ tavānvaya-</l>
-<l>vyatirekaśūnyam avadātadṛṣṭayaḥ||22||</l>
+<l>dṛḍhabaṃdhakoṭiparimarṣakarṣitaṃ<note place="below" type="exegesis">|</note></l>
+<l>na <lb n="13"/>kadācid anyaśaminām<note place="below" type="exegesis">|</note> iva<note place="below" type="exegesis">|</note> kvacit_<note place="below" type="exegesis">|</note></l>
+<l>vidur<note place="below" type="exegesis">|</note> īśvaratvam<note place="below" type="exegesis">| '</note> ana<pb n="95"/>ghaṃ<note place="below" type="exegesis">|</note> tavā<note place="below" type="exegesis">| '</note>nvaya-</l>
+<l>vyatibhedaśūnyam<note place="below" type="exegesis">| '</note> avadātadṛṣṭayaḥ 22</l>
 </lg>
+
 <lg type="verse" xml:id="HV_06_23">
-<l>bhuvanāni paṅkajabhuvaḥ sisṛkṣatas</l>
-<l>tapaseddhatāṃ kila gatasya yaḥ purā|</l>
-<l>udabhūn makhādiṣu ca pañcalakṣaṇaḥ</l>
-<l>sakalakriyāsu viniyogabhāg bhavan||23||</l>
+<l>bhuvanāni<note place="below" type="exegesis">|</note> paṃ<lb n="2"/>kajabhuvaḥ<note place="below" type="exegesis">|</note> sisṛkṣatas<note place="below" type="exegesis">|</note></l>
+<l>tapase<note place="below" type="exegesis">|</note>ddhatāṃ<note place="below" type="exegesis">|</note> kila<note place="below" type="exegesis">|</note> gatasya<note place="below" type="exegesis">|</note> yaḥ<note place="below" type="exegesis">|</note> purā<note place="below" type="exegesis">|</note></l>
+<l>udabhū<lb n="3"/>n makhādiṣu<note place="below" type="exegesis">|</note> ca<note place="below" type="exegesis">|</note> paṃcalakṣaṇaḥ<note place="below" type="exegesis">|</note></l>
+<l>sakalakriyāsu<note place="below" type="exegesis">|</note> viniyogabhā<note place="below" type="exegesis">|</note><lb n="4"/>g bhavan_<note place="below" type="exegesis">|</note> 23</l>
 </lg>
+
 <lg type="verse" xml:id="HV_06_24">
-<l>śrutayaḥ padaṃ paramam āmananti yaṃ</l>
-<l>bahuvaktrapād api ca yo 'bhidhīyate|</l>
-<l>adhigamya yaṃ punar udeti no janaḥ</l>
-<l>praṇavas tavaiva bhagavan sa vācakaḥ||24||</l>
+<l>śrutayaḥ<note place="below" type="exegesis">|</note> padaṃ<note place="below" type="exegesis">|</note> paramam<note place="below" type="exegesis">| ''</note> āmanaṃti<note place="below" type="exegesis">|</note> yaṃ<note place="below" type="exegesis">|</note></l>
+<l>bahuvaktrapād<note place="below" type="exegesis">| '</note> api<note place="below" type="exegesis">|</note> <lb n="5"/>ca<note place="below" type="exegesis">|</note> yo<note place="below" type="exegesis">| '</note> 'bhidhīyate</l>
+<l>adhigamya<note place="below" type="exegesis">|</note> yaṃ<note place="below" type="exegesis">|</note> punar<note place="below" type="exegesis">|</note> udeti<note place="below" type="exegesis">|</note> <subst>n<del rend="implied">e</del><add rend="wiggle above">o</add></subst><note place="below" type="exegesis">|</note> janaḥ<note place="below" type="exegesis">|</note></l>
+<l>praṇavas<note place="below" type="exegesis">|</note> ta<lb n="6"/>vai<note place="below" type="exegesis">|</note>va<note place="below" type="exegesis">|</note> bhagavan<note place="below" type="exegesis">|</note> sa<note place="below" type="exegesis">|</note> vācakaḥ 24</l>
 </lg>
-<p>
-(yugmam)
-</p>
+
 <lg type="verse" xml:id="HV_06_25">
-<l>dadhato 'vyayānudayadharmaśūnyatāṃ</l>
-<l>suranāyakaikagurutām upeyuṣaḥ|</l>
-<l>upavartate ya iha na vyavacchide</l>
-<l>tava śarva carvitacarācaraḥ kvacit||25||</l>
+<l>dadhato<note place="below" type="exegesis">| '</note> 'vyayānudayadharmarūpatāṃ<note place="below" type="exegesis">|</note></l>
+<l>su<lb n="7"/>ranāyakaikagurutām<note place="below" type="exegesis">|</note> upeyuṣaḥ<note place="below" type="exegesis">|</note></l>
+<l>upavartate<note place="below" type="exegesis">|</note> ya<note place="below" type="exegesis">|</note> iha<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> vyavacchide<note place="below" type="exegesis">|</note></l>
+<l><lb n="8"/>tava<note place="below" type="exegesis">|</note> sarvacarcitasurāsuraḥ<note place="below" type="exegesis">|</note> kva<note place="below" type="exegesis">|</note> cet_ 25</l>
 </lg>
+
 <lg type="verse" xml:id="HV_06_26">
-<l>kriyayā kramād avayavaiś ca saṃkhyayā</l>
-<l>nijalakṣmaṇā ca ya ihopalakṣyate|</l>
-<l>śamanādimadhyanidhanaṃ svamāyayā</l>
-<l>smarakāla kālayati kālam eva tat||26|| </l>
+<l>kriyayā<note place="below" type="exegesis">|</note> kramād<note place="below" type="exegesis">| '</note> avayavai<note place="below" type="exegesis">|</note><lb n="9"/>ś ca<note place="below" type="exegesis">|</note> saṃkhyayā<note place="below" type="exegesis">|</note></l>
+<l>nijalakṣmaṇā<note place="below" type="exegesis">|</note> ca<note place="below" type="exegesis">|</note> ya<note place="below" type="exegesis">|</note> iho<note place="below" type="exegesis">|</note>palakṣyate<note place="below" type="exegesis">|</note></l>
+<l>śvasanādi<lb n="10"/>madhyanidhanaṃ<note place="below" type="exegesis">|</note> svamāyayā<note place="below" type="exegesis">|</note></l>
+<l>smarakāla<note place="below" type="exegesis">|</note> kālayasi<note place="below" type="exegesis">|</note> kālam<note place="below" type="exegesis">|</note> eva<note place="below" type="exegesis">|</note> ta<lb n="11"/>t_ 26</l>
 </lg>
-<p>
-(yugalakam)
-</p>
+
 <lg type="verse" xml:id="HV_06_27">
-<l>avitarkam asthitavicāragocaraṃ</l>
-<l>sukhavedanojjhitam anasmitānvayam|</l>
-<l>abhigamya śaṃkarasamādhim icchayā</l>
-<l>tava jātu naiva bhajate bhramaṃ pumān||27||</l>
+<l>avitarkam<note place="below" type="exegesis">|</note> asthitavicāragocaraṃ<note place="below" type="exegesis">|</note></l>
+<l>sukhavedanojjhita<note place="below" type="exegesis">|</note><lb n="12"/>m anasmitānvayaṃ<note place="below" type="exegesis">|</note></l>
+<l>abhigamya<note place="below" type="exegesis">|</note> śaṃkarasamādhim<note place="below" type="exegesis">|</note> icchayā<note place="below" type="exegesis">|</note></l>
+<l>tava<note place="below" type="exegesis">|</note> jātu<note place="below" type="exegesis">|</note> <lb n="13"/>naiva<note place="below" type="exegesis">|</note> bhajate<note place="below" type="exegesis">|</note> bhramaṃ<note place="below" type="exegesis">|</note> pumān_ 27</l>
 </lg>
+
 <lg type="verse" xml:id="HV_06_28">
-<l>citiśaktirūpaviparītabhāvaśāt</l>
-<l>prakṛtau puraskṛtavirāgabhāvanam|</l>
-<l>viruṇaddhi tām api vivekadarśana-</l>
-<l>sthitim īśa saṃyamimanas tavecchayā||28||</l>
+<l>citiśaktisaṃbhavavido<note place="below" type="exegesis">|</note> viparyayā<note place="below" type="exegesis">|</note><pb n="96"/>t</l>
+<l>prakṛtau<note place="below" type="exegesis">|</note> puraskṛtavirāgabhāvanaṃ<note place="below" type="exegesis">|</note></l>
+<l>na<note place="below" type="exegesis">|</note> ruṇaddhi<note place="below" type="exegesis">|</note> tām<note place="below" type="exegesis">|</note> api<note place="below" type="exegesis">|</note> viveka<lb n="2"/>darśana-</l>
+<l>sthitim<note place="below" type="exegesis">|</note> īśa<note place="below" type="exegesis">|</note> saṃyamimanas<note place="below" type="exegesis">|</note> tave<note place="below" type="exegesis">|</note>cchayā 28</l>
 </lg>
-<pb n="88" />
+
 <lg type="verse" xml:id="HV_06_29">
-<l>tapanādike vividhalakṣyamaṇḍale</l>
-<l>kṛtasaṃyamās tridaśanātha yoginaḥ|</l>
-<l>bhuvanādidhāmasu bhavanty avipluta-</l>
-<l>pratibhātacitrabhavadātmasaṃvidaḥ||29||</l>
+<l>tapanādike<note place="below" type="exegesis">|</note> <lb n="3"/>vividhalakṣyamaṃḍale<note place="below" type="exegesis">|</note></l>
+<l>kṛtasaṃyamās<note place="below" type="exegesis">|</note> tridaśanāthayoginaḥ<note place="below" type="exegesis">|</note><!--XXX gap filler XXX--></l>
+<l><lb n="4"/>bhuvanādidhāmasu<note place="below" type="exegesis">|</note> bhavaṃty<note place="below" type="exegesis">| '</note> avipluta-</l>
+<l>pratibhātacittrabhavadātma<lb n="5"/>saṃvidaḥ<note place="below" type="exegesis">|</note> 29</l>
 </lg>
+
 <lg type="verse" xml:id="HV_06_30">
-<l>vyatipetuṣāṃ trayam asaṃvidātmakaṃ</l>
-<l>sthitisaṃmukhīkṛtanirodhavartmanām|</l>
-<l>bhava yoginām udayate tavecchayā</l>
-<l>nahi koṭibhūmidhiṣaṇā na saptadhā||30||</l>
+<l>vyatipetuṣāṃ<note place="below" type="exegesis">|</note> trayam<note place="below" type="exegesis">| '</note> asaṃvidātmakaṃ<note place="below" type="exegesis">|</note></l>
+<l>sthitisammu<lb n="6"/>khīkṛtanirodhavartmanām_<note place="below" type="exegesis">|</note></l>
+<l>bhava<note place="below" type="exegesis">|</note> yoginām<note place="below" type="exegesis">|</note> udayate<note place="below" type="exegesis">|</note> tave<note place="below" type="exegesis">|</note>ccha<lb n="7"/>yā<note place="below" type="exegesis">|</note></l>
+<l>na<note place="below" type="exegesis">|</note> hi<note place="below" type="exegesis">|</note> koṭibhūmidhiṣaṇā<note place="below" type="exegesis">|</note> na saptadhā 30</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_06_31">
 <l>manaso nirargalapariplavātmano</l>
 <l>nirupaplavasthitinibandhanā nṛṇām|</l>
