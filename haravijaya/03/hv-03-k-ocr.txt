@@ -1,22 +1,22 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Kāvyamālā 22, OCR</title>
+        <title>Kāvyamālā</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <placeName>
-              <settlement/>
-              <region/>
-              <country/>
+              <settlement></settlement>
+              <region></region>
+              <country></country>
             </placeName>
-            <institution/>
-            <repository/>
-            <collection/>
-            <idno/>
-            <idno type="NCC"/>
+            <institution></institution>
+            <repository></repository>
+            <collection></collection>
+            <idno></idno>
+            <idno type="NCC"></idno>
             <idno type="siglum">K<sub>OCR</sub></idno>
           </msIdentifier>
           <msContents>
@@ -42,7 +42,7 @@
             <origin>
               <origDate calendar="CE" when="unclear">unclear</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-              <origPlace xml:lang="en"/>
+              <origPlace xml:lang="en"></origPlace>
             </origin>
             <provenance>[record of ownership]</provenance>
             <acquisition>[how it was acquired]</acquisition>
