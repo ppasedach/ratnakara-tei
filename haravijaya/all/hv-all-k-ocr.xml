@@ -1,5 +1,5 @@
-<TEI xmlns="http://www|tei-c|org/ns/1|0">
-  <teiHeader xmlns="http://www|tei-c|org/ns/1|0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
         <title>Kāvyamālā 22, OCR</title>
@@ -28,20 +28,20 @@
               <title xml:lang="sa">Haravijaya</title>
               <title xml:lang="sa" type="commentary">Viṣamapadoddyota</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <textLang mainLang="sa-Latn">[Sanskrit in Latin script|]</textLang>
-              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc| See ISO 15924 for more details| -->
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
           <physDesc>
             <objectDesc form="e-text">
-            <!-- @form can be "pothi", "book", scroll", etc| -->
+            <!-- @form can be "pothi", "book", scroll", etc. -->
               <supportDesc material="digital">Digital</supportDesc>
             </objectDesc>
           </physDesc>
           <history>
             <origin>
               <origDate calendar="CE" when="unclear">unclear</origDate>
-              <!-- calendar can be "Vikrama", "Śaka", etc| Dates can be approximate or exact| -->
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
               <origPlace xml:lang="en"></origPlace>
             </origin>
             <provenance>[record of ownership]</provenance>
@@ -144,6 +144,7 @@ padmarāgamayasadmaprabhāruṇitaṃ ca madhyagatendulekhaṃ <lb n="11"/>ca | 
 <l>r atyunmiṣatpracuratuṅgamarīcivīciḥ |</l>
 <l>vātāyanasthitavadhūvadanendubimba-</l>
 <l>saṃdarśanād aniśam ullasatīva yasyām || 6 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_6">
 jyotīrasāśmānaḥ sphaṭikamaṇaya<lb n="11"/>s tadaśmanāṃ gṛhāṅgaṇaṃ dugdhasindhur iva yatra sphuratkarormitayollasati bhrājate | atrotprekṣā—<lb n="12"/>vadhūvadanendubimbasaṃdarśanād iveti | yo hi yoṣito vadanam indusamaṃ paśyati sa cetanācama<lb n="13"/>tkṛtirūpam ullāsam āsādayati | indubimbasaṃdarśanaṃ ca dugdhodadher ullāsahetuḥ || 6 ||
@@ -154,6 +155,7 @@ jyotīrasāśmānaḥ sphaṭikamaṇaya<lb n="11"/>s tadaśmanāṃ gṛhāṅg
 <l>lagnāvataṃsakusumacyutakesarāgrāḥ |</l>
 <l>abhyāpatanmadanamārgaṇapuṅkhapakṣa-</l>
 <l>pakṣmākulā iva dadhuḥ pramadāś ca yasyām || 7 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_7">
 kesaraḥ <lb n="14"/>kiṃjalkaḥ || 7 ||
@@ -164,6 +166,7 @@ kesaraḥ <lb n="14"/>kiṃjalkaḥ || 7 ||
 <l>kopānalena ciradagdham apīndumauleḥ |</l>
 <l>utthāpayanmadanam āśu karair vibhāti</l>
 <l>yasyāṃ himāṃśur avalambitajālamārgaḥ || 8 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_8">
 jālamārgo gavākṣamārgaḥ | yena ca karair jālamārgo 'valambitaḥ sa ai<lb n="15"/>ndrajālikatvād dagdham api kiṃcid utthāpayann avabhāsate | atra ca karāḥ pāṇayaḥ | jālaṃ <lb n="16"/>vyājaḥ | mārgaḥ saraṇiḥ sroto [prapañco] vā | utthāpanaṃ pratyujjīvanam_ || 8 ||
@@ -175,6 +178,7 @@ jālamārgo gavākṣamārgaḥ | yena ca karair jālamārgo 'valambitaḥ sa ai
 <!--XXX <p>1 sargaḥ] haravijayam_ | 5</p> XXX-->
 <l><pb n="5"/>kūrmīva puṣpadhanuṣaḥ priyapāṇijāgra-</l>
 <l>koṇāvamarśamadhurakvaṇitāṅganāsīt || 9 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_9">
 nitambaḥ <pb n="5"/><lb n="1"/>kaṭibhāgaḥ, prasthikāpi | daśanā dantāḥ, kolambā api | kūrmī trisarikā, sairandhrīti <lb n="2"/>prasiddho vīṇāviśeṣaḥ | priyasya patyur nakhānām agrakoṇaiḥ prāntabhāgair avamarśo vidāraṇam_, <lb n="3"/>priyaś cātirucito nakhānām agre sthito yaḥ koṇo vādanakāṣṭhikā tenāvamarśo nigharṣaṇam_ <lb n="4"/>|| 9 ||
@@ -185,6 +189,7 @@ nitambaḥ <pb n="5"/><lb n="1"/>kaṭibhāgaḥ, prasthikāpi | daśanā dantā
 <l>vātāyanair ubhayapārśvagatair vibhāti |</l>
 <l>bāṇāsurasya haricakravilūnabāhu-</l>
 <l>mūlavraṇair iva vapuḥ kṣatajacchaṭārdraiḥ || 10 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_10">
 ubhe eva pārśve ubhayapārśve | ubhaśabdasamānārtha ubhayaśabdo vṛttāv eva | kṣataja<lb n="5"/>masram_ || 10 ||
@@ -195,6 +200,7 @@ ubhe eva pārśve ubhayapārśve | ubhaśabdasamānārtha ubhayaśabdo vṛttāv
 <l>māṇikyamandiragavākṣapathapraviṣṭāḥ |</l>
 <l>abhyarṇavartisuranirjhariṇītaraṅga-</l>
 <l>bhaṅgānusāraśiśirā maruto 'ṅganānām || 11 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_11">
 abhyarṇaṃ samīpam_ || 11 ||
@@ -205,6 +211,7 @@ abhyarṇaṃ samīpam_ || 11 ||
 <l>m aśvetatenduśakalaṃ rajanīṣu yasyām |</l>
 <l>jyāghātapātakiṇaśāritamīnaketu-</l>
 <l>nyāsīkṛtācchamaṇikhaṇḍatalāyamānam || 12 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_12">
 yatra vadhūnāṃ gaṇḍabhuvi pratibimbitaṃ śaśi<lb n="6"/>śakalam aśvetata vyarucat_ | sacihna lāñchanasahitam_ | ata eva guṇakiṇaśabalaṃ yattalaṃ <lb n="7"/>prakoṣṭhāgraṃ tatsadṛśam_ | acchamaṇiḥ sphaṭikaḥ | nyāso nikṣepaḥ || 12 ||
@@ -215,6 +222,7 @@ yatra vadhūnāṃ gaṇḍabhuvi pratibimbitaṃ śaśi<lb n="6"/>śakalam aśv
 <l>saṃdarśanotsukatayopagataṃ suraughāḥ |</l>
 <l>jyotīraseṣṭakacitāmbaracumbidīpra-</l>
 <l>vapraprabhābharanibhena ca dugdhasindhuḥ || 13 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_13">
 jyotīrasama<lb n="8"/>yībhir iṣṭakābhiś caturasraghaṭitair loṣṭakaiś cito dṛbdhaḥ | ‘iṣṭakeṣīkāmālānāṃ citatūlabhāriṣu’ <lb n="9"/>iti hrasvaḥ | vapraḥ prākāraḥ | nibho vyājaḥ || 13 ||
@@ -226,6 +234,7 @@ jyotīrasama<lb n="8"/>yībhir iṣṭakābhiś caturasraghaṭitair loṣṭaka
 <!--XXX <p>6 kāvyamālā |</p> XXX-->
 <l><pb n="6"/>strībhir yutāṃ samaṇinūpurajhāṃkṛtābhi-</l>
 <l>r ujjhāṃcakāra jhaṣaketanajhallarībhiḥ || 14 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_14">
 jhaṣaketanasya makaradhvajasya jhālaryo <pb n="6"/><lb n="1"/>vādyabhāṇḍaviśeṣāḥ | tā api nūpurasadṛśajhāṃkāriṇyaḥ || 14 ||
@@ -236,6 +245,7 @@ jhaṣaketanasya makaradhvajasya jhālaryo <pb n="6"/><lb n="1"/>vādyabhāṇ�
 <l>kalmāṣitaṃ śaśabhṛtaḥ karacakravālam |</l>
 <l>śliṣyadgavākṣakaladhautakavāṭapaṭṭa-</l>
 <l>saṃdaṃśalagnakiṇalekham ivaiti lakṣmīm || 15 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_15">
 agurudhūpayor dhūmena <lb n="2"/>militatvād indukaracakraṃ candrasya kiraṇacakram_, yatra śliṣyator gavākṣapidhānabhūtayor yujya<lb n="3"/>mānayoḥ pidhānaphalakayor niṣpeṣeṇa kiṇayuktam iva śobhāṃ vahati | kiṇasya kṛṣṇatvāt_ <lb n="4"/>|| 15 ||
@@ -246,6 +256,7 @@ agurudhūpayor dhūmena <lb n="2"/>militatvād indukaracakraṃ candrasya kira�
 <l>karṇāvataṃsavikacotpalapattrakhaṇḍaiḥ |</l>
 <l>yatrāṅganā dalayataḥ kusumāyudhasya</l>
 <l>bhagnaiḥ kṛpāṇaśakalair iva kīrṇam āsīt || 16 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_16">
 aṅganā iti śasantam_ || 16 ||
@@ -256,6 +267,7 @@ aṅganā iti śasantam_ || 16 ||
 <l>daṇḍā gavākṣavivarodarataḥ prasasruḥ |</l>
 <l>āsannacandrakarabhaṅgabhiyāndhakāra-</l>
 <l>hastā iva sphuritadīrghaśikhāṅgulīkāḥ || 17 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_17">
 āsanno yaḥ śaśikarebhyo bhaṅgaḥ kṣayas tasya <lb n="5"/>bhayena hastā iva timirasya dhūmadaṇḍāḥ | sphuritā dīrghāḥ śikhā evāṅgulyo yeṣām_ | <lb n="6"/>dīrghā śikhā koṭir yāsāṃ tathāvidhā aṅgulya iti ca || 17 ||
@@ -266,6 +278,7 @@ aṅganā iti śasantam_ || 16 ||
 <l>śūnyābhirāmanavayauvanapallavābhiḥ |</l>
 <l>kalpadrumavratatibhiḥ kanakādrikuñja-</l>
 <l>vīthīva yā purapuraṃdhribhir ābabhāse || 18 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_18">
 rāgasyābhiṣaṅgasyānubandho <lb n="7"/>yāsāṃ tathāvidhāś ca tāḥ pariṇāmasya vārdhakasya daśāyā avamarśo bādhas tena śūnyāś ca tāḥ | <lb n="8"/>abhirāmaṃ navaṃ yadyauvanaṃ tasya pallavaḥ prasaro yāsāṃ tāḥ | pakṣe rāgasya lauhityasyānubandho <lb n="9"/>vidyate yeṣāṃ tāni ca pariṇāmadaśāyāḥ paripākadaśāyā avamarśena sparśena śūnyāni nava<lb n="10"/>yauvanāni cājaraṭhāni pattrāṇi yāsāṃ tābhiḥ | kuñjavīthī tarugahano mārgaḥ | puraṃdhrayo <pb n="7"/><lb n="1"/>mukhyayoṣitaḥ || 18 ||
@@ -277,6 +290,7 @@ rāgasyābhiṣaṅgasyānubandho <lb n="7"/>yāsāṃ tathāvidhāś ca tāḥ 
 <l>dūrād apāvṛtamukhair iva dṛśyamānaiḥ |</l>
 <l>dvārair bibharti pihitair api yatra lakṣmī-</l>
 <l>m abhraṃkaṣā pratidiśaṃ maṇiharmyapaṅktiḥ || 19 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_19">
 ghaṭitāny ararāṇi kapāṭāni vidyante yeṣām_ | baddhamukhair iva dṛśya<lb n="2"/>mānaiḥ | niśāyām api dṛśyatvam āgataiḥ | abhraṃkaṣā gaganavyāpinī || 19 ||
@@ -287,6 +301,7 @@ ghaṭitāny ararāṇi kapāṭāni vidyante yeṣām_ | baddhamukhair iva dṛ
 <l>cūḍāmaṇau vasati paurapuraṃdhridehe |</l>
 <l>nirmuktabhītir adhirūḍhakaṭākṣabāṇa-</l>
 <l>tadbhrūśarāsanasahasrakṛtātmarakṣaḥ || 20 ||</l>
+</lg>
 
 <p xml:id="HVVU_01_20">
 candracūḍāmaṇau <lb n="3"/>smarārau | deha iti jātāv ekavacanam_ | deheṣv ityarthaḥ | kaṭākṣā evaṃ bāṇāḥ | bhruva eva <lb n="4"/>dhanūṃṣi śarāsanāni || 20 ||

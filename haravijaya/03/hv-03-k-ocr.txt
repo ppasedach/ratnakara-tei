@@ -70,7 +70,7 @@
 <l><hi rend="superscript">1</hi>madhupa<pc> </pc>rāji<pc> </pc>parājita<pc> </pc>māninī<pc> </pc>jana<pc> </pc>manaḥ<pc> </pc>sumanaḥ<pc> </pc>surabhi<pc> </pc>śriyam |</l>
 <l>abhṛta vāritavārijaviplavāṃ sphuṭitatāmratatāmravaṇaṃ jagat || 2||</l>
 </lg>
-<note>1. udāhṛto 'yaṃ ślokaḥ kāvyaprakāśasya navamollāse yamakaprakaraṇe|</note>
+<note>1| udāhṛto 'yaṃ ślokaḥ kāvyaprakāśasya navamollāse yamakaprakaraṇe|</note>
 <lb/><p xml:id="HVVU_03_2">madhupānāṃ rājibhiḥ parājitamanasvinīmanasaḥ sumanasaḥ puṣpāṇi yatra tādṛśaṃ jagat surabher va-
 <lb/>santasya śobhām avahat | sumanobhiḥ surabhi sāmodaṃ jagac chriyaṃ dadhre iti vā yojanā | vi-
 <lb/>plavo bādhaḥ | sphuṭitāni bhinnāni | tatānyāmravaṇāni yatra | ‘vibhāṣauṣadhi-’ ityādi-
@@ -125,7 +125,7 @@ haravijayam |
 <l>surabhitāṃ dadhati pramadānvito navamadhūpahitatviṣi campake |</l>
 <l>surataharmya ivāracitasthitir navaratāmbaratāṃ madhupo 'nvabhūt || 8 ||</l>
 </lg>
-<p xml:id="HVVU_03_8"><lb/>......varo jāmātā ca ||8||</p>
+<p xml:id="HVVU_03_8"><lb/>||||||varo jāmātā ca ||8||</p>
 <lg type="verse" xml:id="HV_03_9">
 <l>kusumitā girikānanabhūmayaḥ kisalayādharakhaṇḍanalālasaiḥ ||</l>
 <l>parabhṛtaiḥ śradadhāyiṣata priyāḥ sumadanā madanāditaṣaṭpadāḥ ||9||</l>
@@ -172,15 +172,15 @@ kāvyamālā|
 </lg>
 <p xml:id="HVVU_03_14">jaḍatayā maunena na tyaktāḥ | bāliśatayā ca
 <lb/>maugdhyena na sahitā iti virodhaḥ | jaḍatayā śaityenānapākṛtāḥ | navāni ca tāny aliśa-
-<lb/>tāni tair anvitāḥ | ......riṇā...cir yasyā iti cārthadvāreṇa viśeṣaṇam || 14 || </p>
+<lb/>tāni tair anvitāḥ | ||||||riṇā|||cir yasyā iti cārthadvāreṇa viśeṣaṇam || 14 || </p>
 <lg type="verse" xml:id="HV_03_15">
 <l><hi rend="superscript">1</hi>sarasamantharatāmarasādarabhramarasajjalayā nalinī madhau|</l>
 <l>jaladhidevatayā sadṛśīṃ śriyaṃ sphuṭatarāgatarāgarucir dadhau || 15 ||</l>
 </lg>
 <p xml:id="HVVU_03_15">15||</p>
-<lb/><p>1. ‘sarasa-mantha-rata-amara-sādara-bhrama-rasat-jalayā’ iti jaladhidevatāpakṣe chedaḥ, tṛ-|
+<lb/><p>1| ‘sarasa-mantha-rata-amara-sādara-bhrama-rasat-jalayā’ iti jaladhidevatāpakṣe chedaḥ, tṛ-|
 <lb/>tīyaikavacanāntaṃ ca padaa; ‘sarasa-manthara-tāmarasa-ādara-bhramara-sajja-layā' iti nalinī-
-<lb/>pakṣe chedaḥ, prathamaikavacanāntaṃ ca padam.</p>
+<lb/>pakṣe chedaḥ, prathamaikavacanāntaṃ ca padam|</p>
 <lg type="verse" xml:id="HV_03_16">
 <l>caramapādavidhūtarajaḥkaṇaprakaradhūsarapakṣatisaṃpuṭaḥ |</l>
 <l>nyaviśatānugiraṃ kamalākarān rasamanāḥ samanādamalivrajaḥ || 16 ||</l>
@@ -260,7 +260,7 @@ Page 39*************************************************************************
 <l>vikacapattrapuṭaṃ surabhiśriyaḥ sarasavibhramakāñcanapaṅkajam |</l>
 <l>vyadhita campakam unmadanā vadhū rasakalāsakalālikulāravaiḥ || 26 ||</l>
 </lg>
-<p xml:id="HVVU_03_26">...kiṃjalkāsvādanena kalair madhurair asakalaiś cāvyaktaśrutibhir alinā ravaiś campa
+<p xml:id="HVVU_03_26">|||kiṃjalkāsvādanena kalair madhurair asakalaiś cāvyaktaśrutibhir alinā ravaiś campa
 <lb/>kākhyaṃ kusumaṃ samudgatamadanā yoṣitaś cakāra || 26 || </p>
 <lg type="verse" xml:id="HV_03_27">
 <l>rabhasayopagatāḥ pathikā gṛhān madhukarāñjanacūrṇavaśīkṛtāḥ |</l>
@@ -366,11 +366,11 @@ atimitākṣarā svalpavarṇā || 38 || </p>
 <p xml:id="HVVU_03_39">ṭaṅkanikuṭṭanena śastrakāhatyā ghaṭitaṃ calitam | raviḥ
 kila parā priyatamānurodhena duḥsahataraṃ svadhāma tvaṣṭuṣ ṭaṅkena śātayāmāsa | janatā klama-
 m itavatī gatā || 39 || </p>
-<p>1. kāvyaprakāśadaśamollāsopānte 'pi ‘spṛśati tigmarucau kakubhaḥ karaiḥ-’ ityā-
+<p>1| kāvyaprakāśadaśamollāsopānte 'pi ‘spṛśati tigmarucau kakubhaḥ karaiḥ-’ ityā-
 dyatratyameva padyam udāhṛtya ‘atra tigmaruceḥ kakubhāṃ ca---kiṃ dayitayeti svaśabdopādānena’
-ity uktam asti. parikarālaṃkāraprakaraṇānantaraṃ ca kāvyaprakāśaśeṣo 'nenaiva haravijayaṭī-
-kākartrā rājānakālakena pūrita ity uktam eva prāk. ata evātra ṭīkāyāṃ kāvyaprakāśe
-cāsmin padye samānam eva dūṣaṇodbhāvanam.</p>
+ity uktam asti| parikarālaṃkāraprakaraṇānantaraṃ ca kāvyaprakāśaśeṣo 'nenaiva haravijayaṭī-
+kākartrā rājānakālakena pūrita ity uktam eva prāk| ata evātra ṭīkāyāṃ kāvyaprakāśe
+cāsmin padye samānam eva dūṣaṇodbhāvanam|</p>
 <!--
 Page 42****************************************************************************************
 kāvyamālā|
