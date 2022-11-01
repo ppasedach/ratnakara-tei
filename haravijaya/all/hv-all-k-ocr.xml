@@ -5423,7 +5423,7 @@ bhuvanāni nirmimitsato druhiṇasya tasmād eva yaḥ <lb n="5"/>pūrvam udabh�
 
 <lg type="verse" xml:id="HV_06_41">
 <!--XXX <p>6 sargaḥ] haravijayam_ | 89</p> XXX-->
-<l>praṇavādir apy atha virāmatāṃ dadhat phaṇinā nirūpitapadārthasaptakaḥ |</l>
+<l><pb n="89"/>praṇavādir apy atha virāmatāṃ dadhat phaṇinā nirūpitapadārthasaptakaḥ |</l>
 <l>bhagavann adhīta iha yaiḥ kilāgamaḥ padam āpnuvanti nanu te 'pi tāvakam || 41 ||</l>
 </lg>
 
@@ -5518,124 +5518,75 @@ bhuvanāni nirmimitsato druhiṇasya tasmād eva yaḥ <lb n="5"/>pūrvam udabh�
 <l>bhagavann aho bata kilāsi durgrahaḥ prathitena rūpavibhavena kenacit |</l>
 <l>adhiropitena tathatātmanāpi vā kvacanāpi yan na kṛtinābhyupeyase || 51 ||</l>
 </lg>
-<!--
-<lg type="verse" xml:id="HV_06_52">
-<l> |</l>
-<l> || 52 ||</l>
-</lg>
 
-<p xml:id="HVVU_06_52">
- || 52 ||
-</p>
+<!--XXX<note place="bottom-margin">2</note>???XXX-->
+
+<lg type="verse" xml:id="HV_06_52">
+<!--XXX <p>90 kāvyamālā |</p> XXX-->
+<l><pb n="90"/>na gatis tavāsti suranātha nāgatir na bahir na cāntar avabhāsase kvacit |</l>
+<l>dvyavabhāsaśūnyatathatāvalambanaḥ pratibhāsi nānanugṛhītacetasām || 52 ||</l>
+</lg>
 
 <lg type="verse" xml:id="HV_06_53">
-<l> |</l>
-<l> || 53 ||</l>
+<l>avibhāga eva sakalārthasaṃhater jagati prakāśakatayā vyavasthitaḥ |</l>
+<l>padavākyayos tvam upakārakāritām abhidheyavastuni savistare gataḥ || 53 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_53">
- || 53 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_54">
-<l> |</l>
-<l> || 54 ||</l>
+<l>parikalpitena dadhad ekarūpatām api kartṛkarmakaraṇādivartmanā |</l>
+<l>tvam anādikālakṛtayā hy avidyayā bahudhā vibhajya parigṛhyase janaiḥ || 54 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_54">
- || 54 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_55">
-<l> |</l>
-<l> || 55 ||</l>
+<l>sakalārthavigrahatayā vivartate yadanādimadhyanidhanaṃ kilākṣaram |</l>
+<l>prathayanti tat tava jagannibandhanaṃ śivaśabdatattvam avinaśvaraṃ vapuḥ || 55 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_55">
- || 55 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_56">
-<l> |</l>
-<l> || 56 ||</l>
+<l>asamāptaviplavavikalpagocarau vyavahārapaddhatiparasparāśrayau |</l>
+<l>parataḥ sthitatvam avadher avāpnuto vinivṛttim īśa jagato 'sya dhīdhvanī || 56 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_56">
- || 56 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_57">
-<l> |</l>
-<l> || 57 ||</l>
+<l>jagato 'valambitaparāvarobhayavyativṛttarūpagahano visaṃsthulām |</l>
+<l>visabhāgatām upaniṣatparāśritaḥ pratibhāsate bhava bhavān na kasyacit || 57 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_57">
- || 57 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_58">
-<l> |</l>
-<l> || 58 ||</l>
+<l>vyatiriktavṛttir aguṇo guṇasthitiḥ suranātha tatprakṛtitāṃ ca saṃśritaḥ |</l>
+<l>sphuṭam adhvanaḥ ṣaḍavadhisthiter bhavān visabhāgatām atha sabhāgatāṃ gataḥ || 58 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_58">
- || 58 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_59">
-<l> |</l>
-<l> || 59 ||</l>
+<l>api buddhigocaram atītya saṃsthitaḥ praṇavāravāntaraniviṣṭadṛṣṭibhiḥ |</l>
+<l>kim api pratīpitaviparyayagrahair anupādhirūpakaraṇo nirūpyase || 59 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_59">
- || 59 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_60">
-<l> |</l>
-<l> || 60 ||</l>
+<l>dadhato vilaṅghitaturīyavṛttitāṃ kṛtajīvajīvananirāmayasthiteḥ |</l>
+<l>bhavato 'pavargadam anāhatātmanaḥ padam āpnuvanti kṛtinaḥ suṣumṇayā || 60 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_60">
- || 60 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_61">
-<l> |</l>
-<l> || 61 ||</l>
+<l>vyavadhūtakalpanagabhīramūrtitāṃ dadhataṃ durantam anapāyam adbhutam |</l>
+<l>pratibhidya maṇḍalacatuṣṭayaṃ javāt kṛtino bhavantam aviśann anāvṛtam || 61 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_61">
- || 61 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_62">
-<l> |</l>
-<l> || 62 ||</l>
+<l>bhavadīritena manasābhihanyate suranātha vigrahaśikhī śikhākulaḥ |</l>
+<l>sa samīram īrayati pañcalakṣaṇaṃ sthitihetum īśa vapuṣaḥ śarīriṇām || 62 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_62">
- || 62 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_63">
-<l> |</l>
-<l> || 63 ||</l>
+<l>adhiruhya niṣpratighacittasārathiṃ daśabhedabāhyakaraṇāśrayaṃ ratham |</l>
+<l>viṣayeṣu nīlagala bambhramīty aṇur bhavad icchayā ca vinivartate punaḥ || 63 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_63">
- || 63 ||
-</p>
 
 <lg type="verse" xml:id="HV_06_64">
-<l> |</l>
-<l> || 64 ||</l>
+<l>sakalādhidaivatagaṇasya tasthuṣaḥ śravaṇādidhāmasu guruḥ śarīriṇām |</l>
+<l>hṛdayāmbare niravalambanasthitiḥ kṛtibhis tvam eva bhagavann upāsyase || 64 ||</l>
 </lg>
-
-<p xml:id="HVVU_06_64">
- || 64 ||
-</p>
-
+<!--
 <lg type="verse" xml:id="HV_06_65">
 <l> |</l>
 <l> || 65 ||</l>
