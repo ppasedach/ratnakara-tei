@@ -14997,62 +14997,80 @@ uttaṃsaḥ karṇapūro 'tra || 17 ||
 <p xml:id="HVVU_17_20">
 nadītaṭānāṃ sāmyaṃ <!--XXX<note place="bottom-margin">29</note>???XXX--><pb n="226"/><lb n="1"/>kaṭībhiḥ pratyapādayat_ || 20 ||
 </p>
-<!--
-<pb n="226" />
+
 <lg type="verse" xml:id="HV_17_21">
-<l>uttānasthitivikarālakālajaṅghavyākośāṅgulikhagapādanirviśeṣam |</l>
-<l>saṃsthānaṃ tanutaranālapattramagre nārobhiḥ pratipathamaikṣyataurubūkam || 21 ||</l>
+<!--XXX <p>226 kāvyamālā |</p> XXX-->
+<l><pb n="226"/>uttānasthitivikarālakā<anchor place="above" n="HV_17_21_n1"/>lajaṅghavyākośāṅgulikhagapādanirviśeṣam |</l>
+<l>saṃsthānaṃ tanutaranālapattram agre nārībhiḥ pratipatham aikṣyataurubūkam || 21 ||</l>
 </lg>
 
+<ab type="apparatus" corresp="#HV_17_21">
+  <list type="notes">
+    <item corresp="#HV_17_21_n1"><lb n="1"/>1. ‘nīlajaṅgha’ kha.</item>
+  </list>
+</ab>
+
 <p xml:id="HVVU_17_21">
- || 21 ||
+uttānasthityā bhīṣaṇaḥ śyāmajaṅgho vikasitāṅguliś ca yaḥ <lb n="2"/>khagas tasya sāmarthyākālajaṅghākhyasya pakṣiṇaḥ pādas tat sadṛśam_ | tanutare nālapattre yasya | <lb n="3"/>pattrasya prasṛtāṅguliś caraṇa upamānam_ | tasya tadākāratvāt_ | vṛntasya tu jaṅghā | aurubū<lb n="4"/>kam eraṇḍasaṃbandhi || 21 ||
 </p>
 
 <lg type="verse" xml:id="HV_17_22">
-<l>tāḥ śobhādhigataparasparopamānaṃ śrotrākṣistanakarapādamudvahantyaḥ |</l>
-<l>sadvartmasthitimapi pakṣmapaṅktimūhuryajjihmāṃ tadavamatāmiva prapede || 22 ||</l>
+<l>tāḥ śobhādhigataparasparopamānaṃ śrotrākṣistanakarapādam udvahantyaḥ |</l>
+<l>sadvartmasthitim api pakṣmapaṅktim ūhur yaj jihmāṃ tad avamatām iva prapede || 22 ||</l>
 </lg>
 
 <p xml:id="HVVU_17_22">
- || 22 ||
+sadvartmani nayanapuṭe tiṣṭhantīm api jihmāṃ pakṣmapaṅktiṃ yad ūhus ta<lb n="5"/>d asau nikṛṣṭatām ivāpa | sanmārgavartī hi pāpācaraṇe pṛthagjanebhyo 'py adhamaḥ | jihmā pāpā <lb n="6"/>kuṭilā ca | adha(va)mo nikṛṣṭo 'nṛjuś ca || 22 ||
 </p>
 
 <lg type="verse" xml:id="HV_17_23">
-<l>āhlādaṃ śiśiratarāvamarśahṛdyāḥ kurvatyo 'dhikamapariplavaprakāśāḥ |</l>
-<l>aurvaryaḥ sphuradaghanāvalambibimbā bimboṣṭhyo bibabhurapūrvavidyutastāḥ || 23 ||</l>
+<l>āhlādaṃ śiśiratarāvamarśahṛdyāḥ kurvatyo 'dhikam apariplavaprakāśāḥ |</l>
+<l>aurvaryaḥ sphuradaghanāvalambibimbā bimboṣṭhyo vibabhur apūrvavidyutas tāḥ || 23 ||</l>
 </lg>
 
 <p xml:id="HVVU_17_23">
- || 23 ||
+urvarā bhūs tatra bhavā aurvaryaḥ | sphu<lb n="7"/>raddyotamānam_, aghanaṃ tanu, avalambi ca saralaṃ bimbaṃ śarīrābhogo yāsām_ | apūrvaṃ vi<lb n="8"/>śeṣeṇa dyotante | atha cāpūrvā vidyutas taḍito hlādahetavaḥ śītasparśāḥ sthiraprakāśā bhuvi <lb n="9"/>sthitā megheṣu cānavalambamānā bhavanti || 23 ||
 </p>
 
 <lg type="verse" xml:id="HV_17_24">
-<l>ākṣiptapriyatamacetasā tadānīṃ puṣpeṣusphuṭamavatāvadhānayogam |</l>
-<l>paryāptasvarapadatālasacchriyoccairgāndharvasthitiratha yauvatena tene || 24 ||</l>
+<l>ākṣiptapriyatamacetasā tadānīṃ puṣpeṣusphuṭam avatāvadhānayogam |</l>
+<l>paryāptasvarapadatālasacchriyoccair gāndharvasthitir atha yauvatena tene || 24 ||</l>
 </lg>
 
 <p xml:id="HVVU_17_24">
- || 24 ||
+yuvatīnāṃ samūho yauvatam_ | tena puṣpe<lb n="10"/>ṣv ekāgratāyogaṃ sphuṭam avatā gacchatā gāndharvasyeva sthitir vihitā | nūpurakvaṇitayogena pa<lb n="11"/>ryāptaśabdāni padāni yasya tadbhāvenollasatkāntinā | gāndharvaṃ ca ceto(?)manoharam_ | <lb n="12"/>puṣpeṣau ca kāme sphuṭam_ | uddīpakatvāt_ | avadhānaprayojyaṃ ca | tathā paryāptaiḥ svaraiḥ <lb n="13"/>ṣaḍjādibhiḥ, padaiḥ suptiṅṅ antaiḥ ṣaḍjādisvarādhārabhūtaiḥ, tālena ca kālamānarūpeṇa cañcu<lb n="14"/>puṭacācapuṭādinā sacchobhanam_ | uktaṃ ca—‘padasthaḥ svarasaṃghātas tālena sumitas tathā | <lb n="15"/>prayojyaś cāvadhānena gāndharvam abhidhīyate ||’ iti || 24 ||
 </p>
 
 <lg type="verse" xml:id="HV_17_25">
-<l>ābhāsvatkiraṇakarālaratnahārapratyagrāṃ dadhadalakāspadāmabhikhyām |</l>
-<l>vaidagdhīṃ yuvatijano 'tha puṣpakāñcīchāyāvāndraviṇapaterivālambe || 25 ||</l>
+<l>ābhāsvatkiraṇakarālara<anchor place="above" n="HV_17_25_n2"/>tnahārapratyagrāṃ dadhad alakāspadām abhikhyām |</l>
+<l>vaidagdhīṃ yuvatijano 'tha puṣpakāñcīchāyāvāndraviṇapater ivālambe || 25 ||</l>
 </lg>
 
+<ab type="apparatus" corresp="#HV_17_25">
+  <list type="notes">
+    <item corresp="#HV_17_25_n2">2. ‘ratnahāraḥ’ kha.</item>
+  </list>
+</ab>
+
 <p xml:id="HVVU_17_25">
- || 25 ||
+alakā lalāṭāvalambinaḥ <lb n="16"/>keśāḥ | alakā ca dhanadapurī | puṣpakāñcī kusumamayī raśanā tayā śobhāvān_ | pu<pb n="227"/><lb n="1"/>ṣpakeṇa vimānenāñcati vrajatīti puṣpakāñcī kāntimāṃś ca || 25 ||
 </p>
 
 <lg type="verse" xml:id="HV_17_26">
-<l>tuṅgatvaṃ kucakalaśeṣvanāthaṅganānāṃ vistāraṃ vikaṭakaṭīrakasthalīṣu |</l>
-<l>madhyeṣu kramimadaśāṃ śaśaṃsa loko bhāveṣu sthitirucitā janasya śasyā || 26 ||</l>
+<l>tuṅgatvaṃ kucakalaśeṣv athāṅganānāṃ vistāraṃ vikaṭakaṭīrakastha<anchor place="above" n="HV_17_26_n3"/>līṣu |</l>
+<l>madhyeṣu kraśimadaśāṃ śaśaṃsa loko bhāveṣu sthitir ucitā janasya śasyā || 26</l>
 </lg>
 
-<p xml:id="HVVU_17_26">
- || 26 ||
-</p>
+<ab type="apparatus" corresp="#HV_17_26">
+  <list type="notes">
+    <item corresp="#HV_17_26_n3">3. ‘sthaleṣu’ kha.</item>
+  </list>
+</ab>
 
+<p xml:id="HVVU_17_26">
+26 ||
+</p>
+<!--
 <lg type="verse" xml:id="HV_17_27">
 <pb n="227" />
 <l>prāptānāmabalatayāpi niḥsahatvaṃ bhraṣṭānāṃ na tu balibhāvalagnatāyāḥ |</l>
