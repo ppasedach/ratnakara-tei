@@ -973,11 +973,11 @@ nāsti lavaś chedo yasyā<lb n="3"/>s tādṛśī līlā yasya tadbhāvo yoṣi
 sthalīṣu vikasitā amalāḥ kesarāgā <lb n="9"/>bakulataravo yasya taṃ giriṃ draṣṭuṃ sarāgamalake gaurīṃ spṛśann īśvaro viniryayau | lulite <lb n="10"/>kuṭilīkṛte || 94 ||
 </p>
 
-<p xml:id="HVVU_03XXX">
+<p xml:id="HV_03XXX">
 <lb/>iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanāmno mahākave rājānaka<lb/>śrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma <lb/>tṛtīyaḥ sargaḥ |
 </p>
 
-<p>
+<p xml:id="HVVU_03XXX">
 <!--XXX commentary (HVVU) XXX-->
 iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapado<lb n="11"/>ddyote tṛtīyaḥ sargaḥ ||
 </p>
