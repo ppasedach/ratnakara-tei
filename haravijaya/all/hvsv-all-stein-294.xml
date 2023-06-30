@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Haravijayasāravivaraṇa</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement></settlement>
+              <region></region>
+              <country></country>
+            </placeName>
+            <institution></institution>
+            <repository></repository>
+            <collection></collection>
+            <idno></idno>
+            <idno type="NCC"></idno>
+            <idno type="siglum">Ś<sub>A</sub></idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Stein 294</summary>
+            <msItem n="1" defective="true">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Ratnākara</author>
+              <author xml:lang="sa" role="commentator">Utpala</author>
+              <title xml:lang="sa">Haravijaya</title>
+              <title xml:lang="sa" type="commentary">Haravijayasāravivaraṇa</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <textLang mainLang="sa-Latn">[Sanskrit in Latin script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="e-text">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="digital">Digital</supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="CE" when="unclear">unclear</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en"></origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2023-06-18">
+        <persName>Peter Pasedach</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+<div n="01" type="chapter"></div>
+<div n="02" type="chapter"></div>
+<!-- <pb n="7r">maṇimayakirīṭāny evāṣṭāpadāni caturaṅgaphalahakāni kirīṭeṣu vā
+ṣṭāpadaṃ suvarṇaṃ yeṣām || || utpalakṛte haravijayasāravivaraṇe dvitī
+yaḥ sargaḥ || -->
+</div>
+<div n="03" type="chapter">
+<p>|| oṃ namo vighnahantre oṃ namo gurave guraveḥ</p> 
+<p xml:id="HVSV_03_1">| atha | sa devo manthagi<lb n="4"/>rau mandare sarvarttubhiḥ samaṃ sevitaḥ prasavaḥ puṣpam || śatrujaye naghā niśchadmā<lb n="5"/>no bāhudrumā yasya |</p> 
+<p xml:id="HVSV_03_2">madhu | jagac chobhāṃ dadhre bhramararājibhiḥ parājitāni tatāni<lb n="6"/>vistīrṇāni sāninīnāṃ manāṃsi yatra sumanobhiḥ puṣpais surabhivārijāni padmā<lb n="7"/>ni sphuṭitāni vikasitāny ata evāruṇāni tatāni vistīrṇāni āmravanāni <lb n="8"/>yatra |</p> 
+<p xml:id="HVSV_03_3">druta | yamena niṣevitāṃ dakṣiṇāṃ diśaṃ tyaktvā aiḍaviḍasya yai śravaṇasyā<lb n="9"/>śrayām uttarām āśritavān asumatāṃ prāṇināṃ suṣṭhamatāṃ sthitiṃ kurvan | atha <lb n="10"/>ca yathā kaścit krūrasevitāṃ yoṣitām upāmrajaḍaprāyāśrayām abhiyuṅktā ity a<lb n="11"/>rthānuramyapratītiḥ |</p> 
+<p xml:id="HVSV_03_4">sthiti | girer aravanayaḥ bhuvas sthitiṃ babhruḥ avalambitastavaka<lb n="12"/>darpaṇāḥ pallavā eva pāṇayo yāsāṃ mahātilakākhyais tarubhir ujjvalaiś ca <lb n="13"/>pattrair latābhiś ca vartate yāḥ vanena kānanena jalena vā yogaḥ sambandhaḥ ataś cāva<lb n="14"/>nivanayoḥ śṛṅgāratvam priyam aṅgatā hi kāntādarśacitrānātilakaṃ pattrala<lb n="15"/>tāṃ ca karoti ||</p>
+<p xml:id="HVSV_03_5">kṛta || bhramarāvāmaraś ca vapūr avatīrṇakāmāḥ ata eva paravatī<lb n="16"/>ś cakruḥ | rucirābhilāṣaś śobhā ca | madhunā kiñjalkena vasantena ca saṃbandhā<lb n="17"/>n mantharagāmitvam ubhayatrāpi | 
+<p xml:id="HVSV_03_6">sphuṭa | avyavahāraḥ bhojanam rasāyanaṃ bhramara <lb n="18"/>sākṣikam atra | anyo pi paratādirasābhyavahārakṛtena rasāyanam aṅgahāsu <lb n="19"/>sthito bhavati | asukhāyata sukham anvaXbabhūva varaṃtiṃ mupadruvam atītyātikrāmya <lb n="20"/>| 
+<p xml:id="HVSV_03_7"/>madhu | vasantaśriyā vayasyayeva kokilāgirākaraṇabhūtayā mṛgadṛ <lb n="21"/>śo vallabhais saha yojitāḥ satyo suṃdahakṣaṃ babhruḥ | damapradāsunayaḥ | 
+<p xml:id="HVSV_03_8">sura | <lb n="22"/>bhramaraḥ pramadānvitaḥ saharṣo navena madhunā vasantena kiñjalkena vā kṛtakānto <lb n="23"/>campakapuṣpe ṇavaramaṇāṃ varatām utkṛṣṭatām atha ca jāmātratvam anubhūtavān | <lb n="24"/>varo hi bhremramadayā kantayānvitaḥ suratagehe āste | tatrānakṛsena utkṛṣṭe <lb n="25"/>na prapanā hi tātviX | 
+<p xml:id="HVSV_03_9">kusu | kisalayāny evādhāraḥ | tatkhaṇḍenecchubhiḥ ko<lb n="26"/>kilaiḥ puṣpitā vanabhuva āsṛtāḥ priyā abhimatāḥ madanākhyās taravaḥ | ma<lb n="27"/>dena kiñcit kṣīvatayā nāditā rasitāḥ | ataś ca priyāḥ kāntāḥ iva tā api <lb n="28"/>kusumitāḥ saṃjātarajodarśanāḥ sakāmāś ca | 
+<p xml:id="HVSV_03_10">madhu | manojñavikāsāyā<pb n="7v"> mādhavīlatāyā madhupānana mattā malīmasāś ca kṛṣṇā | atha ca pāpina iva | <lb n="2"/>bhramarāh striyo vyathayantu | nāma yatra kuravakatarustavakāś citayā sphītādyā <lb n="3"/>stacitayās taddhatvenopalakṣito pi viga(or ra?)hiṇir vṛṣayati tad ayuktam iti <lb n="4"/>dvābhyāṃ kriyā | 
+
+<p>śatrau spṛṣṭarasa[ḥ?]śṛṅgārādibhiḥ hāvo kṣibhrūvikārādinā | 
+<lb n="5"/>utsracako vyāpāraḥ tadā he madhuravādini yasmāt kurabakastabako
+pi vyatha<lb n="6"/>yati | tat tasmāt tat tan nānāprakāraṃ kiñcid abhidhāyataṃ priyamānaye tirasena sa<lb n="7"/>khīṣu niyuktavacanā abhavan | ata eva gate sati priyatame(?)dīXX
+pi <lb n="8"/>mānaṃ muṃcaṃti yāḥ kecit tu sākhīvacanād āgateṣu priyatameṣu mānam muca
+<lb n="9"/>tyajuḥ || ||</p>
+
+<p xml:id="HVSV_03_13">jara | pariṇataiḥ paṅkajabījaiḥ padmākṣastalyatviṣo bhṛṅgāḥ |
+madhu niḥ<lb n="10"/>śeṣeṇa pātuṃ pragalbhā āsan | vyavadhiḥ sthānaṃ | virahe sati striyo
+vadha<lb n="11"/>yogakṛtaḥ mārakāḥ |</p>
+
+<p xml:id="HVSV_03_14">sura | jaḍatā śaityam | na vairaliśatair bhramaravṛndair a
+<lb n="12"/>nvitāḥ
+| ataś ca yo jaḍatayā maurkhyenātyaktās te kathaṃ vāliśatayāmraX<lb n="13"/>tvena yuktān
+asXr iti | virodhaḥ munīnām api rate surataviśeṣe rāgaṃ kurvanti <lb n="14"/>ye | </p>
+<p xml:id="HVSV_03_17"> mṛga | mṛgākṣyas sāgassāparādhān api dayitān nābhicukrupuritikrudhi
+<lb n="15"/> druhīti caturthī bādhikā |
+krudhadruhor upamṛṣṭayor iti dvitīyā | bhurji
+<lb n="16"/>tatadbhaṭo pi yaxXXs tadbhāvena
+ratārthaṃ | yānaṃ gamanam || 17 ||</p>
+
+<p xml:id="HVSV_03_15">sara sarasaṃ mantha<lb n="17"/>raṃ
+ca kṛtvā tāmarasaviṣayenādareṇa bhramarāṇāṃ sajjaḥ pratyāmannolaya 'śe<lb n="18"/>ṣo
+yasyām | sphuṭatarā āgatā jātārāgeṇāru X(?) tayā rucir yasyāḥ (?) | apara<lb n="19"/>tra
+sarasām arthe ca ratā ye (?) amarās teṣāṃ sādam avasādaṃ rāti dadāti yaḥ |
+<lb n="20"/> bhramaḥ bhramāṇam tena rasat saśabdaṃ ṭālaṃ yasya | tayā agamya mandaradrer
+yaḥ 
+taras ta<lb n="21"/>raṇaṃ tena agena ca pārijātataruṇārucir yasyāḥ iti vibhaktivipariṇā-
+me<lb n="22"/>na yojyam |</p>
+
+<p xml:id="HVSV_03_16">cara | caramāḥ paścimāḥ | anugiraṃ parvate rasena yuktaṃ
+mano<lb n="23"/> yasya sa yo nādo rutaṃ yatra tathā kṛtvā |</p>
+
+
+<p xml:id="HVSV_03_18">tara | pallava eva tāmraḥ karaḥ
+<lb n="24"/>samadhuṃ kiñjalkaṃ puṣpako maṃtaror payitum(?some correction with h a.c.)
+iva vivalitānā<lb n="25"/>yikāpi priyasya samady(my?)aṃ kośaṃ ca ṣakam arpayati balī mahān
+| tā<lb n="26"/>paḥ kāmartho pi</p>
+
+<p xml:id="HVSV_03_19">bhrama ||(p.c.) nibho vyājaḥ kesarāṇi bakulāṇy eva ketuśatāni
+ <lb n="27"/> yatra || ||</p>
+
+<p xml:id="HVSV_03_20">śiśi | candre cirād apy upāgate niśāyā mukhe prārambhe
+madhor vasantasya <pb/>saṃgamāt kaluṣyaṃ nāpi na prāptum | aniśaṃ yāpitaṃ
+gamitaṃ vasantayogād eva <lb n="2"/> mānaṃ pramānaṃ | yathā nāyikayāś
+cānyayoṣitā kṛtapratyūhe cireṇāpi <lb n="3"/> prāpte preyasi(?)
+madyamambardhād(?) vadane kāluṣyaṃ na bhavati tatamānaḥ priyaṃ pra<lb n="4"/>ti
+| </p>
+
+<p xml:id="HVSV_03_21">sara | uttaracchadā bahiḥpattrāṇi pracchadapajāś ca madhu kiñjalkaṃ
+madyaṃ <lb n="5"/> cabdaṅgais sabhramarīkaiḥ śṛṅgāribhir iva joṣaṃsaprītikṛtvā sthitam | </p>
+
+<p xml:id="HVSV_03_22"><lb n="6"/>nidhu | suratāvasāne vadhūḥ kuṭṭamitena 
+kāntasya mano jahāra</p>
+<p xml:id="HVSV_03_23">keśastanāparā<lb n="7"/>ḍhasya padam iva sammatayā tīrayatas 
+sa kāmasya mitram | niveśo ra<lb n="8"/>canā | navo yavāṅgura evābharaṇam yatra
+tathāvidhām śriyaṃ dadhatī |</p>
+<p xml:id="HVSV_03_24">vida |
+<lb n="9"/>ahāryaḥ parvatas tasya taṭāḥ kāmasya virahikṣapaṇaṃ prati 
+nijaśakter va<lb n="10"/>rdhanaṃ kurvatas sahakāritāṃ sāhāyyaṃ dadhuḥ | 
+atha ca sahakāryākhyavṛkṣa<lb n="11"/>vattvam api yathā salilādayaḥ 
+sahakāriṇo ṅkurādāv upādānakāraṇasya <lb n="12"/> bījādeḥ śaktiṃ vardhayanti |
+anavamā utkṛṣṭāḥ navaś ca mādhavo vasantaḥ |</p>
+<p xml:id="HVSV_03_25">a<lb n="13"/>li | kaṅkaṭitaiḥ kavacitair vāyau sarati vāti sati 
+ke śṛṇgāri[re ac.]ṇo rati<lb n="13"/>krīḍārasenākulānābhavan |</p>
+<p xml:id="HVSV_03_26">vika | vasantalakṣmyā vilāsārthahemapa
+<lb n="14"/>dmam iva campakaṃ kartrya [?] rasavaśān madhurair asakalaiś ca spaṣṭaiḥ bhramarāravaiḥ
+<lb n="15"/>r [cancelled] vadhūr utpannakāmāś cakāra |</p>
+<p xml:id="HVSV_03_27">rabha | bhramarā eva vaśīkaraṇārtham añjanacū<lb n="16"/>ṇam 
+āśleṣasukhenāsvasantībhir nijavadhūbhir javena tvarayā 
+dhūtaḥ śarīra<lb n="17"/>kramo [should be klamo] yeṣām | </p>
+<p xml:id="HVSV_03_28">śiva | śaivalena śevālena satī śobhanā śaivānāṃ cānanda
+<lb n="18"/>vaśāl lasatām krīḍatām śrīr yatra kāḥ sāraṃ tyaktvā priyaiḥ saha yogaṃ na gatāḥ ||
+<p xml:id="HVSV_03_29"><lb n="19"/>|| madhu | pattrāṇi latāś caivābharaṇaṃ tenojjvalā ramyāḥ 
+yoṣito pi pattrala<lb n="20"/>tābhiḥ kapolādisāḍanair ābharaṇaiś cojjvalā | 
+atimuktakākhyāvrata<lb n="21"/>tayo latā | 
+atatayogaguṇaśriyo nābhavan vistīrṇaguṇaśobhā āsann i<lb n="22"/>ty arthaḥ </p>
+<p xml:id="HVSV_03_30">mukha | bhramarā eva cūcukaṃ yatra na na adadarat | api tu bibheda 
+<lb n="22"/>kamitā kāntaḥ | rāga ujjvalyam anuraktatā ca | karau raśmihastau |
+<p xml:id="HVSV_03_31">smara | <lb n="23"/>kāma eva gajas tasya madaś chaṭe 
+vaprakakṣeṇa capalā bhṛṅgāvalī | vanam e<lb n="24"/>vāXis tatra vidrumabhūte 
+palāśākhye tarau śriyaṃ prakaṭīcakāra</p>
+<p xml:id="HVSV_03_32">a<lb n="25"/>ni | na nimiṣantīty animeṣāṇi igupadhetikaḥ | 
+tathāvidhair akṣibhir vi<lb n="26"/>lokito vīnāṃ pakṣiṇām upacārād bhramarāṇāṃ 
+bhramo vā yasya tāṃ navamāli<pb/>kākhyāṃ latām apsarasam iva 
+nit nimeṣanetrāvavalokitavibhramam <lb n="2"/> anavamaṃ cotkṛṣṭaṃ alikaṃ lalāṭaṃ yasyāṃs 
+tādṛṣṭā [p.c., should actually be tādṛśā] anavamā 'ciraprarū<lb n="3"/>ḍhaśāntayo pi 
+munayas sotkaṇṭhāḥ[pc] kāmasya vaśaṃ jagmuḥ |</p>
+<p xml:id="HVSV_03_33">apa | lalanājana<lb n="4"/>s samadas san_ ananyatulyaṃ 
+dolāvilāsaṃ na na anvabhūt_ anubhūtavān eva | <lb n="5"/>aparimṛṣṭyādinātivegavattvaṃ</p> 
+
+<p xml:id="HVSV_03_34">smara | yad agnivat piṅgalam_
+<lb n="6"/>aśokaṃ kāmam uddīpitavat_ tat sphuṭad vikasad mṛṣṭvā kaṃ kamitāraṃ
+<lb n="7"/>priyaṃ vadhūr na itā śambhor cordhvanetre vahninā piṣaṅgaṃ san kāmam adhakṣīt_
+<lb n="8"/>lakṣyate |</p>
+
+<p xml:id="HVSV_03_35">vidhu | catulātilako lo[should be la]lāṭālambyalaṅkāraḥ | tattulyā kiñjalkaka
+<lb n="9"/>piśābhṛṅgālīghano raso makarandyaṃ jalaṃ vā yasyā narasārthakatvāt_
+<lb n="10"/>samastajanamano harā kāminī ca ghanaśṛṅgāra[long ā cancelled]rāgā narān āharati | vasantaḥ |</p>
+
+<p xml:id="HVSV_03_36">śuci | śucir grīṣmaḥ āplutir jalakrīḍā vataṃsitā avataṃsīkṛtā
+<lb n="11"/>mallikā yābhiḥ | vaṣṭi bhāgurir allopam avāpyor upasargayoḥ | stanava
+<lb n="12"/>tī[ḥ pc] praśastakucā striyo navo virahasyānubhūtatvāt_ | tīvraś ca śarīrakra
+<lb n="13"/>mo yāsāṃ sāpi ca sakramānāṃ vayasyānāmnānādi karoti</p>
+
+<p xml:id="HVSV_03_37">spṛśa | ci
+<lb n="14"/>rayāyidinānāṃ grīṣmadivasānāṃ śriya evaṃ vridhayāsmitam_ | kakubhāṃ
+<lb n="15"/>sapatnītvam | karai raśmibhir api tāpaḥ [tāptaḥ pc?] santāpo pi mānaḥ pramāṇam api
+<lb n="16"/>tigmarucau rucirayā ceti sākūbham_ | caṇḍatvasauktasādya[?]pratipā
+<lb n="17"/>danāt_ |</p>
+
+<p xml:id="HVSV_03_38">sara | kṛśāṅgī priyeṇārahitā svādhīnabhartṛkāpi virahiṇī
+<lb n="18"/>sthitiṃ prāptā | jalārdrāṃ śukādibhāraṇāt_ | atiśaye [ḥ cancelled] mitākṣarā pari
+<lb n="19"/>mitavarṇā ye kathā yasyāḥ |</p>
+
+<p xml:id="HVSV_03_39">dina | ṭaṅkeṇa śastrakeṇa nikuṭṭanam āhatiḥ
+<lb n="20"/>sradeṇa kila tvaṣṭur bhrameXtatsānasaukhyadhāmaśātitamabhūt_ | bhramaṃ bhrāntiṃ
+<lb n="21"/>bhṛtavatī klamam itavatī gatā |</p>
+
+<p xml:id="HVSV_03_40">ruci | smarasya dīpikā | uddīpanavi
+<lb n="22"/>bhāvasannidheḥ | na na ghanāpi tu nibiḍā | anaghanādāninvotvothāravaḥ |</p>
+
+<p xml:id="HVSV_03_41">ghaṭi
+<lb n="23"/>saṃlagnaṣaṭpadaṃ samūhasya pāṭalākhyapuṣpavṛndasya daśam asphuṭapāṭa
+<lb n="24"/>nacāturyaṃ | prakaṭayatā vāyunā saratā prasāryatā satā navasya manoharasya ca
+<lb n="25"/>saurabhasya yaḥ prasaras tadbhāvo dhṛtaḥ |</p>
+
+<p xml:id="HVSV_03_42">jita | śirīṣapuṣpam itīva pratikri
+<lb n="26"/>yām kartum icchur īpsitam_ sat | dṛṣṭamātram eva virahiṇīśokam</p>
+
+
+
+<!--
+
+
+
+-->
+
+</div>
+<div n="04" type="chapter"></div>
+<div n="05" type="chapter"></div>
+<div n="06" type="chapter"></div>
+<div n="07" type="chapter"></div>
+<div n="08" type="chapter"></div>
+<div n="09" type="chapter"></div>
+<div n="10" type="chapter"></div>
+<div n="11" type="chapter"></div>
+<div n="12" type="chapter"></div>
+<div n="13" type="chapter"></div>
+<div n="14" type="chapter"></div>
+<div n="15" type="chapter"></div>
+<div n="16" type="chapter"></div>
+<div n="17" type="chapter"></div>
+<div n="18" type="chapter"></div>
+<div n="19" type="chapter"></div>
+<div n="20" type="chapter"></div>
+<div n="21" type="chapter"></div>
+<div n="22" type="chapter"></div>
+<div n="23" type="chapter"></div>
+<div n="24" type="chapter"></div>
+<div n="25" type="chapter"></div>
+<div n="26" type="chapter"></div>
+<div n="27" type="chapter"></div>
+<div n="28" type="chapter"></div>
+<div n="29" type="chapter"></div>
+<div n="30" type="chapter"></div>
+<div n="31" type="chapter"></div>
+<div n="32" type="chapter"></div>
+<div n="33" type="chapter"></div>
+<div n="34" type="chapter"></div>
+<div n="35" type="chapter"></div>
+<div n="36" type="chapter"></div>
+<div n="37" type="chapter"></div>
+<div n="38" type="chapter"></div>
+<div n="39" type="chapter"></div>
+<div n="40" type="chapter"></div>
+<div n="41" type="chapter"></div>
+<div n="42" type="chapter"></div>
+<div n="43" type="chapter"></div>
+<div n="44" type="chapter"></div>
+<div n="45" type="chapter"></div>
+<div n="46" type="chapter"></div>
+    </body>
+  </text>
+</TEI>
