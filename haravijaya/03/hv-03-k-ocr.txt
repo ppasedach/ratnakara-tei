@@ -1,22 +1,22 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Kāvyamālā</title>
+        <title>Kāvyamālā 22, OCR</title>
       </titleStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <placeName>
-              <settlement></settlement>
-              <region></region>
-              <country></country>
+              <settlement/>
+              <region/>
+              <country/>
             </placeName>
-            <institution></institution>
-            <repository></repository>
-            <collection></collection>
-            <idno></idno>
-            <idno type="NCC"></idno>
+            <institution/>
+            <repository/>
+            <collection/>
+            <idno/>
+            <idno type="NCC"/>
             <idno type="siglum">K<sub>OCR</sub></idno>
           </msIdentifier>
           <msContents>
@@ -42,7 +42,7 @@
             <origin>
               <origDate calendar="CE" when="unclear">unclear</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-              <origPlace xml:lang="en"></origPlace>
+              <origPlace xml:lang="en"/>
             </origin>
             <provenance>[record of ownership]</provenance>
             <acquisition>[how it was acquired]</acquisition>
@@ -113,7 +113,7 @@ yamena sevitā dig dakṣiṇā tām apāsya raviḥ aiḍaviḍo <lb n="9"/>dha
 </lg>
 
 <p xml:id="HVVU_03_5">
-rucir abhilāṣaḥ kāntiś ca | madhuḥ puṣparaso madhuś ca vasantaḥ | avatīrṇamanobhava<lb n="2"/>tvāt paravatīḥ paratantrāḥ || 5 || </p>
+rucir abhilāṣaḥ kāntiś ca | madhuḥ puṣparaso madhuś ca vasantaḥ | avatīrṇamanobhava<lb n="2"/>tvāt paravatīḥ paratantrāḥ || 5 ||</p>
 
 <lg type="verse" xml:id="HV_03_6">
 <l>dhruvam anekarasābhyavahārataḥ kṛtarasāyanasaṃgrahasusthitā |</l>
@@ -973,12 +973,11 @@ nāsti lavaś chedo yasyā<lb n="3"/>s tādṛśī līlā yasya tadbhāvo yoṣi
 sthalīṣu vikasitā amalāḥ kesarāgā <lb n="9"/>bakulataravo yasya taṃ giriṃ draṣṭuṃ sarāgamalake gaurīṃ spṛśann īśvaro viniryayau | lulite <lb n="10"/>kuṭilīkṛte || 94 ||
 </p>
 
-<p xml:id="HV_03XXX">
+<p xml:id="HV_03_col">
 <lb/>iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanāmno mahākave rājānaka<lb/>śrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye ṛtuvarṇano nāma <lb/>tṛtīyaḥ sargaḥ |
 </p>
 
-<p xml:id="HVVU_03XXX">
-<!--XXX commentary (HVVU) XXX-->
+<p xml:id="HVVU_03_col">
 iti rājānakajayānakasūnor alakasya kṛtau haravijayaviṣamapado<lb n="11"/>ddyote tṛtīyaḥ sargaḥ ||
 </p>
 
