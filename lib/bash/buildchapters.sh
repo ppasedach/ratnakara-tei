@@ -43,7 +43,7 @@ case $ms in
     ;;
 
   k-ocr)
-    cantos=(`seq -w 41; echo 43 48`)
+    cantos=(`seq -w 44; echo 48`)
     text="hv"
     echo "I just did k-ocr."
     ;;
@@ -137,6 +137,12 @@ case $ms in
     cantos=(`seq -w 24; echo 47`)
     text="hv"
     echo "I just did s-c."
+    ;;
+
+  stein-or-d72)
+    cantos=(03)
+    text="hv"
+    echo "I just did stein-or-d72."
     ;;
 
   *)
