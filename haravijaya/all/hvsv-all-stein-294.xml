@@ -17,7 +17,7 @@
             <collection></collection>
             <idno></idno>
             <idno type="NCC"></idno>
-            <idno type="siglum">Ś<sub>A</sub></idno>
+            <idno type="siglum">Ś<sub>A</sub>(U)</idno>
           </msIdentifier>
           <msContents>
             <summary>Stein 294</summary>
@@ -62,20 +62,23 @@
 <div n="02" type="chapter"></div>
 <!-- <pb n="7r">maṇimayakirīṭāny evāṣṭāpadāni caturaṅgaphalahakāni kirīṭeṣu vā
 ṣṭāpadaṃ suvarṇaṃ yeṣām || || utpalakṛte haravijayasāravivaraṇe dvitī
-yaḥ sargaḥ || -->
+yaḥ sargaḥ || 
 </div>
+-->
 <div n="03" type="chapter">
+
+<milestone n="7r"/>
 <p>|| oṃ namo vighnahantre oṃ namo gurave guraveḥ</p> 
 <p xml:id="HVSV_03_1">| atha | sa devo manthagi<lb n="4"/>rau mandare sarvarttubhiḥ samaṃ sevitaḥ prasavaḥ puṣpam || śatrujaye naghā niśchadmā<lb n="5"/>no bāhudrumā yasya |</p> 
 <p xml:id="HVSV_03_2">madhu | jagac chobhāṃ dadhre bhramararājibhiḥ parājitāni tatāni<lb n="6"/>vistīrṇāni sāninīnāṃ manāṃsi yatra sumanobhiḥ puṣpais surabhivārijāni padmā<lb n="7"/>ni sphuṭitāni vikasitāny ata evāruṇāni tatāni vistīrṇāni āmravanāni <lb n="8"/>yatra |</p> 
-<p xml:id="HVSV_03_3">druta | yamena niṣevitāṃ dakṣiṇāṃ diśaṃ tyaktvā aiḍaviḍasya yai śravaṇasyā<lb n="9"/>śrayām uttarām āśritavān asumatāṃ prāṇināṃ suṣṭhamatāṃ sthitiṃ kurvan | atha <lb n="10"/>ca yathā kaścit krūrasevitāṃ yoṣitām upāmrajaḍaprāyāśrayām abhiyuṅktā ity a<lb n="11"/>rthānuramyapratītiḥ |</p> 
+<p xml:id="HVSV_03_3">druta | yamena niṣevitāṃ dakṣiṇāṃ diśaṃ tyaktvā aiḍaviḍasya vaiśravaṇasyā<lb n="9"/>śrayām uttarām āśritavān asumatāṃ prāṇināṃ suṣṭhu matāṃ sthitiṃ kurvan | atha <lb n="10"/>ca yathā kaścit krūrasevitāṃ yoṣitām upāsya jaḍaprāyāśrayām abhiyuṅkta ity a<lb n="11"/>rthāntarasya pratītiḥ |</p> 
 <p xml:id="HVSV_03_4">sthiti | girer aravanayaḥ bhuvas sthitiṃ babhruḥ avalambitastavaka<lb n="12"/>darpaṇāḥ pallavā eva pāṇayo yāsāṃ mahātilakākhyais tarubhir ujjvalaiś ca <lb n="13"/>pattrair latābhiś ca vartate yāḥ vanena kānanena jalena vā yogaḥ sambandhaḥ ataś cāva<lb n="14"/>nivanayoḥ śṛṅgāratvam priyam aṅgatā hi kāntādarśacitrānātilakaṃ pattrala<lb n="15"/>tāṃ ca karoti ||</p>
-<p xml:id="HVSV_03_5">kṛta || bhramarāvāmaraś ca vapūr avatīrṇakāmāḥ ata eva paravatī<lb n="16"/>ś cakruḥ | rucirābhilāṣaś śobhā ca | madhunā kiñjalkena vasantena ca saṃbandhā<lb n="17"/>n mantharagāmitvam ubhayatrāpi | 
-<p xml:id="HVSV_03_6">sphuṭa | avyavahāraḥ bhojanam rasāyanaṃ bhramara <lb n="18"/>sākṣikam atra | anyo pi paratādirasābhyavahārakṛtena rasāyanam aṅgahāsu <lb n="19"/>sthito bhavati | asukhāyata sukham anvaXbabhūva varaṃtiṃ mupadruvam atītyātikrāmya <lb n="20"/>| 
-<p xml:id="HVSV_03_7"/>madhu | vasantaśriyā vayasyayeva kokilāgirākaraṇabhūtayā mṛgadṛ <lb n="21"/>śo vallabhais saha yojitāḥ satyo suṃdahakṣaṃ babhruḥ | damapradāsunayaḥ | 
-<p xml:id="HVSV_03_8">sura | <lb n="22"/>bhramaraḥ pramadānvitaḥ saharṣo navena madhunā vasantena kiñjalkena vā kṛtakānto <lb n="23"/>campakapuṣpe ṇavaramaṇāṃ varatām utkṛṣṭatām atha ca jāmātratvam anubhūtavān | <lb n="24"/>varo hi bhremramadayā kantayānvitaḥ suratagehe āste | tatrānakṛsena utkṛṣṭe <lb n="25"/>na prapanā hi tātviX | 
-<p xml:id="HVSV_03_9">kusu | kisalayāny evādhāraḥ | tatkhaṇḍenecchubhiḥ ko<lb n="26"/>kilaiḥ puṣpitā vanabhuva āsṛtāḥ priyā abhimatāḥ madanākhyās taravaḥ | ma<lb n="27"/>dena kiñcit kṣīvatayā nāditā rasitāḥ | ataś ca priyāḥ kāntāḥ iva tā api <lb n="28"/>kusumitāḥ saṃjātarajodarśanāḥ sakāmāś ca | 
-<p xml:id="HVSV_03_10">madhu | manojñavikāsāyā<pb n="7v"> mādhavīlatāyā madhupānana mattā malīmasāś ca kṛṣṇā | atha ca pāpina iva | <lb n="2"/>bhramarāh striyo vyathayantu | nāma yatra kuravakatarustavakāś citayā sphītādyā <lb n="3"/>stacitayās taddhatvenopalakṣito pi viga(or ra?)hiṇir vṛṣayati tad ayuktam iti <lb n="4"/>dvābhyāṃ kriyā | 
+<p xml:id="HVSV_03_5">kṛta || bhramarāvāmaraś ca vapūr avatīrṇakāmāḥ ata eva paravatī<lb n="16"/>ś cakruḥ | rucirābhilāṣaś śobhā ca | madhunā kiñjalkena vasantena ca saṃbandhā<lb n="17"/>n mantharagāmitvam ubhayatrāpi |</p>
+<p xml:id="HVSV_03_6">sphuṭa | avyavahāraḥ bhojanam rasāyanaṃ bhramara <lb n="18"/>sākṣikam atra | anyo pi paratādirasābhyavahārakṛtena rasāyanam aṅgahāsu <lb n="19"/>sthito bhavati | asukhāyata sukham anvaXbabhūva varaṃtiṃ mupadruvam atītyātikrāmya <lb n="20"/>| </p>
+<p xml:id="HVSV_03_7">madhu | vasantaśriyā vayasyayeva kokilāgirākaraṇabhūtayā mṛgadṛ <lb n="21"/>śo vallabhais saha yojitāḥ satyo suṃdahakṣaṃ babhruḥ | damapradāsunayaḥ | </p>
+<p xml:id="HVSV_03_8">sura | <lb n="22"/>bhramaraḥ pramadānvitaḥ saharṣo navena madhunā vasantena kiñjalkena vā kṛtakānto <lb n="23"/>campakapuṣpe ṇavaramaṇāṃ varatām utkṛṣṭatām atha ca jāmātratvam anubhūtavān | <lb n="24"/>varo hi bhremramadayā kantayānvitaḥ suratagehe āste | tatrānakṛsena utkṛṣṭe <lb n="25"/>na prapanā hi tātviX | </p>
+<p xml:id="HVSV_03_9">kusu | kisalayāny evādhāraḥ | tatkhaṇḍenecchubhiḥ ko<lb n="26"/>kilaiḥ puṣpitā vanabhuva āsṛtāḥ priyā abhimatāḥ madanākhyās taravaḥ | ma<lb n="27"/>dena kiñcit kṣīvatayā nāditā rasitāḥ | ataś ca priyāḥ kāntāḥ iva tā api <lb n="28"/>kusumitāḥ saṃjātarajodarśanāḥ sakāmāś ca | </p>
+<p xml:id="HVSV_03_10">madhu | manojñavikāsāyā<pb n="7v"/> mādhavīlatāyā madhupānana mattā malīmasāś ca kṛṣṇā | atha ca pāpina iva | <lb n="2"/>bhramarāh striyo vyathayantu | nāma yatra kuravakatarustavakāś citayā sphītādyā <lb n="3"/>stacitayās taddhatvenopalakṣito pi viga(or ra?)hiṇir vṛṣayati tad ayuktam iti <lb n="4"/>dvābhyāṃ kriyā | </p>
 
 <p>śatrau spṛṣṭarasa[ḥ?]śṛṅgārādibhiḥ hāvo kṣibhrūvikārādinā | 
 <lb n="5"/>utsracako vyāpāraḥ tadā he madhuravādini yasmāt kurabakastabako
@@ -148,13 +151,13 @@ ke śṛṇgāri[re ac.]ṇo rati<lb n="13"/>krīḍārasenākulānābhavan |</p
 āśleṣasukhenāsvasantībhir nijavadhūbhir javena tvarayā 
 dhūtaḥ śarīra<lb n="17"/>kramo [should be klamo] yeṣām | </p>
 <p xml:id="HVSV_03_28">śiva | śaivalena śevālena satī śobhanā śaivānāṃ cānanda
-<lb n="18"/>vaśāl lasatām krīḍatām śrīr yatra kāḥ sāraṃ tyaktvā priyaiḥ saha yogaṃ na gatāḥ ||
+<lb n="18"/>vaśāl lasatām krīḍatām śrīr yatra kāḥ sāraṃ tyaktvā priyaiḥ saha yogaṃ na gatāḥ ||</p>
 <p xml:id="HVSV_03_29"><lb n="19"/>|| madhu | pattrāṇi latāś caivābharaṇaṃ tenojjvalā ramyāḥ 
 yoṣito pi pattrala<lb n="20"/>tābhiḥ kapolādisāḍanair ābharaṇaiś cojjvalā | 
 atimuktakākhyāvrata<lb n="21"/>tayo latā | 
 atatayogaguṇaśriyo nābhavan vistīrṇaguṇaśobhā āsann i<lb n="22"/>ty arthaḥ </p>
 <p xml:id="HVSV_03_30">mukha | bhramarā eva cūcukaṃ yatra na na adadarat | api tu bibheda 
-<lb n="22"/>kamitā kāntaḥ | rāga ujjvalyam anuraktatā ca | karau raśmihastau |
+<lb n="22"/>kamitā kāntaḥ | rāga ujjvalyam anuraktatā ca | karau raśmihastau |</p>
 <p xml:id="HVSV_03_31">smara | <lb n="23"/>kāma eva gajas tasya madaś chaṭe 
 vaprakakṣeṇa capalā bhṛṅgāvalī | vanam e<lb n="24"/>vāXis tatra vidrumabhūte 
 palāśākhye tarau śriyaṃ prakaṭīcakāra</p>
