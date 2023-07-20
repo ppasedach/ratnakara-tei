@@ -48201,89 +48201,108 @@ tridivavartma svargamārgaḥ sa rathino vīrān dadhau | samadano 'psarodarśan
 <l>śobhāṃ bibharṣi guruniścayayogasiddhi-</l>
 <l>r utkṛṣṭamantragaṇaratnanidhānabhūs tvam || 151 ||</l>
 </lg>
-<!--
-<pb n="665" />
+
 <lg type="verse" xml:id="HV_47_152">
-<l>vīkṣyāgrataḥ śabarakṛttapaśūpahāra-</l>
+<!--XXX <p>47 sargaḥ] haravijayam_ | 665</p> XXX-->
+<l><pb n="665"/>vīkṣyāgrataḥ śabarakṛttapaśūpahāra-</l>
 <l>raktacchaṭārdrapiśitāśanaśauṇḍatāṃ te|</l>
 <l>jātāsthiśeṣavapurujjhitamāṃsadeha-</l>
-<l>yantrā bhayādiva virājati revatīyam || 152 ||</l>
+<l>yantrā bhayād iva virājati revatīyam || 152 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_153">
 <l>śobhāṃ bibharti tava nirmaladantapaṅkti-</l>
 <l>niryanmayūkhanikurumbatayāmba vaktram |</l>
 <l>līlāgṛhītakavalīkṛtamāṃsakunda-</l>
-<l>gaurāsthidaṇḍamiva lolakarālajihvam || 153 ||</l>
+<l>gaurāsthidaṇḍam iva lolakarālajihvam || 153 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_154">
 <l>pādāgrakoṇahatadundubhitāranāda-</l>
-<l>mākarṇya saṃyugamukhe tava vajrapāṇeḥ |</l>
+<l>m ākarṇya saṃyugamukhe tava vajrapāṇeḥ |</l>
 <l>anyānakāhatiparāṅmukhatāṃ jagāma</l>
-<l>nūnaṃ vipakṣarahitā punaramba senā || 154 ||</l>
+<l>nūnaṃ vipakṣarahitā punar amba senā || 154 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_155">
 <l>anyonyayuddharabhasāhatirugṇacūḍā-</l>
-<l>viṣyandiśoṇitarasairiva laṅghayanti |</l>
-<l>saṃsaktavindhyagirikaḍmaramandirāgra-</l>
+<l>viṣyandiśoṇitarasair iva laṅghayanti |</l>
+<l>saṃsaktavindhyagirikaṃdaramandirāgra-</l>
 <l>bhāgā na śāsanavidhiṃ tava tāmracūḍāḥ || 155 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_156">
 <l>preṅkhatkapālakusumasragapoḍhabhogi-</l>
-<l>hāraṃ bhayānakamadhīśvari rūpametat |</l>
-<l>cetaḥ punastava dayāmṛdu saptaloka-</l>
-<l>bhogāpavargaphalasādhanabaddhakakṣam || 156 ||</l>
+<l>hāraṃ bhayānakam adhīśvari rūpam etat |</l>
+<l>cetaḥ punas tava dayāmṛdu saptaloka-</l>
+<l>bhogāpavargaphalasādhanabaddhaka<anchor place="above" n="HV_47_156_n1"/>kṣam || 156 ||</l>
 </lg>
+
+<ab type="apparatus" corresp="#HV_47_156">
+  <list type="notes">
+    <item corresp="#HV_47_156_n1"><lb n="1"/>1. ‘kakṣyam_’ ka-kha.</item>
+  </list>
+</ab>
 
 <lg type="verse" xml:id="HV_47_157">
 <l>pādāravindayugasaṃsmaraṇābhilāṣa-</l>
 <l>pūtātmanāṃ tava sureśvari mānavānām |</l>
-<l>utsṛjya lohanigaḍā nijarūpamāśu</l>
-<l>māṇikyapādakaṭakaśriyamāśrayante || 157 ||</l>
+<l>utsṛjya lohanigaḍā nijarūpam āśu</l>
+<l>māṇikyapādakaṭakaśriyam āśrayante || 157 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_158">
 <l>velātaṭacalanitambaśilābhighāta-</l>
-<l>saṃśīryamaṇavikaṭormighaṭāsahasraḥ |</l>
-<pb n="666" />
-<l>tvāṃ dhyāyatāmanudinaṃ plavabhaṅgasetu-</l>
-<l>mabhyeti nīlamaṇikuṭṭimatāṃ payodhiḥ || 158 ||</l>
+<l>saṃśīryamāṇavikaṭormighaṭāsahasraḥ |</l>
+<!--XXX<note place="below">84</note>???XXX-->
+<!--XXX <p>666 kāvyamālā |</p> XXX-->
+<l><pb n="666"/>tvāṃ dhyāyatām anudinaṃ plavabhaṅgasetu-</l>
+<l>m abhyeti nīlamaṇikuṭṭimatāṃ payodhiḥ || 158 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_159">
-<l>tvatpādayugmamaniśaṃ smaratāṃ karāla-</l>
+<l>tvatpādayugmam aniśaṃ smaratāṃ karāla-</l>
 <l>dhūmāvalīśabalitasphuraduddhatārciḥ |</l>
 <l>viṣyandisāndramakarandahṛtālivṛnda-</l>
-<l>mandārakānanatalatvamupaiti vahniḥ || 159 ||</l>
+<l>mandārakānanatalatvam upaiti vahniḥ || 159 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_160">
-<l>viṣyandamānamadadurdinagaṇḍabitti-</l>
-<l>bhāgāstavāmba vipineṣvapi vidravanti |</l>
-<l>stamberamāścaraṇasaṃsmaraṇena siṃha-</l>
+<l>viṣyandamānam adadur dinagaṇḍabhitti-</l>
+<l>bhāgās tavāmba vipineṣv api vidravanti |</l>
+<l>stamberamāś caraṇasaṃsmaraṇena siṃha-</l>
 <l>saṃghātaraudraravajātabhayā ivārāt || 160 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_161">
 <l>daṃṣṭrākarālavadanāḥ sphuradagniheti-</l>
-<l>piṅgordhvakeśarucayo 'ruṇaraudranetrāḥ |</l>
+<l>piṅgordhvakeśarucayo '<anchor place="above" n="HV_47_161_n1"/>ruṇaraudranetrāḥ |</l>
 <l>atyantahiṃsramanaso 'pi tavānatānāṃ</l>
 <l>naktaṃcarā jagati gauri vahanti maittrīm || 161 ||</l>
 </lg>
 
+<ab type="apparatus" corresp="#HV_47_161">
+  <list type="notes">
+    <item corresp="#HV_47_161_n1"><lb n="1"/>1. ‘aruṇanetraraudrāḥ’ kha.</item>
+  </list>
+</ab>
+
 <lg type="verse" xml:id="HV_47_162">
-<l>tvatsaṃśrayāngirinadīkuharāntarāla-</l>
-<l>vṛttiḥ surañjitamukho na hinasti nūnam |</l>
+<l>tvatsaṃśrayān girinadīkuharāntarāla-</l>
+<l>vṛttiḥ su<anchor place="above" n="HV_47_162_n2"/>rañjitamukho na hinasti nūnam |</l>
 <l>uddāmadānajalakuñjarakumbhakūṭa-</l>
-<l>ku.ṭākakoṭikarajakrakajo 'pi siṃhaḥ || 162 ||</l>
+<l>kuṭṭākakoṭikarajakrakajo 'pi siṃhaḥ || 162 ||</l>
 </lg>
+
+<ab type="apparatus" corresp="#HV_47_162">
+  <list type="notes">
+    <item corresp="#HV_47_162_n2">2. ‘subhañjita’ kha.</item>
+  </list>
+</ab>
 
 <lg type="verse" xml:id="HV_47_163">
 <l>phūtkāramuktadahanā vididaṅkṣavo 'pi</l>
-<l>roṣāruṇekṣaṇarucastvayi bhaktibhājām |</l>
+<l>roṣāruṇekṣaṇarucas tvayi bhaktibhājām |</l>
 <l>āśīviṣāḥ sphuritakesararūpaghora-</l>
 <l>jihvā vahanti vikacotpaladāmalīlām || 163 ||</l>
 </lg>
@@ -48291,34 +48310,40 @@ tridivavartma svargamārgaḥ sa rathino vīrān dadhau | samadano 'psarodarśan
 <lg type="verse" xml:id="HV_47_164">
 <l>utkhātaśātakaravālalatāḥ karāla-</l>
 <l>kodaṇḍadaṇḍavisarā vijighāṃsavo 'pi |</l>
-<l>bandhutvametya vinatāṃstava tārayanti</l>
-<l>kāntāradurgapatitāndhruvamamba caurāḥ || 164 ||</l>
+<l>bandhutvam etya vinatāṃs tava tārayanti</l>
+<l>kāntāradurgapatitān dhruvam amba caurāḥ || 164 ||</l>
 </lg>
 
-<pb n="667" />
 <lg type="verse" xml:id="HV_47_165">
-<l>itthaṃ pramaviṣayalaṅghi laghutvamukta-</l>
+<!--XXX <p>48 sargaḥ] haravijayam_ | 667</p> XXX-->
+<l><pb n="667"/>itthaṃ pramaviṣayalaṅghi laghutvamukta-</l>
 <l>māhātmyamohitavibodhitaviṣṭapāyai |</l>
 <l>tubhyaṃ namaḥ pratibalāvalitāmarendra-</l>
 <l>dṛṣṭiprasādanakṛte nanu caṇḍikāyai || 165 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_166">
-<l>itthaṃ stutestava vayaṃ viratāḥ svaśakti-</l>
+<l>itthaṃ stutes tava vayaṃ viratāḥ svaśakti-</l>
 <l>śūnyatvato na bhagavatyabhilāṣabhaṅgāt |</l>
-<l>āsvādayantyamṛtaśīkarabinduvarṣa-</l>
-<l>mabhyeti kasya rasanāvirasāmavasthām || 166 ||</l>
+<l>āsvādayanty amṛtaśīkarabinduvarṣa-</l>
+<l>m abhyeti kasya rasanā virasām avasthām || 166 ||</l>
 </lg>
 
 <lg type="verse" xml:id="HV_47_167">
-<l>iti tava guṇavādāḥ kilāsmājjanani yadarjitamasti puṇyajātam |</l>
-<l>pratisamayamiyaṃ tvadaṅghripūjābhiratiphalā tvayi tena no 'stu bhaktiḥ || 167 ||</l>
+<l>iti tava guṇavādataḥ kilāsmāj janani yadarjitam asti puṇyajātam |</l>
+<l>pratisamayam iyaṃ tvadaṅghripūjābhi<anchor place="above" n="HV_47_167_n1"/>ratiphalā tvayi tena no 'stu bhaktiḥ || 167 ||</l>
 </lg>
+
+<ab type="apparatus" corresp="#HV_47_167">
+  <list type="notes">
+    <item corresp="#HV_47_167_n1"><lb n="1"/>1. ‘nirata’ ka.</item>
+  </list>
+</ab>
 
 <lg type="verse" xml:id="HV_47_168">
 <l>praśamaya mahāmohātaṅkaṃ vidhatsva sunirmalāṃ</l>
-<l>dṛśamanudinaṃ kūṭībhūtaṃ tiraskuru kilbiṣam |</l>
-<l>vighaṭaya dṛḍhānpāśagranthīnbhavavyatiṣaṅgiṇo</l>
+<l>dṛśam anudinaṃ kūṭībhūtaṃ tiraskuru kilbiṣam |</l>
+<l>vighaṭaya dṛḍhān pāśagranthīn bhavavyatiṣaṅgiṇo</l>
 <l>na tava viphalā pādāmbhojasmṛtiḥ praṇatātmanām || 168 ||</l>
 </lg>
 
@@ -48326,18 +48351,24 @@ tridivavartma svargamārgaḥ sa rathino vīrān dadhau | samadano 'psarodarśan
 <l>itthaṃ nākinikāyanirmitanutiprāñcatprapañcaśruti-</l>
 <l>prauḍhībhūtaśubhaprasādaviśadaśrīmaṇḍanācaṇḍikā |</l>
 <l>sāhaṃkārahutāśahuṃkṛtakṛtatrāsā trilokīsadāṃ</l>
-<l>sādaṃ sā ditijendradānavaghaṭāṃ ninyetarāmāyudhaiḥ || 169 ||</l>
+<l>sādaṃ sā ditijendradānavagha<anchor place="above" n="HV_47_169_n2"/>ṭāṃ ninyetarām āyudhaiḥ || 169 ||</l>
 </lg>
 
+<ab type="apparatus" corresp="#HV_47_169">
+  <list type="notes">
+    <item corresp="#HV_47_169_n2">2. ‘ghaṭāḥ’ ka.</item>
+  </list>
+</ab>
+
 <lg type="verse" xml:id="HV_47_170">
-<l>tattatkālaṃ kālarātriprakopakrūrārambhottambhanaṃ varjayadbhiḥ |</l>
+<l>tat tat kālaṃ kālarātriprakopakrūrārambhottambhanaṃ varjayadbhiḥ |</l>
 <l>āsede 'nyair dainyam aprāptadaityaiḥ(?) śaureḥ śūrair antikaṃ ratnasānau || 170 ||</l>
 </lg>
 
-<p>
-iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanāmno mahākave rājānakaśrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye caṇḍīstotraṃ nāma saptacatvāriṃśaḥ sargaḥ |
+<p xml:id="HV_47_col">
+<lb/>iti śrībālabṛhaspatyanujīvino vāgīśvarāṅkasya vidyādhipatyaparanāmno mahākave <lb/>rājānakaśrīratnākarasya kṛtau ratnāṅke haravijaye mahākāvye <lb/>caṇḍīstotraṃ nāma saptacatvāriṃśaḥ sargaḥ |
 </p>
--->
+
 </div>
 
 <div n="48" type="chapter">
