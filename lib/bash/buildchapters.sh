@@ -249,8 +249,6 @@ done
 for ms in ${mss[*]}
 do
 echo "Going to do $ms."
-echo "cantos = $cantos"
-#[[ ! -z "$cantos" ]] && echo "Testing Cantos is set" || setdefaultcantos
 [[ ! -z "$cantos" ]] || setdefaultcantos
 settextname
 build-chapters
