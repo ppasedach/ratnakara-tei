@@ -166,7 +166,7 @@ madhur ety ādiviśeṣakam_ | ratirasena visṛṣṭāyāḥ savayaso vaca<lb 
 </lg>
 
 <p xml:id="HVVU_03_11">
-<lb n="10"/>pakśmabhiḥ kesaraiḥ karālatā vyāptir bhāsuratvaṃ vā | śucitayāpy upalakṣito yad eṣa stabakas tāpa<lb n="11"/>yati tad ayuktam_ | viśadātmatvāt paropatāpanābhāvāt_ | citayā pravṛddhayā | pakṣmāṇi netralo<lb n="12"/>māny api | karālaṃ bhīṣaṇam api | madhu madyam api || 11 ||
+<lb n="10"/>pakṣmabhiḥ kesaraiḥ karālatā vyāptir bhāsuratvaṃ vā | śucitayāpy upalakṣito yad eṣa stabakas tāpa<lb n="11"/>yati tad ayuktam_ | viśadātmatvāt paropatāpanābhāvāt_ | citayā pravṛddhayā | pakṣmāṇi netralo<lb n="12"/>māny api | karālaṃ bhīṣaṇam api | madhu madyam api || 11 ||
 </p>
 
 <lg type="verse" xml:id="HV_03_12">

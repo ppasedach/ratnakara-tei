@@ -101,7 +101,7 @@ case $ms in
     ;;
 
   *)
-    echo "Something wrong."
+    echo "Something wrong. MS $ms ."
     ;;
 esac
 }
@@ -129,7 +129,7 @@ case $ms in
     ;;
 
   k-ocr)
-    cantos=(`seq -w 50`)
+    cantos=(`seq -w 50` prasasti)
     ;;
 
   jammu-495)
@@ -198,7 +198,7 @@ case $ms in
     ;;
 
   *)
-    echo "Something wrong."
+    echo "Something wrong. MS $ms ."
     ;;
 esac
 }
@@ -239,7 +239,11 @@ done
 while getopts am:c: opt
 do 
   case $opt in
-    a) mss=(stein-189 stein-294 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p k j jodhpur k-ocr s-c);;
+    a) 
+      mss=(stein-189 stein-294 bori-486-1887-91 jammu-494-ga jammu-797 jammu-495 bori-216-1875-76 bori-215-1875-76 bori-217-1875-76 bori-227-a-1882-83 bori-828-1886-72 rama bombay p k j jodhpur k-ocr s-c)
+      setdefaultcantos
+      echo "Default cantos set"
+      ;;
     m) mss="$OPTARG";;
     c) cantos="$OPTARG";;
   esac
@@ -249,7 +253,6 @@ done
 for ms in ${mss[*]}
 do
 echo "Going to do $ms."
-[[ ! -z "$cantos" ]] || setdefaultcantos
 settextname
 build-chapters
 build-special-chapters
