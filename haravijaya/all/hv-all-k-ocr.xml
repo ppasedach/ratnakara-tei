@@ -17044,11 +17044,6 @@ piṇḍībandhā vīrāsanaprabhavāṇi śṛṅkhala<lb n="3"/>kādīni tā�
 <ab type="apparatus" corresp="#HV_18_93">
   <list type="notes">
     <item corresp="#HV_18_93_n3">3. ‘lalita’ ka.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_18_93">
-  <list type="notes">
     <item corresp="#HV_18_93_n1"><lb n="1"/>1. ‘adhi’ kha.</item>
   </list>
 </ab>
@@ -17635,11 +17630,6 @@ abhiṣaṅgaḥ parābhavaḥ | samūracamūrau mṛgaviśeṣau || 32 ||
 <ab type="apparatus" corresp="#HV_19_33">
   <list type="notes">
     <item corresp="#HV_19_33_n6">6. ‘nirvyoma’ kha.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_19_33">
-  <list type="notes">
     <item corresp="#HV_19_33_n1"><lb n="1"/>1. ‘śyāmī’ ka.</item>
     <item corresp="#HV_19_33_n2">2. ‘taraṇau patite’ kha.</item>
   </list>
@@ -27187,11 +27177,6 @@ rabhasā vāñchā || 42 ||
 <ab type="apparatus" corresp="#HV_30_43">
   <list type="notes">
     <item corresp="#HV_30_43_n1-1"><lb n="1"/>1. ‘asitavīci’ kha.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_30_43">
-  <list type="notes">
     <item corresp="#HV_30_43_n1-2"><lb n="1"/>1. ‘ānamantam_’ kha.</item>
   </list>
 </ab>
@@ -27578,11 +27563,6 @@ timīnāṃ pṛṣṭheṣu pakṣāḥ śailaśikharabhrā<lb n="5"/>ntim utp�
 <ab type="apparatus" corresp="#HV_30_72">
   <list type="notes">
     <item corresp="#HV_30_72_n3">3. ‘prapañcā’ ka.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_30_72">
-  <list type="notes">
     <item corresp="#HV_30_72_n1"><lb n="1"/>1. ‘śobhirater adhattacchedya’ ka.</item>
     <item corresp="#HV_30_72_n2">2. ‘indumauleḥ’ kha.</item>
   </list>
@@ -32071,11 +32051,6 @@ suvarṇaketur viṣṇuḥ | <lb n="3"/>dhoraṇaṃ vāhanam_ || 27 ||
 <ab type="apparatus" corresp="#HV_35_28">
   <list type="notes">
     <item corresp="#HV_35_28_n3">3. ‘āhavāgneḥ’ kha.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_35_28">
-  <list type="notes">
     <item corresp="#HV_35_28_n1"><lb n="1"/>1. ‘vareṣu’ kha.</item>
   </list>
 </ab>
@@ -32221,14 +32196,14 @@ alikaṃ lalāṭam_ || 38 ||
 (cakkalakam_)
 </p>
 
-<!--XXX Footnote 3; not marked in the text
-<anchor place="above" n="HV_35_??_n3"/>
-<ab type="apparatus" corresp="#HV_35_??">
+<!--XXX Footnote 3; not marked in the textXXX-->
+<!--XXX <anchor place="above" n="HV_35_??_n3"/>XXX-->
+<ab type="apparatus">
   <list type="notes">
-    <item corresp="#HV_35_??_n3">3. kha-pustake nāsti.</item>
+    <item>3. kha-pustake nāsti.</item>
   </list>
 </ab>
-XXX-->
+
 
 <lg type="verse" xml:id="HV_35_39">
 <l>ākūṇitekṣaṇamukhasya kṛpāṇayaṣṭi-</l>
@@ -33357,11 +33332,6 @@ lokapari<lb n="4"/>vartanam eva durvilasitaṃ tadavahelayā samullasatkalpānta
 <ab type="apparatus" corresp="#HV_36_54">
   <list type="notes">
     <item corresp="#HV_36_54_n7">7. ‘āpnoti’ ka.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_36_54">
-  <list type="notes">
     <item corresp="#HV_36_54_n1"><lb n="1"/>1. ‘gulikodayeṣu kha.</item>
   </list>
 </ab>
@@ -34506,11 +34476,6 @@ andhakāram ajñānaṃ tamaś ca || 5 ||
 <ab type="apparatus" corresp="#HV_38_6">
   <list type="notes">
     <item corresp="#HV_38_6_n2-1">2. ‘bhārāt_’ kha.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_38_6">
-  <list type="notes">
     <item corresp="#HV_38_6_n1"><lb n="1"/>1. ‘manojñarasatāṃ’ ka.</item>
     <item corresp="#HV_38_6_n2-2">2. ‘kiṃ’ kha.</item>
   </list>
@@ -44748,11 +44713,6 @@ pālī samūhaḥ | <lb n="4"/>agryā pradhānabhūtā || 52 ||
 <ab type="apparatus" corresp="#HV_45_53">
   <list type="notes">
     <item corresp="#HV_45_53_n2">2. ‘paraiḥ’ ka.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_45_53">
-  <list type="notes">
     <item corresp="#HV_45_53_n1"><lb n="1"/>1. ‘daṣṭa’ kha.</item>
   </list>
 </ab>
@@ -46647,11 +46607,6 @@ tridivavartma svargamārgaḥ sa rathino vīrān dadhau | samadano 'psarodarśan
   <list type="notes">
     <item corresp="#HV_47_81_n7">7. ‘varṇeṣu vācaka’ ka.</item>
     <item corresp="#HV_47_81_n8">8. <lb n="3"/>‘vaktatvaṃ’ kha.</item>
-  </list>
-</ab>
-
-<ab type="apparatus" corresp="#HV_47_81">
-  <list type="notes">
     <item corresp="#HV_47_81_n1"><lb n="1"/>1. ‘yat_’ kha.</item>
     <item corresp="#HV_47_81_n2">2. ‘śabdāḥ’ ka-kha.</item>
   </list>
