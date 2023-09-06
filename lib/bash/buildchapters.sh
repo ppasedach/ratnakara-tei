@@ -109,7 +109,7 @@ esac
 function setdefaultcantos {
 case $ms in
   stein-189)
-    cantos=(01 03)
+    cantos=(`seq -w 05`)
     ;;
 
   stein-294)
