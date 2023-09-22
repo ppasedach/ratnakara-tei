@@ -957,8 +957,8 @@ sargaḥ|
 <l>tad<note place="above">tat tasmāt <unclear>kānaṇārthaḥ</unclear></note> abhidhāya tam<note place="above">tattad bahuvidhasu<gap reason="damaged" /></note> ā<lb n="16" />naya<note place="above">tvaṃ</note> satvaram_ madhuravādini tat tad iti <gap  reason="damaged" unit="akṣara" quantity="2" /></l>
 <l><pb n="18a" /><gap reason="damaged" unit="akṣara" quantity="9" /><add>ta</add>priyatamāyatamānamuco<note place="above"><unclear>tam</unclear>priyatamas tasmin_ āyatamānaṃ mucanti tā <unclear>babhūva</unclear> </note> 'bhavan_||</l>
 </lg>
+<p xml:id="HV_03_12p">tilakam_</p>
 <!--
-<p xml:id="HV_03_12p">(tilakam)</p>
 <lg type="verse" xml:id="HV_03_13">
 <pb n="32" />
 <l>jaraṭhapaṅkajabījasamatviṣo madhu nipātumabhiprajagalbhire|</l>
@@ -968,35 +968,38 @@ sargaḥ|
 <l>surabhimāsi kadācidanujjhitā jaḍatayāpi navāliśatānvitāḥ|</l>
 <l>śamavatāmapi tāmarasākarāḥ sthiratarā ratarāgakṛto 'bhavan||14||</l>
 </lg>
+-->
+<lg type="verse" xml:id="HV_03_17">
+<l>mṛga<note place="above"><unclear>1</unclear></note>dṛśo malayānilanirdhute sapadi māna<note place="above"><unclear>na eva rajatamikā</unclear></note>rajasy api sāgasaḥ <note place="above">aparādhasahitān<lb />aparādhasahitān api</note></l>
+<l><lb n="6"/>na dayitān abhicukkrudhur<note place="above"><unclear>na akopa</unclear></note> ūrji<add>ta</add>smaratayā ratayāna<note place="above">sambhoga<unclear>ṃ</unclear>gamane</note>samutsukāḥ||17||</l>
+</lg>
+<!--
 <lg type="verse" xml:id="HV_03_15">
 <l>sarasamantharatāmarasādarabhramarasajjalayā nalinī madhau|</l>
 <l>jaladhidevatayā sadṛśīṃ śriyaṃ sphuṭatarāgatarāgarucirdadhau||15||</l>
 </lg>
+-->
 <lg type="verse" xml:id="HV_03_16">
-<l>caramapādavidhūtarajaḥ kaṇaprakaradhūsarapakṣatisaṃpuṭaḥ|</l>
-<l>nyaviśatānugiraṃ kamalākarānrasamanāḥ samanādamalivrajaḥ||16||</l>
-</lg>
-<lg type="verse" xml:id="HV_03_17">
-<l>mṛgadṛśo malayānilanirdhute sapadi mānarajasyapi sāgasaḥ|</l>
-<l>nadayitānabhicukrudhurūrjitasmaratayā ratayānasamutsukāḥ||17||</l>
+<l>caramapāda<note place="above">paścātpādena</note>vidhūtarajaẖkaṇaprakaradhūsarapa<lb n="9" />kṣati<note place="above"><unclear>pakṣavāṭikā</unclear></note>saṃpuṭaḥ</l>
+<l>nyaviśatānugiriṃ kamalākarān<note place="above"><unclear>sarān_ sarān_</unclear></note> rasa<note place="above">adane<lb />adane</note>manas sama<note place="above"><unclear>kathaṃ</unclear></note>nādam ali<lb n="10"/><unclear>vra</unclear>jaḥ<note place="above">1</note> |</l>
 </lg>
 <lg type="verse" xml:id="HV_03_18">
-<l>taralapallavatāmrakarā babhau samadhumullasitabhramarotpalam|</l>
-<l>kusumakoṣamivārpayituṃ latā vivalitā balitāpahṛtastaroḥ||18||</l>
+<l>taralapalla<add>va</add>tāmrakarā babhau samadhum ullasita<note place="above"><unclear>ra eva <gap />lāni yasya taṃ</unclear></note>bhramarotpalam_</l>
+<l>kusu<lb n="11"/>makośam ivārpayituṃ latā<note place="above"><unclear>laṃjikā</unclear></note> vivalitā<note place="above"><unclear>XXnasahitā</unclear></note> balitāpahṛtas<note place="above"><unclear>latā nāpaharati</unclear></note> taroḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_19">
-<l>bhramarapaṅktinibhena manasvinībhrukuṭibandha ivāgalito 'bhavat|</l>
-<l>kamalabhūmiṣu mānahatisphuṭaprasarakesaraketuśate madhau||19||</l>
+<l>bhrama<add>ra</add>paṃkti<lb n="12" />nibhena manasvinībhrukuṭabandha ivāgalito bhavat_</l>
+<l>kamalabhūmiṣu mānaha<lb n="13" />tisphuṭaprasarakesaraketuśate madhau ||</l>
 </lg>
 <lg type="verse" xml:id="HV_03_20">
-<l>śiśirabhāsi cireṇa dinaśriyā kṛtasamāgamavighna upāgate|</l>
-<l>kaluṣatāpi mukhe madhusaṃgamānna niśayāniśayāpitamānayā||20||</l>
+<l>śiśirabhāsi cireṇa dinaśriyā <lb n="14"/> kṛtasamāgamavighna upāgate </l>
+<l>kaluṣatāpi mukhe madhusaṃgamān na niśa<lb n="14"/>yāniśayāpitamānayā||</l>
 </lg>
-<pb n="33" />
 <lg type="verse" xml:id="HV_03_21">
-<l>sarabhasaṃ śayanīya ivottaracchadakṛtatviṣi pītamadhūtkaṭaiḥ|</l>
-<l>madhukarairvinipatya sajātibhiḥ sarasijorasi joṣamavasthitam||21||</l>
+<l>sarabhasaṃ śayanīya ivottaracchadakṛtatviṣi <lb n="15"/> pītamadhūtkaṭaiḥ</l>
+<l>madhukarair vinipatya sa<unclear>ṭā</unclear>nibhis sarasijorasi joṣama<lb n="16"/>mavasthitam_||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_03_22">
 <l>nidhuvanāvasare kamiturvadhūrahṛta kuṭṭamitena bhṛśaṃ manaḥ|</l>
 <l>taralalocananirjitavisphuratkuvalayā valayāvaliśobhinī||22||</l>
