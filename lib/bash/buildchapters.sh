@@ -16,6 +16,10 @@ case $ms in
     text="hvvu"
     ;;
 
+  p11)
+    text="hv"
+    ;;
+
   stein-294)
     text="hvsv"
     ;;

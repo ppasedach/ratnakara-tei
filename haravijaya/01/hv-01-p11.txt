@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
         <title>Pasedach 2011</title>
@@ -25,7 +25,7 @@
             <!-- @form can be "pothi", "book", scroll", etc. -->
               <supportDesc material="digital">
               <extent>
-              <measure quantity="something" unit="we need here" />
+              <measure quantity="something" unit="we need here"/>
               </extent>
 </supportDesc>
             </objectDesc>
@@ -48,9 +48,6 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-
-
-
 <div xmlns="http://www.tei-c.org/ns/1.0" n="01" type="chapter">
 <p>
 Sarga 1: Purāripurīvarṇanaḥ
