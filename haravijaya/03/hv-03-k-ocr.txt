@@ -794,7 +794,7 @@ niṣku<lb n="17"/>ṭajāḥ kuṭajarahitāḥ | kuṭajānāṃ vārṣikatv�
 </lg>
 
 <p xml:id="HVVU_03_76">
-apāyayat pāyayāmāsa | kvacit_ ‘adhāpayat_’ iti pāṭhaḥ | tatra ‘pādiṣu dheṭa <lb n="3"/>upasaṃkhyānam_’ iti ‘nigaraṇa—’ iti prāptasya parasmaipadasya niṣedhāt kartrābhiprāye kriyā<lb n="4"/>phale ‘ṇicaś ca’ iti taṅ_ | raso madhu stanyaṃ ca | jarasaṃ vyatipatuṣī jarām atikrāntā | <lb n="5"/>‘jarāyā jarasanyatarasyām_’ iti jaras_ || 76 ||
+apāyayat pāyayāmāsa | kvacit_ ‘adhāpayat_’ iti pāṭhaḥ | tatra ‘pādiṣu dheṭa <lb n="3"/>upasaṃkhyānam_’ iti ‘nigaraṇa—’ iti prāptasya parasmaipadasya niṣedhāt kartrābhiprāye kriyā<lb n="4"/>phale ‘ṇicaś ca’ iti taṅ_ | raso madhu stanyaṃ ca | jarasaṃ vyatipetuṣī jarām atikrāntā | <lb n="5"/>‘jarāyā jarasanyatarasyām_’ iti jaras_ || 76 ||
 </p>
 
 <lg type="verse" xml:id="HV_03_77">
