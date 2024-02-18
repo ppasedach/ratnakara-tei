@@ -77,14 +77,14 @@
 <lg type="verse" xml:id="HV_01_2">
 <l>jṛmbhāvikāsitamukhaṃ nakhada<lb n="4"/>rpanānta-</l>
 <l>rāviṣkṛtapratimukhaṃ <note place="above line">pratimānam_</note>gururoṣagarbham_ <note place="above line"><unclear>bhe</unclear>yasya tat_</note></l>
-<l>rūpaṃ punātu jani<lb n="5"/>tā<note place="above line">ta.</note>ricamūvimarṣam <note place="above line">rṣaḥ ryādhaḥ</note></l>
+<l>rūpaṃ punātu jani<lb n="5"/>tā<note place="above line">ta.</note>ricamūvimarṣam <note place="above line">rṣaḥ <unclear>ryā</unclear>dhaḥ</note></l>
 <l>udvṛttadaityavadhanirvahaṇaṃ <note place="above line">niṣpadakaṃ</note>harer vaḥ <note place="above line">yudhmadyam</note>||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_3">
 <l>pa<lb n="6"/>ryantavartiparipāṇḍurapattrapaṅkti<g rend="daṇḍa">|</g></l>
-<l>padmāsanāsanakuśeśayako <note place="above line"><unclear>vatmaṭha</unclear>sya</note> <note place="above line">bhūtaḥ</note> <note place="above line">kamalaṃ</note> <note place="above line">karṇikā</note><lb n="7"/>śacakram_ <note place="above line"><note place="above line"><unclear reason="conj. to sa eva">dāmau</unclear>śa eva</note>maṇḍalākṛtitvāt</note></l>
+<l>padmāsanāsanakuśeśayako <note place="above line"><unclear>brahmasya</unclear>sya</note> <note place="above line">bhūtaḥ</note> <note place="above line">kamalaṃ</note> <note place="above line">karṇikā</note><lb n="7"/>śacakram_ <note place="above line"><note place="above line"><unclear reason="conj. to sa eva">dāmau</unclear>śa eva</note>maṇḍalākṛtitvāt</note></l>
 <l>yuṣmān punātu dadhad uddhatadugdhasindhu-</l>
-<l>vīciccha<g rend="daṇḍa">|</g><lb n="8"/>ṭāvalayitāmaraśailalīlām_||<note place="above line">veṣṭhita</note><note place="above line">mandā</note><note place="above line">śobhām_</note></l>
+<l>vīciccha<note place="below" type="exegesis">|</note>ṭāvalayitāmaraśailalīlām_||<note place="above line">veṣṭhita</note><note place="above line">mandā</note><note place="above line">śobhām_</note></l>
 </lg>
 <lg type="verse" xml:id="HV_01_4">
 <l>asty unnate surasarijja<lb n="9"/>ladhāvyamāna-</l>
@@ -99,7 +99,7 @@
 <l><lb n="13"/>sāsṛkchaṭaṃ viṣam abhinnam ivācakāsti||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_6">
-<l>jyotīrasāśmabhava<note place="above line">sphuṭakāśma</note><lb n="14"/>nājiradugdhasindhu<g rend="daṇḍa">|</g>r</l>
+<l>jyotīrasāśmabhava<note place="above line">sphuṭakāśma</note><lb n="14"/>nājiradugdhasindhu<note place="below" type="exegesis">|</note>r</l>
 <l>atyunmiṣatpracuratuṅgamarīcivīciḥ<note place="above line">bhavalaḥ</note><note place="above line">caya eva</note><note place="above line">ci - yasya saḥ</note>|</l>
 <l>vā<lb n="15"/>tāyanasthitavadhūvadanendubimba-</l>
 <l>sandarśanād aniśam ullasatīva <note place="above line">indubimbaṃ sandarśanaṃ dugdhodadher ullāsahetuḥ</note><note place="above line">jjaṭāte<g rend="daṇḍa">|</g></note><lb n="16"/>yasyām <note place="bottom line"><lb n="bm1"/>yo hi yoṣito vadavam indum asaṃpa
@@ -115,38 +115,39 @@
 <l>gaṇḍasthalīs saghanagharmajalā rateṣu</l>
 <l>lagnāvataṃ <note place="right margin">taṃ sa bhūtāni</note><lb n="4"/>sakusumacyutakesarāgrāḥ <note place="above line">kiñjakokesarostriyām_ mānita<unclear>X</unclear></note> <note place="above line">graḥ</note></l>
 <l>abhyāpatan<note place="above line">lagnalīnaṃ</note>madanamārgaṇapuṅkhapakṣa-</l>
-<l><note place="above line"><choice><orig>ra</orig><corr>pa</corr></choice>kṣmapakṣa eva</note>pa<lb n="5"/>kṣmākulā iva dadhuḫ pramadāś <unclear reason= "ink defect">ca</unclear> yasyām_|| <note place="left margin"><lb n="lm1"/>yena ca karair jālamārgo valambitaḥ <lb n="lm2"/>sa aintra(?)jālikatvād dagdham api <lb n="lm3"/>kiñcid udgāpayann avabhāsate<g rend="daṇḍa">|</g> ||</note></l>
+<l><note place="above line"><choice><orig>ra</orig><corr>pa</corr></choice>kṣmapakṣa eva</note>pa<lb n="5"/>kṣmākulā iva dadhuḫ pramadāś <unclear reason= "ink defect">ca</unclear> yasyām_|| <note place="left margin"><lb n="lm1"/>yena ca karair jālamārgo valambitaḥ <lb n="lm2"/>sa aintra(?)jālikatvād dagdham api <lb n="lm3"/>kiñcid udgāpayann avabhāsate| ||</note></l>
 </lg>
 <lg type="verse" xml:id="HV_01_8">
-<l>sīmantinījanamanassu <lb n="6"/>samādhibhaṅga-</l>
-<l>kopānalena ciradagdham apīndumauleḥ|</l>
-<l>utthāpa<lb n="7"/>yan madanam āśu karair vibhāti</l>
-<l>yasyāṃ himāṃśur avalambitajāla<lb n="8"/>mārgaḥ||8||</l>
+<l>sīmantinījanamanassu<g rend="daṇḍa">|</g> <lb n="6"/>samādhibhaṅga-</l>
+<l>kopānalena ciradagdham apīndumauleḥ</l>
+<l>utthāpa<g rend="hyphen">|</g><lb n="7"/>yan madanam āśu karair<note place="below line">ḥ</note> vibhāti</l>
+<l>yasyāṃ himāṃśur avalambitajāla<note place="above line">gavākṣamārgaḥ</note><lb n="8"/>mārgaḥ||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_9">
-<l>yasyāṃ rateṣu pṛthupīnanitambabimba-</l>
-<l>śobhā sphuraddaśana<lb n="9"/>paṅktikṛśāṅgayaṣṭiḥ|</l>
-<l>kūrmīva puṣpadhanuṣaḥ priyapāṇijāgra-</l>
-<l><lb n="10"/>koṇāvamarśamadhurakvaṇitāṅganāsīt||9||</l>
+<l>yasyāṃ rateṣu pṛthupīnanitamba<note place="above line"><unclear>pra</unclear>stikāca</note>bimba-</l>
+<l>śobhā<g rend="daṇḍa">|</g> sphuraddaśana<note place="above line"><lb n="al1"/>racanapaṅktiḥ kolasvapaṃ<lb n="al2"/>ktiś ca</note><lb n="9"/><note place="above line">dantapaṅktiś ca</note>paṅktikṛṣāṅgayaṣṭiḥ</l>
+<l>kūrmīva puṣpadhanuṣaḫ <note place="above line">kandarpasya</note> priya<note place="above line"><unclear>bhānuḥ</unclear></note>pāṇijāgra-<note place="above line"><lb n="al1"/><unclear reason= "paper defect">nakha</unclear>kṣataḥ teṣāṃ agrako<unclear reason= "paper defect">ṇa</unclear><lb n="al2"/>prāntabhāgaḥ</note></l>
+<l><lb n="10"/><note place="above line">tūlikā ca</note> <note place="above line"><lb n="al1"/>vīṇādivadanam_ nigarṣaṇaṃ ca <lb n="al2"/>saṃpandaḥ</note>koṇāvamarṣamadhurakvaṇitā<note place="below" type="exegesis">|</note><note place="above line">dvyaktam_</note>ṅganāsīt_||<note place="left margin"><lb n="lm1"/>kūrmīti sarikāsairandhrī i<lb n="lm2"/></note>ti prasiddho vīṇā viśeṣaḥ</note></l>
 </lg>
 <lg type="verse" xml:id="HV_01_10">
 <l>yatrendranīlabha<lb n="11"/>vanaṃ pṛthupadmarāga-</l>
-<l>vātāyanair ubhayapārśvagatair vibhāti|</l>
-<l>bā<lb n="12"/>ṇāsurasya haricakravilūnabāhu-</l>
-<l>mūlavraṇair iva vapuḥ kṣa<lb n="13"/>tajacchaṭārdraiḥ||10||</l>
+<l>vātāyanair ubhayapārśvagatair <note place="above line">dvayoḥ bhāgayoḥ</note> vibhāti|</l>
+<l>bā<lb n="12"/>ṇāsurasya haricakravilūna<unclear reason= "ink defect">bāhu</unclear><note place="above line">vakṣaḥ</note>-</l>
+<l>mūlavranair iva vapuḥ kṣa<lb n="13"/>tajacchaṭārdraiḥ<note place="above line">amroḥ</note><note place="above line"><unclear>cha</unclear>tābhaḥ</note>||10||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_12">
-<l>gaṇḍasthalapratimitaṃ sudṛśāṃ sacihna-</l>
-<l>m aśve<lb n="14"/>tatenduśakalaṃ rajanīṣu yasyām|</l>
-<l>jyāghātapātakiṇaśāritamī<lb n="15"/>naketu-</l>
-<l>nyāsīkṛtācchamaṇikhaṇḍatalāyamānam||12||</l>
+<l>gaṇḍasthalapratimitaṃ<note place="above line">pratibimbaṃ</note> sudṛśāṃ sacihnam</l>
+<l>a<unclear reason= "ink defect">ś</unclear>ve<lb n="14"/><note place="above line">āśobhata</note>tatenduśakalaṃ rajanīṣu yasyām_</l>
+<l>jyāghātapātakiṇaśāritam<note place="above line">śabalaṃ</note> e<lb n="15"/>naketu-</l>
+<l>nyāsīt <note place="above line">nirkṣepkṛtaṃ</note>kṛtācchamaṇikhaṇḍatalāyamānam_||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_13">
-<l>yasyām a<lb n="16"/>śaṅkiṣata śaṃkaraśekharendu-</l>
-<l>saṃdarśanotsukatayopagataṃ surau</l></lg><!--ghāḥ|</l>
-<l>jyotīraseṣṭakacitāmbaracumbidīpra-</l>
-<l>vapraprabhābharanibhena ca dugdhasindhuḥ||13||</l>
+<l>yasyām a<lb n="16"/>śaṅkiṣata śaṅkaraśekharendu-</l>
+<l>sandarṣanotsukatayopagataṃ suraughāḥ<pb n="2a"/></l></l>
+<l>jyotīraseṣṭakacitā<note place="above line">dṛvraḥ</note>mbaracumbidīpra-</l>
+<l>vapra<note place="above line">prākāraḥ</note>prabhābharanibhena<note place="above line">vyāṭāḥ</note> ca dugdha<lb n="2"/>sindhum_||<note place="top margin"><lb n="tm1"/>iṣṭhaka iṣūkatulādi duttalabhāriṣṇatihrasvaḥ<lb n="tm2"/>sphaṭakasuri<unclear reason= "ink defect">vaici</unclear>tā sahitā asvaraṃ susvidīptavaprakandhaprabhābharasya nibhaṃsaḍuśa</note></l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_01_14">
 <l>lakṣmīr na yāṃ bhavanamānasasaṃniveśa-</l>
 <l>haṃsībhir ujjvalavilāsagatikramābhiḥ|</l>
