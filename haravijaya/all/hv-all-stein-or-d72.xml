@@ -147,26 +147,25 @@
 <l>jyotīraseṣṭakacitā<note place="above line">dṛvraḥ</note>mbaracumbidīpra-</l>
 <l>vapra<note place="above line">prākāraḥ</note>prabhābharanibhena<note place="above line">vyāṭāḥ</note> ca dugdha<lb n="2"/>sindhum_||<note place="top margin"><lb n="tm1"/>iṣṭhaka iṣūkatulādi duttalabhāriṣṇatihrasvaḥ<lb n="tm2"/>sphaṭakasuri<unclear reason= "ink defect">vaici</unclear>tā sahitā asvaraṃ susvidīptavaprakandhaprabhābharasya nibhaṃsaḍuśa</note></l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_01_14">
-<l>lakṣmīr na yāṃ bhavanamānasasaṃniveśa-</l>
-<l>haṃsībhir ujjvalavilāsagatikramābhiḥ|</l>
-<pb n="6" />
-<l>strībhir yutāṃ samaṇinūpurajhāṃkṛtābhi-</l>
-<l>r ujjhāṃcakāra jhaṣaketanajhallarībhiḥ||14||</l>
+<l>lakṣmīr<note place="below" type="exegesis">|</note> na<note place="below" type="exegesis">|</note> yāṃ<note place="above line">raga<unclear reason= "ink defect">śa XXX</unclear></note><note place="below" type="exegesis">|</note> bhavanamāna<note place="above line">sanaḥ</note>sasanniveśa<note place="above line">mastānaṃ</note>-</l>
+<l>haṃsībhir ujjvalavilāsaga<lb n="3"/>tikramā<note place="above line">yā</note>bhiḥ</l>
+<l>strī<unclear reason= "ink defect">bh</unclear>ir yutāṃ samaṇinūpurajhāṅkṛtābhir</l>
+<l>ujjhāṃ cakāra<note place="above line">najagrahaṃ</note> jha<space quantity="1" unit="akṣaras"/>ṣa<lb n="4"/>kītanajhallarībhiḥ<note place="above line">kāmasya vāṇyabhāṇḍaviśiṣṭaḥ</note>||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_15">
-<l>yasyāṃ niśāsu rucirāgurudhūpadhūma-</l>
-<l>kalmāṣitaṃ śaśabhṛtaḥ karacakravālam|</l>
-<l>śliṣyadgavākṣakaladhautakavāṭapaṭṭa-</l>
-<l>saṃdaṃśalagnakiṇalekham ivaiti lakṣmīm||15||</l>
+<l>yasyāṃ niś<unclear reason= "paper defect">ās</unclear>u rucirāguru<unclear reason= "paper defect">dh</unclear>ūpadhūma-</l>
+<l>kalmāṣi<lb n="5"/>taṃ śaśabhṛtaẖ karacakraṃ vālam_</l>
+<l><note place="above line"><lb n="al1"/>garyākṣaś ca kaladhautakavāṭapaṭṭaś ca <unclear reason= "ink defect">tātayoḥ</unclear> sandaṃgas telagnaṃ kilaṃ tasya <lb n="al2"/>bhoḥ ledhanam_ śliṣyaṅgavākṣadhautakavāṭa<unclear reason= "ink defect">paṭṭasaṃdaṃsta</unclear>lagnakilalekhatam i<gap reason="damaged"/></note>śliṣyaṅgavākṣa<note place="below line">sya</note>kaladhautakavāṭapaṭṭa-</l>
+<l><unclear reason= "ink defect">saṃ</unclear><lb n="6"/><note place="above line">niṣpannaḥ</note>daṃśalagnakiṇalekham ivaiti<note place="above line"><unclear reason= "ink defect">X</unclear>ti<unclear reason= "ink defect">X</unclear></note> lakṣmīm_<note place="above line">śobhāṃ</note>||</l>
 </lg>
 <lg type="verse" xml:id="HV_01_16">
-<l>śayyāgṛhaṃ suratakelivimardaśīrṇa-</l>
-<l>karṇāvataṃsavikacotpalapattrakhaṇḍaiḥ|</l>
-<l>yatrāṅganā dalayataḥ kusumāyudhasya</l>
-<l>bhagnaiḥ kṛpāṇaśakalair iva kīrṇam āsīt||16||</l>
+<l>śayyāṃ gṛhaṃ suratakelivima<lb n="7"/>rdaśīrṇa-</l>
+<l>karṇāvataṃsavikacotpalapattrakhaṇḍaiḥ</l>
+<l>yatrāṅganā dala<add rend="wiggle above">X</add>ya<note type="exegesis">|</note><note place="above line"><lb n="al1"/>ka<unclear reason= "ink defect">rṇā</unclear>chasyāvataṃ sabhūtāni ca tāni kim akacot palapatnāni teṣāṃ khaṇḍa<lb n="al2"/>suratasya kalis tasya vimardamathanaṃ tanaśīrṇaẖ karṇāvataṃ sa vikacat palapatnāyaṇḍus taiḥ|</note><lb n="8"/>taḥ kusumāyudhasya<note place="above line">kāmasya</note></l>
+<l>bhagnaiẖ kṛpāṇaśakalair iva<note place="above line"><unclear reason= "paper defect">X</unclear>kair iva</note> kīrṇam<note place="above line">1</note><note place="above" type="exegesis">|</note> āsīt_<note place="above line">2</note>||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_01_17">
 <l>yasyāṃ salīlam asitāgurudhūpadhūma-</l>
 <l>daṇḍā gavākṣavivarodarataḥ prasasruḥ|</l>
