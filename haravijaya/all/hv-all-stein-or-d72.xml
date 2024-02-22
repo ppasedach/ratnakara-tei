@@ -171,20 +171,19 @@
 <l><note place="above line">rebhyaḥ bhaṅgas tasyabhīḥ tayā</note>āsannacandrakarabhaṅgabhiyāndhakāra-</l>
 <l>hastā<note place="above line">kīdṛsyaśaguva</note> iva sphurita<note place="above line">tā</note> <note place="above line">kīdṛśaḥ</note>dīrgha<note place="above line">rghā</note>śi<<note place="right margin"><lb n="rm1"/>dīrghāś śikhā <lb n="rm2"/>ekāṅgralayo <lb n="rm3"/>yeṣāṃ dīrghā<lb n="rm4"/>śikhākoṭi<lb n="rm5"/>rhāsāṃ <unclear reason= "ink defect">XXX</unclear><lb n="rm6"/>vidhāprāta<unclear reason= "ink defect">XX</unclear><lb n="rm7"/>pi<lb n="rm8"/>rayā<note place="below" type="exegesis">ḥ</note>yeṣāṃ te</note><lb n="11"/>khāṅgulīkāḥ<note place="above line"><unclear reason= "ink defect">XX</unclear></note><note place="above line">lyāḥ <unclear reason= "ink defect">yeṣāṃ te</unclear></note>||</l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_01_18">
-<l>rāgānubandhipariṇāmadaśāvamarśa-</l>
-<l>śūnyābhirāmanavayauvanapallavābhiḥ|</l>
-<l>kalpadrumavratatibhiḥ kanakādrikuñja-</l>
-<l>vīthīva yā purapuraṃdhribhir ābabhāse||18||</l>
+<l>rāgānubandhipari<note place="above line">va<space quantity="2" unit="akṣaras"/>s<unclear reason= "paper defect">ta</unclear></note>ṇāmadaśāvamarśa<note place="above line">vādhaḥ</note>-</l>
+<l>śūnyābhirāma<lb n="12"/>navayauvanapallavābhiḥ<note place="above line">pramāṇaḥ</note></l>
+<l>kalpadrumavratatibhi<note place="above and below line">ḥ</note> kanakādri<note place="above line">me<add rend="crossed out">ra</add>roḥ</note>kuñja<note place="above" type="exegesis">1</note>-</l>
+<l>vethī<note place="above line"><lb n="al1"/>tu <lb n="al2"/>ābhāsate</note><lb n="13"/>va yā<note place="above" type="exegesis">1</note> purapuran<unclear reason= "ink defect">dhr</unclear>ibhir ābabhāse<note type="exegesis">2</note><note place="above line">dvyatāḥ</note>||</l>
 </lg>
-<pb n="7" />
 <lg type="verse" xml:id="HV_01_19">
-<l>vaidūryapaṭṭaghaṭitāraribhir niśāsu</l>
-<l>dūrād apāvṛtamukhair iva dṛśyamānaiḥ|</l>
-<l>dvārair bibharti pihitair api yatra lakṣmī-</l>
-<l>m abhraṃkaṣā pratidiśaṃ maṇiharmyapaṅktiḥ||19||</l>
+<l>vaidūryapaṭṭa<note place="above line"><unclear reason= "ink defect">praiḥ</unclear></note>gaṭitāriribhir<note place="above line">dhānyaś ca kī<unclear reason= "ink defect">X</unclear>śaḥ</note> <note place="above line">tāḥ</note> ni<lb n="14"/>śāsu</l>
+<l>dūrād apāvṛtamukhair iva <note place="above line">maru<unclear>sa</unclear>mukhaiḥ kai iva</note>dṛśyamānaiḥ<note place="above line">anyac ca kīdṛśaiḥ kaiḥ</note></l>
+<l>dvārair<note place="above" type="exegesis">3</note> bibharti pihitair<note place="above line">kīdṛśaiḥ</note> api <lb n="15"/>yatra lakṣmīṃ<note type="exegesis">3</note><note place="above line">śobhāṃ</note></l>
+<l><space quantity="11" unit="akṣaras"/>abhraṃkaṣā<note place="above line">gaganakṣāpi</note> prati<space quantity="5" unit="akṣaras"/>diśaṃ maṇi<note place="above" type="exegesis">1</note>ha<note place="bottom margin"><lb n="bm1"/>rāgasyābhiṣv aṅgasyānubandho vidyate yasāṃ tāḥ rāgānubandhinyāś ca tāḥ pariṇāmasya vāvākasya yā daśā tasyāvamarṣo vādhaḥ tena śūnyā rahitāś śatāḥ <lb n="bm2"/><unclear reason= "paper defect">XX</unclear>saṃ ramyaṃ nanaṃ yad yaṃ vanaṃ tasya pallavaḫ prasaraṇaṃ yāsāṃ tāḥ dvyatāḥ pakṣe rāgasya lohita tv asyānabandho vidyate yeṣāṃ ta<note>.</note>nirāgān na bandhīni <unclear reason= "paper defect">ṣani</unclear><lb n="bm3"/>ṇāmasya paripākasya śrādaśātasyāvamarṣaḥ <add rend="crossed out">ra</add>rparśa<note place="below">ḥ</note> tena śūnyāni āvirāmaramyaṃ navaṃ yeṣāṃ taṣā vidhāni pallavāni pattā<unclear>X</unclear> yāsāṃ tābhiḥ pallaśabdaḥ puṃpuṃsakayoḥ pallavostrī kim e<unclear reason= "paper defect">X</unclear><lb n="bm5"/><unclear reason= "ink defect">X</unclear>ṇyāvaraḥ||</note><pb n="2b"/>rmyapaṅktiḥ||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_01_20">
 <l>yasyāṃ smaraḥ satatasaṃnihite 'pi candra-</l>
 <l>cūḍāmaṇau vasati paurapuraṃdhridehe|</l>
