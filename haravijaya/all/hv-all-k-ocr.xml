@@ -58,9 +58,9 @@
   </teiHeader>
   <text xml:lang="sa-Latn">
     <body>
-
 <div n="01" type="chapter">
 
+<milestone n="001"/>
 <p>
 <pb n="1"/>kāvyamālā |
 </p>
@@ -49953,4 +49953,7 @@ prātilomyenānantaraślokaḥ—
 
     </body>
   </text>
+<facsimile>
+        <graphic n="001" url="https://archive.org/details/Kavya_Mala_Series_Of_Nirnaya_Sagar_Press/KavyamalaVol_22-HaravijayaOfRajanakaRatnakara1890/page/n4/mode/1up"/>
+</facsimile>
 </TEI>
