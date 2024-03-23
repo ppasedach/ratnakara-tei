@@ -480,29 +480,29 @@ dvitīyaḥ sargaḥ|
 </lg>
 <lg type="verse" xml:id="HV_02_3">
 <l>vellaj<note place="above line">llaś ca tat_ <space quantity="1" unit="akṣaras"/>laṃ laseva</note>jaṭāpaṭalaśīvalavallarīkāṃ<note place="above line">śelavallarī yas <unclear reason= "paper defect">t</unclear>ās mā</note></l>
-<l>cūḍ<note place="above line">ḍāyāṃ</note>endukhaṇḍa<note place="above line">ṇḍaḥ ṇḍa eva</note><pb n="6a"/>kuṭilorumṛṇāladaṇḍām_</l>
-<l>ākāśasindhum avataṃsakapālahaṃsa-</l>
-<l>hāsām amī dadhatam aikṣiṣatainam ārāt||3||</l>
+<l>cūḍ<note place="above line">ḍāyāṃ</note>endukhaṇḍa<note place="above line">ṇḍaḥ ṇḍa eva</note><pb n="6a"/>kuṭilorumṛṇāladaṇḍām_<note place="above line">latarumṛnāladaṇḍā yasyās sātāṃ</note></l>
+<l>ākāśasindhum<note place="above" type="exegesis">4</note> avataṃsakapālahaṃsa-</l>
+<l>hā<note place="above line">taṃ sa bhūtaś cāsau śira<del rend="crossed out">ṃ</del><add place="below line">ḥ</add>ra<del rend="crossed out">ṃ</del> eva haṃso haṃsa eva hāsaḥ yasyās sā<unclear reason= "ink defect">tāṃ</unclear></note><lb n="2"/>sām<note place="above" type="exegesis">1</note> amī dadhatam aikṣiṣatainam<note place="above line">dadṛśuḥ</note><note place="above" type="exegesis">2</note> ārāt_<note place="above line">ādūrāt_</note>||<note place="top margin"><lb n="tm1"/><unclear reason= "edge of page illegible due to manuscript damage">c</unclear>ūḍāgatanati āḍāta āgatas tādṛśena śasinaḥ ādhyāsamānam abhimughīkṛyamānam ā<unclear reason= "ink defect">X</unclear>nnotprekṣā<note place="below" type="exegesis">|</note> pravivi<unclear reason= "ink defect">kṣā</unclear>ṇā<lb n="tm2"/>veti himāṃśu ra<unclear reason= "ink defect">ẖ ka</unclear><space quantity="1" unit="akṣaras"/>bimbaṃ paraḫ parituṣṭaye<unclear reason= "ink defect">t pra</unclear>viśati</note></l>
 </lg>
-<!--
 <lg type="verse" xml:id="HV_02_4">
-<l>karṇāvataṃsaghaṭitotphaṇadandaśūka-</l>
-<l>phūtkāramārutaparāhatalocanotthaiḥ|</l>
-<l>riktīkṛtāṃ śikhikaṇaprakaraiḥ satoṣa-</l>
-<l>gaurīkṣitāṃ suranadīṃ śirasā vahantam||4||</l>
+<l>karṇāvataṃ<note place="above line">taṃ sārthaṃ</note>saghaṭito<note place="above line">tāḥ</note>tphaṇada<note place="above line"><lb n="al1"/>taẖ kṣiptāni phāṇāṇi <unclear>X</unclear>bandharāṇi ta<lb n="al2"/>t bandharāphaṇi nas t<unclear reason= "paper defect">e</unclear>ṣā<unclear reason= "paper defect">ṃ</unclear><lb n="al3"/><unclear>X</unclear>narkāramārutas tena</note><lb n="3"/>ndaśūka-</l>
+<l>phūtkāramārutaparāhata<note place="above line">hate</note>locanotthaiḥ<note place="above line">naṃ tasmā<space quantity="1" unit="akṣaras"/>t taḥ</note></l>
+<l>riktīkṛtāṃ śikhikaṇ<unclear reason= "ink defect">ā</unclear><lb n="4"/>prakarais satoṣa-</l>
+<l>gaurīkṣitāṃ<note place="above line">saṃtuṣṭā cāsau rīdatayā rekṣitā</note> suranadīṃ<note place="above" type="exegesis">3</note> śirasā vahantam_<note place="above" type="exegesis">2</note>||<note place="left margin"><lb n="lm1"/>śikhinaẖ kāṇās schu<lb n="lm2"/>liṅgāḥ tan nikaraiḥ<lb n="lm3"/>tanūkṛtatvāt_ pari<lb n="lm4"/>tuṣṭaśesayā 'valoki<lb n="lm5"/><unclear reason= "paper defect">ta</unclear>prabhigaury ātmapatne<g rend="daṇḍa">|</g><lb n="lm6"/>dveṣāt_</note></l>
 </lg>
 <lg type="verse" xml:id="HV_02_5">
-<l>cūḍāgatena jaḍadīdhitinā tanutva-</l>
-<l>m āseduṣā sarabhasaṃ pravivikṣuṇārāt|</l>
-<l>bhāsvallalāṭataṭanākatalārkabimba-</l>
-<l>m adhyāsyamānam iva bibhratam ūrdhvacakṣuḥ||5||</l>
+<l>cūḍāgate<note place="above line">cūḍ<unclear reason= "ink defect">āyāṃ</unclear> gatās tena</note><lb n="5"/>na jaḍadīdhitinā<note place="above line">laḍayor<note place="above" type="exegesis">5</note> akṛtvam_ indunā</note> tanutvam<note place="above line">nīdātvam_</note><note place="above" type="exegesis">4</note></l>
+<l>āseduṣā<note place="above" type="exegesis">5</note> sarabhasaṃ pravivikṣuṇārā<note place="right margin">t_</note><note place="above line">praviṣṭaṃ sicchuḥ</note></l>
+<l><lb n="6"/>bhās<unclear reason= "ink defect">sva</unclear>llalā<note place="inline">ta</note>ṭanākatal<note place="above line">laṃ tasya</note><note place="above" type="exegesis">4</note>ārkabimbam<note place="above line">bimba</note></l>
+<l>adhyāsyamānam<note place="above" type="exegesis">5</note> iva bibhratam<note place="above" type="exegesis">5</note> ūrdhvacakṣuḥ<note place="above" type="exegesis">4</note>||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_6">
-<l>śailātmajāvadanacandramasaḥ kathaṃ nu</l>
-<l>lekhāpi me na sadṛśī śaśinā saśokam|</l>
-<l>ūrdhvekṣaṇotthaśikhinīva nipitsunettha-</l>
-<l>m adhyāsitonnatalalāṭataṭopakaṇṭham||6||</l>
+<l><lb n="7"/>śailātmajāvadanacandramasaẖ<note place="above line">kasya</note> kathaṃ nu</l>
+<l>lekhāpi<note place="above" type="exegesis">1</note> me<unclear reason= "ink defect">|</unclear> na<note place="above line">mama na <unclear>X</unclear>vati</note><note place="below" type="exegesis">|</note> sadṛśī<note place="above" type="exegesis">3</note> śaśi<note place="above line"><lb n="al1"/>mamatāvadekeva kalāvapusmāminasadṛśī sukhendu<note place="below line">ḥ</note> vigato saśokaṃ<lb n="al2"/>pa<del rend="crossed out">|</del>ka<note place="above line"><unclear reason= "ink defect">X</unclear></note></note><lb n="8"/>nā<note place="above line">kena indunā</note> saśokam_<note place="above line">kathaṃ</note></l>
+<l>ūrdhvekṣaṇotthaśikhinīva<note place="above line">kasmin iva</note> nettham</l>
+<l>adhyāsito<note place="above line"><unclear>X</unclear>to</note>nnatala<note place="above line">taḥ</note>lāṭata<note place="above line"><lb n="al1"/>ṭaṃ eva taṭaṃ tasyopakaṇḍo yasya syamaḥ <lb n="al2"/>nipitsu<metamark place="inline">+</metamark></note><lb n="9"/>ṭopakagdha<unclear reason= "paper defect">m_</unclear><note place="above line">enaṃ kīdṛśaṃ</note>||</l>
 </lg>
+<!--
 <lg type="verse" xml:id="HV_02_7">
 <l>stamberamājinagalatkṣatajāvaseka-</l>
 <l>saṃpāditāruṇarucā kvacid uttamāṅge|</l>
