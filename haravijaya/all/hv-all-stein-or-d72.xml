@@ -518,30 +518,30 @@ dvitīyaḥ sargaḥ|
 <l>saṃhārakā<lb n="14"/>la<note place="above line">le</note>kavalīkṛta<note place="above line">taḥ</note>saptalokām<note place="above line">kayayām_</note></l>
 <l>ambhotibhāra<note place="above line">bhara</note>mantharamegha<note place="above line">ghavat_</note><choice><orig>l</orig><corr>n</corr>ī</choice>lām_</l>
 <l>ka<lb n="15"/>ṇṭhāntarāla<note place="above line">le</note>parivartinipīta<note place="above line">taṃ</note>dhūpa-</l>
-<l>vartitviṣaṃ viṣamayīṃ dadhataṃ<note place="above" type="exegesis">2</note> ca le<note place="above" type="exegesis">3</note><lb n="16"/>khām_||</l>
+<l>vartitviṣaṃ<note place="above line">dhūpavartitviṭayayāsātāṃ</note> viṣamayīṃ dadhataṃ<note place="above" type="exegesis">2</note> ca le<note place="above" type="exegesis">3</note><lb n="16"/>khām_||<note place="left margin"><lb n="lm1"/>lokagrāmān anuraṃpī<lb n="lm2"/>tāyā<unclear reason= "ink defect">ẖ ka</unclear>ṇṭhāntava<lb n="lm3"/>nti nyo dhūpavarte ti<lb n="lm4"/>vatviṭa<g rend="daṇḍa">|</g> yasyāḥ</note></l>
 </lg>
 <lg type="verse" xml:id="HV_02_10">
 <l>preṅkhatkarālamaṇiśaṅkhasahasraśāra-</l>
-<l>hāroragendraphaṇabhaṅguravīcicakram|</l>
-<l>kaṇṭhasthitotkaṭaviśaṅkaṭakālakūṭa-</l>
-<l>kūṭaprabhāprakarakūrmagṛhaṃ vahantam||10||</l>
+<l>hāroragendraphaṇabha<note place="above line"><lb n="al1"/>sphurantaḥ maṇaya eva śa<add rend="crossed out">X</add>ṅkhataś chavalasya hāradeḥ phaṇā eva vī<lb n="al2"/>ci cakraṃ yatra</note><note place="bottom margin"><lb n="bm1"/>preṅkhatkarālāmaṇaya eva śaṅ<unclear reason= "ink defect">kh</unclear>ās te<unclear reason= "ink defect">ṣā</unclear>ṃ sahasraṃ tena śāro hārorageunclear reason= "ink defect">n</unclear>dras tasya phaṇas tena bhaṅgurakuṭila<g rend="three vertical dots">⋮</g><lb n="bm2"/>maṇiś ca śaṅkha</note><pb n="6b"/>ṅgu<unclear reason= "ink defect">ravī</unclear>cicakram_</l>
+<l>kaṇṭhasthitotkaṭa<note place="above line">udvataḥ</note>viṣaṅkaṭa<note place="above line">viśāla</note>kālakū<note place="above line">ṭa</note>-</l>
+<l>kūṭa<note place="above line">ucchrito rāśiḥ</note>pra<unclear reason= "ink defect">bhā</unclear>prakarakūrma<note place="above line">gā<unclear reason= "ink defect">va</unclear></note><lb n="2"/>gṛhaṃ<note place="above" type="exegesis">2</note><note place="above line">sa<unclear reason= "ink defect">mu</unclear>draḥ</note> vahantam_<note place="above" type="exegesis">2</note>||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_11">
-<l>bhasmāṅgarāgadhavalaṃ parapuṣṭapiccha-</l>
-<l>cchāyāṅgadoragaphaṇākulitāṃsakūṭam|</l>
-<l>aurvāgnidhūmamalinīkṛtavīcibhaṅga-</l>
-<l>dugdhormimālisadṛśīṃ śriyam āśrayantam||11||</l>
+<l>bhasmāṅgarāga<note place="above line">gena</note>dhavalaṃ parapuṣṭapiccha-</l>
+<l>cchāyāṅga<note place="above line">kokilāyāḥ<metamark place="inline">+</metamark>pakṣaṃ tasya śobhā yasya saḥ saḥ</note>doraga<note place="above line">gas tasya phaṇā<unclear reason= "ink defect">XX</unclear></note><lb n="3"/>phaṇā<note place="above line">śirai</note>kulitāṃsakūṭam_<note place="above line">tā aṃsakūṭa yasya saḥ</note></l>
+<l>aurvāgnidhūmamalinīkṛtavīcibhaṅga<note place="above line">kṣīrayai</note>-</l>
+<l><lb n="4"/>dugdhormimāli<note place="above line">ūrmīr mālate ūrmimālī</note><note place="above line">linaḥ</note>sadṛśīṃ śriyam āśrayantam_||</l>
 </lg>
 <lg type="verse" xml:id="HV_02_12">
-<l>keyūrapannagaviniḥśvasitāhatāṃsa-</l>
-<l>kūṭotthitena navadhūlanabhasmanoccaiḥ|</l>
-<l>sāvartacakram upari bhramatendubimba-</l>
-<l>saṃvāditām upagatena virājamānam||12||</l>
+<l>ke<unclear reason= "ink defect">yū</unclear>rapannagavini<lb n="5"/>śvas<choice><orig>ra</orig><corr>i</corr></choice>tāhatāṃsa-</l>
+<l>kūṭotthitena navadhūlana<note place="above line">maṇḍanam_</note>bhasmanoccaiḥ|</l>
+<l>sāvartacakra<lb n="6"/>m upari bhramatendubimba-</l>
+<l>saṃvāditām upagatena virā<unclear reason= "ink defect">jamāna</unclear>m_||</l>
 </lg>
-<pb n="19" />
+<!--
 <lg type="verse" xml:id="HV_02_13">
-<l>gambhīrakaṇṭhakuharāspadakālakūṭa-</l>
-<l>niryatprabhādhikamalīmasabhogihāram|</l>
+<l>ga<note place="above line">na<unclear reason= "ink defect">X</unclear>m_</note><lb n="7"/>mbhīrakaṇṭhakuha<note place="above line">madhyaṃ</note>rāspadakāla<note place="above line">dor yasya saḥ sa eva</note>kūṭa<note place="above line"><unclear reason= "ink defect">X</unclear>ḥ tasmāt_</note>-</l>
+<l>niryatprabhādhikamalī<note place="above line">kṛṣṇaḥ</note>masabhogi<note place="above line">saḥ bhogī <unclear reason= "ink defect">bho</unclear>gīhāraḥ <unclear reason= "ink defect">yasya saḥ</unclear></note><lb n="8"/>hāram_</l>
 <l>vakṣaḥsthalaṃ tuhinaśailaśilāviśāla-</l>
 <l>m ālambinīlanalinasrag ivodvahantam||13||</l>
 </lg>
